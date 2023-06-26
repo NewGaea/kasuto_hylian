@@ -8,6 +8,15 @@ A pronoun is a word that takes the place of another noun. These are used in the 
 
 Personal pronouns are the ones most commonly used. Like all pronouns, they take the place of another noun. Personal pronouns are most often used as subjects in sentences, such as I read the book; or as objects, Bob saw me. Unlike in English, Hylian pronouns do not have different forms depending on their function in a sentence. Particles like ab and ank tell if a pronoun is used as a subject or object.
 
+| Person | Singular | Plural |
+|:-------|:---------|:-------|
+| **First** | _bagu_ (I, me) | nosu (we, us) |
+| **Second** | _taiu_ (you) | vosu (you all) |
+| **Third (Masc.)** | _ëru_ (he, him) | iëru (boys, men) |
+| **Third (Fem.)** | _sëru_ (she, her) | siëru (girls, women) |
+| **Third (Neut.)** | _ru_ (it, they, them) | iru (those, they, them) |
+| **Fourth** | _riu_ (one, this one) | _iriu_ (any one, these ones, those) |
+
 <table>
   <tr>
     <th>Person</th>

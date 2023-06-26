@@ -7,11 +7,11 @@ Download the Hylian Rounded Font
 
 **Sample of the standard Hylian font**
 
-![7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif](..\7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif)
+![7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif](7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif)
 
 **Sample of the Hylian Rounded font**
 
-![109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif](..\109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif)
+![109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif](109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif)
 
 How to install the font: Once you have download the font, you must unzip it first, any Zip utility will do. Then open the Start Menu, go to "Settings", and click "Control Panel." Once you're in the control panel, open the "Fonts" folder. It should look something like this:
 
@@ -20,6 +20,10 @@ Now, click "File" and "Install New Font"
 Select the folder you unzipped the font file to. Then it should appear in the "List of fonts" box. Select "Hylian" and click "OK". Congratulations! Now you have the Hylian font installed.
 
 Using the font: If you want to just play around with the letters, then go ahead. But if you want to actually type real words, you have to know which keystrokes give which letters. I recommend using Character Map if you can't find the letter you want. Here is a table of all the Hylian letters, their keystrokes, and which transliterated letter they correspond to. An important note: in the characters where you have to use the "Alt" key, in order to get the letter to come up, you hold down "Alt" and punch in the number with the Numpad (make sure numlock is ON).
+
+| Hylian Character | Keystroke | Transliterated Character |
+|:-:|:-:|:-:|
+| ![](fonten/font_screen/akte.png) | a | a |
 
 <table>
   <tr align="center">
