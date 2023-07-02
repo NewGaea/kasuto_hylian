@@ -4,11 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "4e15169d5fc9e042",
+        "id": "f88e50b286c0f3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641d352e8020781b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HLI Text Dump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0105bf1db79264fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Gaea/lexicon/raw_wordlist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ad6f2d3efd83e4fc",
         "type": "tabs",
         "children": [
           {
             "id": "b42bfa712b4d202f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Gaea/grammar/04_basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2724c59a1ef42b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "New Gaea/grammar/01_introduction_context.md",
+            "file": "New Gaea/grammar/04_basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "New Gaea/grammar/01_introduction_context.md",
+            "file": "New Gaea/grammar/04_basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "New Gaea/grammar/01_introduction_context.md"
+            "file": "New Gaea/grammar/04_basics.md"
           }
         }
       }
@@ -131,12 +174,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f303eea121c9e3d0",
+  "active": "b42bfa712b4d202f",
   "lastOpenFiles": [
+    "New Gaea/lexicon/raw_wordlist.md",
+    "New Gaea/grammar/04_basics.md",
+    "HLI Text Dump.md",
+    "New Gaea/04_sonehn_orig.md",
+    "HLI Text Dump 2021.md",
+    "New Gaea/grammar/01_introduction_context.md",
+    "jerin_lexicon.md",
+    "New Gaea/03_wirtehn_orig.md",
     "New Gaea/grammar/03_orthography_font.md",
+    "New Gaea/01_nioshe_orig.md",
+    "New Gaea/02_aktaie_orig.md",
+    "New Gaea/lexicon/community_wordlist.md",
+    "New Gaea/lexicon/a_d.md",
+    "New Gaea/grammar/02_phonology.md",
     "New Gaea/04b_asonehn_orig.md",
     "Ont Hilana (Interlinear of Thread).md.md",
-    "New Gaea/lexicon/raw_wordlist.md",
     "Hylian Community Wordlist.md",
     "New Gaea/00_fonte_orig.md",
     "Hylian Typing.md"

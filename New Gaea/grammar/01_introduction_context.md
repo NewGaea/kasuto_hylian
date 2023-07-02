@@ -3,7 +3,7 @@ Introduction & Context of Kasuto's Hylian
 
 ## Foreword
 
-Much thanks goes to Kasuto of Kataan for his fascinating conlang approach to the Hylian language. As he himself wrote: There are several websites out there which claim to provide Hylian Dictionaries. Each such dictionary is created by a conlanger of varying levels of experience and proficiency, and some are little more than random words that fit their authors' purposes.
+Much thanks goes to Kasuto of Kataan for his fascinating conlang approach to the Hylian language. As he himself wrote: "There are several websites out there which claim to provide Hylian Dictionaries. Each such dictionary is created by a conlanger of varying levels of experience and proficiency, and some are little more than random words that fit their authors' purposes."
 
 Kasuto approached the project of a Hylian language and dictionary a bit more broadly. What he produced is a decidedly Indo-European feeling language, if that language were left dwelling in the midst of Japanese culture, and appropriating from it as necessary. This form of Hylian, though postulated as a natural language, seems much closer to an engineered language, due to the regularity and rules which Kasuto introduced. He does, however, admit that one of his inspirations is Esperanto, specifically in how it grammar codes its words.
 
@@ -11,7 +11,7 @@ The purpose of this compilation is, however, not to attack or criticize Kasuto's
 
 This compilation has been produced without additional input from Kasuto, as it was originally created for personal use, however through e-mail it has received his permission. Great thanks go to Kasuto for one of the more richly detailed Hylian language proposals, and a deep appreciation for his work, which has made this project possible.
 
-## Why I Created This Language
+## Why Kasuto Created This Language
 
 > _**Note:** The following text is originally written by Kasuto, and presented with minimal editing. This introduction remains Kasuto's, with editing only included for typos or other matters of legibility._
 
@@ -39,15 +39,29 @@ Indeed, as of 2022, the language has not been significantly updated since the pr
 
 At a later time, a series of sound changes will be proposed to reconstruct Middle Hylian, Old Hylian, Ancient Hylian, and Proto-Hylian. Attempts may also be made to create the historical scripts as well, but all of this is a secondary concern, to be dealt with only after the compilation here is completed.
 
+## Why Jerin Picked Up This Project
+
+As Jerin of Calatia, I have picked up this project to get the language into a more usable state. In this branch, I intend to further develop lore and documentation for the language without a need to rely on the input of Kasuto. With deep respect, I simply want to see a version of the language which could be used to translate one or more of the _Legend of Zelda_ games.
+
+It is my objective to develop this language, as well as related languages in both directions along the Hyrulean timeline from the earliest stories of the Goddesses through to the latest adventures in the games, though each project will be documented separately. Kasuto's iteration will be preserved and developed under the project name **Classical Hylian** (though it may still also be internally called **Modern Hylian**), a form of the language imposed from the top down after the Hyrulean Unification War was won by **King Ruzol Antons Hyrule** establishing the Ruzantaze dynasty, ruling from a Hyrule Castle located near the Temple of Time, which housed the Triforce, Master Sword, and the last Gate of Time.
+
 ## An Introduction to the Hylian Language
 
 The purpose of the Hylian Language Institute is to educate people on the grammar and history of the Hylian language. In the land of Hyrule, Modern Hylian takes a role similar to that of English in today's world. It is the official language of goverment, and all proceedings are conducted in Hylian. It is also the preferred language of commerce throughout most of the continent. All educated people speak the Hylian laguage and it forms a common ground between diplomats, scientists, and ordinary citizens. Most people speak Hylian natively, but many also speak it as a second language.
 
-One reason that Hylian has become so prevalent is simply the influence that Hyrule has in the continent. It is the largest economic power and is often the center of important diplomatic functions. Also, the Hylian Language Institute has played a significant role in the spread of Hylian. It is a group of citizens, professors, and government employees who frequently gather to review the state of the language. They have standardized the grammar based on the most widely accepted common usage, and that grammar is taught in all schools and universities. Even the lowest on the social ladder speak Hylian in almost the same way, there is no "King's Hylian". This is quite unusual in most kingdoms.
+One reason that Hylian has become so prevalent is simply the influence that Hyrule has in the continent. It is the largest economic power and is often the center of important diplomatic functions. Also, the Hylian Language Institute has played a significant role in the spread of Hylian. It is a group of citizens, professors, and government employees who frequently gather to review the state of the language. They have standardized the grammar based on the most widely accepted common usage, and that grammar is taught in all schools and universities. Even the lowest on the social ladder speak Hylian in almost the same way, there is no "King's Hylian." This is quite unusual in most kingdoms.
 
 The members of the Language Institute established schools and centers to educate all citizens in the language. All citizens of Hyrule are entitled to basic education in grammar. The Institute frequently modifies rules to conform to common usage, they do not try to restrict the growth of the language. This freedom is what has allowed Hylian to become so dominant.
 
 > signed: Kasuto of Kataan
+
+### Jerin's Notes
+
+**Classical Hylian** arose in the aftermath of the Hyrulean Unification War during the Age of Legend. When compared to the world of Earth, it was imposed in a similar manner to Koine Greek through the Royal might of the Ruzantaze Dynasty, which reigned for nearly 500 years at the peak of Central Hyrule's power during the Age of Legend.
+
+While Kasuto's records are not inaccurate, they do reflect the royal propaganda of Classical Hyrule under the Ruzantaze Dynasty. Historical records kept by the Royal Lineage show that the Hylian Language Institute was formed by a royal charter under Ruzol Antons Hyrule, and was centered not only in the Hyrule Castle Town, but in the Hyrule Castle of that time, with an entire wing dedicated solely to the Language Institute and their preservation of dialects, neighboring languages, and the formation of a unified Hylian Tongue and Script. While many of the records this Institute was tasked wih preserving are now lost to moths, mold, and other forms of decay, the modern Hylian Historical Linguistic Society is struggling to preserve what remains, and reconstruct as much as possible.
+
+I, Jerin of Calatia, come from the western nation of Calatia, and am a descendant of a Sheikah clan which left Hyrule entirely after the Zoldaren Dynasty turned on us following the creation of the Divine Beasts and Guardians. This was more than 10,000 years ago, and in Calatia we have had the opportunity to refine our studies and technologies. Following the recent destruction of the Demon King, and the apparent death of the Light Dragon, we have sent diplomatic missions to Hyrule to help them reconstruct their knowledge.
 
 ### Maintainer's Notes
 
