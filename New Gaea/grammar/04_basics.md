@@ -115,4 +115,50 @@ The past perfect is used to refer to past events sequentially. A word in the pas
 \glc I already eaten-had the food before she arrived
 \ft I had already eaten the food before she arrived.
 ```
-Next is the present perfect, which refers to an event completed in the past but usually directly relevant to the present.
+
+Next is the present perfect, which refers to an event completed in the past but usually directly relevant to the present. This form is created by add \<_ant_\> to the end of a stem.
+
+```gloss
+\ex Bagu miarant ab ru.
+\gla bag.u miar.ant ab ru
+\glb 1S.PRON see.PRESPERF DIROB 3SN
+\glc I see.have DIROB it
+\ft I have seen it.
+```
+
+Finally, there is the **future perfect**, which refers to an action which is to be completed before another action happens (or is finished). This form is created by adding \<_ont_\> to the end of a stem.
+
+```gloss
+\ex Linkiloi yovtos ènt taz minaze èk bagu torimont ab bagu'sa tìnske.
+\gla Link.il.oi yovt.os ènt taz minaz.e èk bag.u torim.ont ab bag.u.sa tìnsk.e
+\glb Link.MASC.VOC arrive.FUT in DEF morning.NOUN and 1S.PRON finish.FUTPERF DIROBJ 1S.PRON.GEN work.NOUN
+\glc Link arrive.will in the morning and I finish.will-be DIROBJ my work.
+\ft Link will arrive in the morning, and I will be finished with my work.
+```
+
+---
+## Vocatives
+
+Vocatives are special words used to refer to specific **nouns** as individual people, or personified entities. You've seen some of these above, like *Zeldinai*, _Soninai_, and _Linkiloi_, referring to Zelda, Queen Sonia, and Link (respectively).
+
+Vocatives are the expression of **proper nouns**, and have three forms: The neutral, the masculine, and the feminine. They are formed by adding a gender suffix (as defined in **Nouns** above for masculine and feminine, or \<_-èth\>_ for neutral) to a simple or compound stem, followed by the vocative suffix that matches that gender: \<_-ur_\> for the neutral, \<_-oi_\> for the masculine, or \<_-ai_\> for the feminine.
+
+Because the suffixes only combine with one gender to one vocative, the practical realization of this is that \<-èthur\> represents the neutral or genderless vocative, \<_-iloi_\> represents the masculine vocative, and \<_-inai_\> represents the feminine vocative. With this in mind, here are a few names you might find in this documentation:
+
+| Stem | Neutral | Masculine | Feminine |
+|:-----|:--------|:----------|:---------|
+| **Kasut** | _Kasutethur_ (Kasuter) | _Kasutinoi_ (Kasuto) | _Kasutilai_ (Kasuta) |
+| **Jeri** | _Jeriethur_ (Jerier) | _Jeriinoi_ (Jerino) | _Jerilai_ (Jerina) |
+| **Din** | _Dinethur_ (Dinèr) | _Dininoi_ (Dino) | _Dinilai_ (Din) |
+| **Nayr** | _Nayrethur_ (Nayrèr) | _Nayrinoi_ (Nayro) | _Nayrilai_ (Nayru) |
+| **Faror** | _Farorethur_ (Farothe) | _Farorinoi_ (Faroro) | _Farorilai_ (Farore) |
+| **Zeld** | _Zeldethur_ (Zeldan) | _Zeldinoi_ (Zeldik) | _Zeldilai_ (Zelda) |
+| **Son** | _Sonethur_ (Sonder) | _Soninoi_ (Sonik) | Sonilai (Sonia) |
+| **Ruzol** | _Ruzolethur_ (Ruzolan) | _Ruzolinoi_ (Ruzol) | _Ruzolilai_ (Ruzolia) |
+| **Tarl** | _Tarlethur_ (Tarlan) | _Tarlinoi_ (Tarlin, Tarlon) | _Tarlilai_ (Tarla, Tarli) |
+| **Marl** | _Marlethur_ (Marlan) | _Marlinoi_ (Marlin, Marlon) | _Marlilai_ (Marla, Marli) |
+
+There may be other names you encounter in this documentation, but hopefully this will help you recognize some of the common names. If a proper name refers to an object, like a Castle, Temple, Tower, River, or Lake, those objects should be in the Neutral gender, so for example _Daonkvethur Hilanilai_ refers to **Lake Hylia.** In addition to this, settlements are usually neutral gender, but can be described as masculine or feminine for artistic purposes.
+
+**NOTE:** The actual Translation of Hylian names into English is left entirely up to the discretion of an individual translator. _Marlilai_ could as easily be translated as _Malon_ even as a feminine name.
+
