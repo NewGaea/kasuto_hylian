@@ -160,5 +160,15 @@ Because the suffixes only combine with one gender to one vocative, the practical
 
 There may be other names you encounter in this documentation, but hopefully this will help you recognize some of the common names. If a proper name refers to an object, like a Castle, Temple, Tower, River, or Lake, those objects should be in the Neutral gender, so for example _Daonkvethur Hilanilai_ refers to **Lake Hylia.** In addition to this, settlements are usually neutral gender, but can be described as masculine or feminine for artistic purposes.
 
-**NOTE:** The actual Translation of Hylian names into English is left entirely up to the discretion of an individual translator. _Marlilai_ could as easily be translated as _Malon_ even as a feminine name.
+**NOTE 1:** The actual Translation of Hylian names into English is left entirely up to the discretion of an individual translator. _Marlilai_ could as easily be translated as _Malon_ even as a feminine name.
+
+**NOTE 2:** When translating non-Hylian names, such as Michael or Priscilla, you should phonetically translate the name, optionally remove any final vowel, and use _any one_ of the three Vocative suffixes. When translating the names above, you may use _Maikèlur, Maikèloi,_ or _Maikèlai_ as Michael, and _Prìsìllur, Prìsìlloi,_ or _Prìsìllai_ for Priscilla.
+
+### Object Marking
+
+Hylian uses particles to separate and identify the objects of verbs. While it may seem redundant to use a particle in a simple sentence, 
+
+---
+## Pronouns
+
 

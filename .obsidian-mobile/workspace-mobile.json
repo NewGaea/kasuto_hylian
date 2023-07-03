@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ad6f2d3efd83e4fc",
@@ -128,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "New Gaea/grammar/04_basics.md",
+            "file": "HLI Text Dump.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "New Gaea/grammar/04_basics.md",
+            "file": "HLI Text Dump.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "New Gaea/grammar/04_basics.md"
+            "file": "HLI Text Dump.md"
           }
         }
       }
@@ -174,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b42bfa712b4d202f",
+  "active": "641d352e8020781b",
   "lastOpenFiles": [
-    "New Gaea/lexicon/raw_wordlist.md",
     "New Gaea/grammar/04_basics.md",
     "HLI Text Dump.md",
+    "New Gaea/lexicon/raw_wordlist.md",
     "New Gaea/04_sonehn_orig.md",
     "HLI Text Dump 2021.md",
     "New Gaea/grammar/01_introduction_context.md",

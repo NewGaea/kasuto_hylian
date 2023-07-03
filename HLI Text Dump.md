@@ -637,16 +637,27 @@ Special Note: The imperative mood is also used to give a "nosu" command. This wo
 Objects
 
 Another important concept of verbs is their objects, either direct or indirect object. A direct object is what the verb affects directly, it usually answers the question who? or what? For example:
-I read the book ~ Bagu l?rdes az l?rde. The word book is the direct object of the verb read. It answers the question what?
+
+_I read the book_
+_Bagu lërdes az lërde._
+
+The word book is the direct object of the verb read. It answers the question, "what?"
+
 An indirect object is the person or object that the action was performed for, it answers the questions to whom?, for whom?, to what?, or for what? In an English sentence, the indirect object usually comes before the direct object.
 
-I gave him the book. Book is the direct object, and him is the indirect object.
-I gave the book to him. This has the exact same meaning as the above sentence, but notice that the indirect object came after the direct object. The indirect object is indicated by the preposition to.
+_I gave him the book._
+
+Book is the direct object, and him is the indirect object.
+
+_I gave the book to him._
+
+This has the exact same meaning as the above sentence, but notice that the indirect object came after the direct object. The indirect object is indicated by the preposition to.
+
 Verbs that take direct objects are called transitive verbs, verbs that do not take direct objects are intransitive verbs. A transitive verb can have a direct object or both a direct and an indirect object. An intransitive has either an indirect object or no object at all. Sometimes it can be confusing in sentences with the word to, because prepositional or adverbial phrases that start with to may not be objects at all.
 
 They walked to the house. In this sentence, to the house is not an indirect object because it does not tell to/for whom? or to/for what? The phrase to the house is an adverbial phrase that modifies the verb walk. It tells where they walked. An adverb answers the questions where?, when?, how?, or to what extent? In this sentence, it answers the question where. Where did they walk? They walked to the house.
 She spoke. In this sentence, the verb spoke is intransitive because it has no direct object. 
-She spoke to him. In this sentence, the verb spoke is also intransitive because it has no direct object. But please note that it does have an indirect object, to him. This is perfectly acceptable.She spoke Hylian. In this sentence, the verb spoke is transitive because it has the direct object Hylian. The object tells what she spoke.She spoke Hylian to him. In this sentence, the verb spoke is transitive bcause it has the direct object Hylian. But also note that it has the indirect object him. Hylian tells what she spoke, him tells to whom she spoke.
+She spoke to him. In this sentence, the verb spoke is also intransitive because it has no direct object. But please note that it does have an indirect object, to him. This is perfectly acceptable.She spoke Hylian. In this sentence, the verb spoke is transitive because it has the direct object Hylian. The object tells what she spoke.She spoke Hylian to him.  In this sentence, the verb spoke is transitive bcause it has the direct object Hylian. But also note that it has the indirect object him. Hylian tells what she spoke, him tells to whom she spoke.
 Here is an overview of objects in the Hylian language:
 
 In a Hylian sentence, the order is usually subject, verb, direct object, and indirect object. 
@@ -656,13 +667,10 @@ I gave the book to him.
 
 Hylian sentences use verbal particles to indicate that something is a direct or indirect object. 
  
-
-ab
-ab
-Direct object particle. This word does not have a literal translation into English. It is used in a sentence to indicate that the following word or phrase is the direct object of the verb. 
-ank
-ank
-Indirect object particle. This word can be literally translated as "to" or "for." It indicates that the following word or phrase is the indirect object of the verb.
+| Hylian | Romanized | Meaning |
+|:-:|:-:|:-|
+| ab | ab | Direct object particle. This word does not have a literal translation into English. It is used in a sentence to indicate that the following word or phrase is the direct object of the verb. |
+| ank | ank | Indirect object particle. This word can be literally translated as "to" or "for." It indicates that the following word or phrase is the indirect object of the verb. |
 
 Verbal Adjuncts
 
