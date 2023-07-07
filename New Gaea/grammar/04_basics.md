@@ -166,7 +166,21 @@ There may be other names you encounter in this documentation, but hopefully this
 
 ### Object Marking
 
-Hylian uses particles to separate and identify the objects of verbs. While it may seem redundant to use a particle in a simple sentence, 
+Hylian uses particles to separate and identify the objects of verbs. While it may seem redundant to use a particle in a simple sentence, Hylian does require the use of particles to separate the parts of a sentence.
+
+#### Direct and Indirect Objects
+
+The direct object in a sentence is the object directly being acted upon. For example, "I gave the book to Impa." In that sentence, the direct object is _the book.
+
+An indirect object is any other object in the sentence, particularly an object which the direct object relates to. In our example above, the indirect object is _Impa._ Using that same sentence, let's explore how Hylian addresses these objects.
+
+```gloss
+\ex Bagu diarag az lèrde ank Impailai.
+\gla bag.u diar.es az lèrd.e ank Impa.il.ai
+\glb 1S-PRON give-PAST DIROBJ.DEF book-NOUN INDOBJ Impa.FEM.FVOC
+\glc I gave (DIROBJ).the book (INDOBJ) Impa.
+\ft I gave the book to Impa.
+```
 
 ---
 ## Pronouns
