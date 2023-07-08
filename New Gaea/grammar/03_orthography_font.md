@@ -52,4 +52,4 @@ Hyrulean has a regular stress paradigm which is only broken if plicitly marked d
 
 ## Taz Konktrakakire Romana (_The Roman Orthography_)
 
-When writing Hylian in Latin script, and not using the font, some sounds are writtn with digraphs, or combinations of letters that may be pronounced differently from how they are pronounced alone, or how you might otherwise expect thm to be. Most of the digraphs used here are included in the table above, but the table below shows a guide to how to map the Hylian font to actual romanized forms.
+When writing Hylian in Latin script, and not using the font, some sounds are writtn with digraphs, or combinations of letters that may be pronounced differently from how they are pronounced alone, or how you might otherwise expect them to be. Most of the digraphs used here are included in the table above, but the table below shows a guide to how to map the Hylian font to actual romanized forms.

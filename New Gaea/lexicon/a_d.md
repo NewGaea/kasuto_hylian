@@ -1,18 +1,23 @@
 ## A
 
-=aki	-aki	<o'ki:>	suffix	lover	This is attached to a person's name to indicate love for a person. Used between spouses and boyfriends and girlfriends.
-akime	akime	<o ki:'mei>	n.	Friend.
-aktaJ&	aktajhá	<ok" toZo'>	expletive intj.	To hell, damn it.	Vulgar term equivalent to "Damn it to hell."
-akte	akte	<ok'tei>	n.		Name of the first letter of the Hylian alphabet.
-alba	alba	<oL'bo>	adj.	Holy.
-amkanag	amkanag	<om ko'nog>	vt.	To love.
-amkane	amkane	<om ko'nei>	n.	Love.
-anye	anye	<on'yei>	n.	Year.
-anz	anz	<onz>	contraction.	The, to the.	Contraction of the words ank and taz.
-=aSi	-ashi	<o'shi:>	suffix.	dear, darling	Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins).
-=aSO	-asho•i	<o'shoi>	suffix.		Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents.
-ati	ati	<o'ti:>	intj.	Darn.	Used as a non-vulgar expletive.
-az	az	<oz>	contraction.	The, to the.	Contraction of the words _ab_ and _taz_.
+| Hylian | Romanized | Pronunciation | Word Type | Gloss | Usage Notes |
+|:-------|:----------|:--------------|:----------|:------|:------------|
+| <span class="hylian_kas">=aki</span> | -aki | (o'ki:) | suffix | lover | This is attached to a person's name to indicate love for a person. Used between spouses and boyfriends and girlfriends. |
+| <span class="hylian_kas">akime</span> | akime | (o ki:'mei) |n. | Friend. | |
+
++ <span class="hylian_kas">=aki</span>	-aki	(o'ki:)	suffix	lover	This is attached to a person's name to indicate love for a person. Used between spouses and boyfriends and girlfriends.
++ <span class="hylian_kas">akime</span>	akime	(o ki:'mei)	n.	Friend.
++ <span class="hylian_kas">aktaJ&</span>	aktajhá	(ok" toZo')	expletive intj.	To hell, damn it.	Vulgar term equivalent to "Damn it to hell."
++ <span class="hylian_kas">akte</span>	akte	(ok'tei)	n.		Name of the first letter of the Hylian alphabet.
++ <span class="hylian_kas">alba</span>	alba	(oL'bo)	adj.	Holy.
++ <span class="hylian_kas">amkanag</span>	amkanag	(om ko'nog)	vt.	To love.
++ <span class="hylian_kas">amkane</span>	amkane	(om ko'nei)	n.	Love.
++ <span class="hylian_kas">anye</span>	anye	<on'yei>	n.	Year.
++ <span class="hylian_kas">anz</span>	anz	(onz)	contraction.	The, to the.	Contraction of the words _ank_ and _taz_.
++ <span class="hylian_kas">=aSi</span>	-ashi	(o'shi:)	suffix.	dear, darling	Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins).
++ <span class="hylian_kas">=aSO</span>	-asho•i	(o'shoi)	suffix.		Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents.
++ <span class="hylian_kas">ati</span>	ati	(o'ti:)	intj.	Darn.	Used as a non-vulgar expletive.
++ <span class="hylian_kas">az</span>	az	(oz)	contraction.	The, to the.	Contraction of the words _ab_ and _taz_.
 
 ## Ä -A
 

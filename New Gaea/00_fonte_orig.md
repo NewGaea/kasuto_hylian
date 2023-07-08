@@ -21,267 +21,95 @@ Select the folder you unzipped the font file to. Then it should appear in the "L
 
 Using the font: If you want to just play around with the letters, then go ahead. But if you want to actually type real words, you have to know which keystrokes give which letters. I recommend using Character Map if you can't find the letter you want. Here is a table of all the Hylian letters, their keystrokes, and which transliterated letter they correspond to. An important note: in the characters where you have to use the "Alt" key, in order to get the letter to come up, you hold down "Alt" and punch in the number with the Numpad (make sure numlock is ON).
 
-| Hylian Character | Keystroke | Transliterated Character |
+> **NOTE:** If you are using our Hylian 3.0 font, you may notice that some of the rows in this table look like duplicates. Jerin and the Hylian Linguistic Society have worked hard to ensure that all documented characters are included, and that we both (a) preserve compatibility with Kasuto's records and (b) update the font encoding as Kasuto never did after initial release.
+> 
+> This means there are multiple valid ways to enter some of the letters, as Kasuto preferred to map them to more easily accessible symbols, while the HLS has opted to map every character, as near as possible, to its romanization.
+> 
+> There may be some cases where Kasuto's mapping fails due to these updates, and the table below should at least show you the proper way, or ways, to enter any character in Hylian.
+> 
+> Our future Hylian 4.0 font will adopt the name Classical Hylian, and will break compatibility with some letters. We will still have the Hylian 3.0 font available, however, if you need to encode (or decode) text in Kasuto's manner -- our other fonts already break compatibility.
+
+### Basic Hylian Letters
+
+| Hylian Character | Keystroke | Romanized Character |
 |:-:|:-:|:-:|
-| ![](fonten/font_screen/akte.png) | a | a |
+| <span class="hylian_kas">a</span> | a | a |
+| <span class="hylian_kas">á</span> | ALT+0225 (á), ALT+0193 (Á) | á |
+| <span class="hylian_kas">A</span> | A | ä |
+| <span class="hylian_kas">ä</span> | ALT+0228 (ä), ALT+0196 (Ä) | ä |
+| <span class="hylian_kas">à</span> | ALT+0224 (à), ALT+0192 (À) | à, â |
+| <span class="hylian_kas">b</span> | b, B | b |
+| <span class="hylian_kas">c</span> | c | c (ts) |
+| <span class="hylian_kas">C</span> | C | ch |
+| <span class="hylian_kas">d</span> | d | d |
+| <span class="hylian_kas">D</span> | D | dh |
+| <span class="hylian_kas">e</span> | e | e |
+| <span class="hylian_kas">é</span> | ALT+0233 (é), ALT+0201 (É) | é |
+| <span class="hylian_kas">E</span> | E | ë |
+| <span class="hylian_kas">ë</span> | ALT+0235 (ë), ALT+0203 (Ë) | ë |
+| <span class="hylian_kas">È</span> | ALT+0232 (è), ALT+0200 (È) | è, ê |
+| <span class="hylian_kas">f</span> | f, F | f |
+| <span class="hylian_kas">g</span> | g, G | g |
+| <span class="hylian_kas">h</span> | h, H | h |
+| <span class="hylian_kas">i</span> | i | i |
+| <span class="hylian_kas">í</span> | ALT+0237 (í), ALT+0205 (Í) | í |
+| <span class="hylian_kas">I</span> | I | ï |
+| <span class="hylian_kas">ï</span> | ALT+0239 (ï), ALT+0207 (Ï) | ï |
+| <span class="hylian_kas">ì</span> | ALT+0236 (ì), ALT+0204 (Ì) | ì, î |
+| <span class="hylian_kas">j</span> | j | j |
+| <span class="hylian_kas">J</span> | J | jh, zh |
+| <span class="hylian_kas">k</span> | k | k |
+| <span class="hylian_kas">l</span> | l, L | l |
+| <span class="hylian_kas">m</span> | m, M | m |
+| <span class="hylian_kas">n</span> | n | n |
+| <span class="hylian_kas">N</span> | ñ, N, Ñ | ñ |
+| <span class="hylian_kas">o</span> | o | o |
+| <span class="hylian_kas">p</span> | p, P | p |
+| <span class="hylian_kas">r</span> | r, R | r |
+| <span class="hylian_kas">s</span> | s | s |
+| <span class="hylian_kas">S</span> | S | sh |
+| <span class="hylian_kas">t</span> | t | t |
+| <span class="hylian_kas">T</span> | T | th |
+| <span class="hylian_kas">u</span> | u | u |
+| <span class="hylian_kas">ú</span> | ALT+0250 (ú), ALT+0218 (Ú) | ú |
+| <span class="hylian_kas">U</span> | U | ü |
+| <span class="hylian_kas">ü</span> | ALT+0252 (ü), ALT+0220 (Ü) | ü |
+| <span class="hylian_kas">ù</span> |  ALT+0249 (ù), ALT+0217 (Ù) | ù, û |
+| <span class="hylian_kas">v</span> | v, V | v |
+| <span class="hylian_kas">w</span> | w, W | w |
+| <span class="hylian_kas">x</span> | x, K, X | x, kh |
+| <span class="hylian_kas">y</span> | y, Y | y |
+| <span class="hylian_kas">z</span> | z, Z | z |
+
+### Digraph Character Mapping
+
+| Hylian Character | Keystroke | Romanized Character |
+|:-:|:-:|:-:|
+| <span class="hylian_kas">@</span> | @ | ai |
+| <span class="hylian_kas">ã</span> | ALT+0227 (ã) | ai |
+| <span class="hylian_kas">&lt;</span> | \< | áí |
+| <span class="hylian_kas">Ã</span> | ALT+0195 (Ã) | áí |
+| <span class="hylian_kas">%</span> | % | au |
+| <span class="hylian_kas">â</span> | ALT+0226 (â) | au |
+| <span class="hylian_kas">#</span> | # | áú |
+| <span class="hylian_kas">Â</span> | ALT+0194 (Â) | áú |
+| <span class="hylian_kas">^</span> | ^ | iu |
+| <span class="hylian_kas">î</span> | ALT+0238 (î) | iu |
+| <span class="hylian_kas">Î</span> | ALT+0206 (Î) | íú |
+| <span class="hylian_kas">$</span> | $ | oa |
+| <span class="hylian_kas">õ</span> | ALT+0245 (õ) | oa |
+| <span class="hylian_kas">{</span> | \{ | óá |
+| <span class="hylian_kas">Õ</span> | ALT+0213 (Õ) | óá |
+| <span class="hylian_kas">ô</span> | ALT+0244 (ô) | oi |
+| <span class="hylian_kas">&gt;</span> | \> | óí |
+| <span class="hylian_kas">õ</span> | O, ALT+212 (Ô) | óí |
+
 
 <table>
   <tr align="center">
     <th>Hylian character</th>
     <th>Keystroke</th>
     <th>Transliterated character</th>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/a.jpg" height="41" width="22"></td>
-    <td>a</td>
-    <td>a</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/a`.jpg" height="40" width="21"></td>
-    <td>á (Alt+0225), Á (Alt+0193)</td>
-    <td>á</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/aa.jpg" height="40" width="21"></td>
-    <td>A</td>
-    <td>ä</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/aa`.jpg" height="40" width="22"></td>
-    <td>à (Alt+0224), À (Alt+0192)</td>
-    <td>à</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/b.jpg" height="40" width="22"></td>
-    <td>b, B</td>
-    <td>b</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/k.jpg" height="40" width="22"></td>
-    <td>c, C, k, K</td>
-    <td>k</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/d.jpg" height="40" width="22"></td>
-    <td>d, D</td>
-    <td>d</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/e.jpg" height="40" width="21"></td>
-    <td>e</td>
-    <td>e</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/e`.jpg" height="41" width="22"></td>
-    <td>é (Alt+0233), É (Alt+0201)</td>
-    <td>é</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ee.jpg" height="40" width="22"></td>
-    <td>E</td>
-    <td>ë</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ee`.jpg" height="40" width="22"></td>
-    <td>è (Alt+0232), È (Alt+0200)</td>
-    <td>è</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/f.jpg" height="40" width="22"></td>
-    <td>f, F</td>
-    <td>f</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/g.jpg" height="40" width="22"></td>
-    <td>g, G</td>
-    <td>g</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/h.jpg" height="40" width="22"></td>
-    <td>h, H</td>
-    <td>h</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/i.jpg" height="40" width="22"></td>
-    <td>i</td>
-    <td>i</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/i`.jpg" height="40" width="22"></td>
-    <td>í (Alt+0237), Í (Alt+0205)</td>
-    <td>í</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ii.jpg" height="40" width="22"></td>
-    <td>I</td>
-    <td>ï</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ii`.jpg" height="40" width="22"></td>
-    <td>ì (Alt+0236), Ì (Alt+0204)</td>
-    <td>ì</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/j.jpg" height="40" width="22"></td>
-    <td>j</td>
-    <td>j</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/jh.jpg" height="40" width="22"></td>
-    <td>J</td>
-    <td>jh</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/l.jpg" height="40" width="22"></td>
-    <td>l, L</td>
-    <td>l</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/m.jpg" height="40" width="22"></td>
-    <td>m, M</td>
-    <td>m</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/n.jpg" height="40" width="22"></td>
-    <td>n, N</td>
-    <td>n</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/o.jpg" height="40" width="22"></td>
-    <td>o</td>
-    <td>o</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/p.jpg" height="40" width="22"></td>
-    <td>p, P</td>
-    <td>p</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/r.jpg" height="40" width="22"></td>
-    <td>r, R</td>
-    <td>r</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/s.jpg" height="40" width="22"></td>
-    <td>s</td>
-    <td>s</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/t.jpg" height="40" width="22"></td>
-    <td>t</td>
-    <td>t</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/u.jpg" height="40" width="22"></td>
-    <td>u</td>
-    <td>u</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/u`.jpg" height="40" width="22"></td>
-    <td>ú (Alt+0250), Ú (Alt+0218)</td>
-    <td>ú</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/uu.jpg" height="40" width="22"></td>
-    <td>U</td>
-    <td>ü</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/uu`.jpg" height="40" width="22"></td>
-    <td>ù (Alt+0249), Ù (Alt+0217)</td>
-    <td>ù</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/v.jpg" height="40" width="22"></td>
-    <td>v, V</td>
-    <td>v</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/w.jpg" height="40" width="22"></td>
-    <td>w, W</td>
-    <td>w</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/y.jpg" height="41" width="22"></td>
-    <td>y, Y</td>
-    <td>y</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/z.jpg" height="40" width="22"></td>
-    <td>z, Z</td>
-    <td>z</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ai.jpg" height="40" width="38"></td>
-    <td>ã (Alt+0227)</td>
-    <td>a•i</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/ai`.jpg" height="40" width="38"></td>
-    <td>Ã (Alt+0195)</td>
-    <td>á•.í</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/au.jpg" height="40" width="38"></td>
-    <td>â (Alt+0226)</td>
-    <td>a•u</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/au`.jpg" height="40" width="38"></td>
-    <td>Â (Alt+0194)</td>
-    <td>á•ú</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/iu.jpg" height="40" width="38"></td>
-    <td>î (Alt+0238)</td>
-    <td>i•u</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/iu`.jpg" height="40" width="38"></td>
-    <td>Î (Alt+0206)</td>
-    <td>í•ú</td>
   </tr>
 
   <tr>
