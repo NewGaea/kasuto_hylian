@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "294fbebb35edc428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Gaea/lexicon/raw_wordlist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "215c4e8403346965",
@@ -43,7 +56,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/00_hls_intro_context.md",
+                "file": "grammar/advanced/00_hls_intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691385433e90405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b70fbec8f41436fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGES.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/00_hls_intro_context.md",
+                "file": "CHANGES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grammar/00_hls_intro_context.md",
+                "file": "CHANGES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/00_hls_intro_context.md"
+                "file": "CHANGES.md"
               }
             }
           }
@@ -188,24 +226,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd25286535f187f",
+  "active": "b70fbec8f41436fe",
   "lastOpenFiles": [
+    "New Gaea/lexicon/raw_wordlist.md",
+    "CHANGES.md",
+    "LICENSE.md",
+    "grammar/advanced/00_hls_intro.md",
+    "grammar/advanced",
+    "grammar/basic",
+    "New Gaea/lexicon/a_d.md",
+    "New Gaea/07_arkthehn_orig.md",
+    "New Gaea/00_fonte_orig.md",
     "New Gaea/grammar/01_introduction_context.md",
+    "Hylian Community Wordlist.md",
+    "archival/vinculum/hylian_community_wordlist.md",
+    "lexicon/jerin_lexicon.md",
+    "images",
+    "contributors/venus.md",
+    "lexicon/hylian_lexicon_2023.md",
+    "contributors",
+    "archival/vinculum",
+    "archival/kasuto_hli",
+    "archival",
     "New Gaea/grammar/03_orthography_font.md",
-    "grammar/00_hls_intro_context.md",
     "New Gaea/grammar/04_basics.md",
     "lexicon",
     "grammar",
-    "jerin_lexicon.md",
-    "New Gaea/lexicon/raw_wordlist.md",
     "New Gaea/lexicon/new_wordlist_2021.md",
-    "lexicon/hylian_lexicon_2023.md",
     "Ont Hilana (Interlinear of Thread).md",
-    "New Gaea/lexicon/a_d.md",
-    "New Gaea/00_fonte_orig.md",
     "fonten/old_fonts/Hylian 3.1.ttf",
-    "fonten/old_fonts/Hylian 3.x.sfd",
-    "New Gaea/07_arkthehn_orig.md",
     "New Gaea/08_lehrdishe_orig.md",
     "New Gaea/06_nihmshehn_orig.md",
     "New Gaea/05b_takwirten.md",

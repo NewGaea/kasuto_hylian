@@ -1,5 +1,5 @@
-Introduction & Context of Kasuto's Hylian
-=========================================
+# Introduction & Context of Kasuto's Hylian
+---
 
 ## Foreword
 
