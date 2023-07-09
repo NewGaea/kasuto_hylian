@@ -11,8 +11,30 @@
             "id": "62f3e920bc36bea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New Gaea/lexicon/raw_wordlist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cd732cecf9a5d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f2e951fcf79bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/hylian_lexicon_2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "lexicon/hylian_lexicon_2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "lexicon/hylian_lexicon_2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +131,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "lexicon/hylian_lexicon_2023.md"
+          }
         }
       }
     ],
@@ -123,10 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f3e920bc36bea2",
+  "active": "59f2e951fcf79bd6",
   "lastOpenFiles": [
-    "HLI Text Dump.md",
     "New Gaea/lexicon/raw_wordlist.md",
+    "lexicon/hylian_lexicon_2023.md",
+    "lexicon",
+    "fonten/old_fonts/Hylian 3.x.sfd",
+    "fonten/old_fonts/Hylian 3.1.ttf",
+    "grammar/00_hls_intro_context.md",
+    "grammar",
+    "HLI Text Dump.md",
     "New Gaea/grammar/04_basics.md",
     "New Gaea/lexicon/hylian_lexicon_2023.md",
     "New Gaea/grammar/01_introduction_context.md",

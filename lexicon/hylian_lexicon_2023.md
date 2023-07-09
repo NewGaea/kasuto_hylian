@@ -257,7 +257,43 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **katabe** (kah tah' bay) _noun._ 1. formal writing 2. official document
 + **katanur** (kah tah' noor) _noun, proper_ 1. Kataan, a village located about 32 km south by southeast of Hyrule Castle during the Classical era; many settlements have held this name over the ages
 + **kate** (kah' tay) _noun._ 1. k; the name of the twentieth letter of the Classical Hylian _aktaite_
-+ **kaz** (kahz) _contraction._ 1. to the
++ **kaz** (kahz) _contraction._ 1. to the; contraction of _??? + taz_
++ **kaiane** (keye ah' nay) _noun._ 1. dog, hound
++ **këm** (kehm) _pronoun, demonstrative_ 1. whose; introduces relative clauses for pesonal attribution
++ **kibara** (kee bah' rah) _adjective_ 1. changed, altered, transformed
++ **kibarag** (kee bah' rahg) _verb._ 1. to change, to transform
++ **kibare** (kee bah' ray) _noun._ 1. change, alteration, transformation
++ **kizha** (kee' zhah) _adjective._ 1. conjugated, inflected
++ **kizhag** (kee' zhahg) _verb._ 1. to inflect a word, to conjugate a verb
++ **kizhage** (kee zhah' gay) _noun._ 1. the process of inflection and conjugation; this is a nominalized infinitive, the only one currently documented by **Kasuto**
++ **kizhe** (kee zhay) _noun._ 1. a word which has been inflected 2. the inflectional element or elements of a word
++ **kimoi** (kee' moy) _honorific._ 1. kid, youngster
++ **kímiloi** (kee' mee loy) _honorific, masculine._ 1. kid, boy, lad
++ **kíminoi** (kee' mee noy) _honorific, feminine._ 1. kid, girl, lass
++ **kimara** (kee mahr' ah) _adjective._ 1. complete, completed, perfect, whole
++ **kimarag** (kee mahr' ag) _verb._ 1. to complete, to finish
++ **kimare** (kee mahr' ay) _noun._ 1. completion, perfection
++ **kira** (kee' rah) _adjective._ 1. bought, purchased, traded for
++ **kirag** (kee' rahg) _verb._ 1. to buy, to purchase 2. to trade for something
++ **kirage** (kee rahg' ay) _noun._ 1. transaction, deal, agreement
++ **kire** (kee' ray) _noun._ 1. purchase; refers to an item purchased or traded for
++ **kisame** (kee sah' may) _noun, explicit_ 1. bastard, asshole, jerk
++ **kisámile** (kee sah' mee lay) _noun, masculine, explicit_ 1. bastard, asshole, jerk; only used when referring to a masculine person
++ **kisámine** (kee sah' me nay) _noun, feminine, explicit_ 1. bitch, frigid, bad mother; only used when referring to a feminine person
++ **kishoke** (kee shoh' kay) _noun._ 1. sword
++ **kizo** (kee' zoh) _expression._ 1. maybe
++ **kiu** (kyoo) _pronoun, demonsrative._ 1. what; used to introduce relative clauses
++ **kodëman** (koh deh' mahn) _adjective._ 1. forty
++ **kodëme** (koh deh' may) _noun._ 1. forty
++ **koema** (koh aym' ah) _adjective._ 1. edible
++ **koemag** (koh aym' ahg) _verb._ 1. to eat
++ **koeme** (koh aym' ay) _noun._ 1. food 2. meal
++ **konktra** (kohnk' trah) _adjective._ 1. right, correct
++ **kono** (koh' noh) _pronoun, interrogative._ 1. what, which
++ **kosalan** (koh sah' lahn) _adjective._ 1. four hundred
++ **kosale** (koh sah' lay) _noun_ 1. four hundred
++ **kosan** (koh' sahn) _adjective._ 1. four
++ **kose** (koh' say) _noun._ 1. four
 
 ## ZH
 
