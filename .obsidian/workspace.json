@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57f7bcb604aa6a4a",
+        "id": "769edd6ba68e1474",
         "type": "tabs",
         "children": [
           {
-            "id": "07d69a4a66bfe5e7",
+            "id": "5c8ae6dad20eeb0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07d69a4a66bfe5e7",
+  "active": "5c8ae6dad20eeb0a",
   "lastOpenFiles": [
-    "new_gaea_work/grammar/04_basics.md",
-    "new_gaea_work/03_wirtehn_orig.md",
-    "new_gaea_work/04_sonehn_orig.md",
-    "austin_work/pages/resources/enemy-list.md",
+    "archival/new_gaea_work/00_fonte_orig.md",
+    "archival/new_gaea_work/grammar/04_basics.md",
+    "archival/new_gaea_work/03_wirtehn_orig.md",
+    "archival/new_gaea_work/04_sonehn_orig.md",
+    "archival/austin_work/pages/resources/enemy-list.md",
     "lexicon/jerin_lexicon.md",
     "lexicon/hylian_lexicon_2023.md",
     "lexicon",
@@ -171,21 +172,20 @@
     "New Gaea",
     "LICENSE.md",
     "CHANGES.md",
-    "austin_work/pages/literature/verse-mudora_history-sacred_realm.md",
-    "austin_work/pages/literature/song-taiu_zavokas_dono_trovag_bagu.md",
-    "austin_work/blog/20161021-reviewing-hylian.md",
-    "austin_work/blog/20161022-wotd-001.md",
-    "austin_work/pages/resources/wordlist_kasuto.txt",
-    "austin_work/pages/resources/wordlist-complete.md",
-    "austin_work/pages/resources/Vinculum Letter Corruption Key.md",
-    "austin_work/pages/resources/sample_texts.md",
-    "austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
-    "austin_work/pages/resources/hylian_dictionary_kharon.md",
-    "austin_work/pages/resources/hylian_dictionary_kasuto.md",
-    "austin_work/pages/resources/Hylian Community Dictionary.md",
-    "austin_work/pages/resources/grammar-dictionary.md",
-    "austin_work/pages/verbs.md",
-    "austin_work/pages/nouns.md",
+    "archival/austin_work/pages/literature/verse-mudora_history-sacred_realm.md",
+    "archival/austin_work/pages/literature/song-taiu_zavokas_dono_trovag_bagu.md",
+    "archival/austin_work/blog/20161021-reviewing-hylian.md",
+    "archival/austin_work/blog/20161022-wotd-001.md",
+    "archival/austin_work/pages/resources/wordlist_kasuto.txt",
+    "archival/austin_work/pages/resources/wordlist-complete.md",
+    "archival/austin_work/pages/resources/Vinculum Letter Corruption Key.md",
+    "archival/austin_work/pages/resources/sample_texts.md",
+    "archival/austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
+    "archival/austin_work/pages/resources/hylian_dictionary_kharon.md",
+    "archival/austin_work/pages/resources/hylian_dictionary_kasuto.md",
+    "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
+    "archival/austin_work/pages/resources/grammar-dictionary.md",
+    "archival/austin_work/pages/verbs.md",
     "7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
     "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif"
   ]
