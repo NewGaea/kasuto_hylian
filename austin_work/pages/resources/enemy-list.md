@@ -1,0 +1,728 @@
+_Austin's Aside: The following names are sorted alphabetically by name and chronologically by game of debut:_
+
+- The Legend of Zelda: Hyrule Fantasy
+  - Aquamentus (Boss) - **akumente**
+  - Armos - **armose**
+  - Blade Trap
+  - Boulder
+  - Bubble - b`ub"ele
+  - Darknut - **darknaute**
+  - Digdogger (Boss) - **d"igdoge**
+  - Dodongo (Boss) - **dodonge**
+  - Gel - **gele**
+  - Ghini - **ginie**
+  - Gibdo - **gibdoe**
+  - Gleeok (Boss) - **gli'yoke**
+  - Gohma (Boss) - **gomae**
+  - Goriya - **goriye**
+  - Keese - **k"eese**
+  - Lanmola - **lanmole**
+  - Leever - **livare**
+  - Like Like - **goegoeare**
+  - Lynel - **lainele**
+  - Manhandla (Boss)
+  - Moblin - **mobline**
+  - Moldorm - **moldorme**
+  - Octorok - **oktoroke** or something from (_onte_ + _shakse_) - perhaps **ontashakse**?
+  - Patra (Boss) - **patre** (once proposed for father, this fits perfectly for the monster)
+  - Peahat - **pih'ate**
+  - Pol's Voice - **polsa jhate** (literally "Pol's speech")
+  - Rope - **rope**
+  - Stalfos - **stalfose** from _stale_ meaning "skull" and _fose_ meaning "a monster in the shape of a person"
+  - Stone Statue - **shakfose** meaning "gargoyle, humanoid monster of stone"
+  - Tektite
+  - Vire
+  - Wallmaster
+  - Wizzrobe
+  - Zol
+  - Zora
+- The Legend of Zelda: The Adventure of Link
+  - Ache
+  - Acheman
+  - Aneru
+  - Aruroda
+  - Bago-Bago
+  - Barba (Boss)
+  - Bit
+  - Boon
+  - Bot
+  - Carock (Boss)
+  - Daira
+  - Deeler
+  - Doomknocker
+  - Fiery Moa
+  - Fokka
+  - Fokkeru
+  - Geldarm
+  - Geru
+  - Girubokku
+  - Gooma (Boss)
+  - Guma
+  - Helmethead (Boss)
+  - Horsehead (Boss)
+  - Iron Knuckle / Ironknuckle
+  - Link's Shadow (Boss)
+  - Lowder
+  - Mago
+  - Mau
+  - Megmat
+  - Moa
+  - Moby
+  - Myu
+  - Parutamu
+  - Ra
+  - Rebonack (Boss)
+  - River Devil (Obstacle)
+  - Thunderbird (Boss)
+  - Wizard
+  - Wosu
+- A Link to the Past
+  - Soldiers & Troopers
+    - Ball and Chain Trooper
+    - Bomb Soldier
+    - Bow Soldier
+    - Soldier
+    - Spear Soldier
+    - Sword Soldier
+  - Light World
+    - Bee
+    - Buzz Blob / Cukeman
+    - Crow (Guay?)
+    - Deadrock
+    - Geldman
+    - Octoballoon
+    - Poe
+    - Sand Crab
+    - Slime
+    - Thief
+    - Toppo
+    - Vulture
+  - Dark World
+    - Dacto
+    - Hinox
+    - Hyu
+    - Ku
+    - Pikit
+    - Pikku
+    - Ropa
+    - Slarok
+    - Snap Dragon
+    - Stal
+    - Swamola
+    - Taros
+    - Zirro
+  - Dungeons
+    - Arrgi (Boss Minion)
+    - Babusu
+    - Bari
+    - Biri (Minion)
+    - Blazing Bat
+    - Buzz
+    - Chain Chomp (Easter Egg)
+    - Chasupa
+    - Devalant
+    - Eyegore
+    - Freezer
+    - Gibo
+    - Golden Bee
+    - Hardhat Beetle
+    - Helmasaur
+    - Hokkubokku
+    - Kodongo
+    - Kyameron
+    - Mini-Moldorm
+    - Pengator
+    - Pirogusu
+    - Poppo
+    - Rat
+    - Sluggula
+    - Stalfos Knight
+    - Skullrope (Stalrope?)
+    - Terrorpin
+    - Water Tektite
+    - Zazak
+    - Zoro
+  - Traps and Obstacles
+    - Ball
+    - Beamos
+    - Boulder
+    - Bubble
+    - Bumper
+    - Flying Tile
+    - Guruguru Bar
+    - Laser Eye
+    - Lightning Lock
+    - Medusa
+    - Mole
+    - Rabbit Beam
+    - Spark
+    - Rolling Spike Trap
+    - (Blade) Trap
+    - Wall Turret
+    - Winder
+    - Yomo Medusa (Four-Way Medusa
+  - Bosses
+    - Agahnim
+    - Armos Knights
+    - Arrghus
+    - Blind the Thief
+    - Helmasaur King
+    - Kholdstare
+    - Mothula
+    - Trinexx
+    - Vitreous
+- Link's Awakening
+  - Overworld
+    - Beetle
+    - Bomber
+    - Flying Octorok
+    - Goponga Flower
+      - Giant Goponga Flower
+    - Mad bomber
+    - Monkey
+    - Mutt
+    - Pig Warrior
+    - Pincer
+    - Piranha
+    - Pokey
+    - Ravek
+    - Sea Urchin
+    - Spiny Beetle
+    - Zombie
+  - Dungeons
+    - Angler Fry
+    - Anti-Kirby
+    - Arm-Mimic
+    - Big Keese
+    - Bloober (Blooper?)
+    - Bombite
+    - Bone Putter
+    - Boo Buddy (Easter Egg)
+    - Camo Goblin
+    - Cheep-Cheep (Easter Egg)
+    - Dodongo Snake
+    - Goomba (Easter Egg)
+    - Iron Mask
+    - Mask-Mimic
+    - Orb Monster
+    - Pairodd
+    - Piranha Plant (Easter Egg)
+    - Rolling Bones
+    - Shrouded Stalfos
+    - Smasher
+    - Star
+    - Sword Stalfos
+    - Three-of-a-Kind
+  - Traps & Obstacles
+    - Face Lamp
+    - Flame Fountain
+    - Flying Pot
+    - Podoboo
+    - Thwomp
+      - Mega Thwomp
+      - Spiked Thwomp
+      - Stone Elevator
+    - Vacuum Mouth
+  - Bosses & Minibosses
+    - King Moblin
+    - Turtle Rock
+    - Cue Ball
+    - Master Stalfos
+    - Grim Creeper
+    - Blaino
+    - Genie
+    - Slime Eye
+    - Angler Fish
+    - Slime Eel
+    - Facade
+    - Evil Eagle
+    - Hot Head
+  - Shadow Nightmares
+    - Agahnim's Shadow
+    - DethEye
+    - Giant Zol (Shadow)
+    - Lanmola (Shadow)
+    - Moldorm's Shadow
+    - Shadow of Ganon
+  - Color Dungeon
+    - Stone Hinox
+    - Giant Buzz Blob
+    - Evil Orb
+- Ocarina of Time
+  - Enemies by Class
+    - Anubis
+    - Bari & Biri
+    - Bubble
+      - Blue Bubble
+      - Green Bubble
+      - Red Bubble
+      - White Bubble
+    - Deku Baba
+      - Big Deku Baba
+    - Deku Scrub
+      - Business Scrub
+      - Mad Scrub
+    - Dinolfos
+    - Dodongo
+      - Baby Dodongo
+    - Freezard
+    - Gerudo Thief
+    - Gohma
+      - Gohma Larva
+    - Guay
+    - Keese
+      - Fire Keese
+      - Ice Keese
+    - Lizalfos
+    - Moblin
+      - Club Moblin
+    - Parasitic Tentacle
+    - Peahat
+      - Peahat Larva
+    - Poe
+      - Amy, Beth, Joelle
+      - Flat, Sharp
+      - Big Poe
+    - ReDead
+    - Shabom
+    - Shell Blade
+    - Skulltula
+      - Big Skulltula
+      - Gold Skultulla
+      - Skullwalltulla
+    - Skull Kid
+    - Spike
+    - Stalfos
+      - Stalchild
+    - Stinger
+    - Tailpasaran
+    - Torch Slug
+    - Wallmaster
+      - Floormaster
+    - Wolfos
+      - White Wolfos
+    - Tektite
+      - Blue Tektite
+      - Red Tektite
+  - Traps & Obstacles
+    - Door Mimic
+    - Fire Eye
+    - Floor Spikes
+  - Bosses & Minibosses
+    - Barinade
+    - Big Octo
+    - Bongo Bongo
+    - Dark Link
+    - Dead Hand
+    - Flare Dancer
+    - King Dodongo
+    - Meg (Poe)
+    - Morpha
+    - Phantom Ganon(dorf)
+    - Twinrova
+    - Volvagia
+- Majora's Mask
+  - Normal Enemies
+    - Bio Deku Baba
+    - Boe
+      - Black Boe
+      - White Boe
+    - Carnivorous Lily Pad
+    - Chuchu
+      - Blue Chuchu
+      - Green Chuchu
+      - Red Chuchu
+      - Yellow Chuchu
+    - Death Armos
+    - Deep Python
+    - Desbreko
+    - Dexihand
+    - Dragonfly
+    - Eeno
+    - Garo
+    - Ghost
+    - Giant Bee
+    - Gyorg's Fish (Minion)
+    - Hiploop
+    - Moldbaby
+    - Moth
+    - Nejiron
+    - Odolwa's Insects (Minion)
+    - Pirate (Gerudo)
+    - Real Bombchu
+    - Snapper
+    - Skullfish
+    - Snowball
+    - Takkuri
+  - Bosses & Minibosses
+    - Garo Master
+    - Gekko
+    - Goht
+    - Gomess
+    - Gyorg
+    - Skull Keeta
+    - King Igos du Ikana
+      - Servants of Igos du Ikana
+    - Majora's Mask
+      - Majora's Incarnation
+      - Mahora's Wrath
+    - Odolwa
+    - Twinmold
+    - Wart
+- Oracles of Ages & Seasons
+  - Regular Enemies
+    - Guard
+    - Kyandokyan
+    - Magunesu
+    - Moth
+    - Podoboo Tower
+    - River Zora
+    - Spinning Blade Trap
+    - Whisp
+  - Bosses & Minibosses
+    - Agunima (Seasons)
+    - Armos Warrior (Ages)
+    - Blue Stalfos (Ages)
+    - Brother Goriyas (Seasons)
+    - Frypolar (Seasons)
+    - Giant Ghini (Ages)
+    - Great Moblin (Seasons)
+    - Head Thwomp (Ages)
+    - Medusa Head (Seasons)
+    - Octogon (Ages)
+    - Omuai (Seasons)
+    - Onox (Seasons)
+    - Plasmarine (Ages)
+    - Possessed Nayru (Ages)
+    - Pumpkin Head (Ages)
+    - Ramrock (Ages)
+    - Shadow Hag (Ages)
+    - Smog (Ages)
+    - Subterror (Ages)
+    - Swoop (Ages)
+    - Syger (Seasons)
+    - Veran (Ages)
+- Four Swords
+  - Normal Enemies
+    - Bob-omb (Easter Egg)
+    - Bombarossa
+    - Bow Moblin
+    - Bulbul
+    - Chaser
+    - Hikkun
+    - Ice Wizzrobe
+    - Nokkun
+    - Rupee Like
+    - Rupee Wraith
+    - Spear Moblin
+    - Wisp (Whisp?)
+  - Bosses
+    - Big Manhandla
+    - Dera Zol
+    - Gouen
+    - Vaati
+- The Wind Waker
+  - Enemies
+    - Boko Baba
+    - Bokoblin
+    - Dark Chuchu
+    - Dexivine
+    - Gyorg (Enemy)
+    - Kargaroc
+    - Molgera Larva
+    - Morth
+    - Seahat
+    - Warship
+  - Bosses & Minibosses
+    - Gohdan
+    - Helmaroc King
+    - Jalhalla
+    - Kalle Demos
+    - Mighty Darknut
+    - Molgera
+    - Puppet Ganon
+- Four Swords Adventures
+  - Enemies
+    - Chief Soldier
+    - Dark Stalfos
+    - Eyeroc
+    - Force Like
+    - Force Soldier
+    - Frosteye
+  - Bosses & Minibosses
+    - Big Dark Stalfos
+    - Big Dodongo
+    - Big Moldorm
+    - Frostare
+    - Stone Arrghus
+- The Minish Cap
+  - Enemies
+    - Acrobandits
+    - Baby Gyorg
+    - Fire Wizzrobe
+    - Golden Octorok
+    - Golden Rope
+    - Golden Tektite
+    - Keaton
+    - Lakitu (Easter Egg)
+    - Madderpillar
+    - Moldworm (not Moldorm!)
+    - Mulldozer
+    - Pesto
+    - Puffstool
+    - Red Darknut
+    - Rock Chuchu
+    - Rollobite
+    - Scissors Beetle
+    - Spiny Chuchu
+    - Takkuri
+  - Bosses and Minibosses
+    - Big Blue Chuchu
+    - Big Green Chuchu
+    - Big Octorok
+    - Black Knight
+    - Gleerok
+    - Gyorg Pair
+    - Mazaal
+    - Vaati Reborn
+    - Vaati Transfigured
+    - Vaati's Wrath
+- Twilight Princess
+  - Enemies
+    - Aeralfos
+    - Baba Serpent
+    - Baby Gohma
+    - Big Baba
+    - Bombfish
+    - Bombling
+    - Bomskit
+    - Bulblin
+      - Bulblin Archer
+    - Bullbo
+    - Chilfos
+    - Chu Worm
+    - Deku Like
+    - Fire Toadpoli
+    - Ghoul Rat
+    - Helmasaur
+      - Helmasaurus
+    - Imp Poe
+    - Mini Freezard
+    - Phantom Rider
+    - Poison Mite
+    - Puppet
+    - Purple Chuchu
+    - Rare Chuchu
+    - ReDead Knight
+    - Stalhound
+    - Stalkin
+    - Staltroop
+    - Tile Worm
+    - Toado
+    - Water Toadpoli
+    - Young Gohma
+    - Zant Mask
+    - Zant's Hand
+  - Shadow Enemies
+    - Shadow Baba Serpent
+    - Shadiow Beast
+    - Shadow Bulblin
+      - Shadow Bulblin Archer
+    - Shadow Deku Baba
+    - Shadow Insects
+    - Shadow Kargarok
+    - Shadow Keese
+    - Shadow Vermin
+  - Bosses & Minibosses
+    - Argorok
+    - Armogohma
+    - Blizzeta
+    - Dangoro
+    - Darkhammer
+    - Death Sword
+    - Deku Toad
+    - Diababa
+    - Fyrus
+    - Lord Bullbo
+    - Morpheel
+    - King Bulblin
+    - Ook
+    - Phantom Zant
+    - Skull Kid
+    - Stallord
+    - Twilit Bloat
+    - Twilit Carrier Kargarok
+    - Zant
+    - Zelda
+- Phantom Hourglass
+  - Enemies
+    - Bellum's Slime Minion
+    - Craykling
+    - Eyeball Monster
+    - Eye Plant
+    - Eye Slug
+    - Flying Fish
+    - Miniblin
+    - Octomine
+    - Phantom
+    - Phantom Eye
+    - Pirate Miniblin
+    - Sandworm
+    - Squiddy
+    - Stag Beetle
+    - Stalfos Warrior
+    - Yook
+    - Zora Warrior
+  - Bosses & Minibosses
+    - Bellum
+    - Bellumbeck
+    - Blaaz
+    - Crayk
+    - Cubus Sisters
+    - Cyclok
+    - Dongorongo
+    - Eox
+    - Giant Eye Plant
+    - Massive Eye
+- Spirit Tracks
+  - Enemies
+    - Armored Train
+    - Big Blin
+    - Blastworm
+    - Cannon Boat
+    - Dark Train
+    - Ergotorok
+    - Fire Baba
+    - Geozard
+      - Geozard Chief
+    - Gerune
+    - Heatoise
+    - Helmet Chuchu
+    - Ice Chuchu
+    - Key master
+    - Lobarrier
+    - Malgyorg
+    - Moink
+    - Moldola
+    - Mounted Miniblin
+    - Nocturn
+    - Octive
+    - Land Octorok
+    - Water Octorok
+    - Rocktite
+    - Pirate Ship
+    - Sir Frosty
+    - Red Skultulla
+    - Snapper (New)
+    - Snurglar
+    - Snurgle
+    - Spinut
+    - Tank
+    - Vengas
+    - Torch Phantom
+    - Warp Phantom
+    - Wrecker Phantom
+  - Bosses & Minibosses
+    - Byrne
+    - Chancellor Cole
+    - Cragma
+    - Dark Link
+    - Demon Train
+    - Fraaz
+    - Malladus
+    - Phytops
+    - Skeldritch
+    - Stagnox
+- Skyward Sword
+  - Enemies
+    - Ampilus
+      - Ampilus Egg
+    - Aracha
+    - Cranioc
+    - Cursed Bokoblin
+    - Cursed Spume
+    - Dark Keese
+    - Dark Lizalfos
+    - Deku Hornet
+    - Earth Watcher
+    - Electro Spume
+    - Froak
+    - Furnix
+    - Guardian
+    - Hrok
+    - Magma Spume
+    - Magmanos
+    - Pyrup
+    - Quadro Baba
+    - Remlit
+    - Sentrobe
+      - Sentrobe Bomb
+    - Skytail
+    - Sky Watcher
+    - Staldra
+    - Technoblin
+    - Thunder Keese
+    - Walltulla
+    - Water Spume
+  - Bosses & Minibosses
+    - Bilocyte
+    - Demise
+    - Dreadfuse
+    - Ghirahim
+    - Imprisoned (Demise)
+    - Koloktos
+    - Levias
+    - Moldarach
+    - Scaldera
+    - Scervo
+    - Stalmaster
+    - Tentalus
+  - Miscellaneous
+    - Loftwing
+- A Link Between Worlds
+  - Enemies
+    - Dark Ghini
+    - Dark Lynel
+    - Dark Rat
+    - Fire Gimos
+    - Flamola
+    - Freezor
+    - Gimos
+    - Gyorm
+    - Ice Gimos
+    - Javelin Soldier
+    - Karat Crab
+    - Keeleon
+    - Light Ghini
+    - Lorule Spear Soldier
+    - Lorule Sword Soldier
+  - Bosses & Minibosses
+    - Gemesaur King
+    - Dharkstare
+    - Gigabari
+    - Grinexx
+    - Heedles
+    - Knucklemaster
+    - Margomill
+    - Stalblind
+    - Zaganaga
+- Tri Force Heroes
+  - Enemies
+    - Sandfish
+    - Super Aeralfos
+    - Totem Armos
+    - Totem Deku
+  - Bosses & Minibosses
+    - Blizzagia
+    - Electric Blob King
+    - Electric Blob Queen
+    - Freezlord
+    - Gigaleon
+    - Grim Repoe
+    - Hinox Brothers
+    - Lady
+    - Lady's Pets
+    - Margoma
+    - Prismantus
+    - Stalchampion
+    - Vulture Vizier

@@ -5,10 +5,10 @@ This wordlist is compiled by Austin Springer from a historical study of kasuto.n
 The following changes are being made:
 
 1. A new romanization scheme is used in place of the old romanization _and_ the old Hylian fonts. The goal of this transcription is to allow future versions of fonts and romanized text to be 1:1 equivalent to each other.
-2. The diphthong _oa_ is replaced with the modified _ö_.
+2. The diphthong _oa_ is replaced with the ATR-modified _ö_.
 3. The diphthong marker • is removed. Where a diphthong might be confused, as in _taiu_ (originally _ta•iu_), an apostrophe may be inserted after the second character of the diphthong.
 4. The letters _c_, _ch_, _ñ_, and _dh_ are added.
-5. The circumflex replaces the grave diacritic for modified vowels' _asënta_ forms. This is largely an aesthetic choice, though it relies on the fact that there are no longer symbols allocated specifically for diphthongs.
+5. The circumflex replaces the grave diacritic for ATR-modified vowels' _asënta_ forms. This is largely an aesthetic choice, though it relies on the fact that there are no longer symbols allocated specifically for diphthongs.
 6. Grammatical suffixes are not listed _independently_ in the wordlist. If you need a grammatical suffix, please check the relevant chapter for information on how to grammaticalize a word or apply a particular feature to a certain category of words.
 
 The _daksunare hilana_ on Kasuto.net does not even contain all of the words that are used in the documentation of the language, this wordlist does. Not all word forms are included, however -- specifically, of all the verbal forms, only the infinitive is included in this wordlist. Any word form which can be simply created by following the grammatical rules is likewise not included, in preference for singular nouns, singular adjectives, and simple pronouns.
