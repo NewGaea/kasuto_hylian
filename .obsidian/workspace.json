@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Gaea/grammar/01_introduction_context.md",
+                "file": "new_gaea_work/grammar/01_introduction_context.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Gaea/00_fonte_orig.md",
+                "file": "new_gaea_work/00_fonte_orig.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Gaea/lexicon/raw_wordlist.md",
+                "file": "archival/vinculum/hylian_community_wordlist.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGES.md",
+                "file": "new_gaea_work/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,6 +144,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "86db3cef8e65897a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -165,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGES.md",
+                "file": "new_gaea_work/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGES.md",
+                "file": "new_gaea_work/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGES.md"
+                "file": "new_gaea_work/Untitled.md"
               }
             }
           }
@@ -226,20 +234,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70fbec8f41436fe",
+  "active": "66e2078c4dd006bc",
   "lastOpenFiles": [
-    "New Gaea/lexicon/raw_wordlist.md",
+    "new_gaea_work/springer",
+    "archival/vinculum/community_word_suggestions/002_venus.md",
+    "new_gaea_work/Untitled.md",
+    "new_gaea_work/blog",
+    "archival/vinculum/community_word_suggestions/001_venus.md",
+    "archival/vinculum/hylian_community_wordlist.md",
+    "new_gaea_work/lexicon/raw_wordlist.md",
     "CHANGES.md",
+    "archival/vinculum/community_word_suggestions",
     "LICENSE.md",
     "grammar/advanced/00_hls_intro.md",
     "grammar/advanced",
     "grammar/basic",
-    "New Gaea/lexicon/a_d.md",
-    "New Gaea/07_arkthehn_orig.md",
-    "New Gaea/00_fonte_orig.md",
-    "New Gaea/grammar/01_introduction_context.md",
+    "new_gaea_work/lexicon/a_d.md",
+    "new_gaea_work/07_arkthehn_orig.md",
+    "new_gaea_work/00_fonte_orig.md",
+    "new_gaea_work/grammar/01_introduction_context.md",
     "Hylian Community Wordlist.md",
-    "archival/vinculum/hylian_community_wordlist.md",
     "lexicon/jerin_lexicon.md",
     "images",
     "contributors/venus.md",
@@ -248,17 +262,15 @@
     "archival/vinculum",
     "archival/kasuto_hli",
     "archival",
-    "New Gaea/grammar/03_orthography_font.md",
-    "New Gaea/grammar/04_basics.md",
+    "new_gaea_work/grammar/03_orthography_font.md",
+    "new_gaea_work/grammar/04_basics.md",
     "lexicon",
-    "grammar",
-    "New Gaea/lexicon/new_wordlist_2021.md",
+    "new_gaea_work/lexicon/new_wordlist_2021.md",
     "Ont Hilana (Interlinear of Thread).md",
-    "fonten/old_fonts/Hylian 3.1.ttf",
-    "New Gaea/08_lehrdishe_orig.md",
-    "New Gaea/06_nihmshehn_orig.md",
-    "New Gaea/05b_takwirten.md",
-    "New Gaea/04b_asonehn_orig.md",
-    "New Gaea/05_taktehn_orig.md"
+    "new_gaea_work/08_lehrdishe_orig.md",
+    "new_gaea_work/06_nihmshehn_orig.md",
+    "new_gaea_work/05b_takwirten.md",
+    "new_gaea_work/04b_asonehn_orig.md",
+    "new_gaea_work/05_taktehn_orig.md"
   ]
 }
