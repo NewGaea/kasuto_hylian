@@ -11,8 +11,30 @@
             "id": "5c8ae6dad20eeb0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "grammar/basic/99a_glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdc6e8b186c885ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68245f46edf857b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archival/new_gaea_work/03_wirtehn_orig.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "grammar/basic/99a_glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "grammar/basic/99a_glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "grammar/basic/99a_glossary.md"
+              }
             }
           }
         ]
@@ -148,9 +174,16 @@
   },
   "active": "5c8ae6dad20eeb0a",
   "lastOpenFiles": [
+    "grammar/basic/01-introduction-basic-rules.md",
+    "grammar/basic/99a_glossary.md",
+    "archival/new_gaea_work/03_wirtehn_orig.md",
+    "archival/new_gaea_work/04b_asonehn_orig.md",
+    "HLI Text Dump.md",
+    "grammar/basic/00-welcome.md",
+    "HLI Text Dump 2021.md",
+    "grammar/basic/00a-Index.md",
     "archival/new_gaea_work/00_fonte_orig.md",
     "archival/new_gaea_work/grammar/04_basics.md",
-    "archival/new_gaea_work/03_wirtehn_orig.md",
     "archival/new_gaea_work/04_sonehn_orig.md",
     "archival/austin_work/pages/resources/enemy-list.md",
     "lexicon/jerin_lexicon.md",
@@ -179,13 +212,6 @@
     "archival/austin_work/pages/resources/wordlist_kasuto.txt",
     "archival/austin_work/pages/resources/wordlist-complete.md",
     "archival/austin_work/pages/resources/Vinculum Letter Corruption Key.md",
-    "archival/austin_work/pages/resources/sample_texts.md",
-    "archival/austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
-    "archival/austin_work/pages/resources/hylian_dictionary_kharon.md",
-    "archival/austin_work/pages/resources/hylian_dictionary_kasuto.md",
-    "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
-    "archival/austin_work/pages/resources/grammar-dictionary.md",
-    "archival/austin_work/pages/verbs.md",
     "7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
     "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif"
   ]

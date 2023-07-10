@@ -27,7 +27,7 @@ Download the _Hylian Rounded_ TrueType font, version 2.1
 
 ![109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif](.\109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif)
 
-Download Kharon's Modern Hylian TrueType Font, version 1.0
+Download Austin's Modern Hylian TrueType Font, version 1.0
 
 ![](https://i.gyazo.com/8f0dfdf146686a00c905453898d51f7d.png)
 
