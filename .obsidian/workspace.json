@@ -4,102 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcc25003714d719",
+        "id": "57f7bcb604aa6a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "350f7f2ff0ee66e7",
+            "id": "07d69a4a66bfe5e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Gaea/grammar/01_introduction_context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06353cf06c0e8057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Gaea/00_fonte_orig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "294fbebb35edc428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Gaea/lexicon/raw_wordlist.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "215c4e8403346965",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccd25286535f187f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grammar/advanced/00_hls_intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "691385433e90405d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b70fbec8f41436fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a86fa35a19fbb511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexicon/hylian_lexicon_2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,6 +60,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "86db3cef8e65897a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -165,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CHANGES.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,39 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70fbec8f41436fe",
+  "active": "07d69a4a66bfe5e7",
   "lastOpenFiles": [
-    "New Gaea/lexicon/raw_wordlist.md",
-    "CHANGES.md",
-    "LICENSE.md",
+    "new_gaea_work/grammar/04_basics.md",
+    "new_gaea_work/03_wirtehn_orig.md",
+    "new_gaea_work/04_sonehn_orig.md",
+    "austin_work/pages/resources/enemy-list.md",
+    "lexicon/jerin_lexicon.md",
+    "lexicon/hylian_lexicon_2023.md",
+    "lexicon",
+    "images/109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif",
+    "images/7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
+    "images",
     "grammar/advanced/00_hls_intro.md",
     "grammar/advanced",
-    "grammar/basic",
-    "New Gaea/lexicon/a_d.md",
-    "New Gaea/07_arkthehn_orig.md",
-    "New Gaea/00_fonte_orig.md",
-    "New Gaea/grammar/01_introduction_context.md",
-    "Hylian Community Wordlist.md",
-    "archival/vinculum/hylian_community_wordlist.md",
-    "lexicon/jerin_lexicon.md",
-    "images",
-    "contributors/venus.md",
-    "lexicon/hylian_lexicon_2023.md",
-    "contributors",
-    "archival/vinculum",
-    "archival/kasuto_hli",
-    "archival",
-    "New Gaea/grammar/03_orthography_font.md",
-    "New Gaea/grammar/04_basics.md",
-    "lexicon",
-    "grammar",
-    "New Gaea/lexicon/new_wordlist_2021.md",
-    "Ont Hilana (Interlinear of Thread).md",
+    "fonten/old_fonts/Hylian 3.x.sfd",
     "fonten/old_fonts/Hylian 3.1.ttf",
-    "New Gaea/08_lehrdishe_orig.md",
-    "New Gaea/06_nihmshehn_orig.md",
-    "New Gaea/05b_takwirten.md",
-    "New Gaea/04b_asonehn_orig.md",
-    "New Gaea/05_taktehn_orig.md"
+    "contributors/venus.md",
+    "contributors",
+    "archival/vinculum/hylian_community_wordlist.md",
+    "archival/vinculum",
+    "New Gaea/grammar/03_orthography_font.md",
+    "New Gaea/grammar",
+    "New Gaea",
+    "LICENSE.md",
+    "CHANGES.md",
+    "austin_work/pages/literature/verse-mudora_history-sacred_realm.md",
+    "austin_work/pages/literature/song-taiu_zavokas_dono_trovag_bagu.md",
+    "austin_work/blog/20161021-reviewing-hylian.md",
+    "austin_work/blog/20161022-wotd-001.md",
+    "austin_work/pages/resources/wordlist_kasuto.txt",
+    "austin_work/pages/resources/wordlist-complete.md",
+    "austin_work/pages/resources/Vinculum Letter Corruption Key.md",
+    "austin_work/pages/resources/sample_texts.md",
+    "austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
+    "austin_work/pages/resources/hylian_dictionary_kharon.md",
+    "austin_work/pages/resources/hylian_dictionary_kasuto.md",
+    "austin_work/pages/resources/Hylian Community Dictionary.md",
+    "austin_work/pages/resources/grammar-dictionary.md",
+    "austin_work/pages/verbs.md",
+    "austin_work/pages/nouns.md",
+    "7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
+    "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif"
   ]
 }
