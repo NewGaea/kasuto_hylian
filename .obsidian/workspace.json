@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8941a747735b3110",
+        "id": "57f7bcb604aa6a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "21a23041b70cee38",
+            "id": "07d69a4a66bfe5e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "austin_work/pages/resources/enemy-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "austin_work/pages/resources/enemy-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "austin_work/pages/resources/enemy-list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,44 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66e2078c4dd006bc",
+  "active": "07d69a4a66bfe5e7",
   "lastOpenFiles": [
+    "new_gaea_work/grammar/04_basics.md",
+    "new_gaea_work/03_wirtehn_orig.md",
+    "new_gaea_work/04_sonehn_orig.md",
+    "austin_work/pages/resources/enemy-list.md",
+    "lexicon/jerin_lexicon.md",
+    "lexicon/hylian_lexicon_2023.md",
+    "lexicon",
+    "images/109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif",
+    "images/7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
+    "images",
+    "grammar/advanced/00_hls_intro.md",
+    "grammar/advanced",
+    "fonten/old_fonts/Hylian 3.x.sfd",
+    "fonten/old_fonts/Hylian 3.1.ttf",
+    "contributors/venus.md",
+    "contributors",
+    "archival/vinculum/hylian_community_wordlist.md",
+    "archival/vinculum",
+    "New Gaea/grammar/03_orthography_font.md",
+    "New Gaea/grammar",
+    "New Gaea",
+    "LICENSE.md",
+    "CHANGES.md",
     "austin_work/pages/literature/verse-mudora_history-sacred_realm.md",
     "austin_work/pages/literature/song-taiu_zavokas_dono_trovag_bagu.md",
     "austin_work/blog/20161021-reviewing-hylian.md",
     "austin_work/blog/20161022-wotd-001.md",
     "austin_work/pages/resources/wordlist_kasuto.txt",
-    "austin_work/pages/resources/wordlist_community.txt",
     "austin_work/pages/resources/wordlist-complete.md",
     "austin_work/pages/resources/Vinculum Letter Corruption Key.md",
     "austin_work/pages/resources/sample_texts.md",
     "austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
-    "austin_work/pages/resources/new 1.txt",
     "austin_work/pages/resources/hylian_dictionary_kharon.md",
     "austin_work/pages/resources/hylian_dictionary_kasuto.md",
-    "austin_work/pages/resources/Hylian Dictionary (Kasuto).txt",
-    "austin_work/pages/resources/Hylian Community Wordlist.txt",
-    "austin_work/pages/resources/Hylian Community Dictionary.txt",
     "austin_work/pages/resources/Hylian Community Dictionary.md",
-    "austin_work/pages/resources/enemy-list.md",
     "austin_work/pages/resources/grammar-dictionary.md",
     "austin_work/pages/verbs.md",
-    "austin_work/pages/resources",
     "austin_work/pages/nouns.md",
-    "austin_work/pages/literature",
-    "austin_work/pages/index.md",
-    "austin_work/pages/keymap.md",
-    "austin_work/pages/introduction-to-the-hylian-language.md",
-    "austin_work/pages/grammar-verbs.md",
-    "austin_work/pages/grammar-nouns.md",
-    "austin_work/pages/alphabet.md",
-    "austin_work/pages/fonts.md",
-    "austin_work/pages/alphabet.html",
-    "austin_work/pages",
-    "new_gaea_work/springer/verbs.md",
-    "new_gaea_work/springer/nouns.md",
-    "new_gaea_work/springer/keymap.md",
-    "new_gaea_work/springer/introduction-to-the-hylian-language.md",
     "7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
     "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif"
   ]

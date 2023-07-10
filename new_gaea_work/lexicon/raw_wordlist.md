@@ -1,3 +1,7 @@
+# Kasuto's Original Wordlist
+
+## A
+
 * **ab** (ab) _part._ direct object marker, the following phrase is the direct object of the verb
   * **az** (az) _contraction._ direct definite particle, contraction of _ab_ + _taz_, fill the role of both contracted words (_AS: I would rather use "abaz" and "araz" to contract DO+article, but this is the official form_)
 * **akantroshe** (a" kan tro' Se) _n._ present time, now (_not defined in `daksunare`, but context in `wirtën` suggests this meaning and that it is a compound of "akan + troshe"_)
@@ -31,6 +35,9 @@
 * **äktriu** (aek tri' u) _pn._ others
 * **aite** (ai' te) _n._ ai (_the name of the third letter of the Hylian alphabet_)
 * **aute** (au' te) _n._ au (_the name of the fourth letter of the Hylian alphabet_)
+
+## B
+
 * **baakantroshe\*** (ba a" kan tro' Se) _n._ future time (_not defined in `daksunare`, but context in `wirtën` suggests this meaning and that it is a compound of “bado + akan + troshe”; generally does not fit the rest of the language, see **\*badotroshe** instead_)
 * **bado** (ba' do) _prep._ after, beyond
 * **\*badotroshe** (ba" do tro' Se) _n._ future time, after time (_reconstructed from `daksunare` which defines "bado" as "after"_)
@@ -385,7 +392,7 @@
 * **woek**
   * **woeka** (wo e' ka) _adj._ wise, prudent
   * **woeke** (wo e' ke) _n._ wisdom, produence
-* **yaz** (jaz) _?_ already(?) (_AS: This word is attested in `wirtën`, and seems to fill the role of "already", but also seems like a potential undefined verbal adjunct_)
+* **yaz** (jaz) _?_ already(?) (_AS: This word is attested in `wirtën`, and seems to fill the role of "already", but also seems like a potential undefined verbal adjunct_; _JC: This word appears to be in the live version of Kasuto's Dictionary as a preposition meaning "already" as of 2023-Jul-02, did you possibly miss it in your last scan?_)
 * **yote** (jo' te) _n._ y (_the name of the thirty-seventh letter of the Hylian alphabet_)
 * **yovtag** (jov' tag) _v._ to arrive
 * **yuri** (jur' i) _expr._ please, may, might; used when making a polite request
