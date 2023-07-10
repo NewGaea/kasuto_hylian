@@ -293,7 +293,41 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **kosalan** (koh sah' lahn) _adjective._ 1. four hundred
 + **kosale** (koh sah' lay) _noun_ 1. four hundred
 + **kosan** (koh' sahn) _adjective._ 1. four
++ **kosasha** (koh sah' shah) _adjective._ 1. fourth
++ **kosashe** (koh sah' shay) _noun._ 1. the fourth
 + **kose** (koh' say) _noun._ 1. four
++ **kragag** (krah' gahg) _verb, expletive._ 1. to shit, to defecate
++ **krage** (krah' gay) _noun, expletive._ 1. shit, feces
++ **kriasha** (kree ah' shah) _adjective._ 1. created, made, manufactured
++ **kriashag** (kree ah' shahg) _verb._ 1. to create, to make
++ **kriashase** (kree'' ah shah' say) _noun._ 1. creator, maker
++ **kriashe** (kree ah' shay) _noun._ 1. creation, product
++ **krone** (kroh' nay) _noun._ 1. time, point or period in time. 2. tense (as of a verb)
++ **kuje** (koo' djay) _noun._ 1. ball, nut, nad, testicle; usually used as _kujën_, considered a vulgar form of reference to this part of the body
++ **kumi** (koo' mee) _honorific._ 1. friend, pal, buddy; used to refer to close friends
++ **kursiye** (koor see' yay) _noun._ 1. chair, seat
++ **kuzoi** (koo' zoy) _honorific._ 1. sir, ma'am; a generic term to refer to anybody, makes no assumptions about intimacy or social class
++ **kúziloi** (koo' zee loy) _honorific, masculine._ 1. sir
++ **kúzinoi** (koo' zee noy) _honorific, feminine._ 1. miss, madam, ma'am
++ **kwa** (kwah) _pronoun._ 1. that, who, which, whom; used to introduce relative clauses
++ **kwano** (kwah' noh) _pronoun._ 1. when, what time
+
+## L
+
++ **lañve** (lahng' vay) _noun._ 1. language
++ **lërdag** (lehr' dahg) _verb._ 1. to read
++ **lërde** (lehr' day) _noun._ 1. book
++ **lërdishe** (lehr dee' shay) _noun._ 1. literature, written work
++ **lete** (lay' tay) _noun._ 1. l; the name of the twenty-first leter of the Classical Hylian _aktaite_
++ **linta** (leen' tah) _adjective._ 1. intelligent, knowledgeable
++ **lintag** (leen' tahg) _verb._ 1. to learn, to study
++ **lintase** (leen tahs' ay) _noun._ 1. student, researcher
++ **linte** (leen' tay) _noun._ 1. knowledge, information, data
++ **lo** (loh) _conjunction._ 1. as, like 2. so, so that, in order to
+
+## M
+
++ **mala**
 
 ## ZH
 
