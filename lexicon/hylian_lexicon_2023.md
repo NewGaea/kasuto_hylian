@@ -327,7 +327,62 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 
 ## M
 
-+ **mala**
++ **malan** (mah' lahn) _adjective._ 1. one thousand, thousand
++ **malasha** (mah lah' shah) _adjective._ 1. thousandth
++ **male** (mah' lahg) _noun._ 1. thousand
++ **masa** (mah' sah) _adjective._ 1. many
++ **mashta** (mahsh' tah) _adjective._ 1. majestic, glorious _honorific._ 2. sire, liege, lord, ruler; used when addressing ruling leaders, especially king, queen, or princess
++ **mate** (mah' tay) _noun._ 1. m; the name of the twenty-second letter of the Classical Hylian _aktaite_
++ **miara** (mee ahr' ah) _adjective._ 1. visible 2. spectacular, showy
++ **miarag** (mee ahr' ahg) _verb._ 1. to see, to watch, to observe
++ **miarase** (mee'' ahr ah' say) _noun._ 1. viewer, watcher, observer
++ **miare** (mee ahr' ay) _noun._ 1. sight, vision 2. sight, spectacle, show
++ **minaze** (mee nah' zay) _noun._ 1. morning, dawn; the period of time from early dawn until noon.
++ **minazi** (mee nah' zee) _noun, topical_ 1. this morning; used to establish a topic of discussion or in certain commonplace expressions, especially as a greeting
++ **minazini** (mee nah' zee nee) _noun, contratopical_ 1. this morning; used to disestablish a topic of discussion, or in certain commonplace expressions, especially as a valediction or farewell
++ **moka** (moh' kah) _adjective._ 1. much, many, a great amount
++ **möstrag** (maws' trahg) _verb._ 1. to show, to reveal
+
+## N
+
++ **naistra** (neyes' tra) _adjective._ 1. twilit, dusky, reddish, shadowed
++ **naistre** (neyes' tray) _noun._ 1. twilight, dusk, evening, early night
++ **naistri** (neyes' tree) _noun, expression._ 1. evening, night; usually used in greetings lat in the day
++ **naistrini** (neyes tree' nee) _noun, expression._ 1. evening, night; usually used as a valediction or farewell
++ **nana** (nah' nah) _adjective._ 1. not, negative
++ **nane** (nah' nay) _noun._ 1. no, nonexistence
++ **nani** (nah' nee) _expression._ 1. no, nope
++ **nasuna** (nah soo' nah) _adjective._ 1. dark
++ **nasune** (nah soo' nay) _noun._ 1. darkness
++ **nasha** (nah' shah) _adjective._ 1. called, named
++ **nashag** (nah' shahg) _verb._ 1. to name, to call by a name
++ **nashase** (nah shah' say) _noun._ 1. namer
++ **nashe** (nah' shay) _noun._ 1. name, title
++ **naz** (nahz) _adjunct, verb._ 1. to not _verb_; creates a sense of the verb it precedes not happening, or not being completed for the perfect tenses, this adjunct goes between the subject phrase and the verb, and before any other adjuncts
++ **niatore** (nee'' ah tohr' ay) _noun._ 1. institute, university, organization; especially used for groups which are focused on the development, recording, preserving, an sharing of knowledge
++ **nidëman** (nee deh' mahn) _adjective._ 1. ninety
++ **nidëme** (nee deh' may) _noun._ 1. ninety
++ **nïmsha** (nihm' shah) _adjective._ 1. numeric 2. mathematical
++ **nïmshag** (nihm' shahg) _verb._ 1. to calculate, to do mathematics
++ **nïmshe** (nihm' shay) _noun._ 1. number
++ **nisalan** (nee sah' lahn) adjective. 1. nine hundred
++ **nisale** (nee sah' lay) _noun._ 1. nine hundred
++ **nivan** (nee' vahn) _adjective._ 1. nine
++ **nivasha** (nee vah' shah) _adjective._ 1. ninth
++ **nivashe** (nee vah' shay) _noun._ 1. the ninth
++ **nive** (nee' vay) _noun._ 1. nine
++ **nosu** (noh' soo) _pronoun, personal_ 1. we, us
++ **note** (noh' tay) _noun._ 1. n; the name of the twenty-third letter of the Classical Hylian _aktaite_
+
+## O - Ó
+
++ **ondëman** (ohn deh' mahn) _adjective._ 1. eighty
++ **ondëme** (ohn deh' may) _noun._ eighty
++ **ont** (ohnt) _preposition._ 1. in, on, at
++ **ontan** (ohn' tan) _adjective._ 1. eight
++ **ontasha** (ohn tah' shah) _adjective._ 1. eighth
++ **ontashe** (ohn tah' shay) _noun._ 1. the eighth
++ **onte** (ohn' tay) _noun._ 1. eight
 
 ## ZH
 
