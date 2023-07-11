@@ -83,9 +83,9 @@ And even after all of this, [several letters that were added to the language](ht
 | khate | K | U+004B | K |<br />
 | dhënte | D | U+0044 | D |<br />
 | ûkte | û | U+00FB | \^u |<br />
-| cunte | c | U+0063 | c |<br />
+| acete | c | U+0063 | c |<br />
 | chäte | C | U+0043 | C |<br />
-| añve | ñ | U+00F1 | \~n |<br />
+| añate | ñ | U+00F1 | \~n |<br />
 
 Where these conflict with the chart above, the later description is the most current, but only if you are using fonts provided from the Hylian Language Institute Mirror.
 
@@ -100,12 +100,12 @@ Default Keystrokes:
 | \` | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | - | = | BKSP |<br />
 | TAB | _ | wante | ete | rote | tote | yote | ute | ite | ote | pate | \[ | \] | \\ |<br />
 | CAP | akte | sate | date | fete | gante | hënte | jate | kate | lete | ; | ' | ENTER |<br />
-| SHIFT | zante | xate | cunte | vete | bete | note | mate | , | . | / | SHIFT |<br />
+| SHIFT | zante | xate | acete | vete | bete | note | mate | , | . | / | SHIFT |<br />
 | CTRL | WIN | ALT | SPACE | ALT | WIN | ALTGR | CTRL |
 
 If you are using the US input method, this is all you will get, whether you use uppercase or lowercase. However, if you use US International or Hylian Simple the following keystrokes will act as dead keys:
 
-- \' will allow you to mark the next letter (vowels only) as _asenta_ and will put the _asenta_ form of a normal vowel -- the form transliterated with an acute accent.
+- \' will allow you to mark the next letter (vowels only) as _asënta_ and will put the _asënta_ form of a normal vowel -- the form transliterated with an acute accent.
 - \" will allow you to mark the next letter (vowels only) as _kibara_ and will put the alternate form of a normal vowel -- the form transliterated with a dieresis marker.
 - \^ will allow you to mark the next letter (vowels only) as _kibara asenta_ and will put the _asenta_ form of a _kibara_ vowel -- the form transliterated with a circumflex marker.
 - \~n will allow you to type **ñ**.
@@ -114,7 +114,7 @@ In addition to the above, if you are using Hylian Simple, the following features
 
 - The following characters will create a dead character before printing, waiting for the listed characters to follow them.
   - **c**, **d**, **j**, **k**, **s**, and **t** will each create a dead stroke waiting for the letter \/h\/ to decide if their default form or digraph variant should be used. This is the recommended way of generating _chäte_, _dhënte_, _jhete_, _shïnte_, and _thate_. While not recommended, it will still properly produce _xate_.
-  - **n** will create a dead stroke waiting for the letter \/g\/, in order to produce _añve_.
+  - **n** will create a dead stroke waiting for the letter \/g\/, in order to produce _añate_.
   - The vowels which begin diphthongs will also create dead strokes:
     - **a** will look for \/i\/ or \/u\/ to complete _aite_ or _aute_
     - **á** will look for \/i\/, \/u\/, \/í\/ or \/ú\/ to complete _aite asente_ or _aute asenta_
@@ -126,7 +126,7 @@ In addition to the above, if you are using Hylian Simple, the following features
 - **\~** will allow you to use all of the "old-style" keystrokes to complete any consonant that transliterates as a digraph:
   - **\~c** will create _chäte_
   - **\~d** will create _dhënte_
-  - **\~j** will create _jhete_
+  - **~j** will create _jhete_
   - **\~k** will create _xate_ (this is not recommended, as _xate_ is mapped to x, but is allowed)
   - **\~s** will create _shïnte_
   - **\~t** will create _thate_

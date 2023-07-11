@@ -27,7 +27,7 @@ In Hylian, all verbs are regular. That means that they all follow the same conju
 * **Past**: _tair_ + _-es_ = _taires_ (was, were)
 * **Future**: _tair_ + _-os_ = _tairos_ (will be)
 
-In addition, you can create a perfect state, indicating if an action is completed or not, simply by replacing the _-s_ at the end of these tenses with _-nt_.
+In addition, you can create a perfect tense, indicating if an action is completed or not, simply by replacing the _-s_ at the end of these tenses with _-nt_.
 
 * **Present Perfect**: _tair_ + _-ant_ = _tairant_ (have been)
 * **Past Perfect**: _tair_ + _-ent_ = _tairent_ (had been)

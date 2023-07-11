@@ -1,3 +1,6 @@
+# Hylian Typing
+---
+
 | **Hylian Text** | **Keystroke** | **Transliteration** | **Name** | **Pronunciation** |
 |:---------------:|:-------------:|:-------------------:|:--------:|:------:|
 |![image](font_print/akte.png)|a|a|akte (AHK-tay)|Like the a in "father".|
@@ -25,8 +28,8 @@
 |![image](font_print/iute_asehnta.png)|Î|íú|iute asënta (YOU-tay ah-SENN-tah)|Accented version of the above letter, used in words that do not follow the normal stress pattern. This is not considered a seperate letter, it is a different form of i.ute.|
 |![image](font_print/jate.png)|j|j|jate (JAH-tay)|Pronounced the same as English j or soft g.|
 |![image](font_print/jhete.png)|J|jh|jhete (ZHAY-tay)|Like the s in "measure", or j in French "Jacques".|
-||c, k|k|kate (KAH-tay)|Pronounced the same as English k.|
-||kh|x|khate (KHAH-tay)|This sound doesn't exist in English. It is similar to the German "ch", like in Bach, or the arabic letter|
+|![image](font_print/kate.png)|c, k|k|kate (KAH-tay)|Pronounced the same as English k.|
+|![image](font_print/khate.png)|kh|x|khate (KHAH-tay)|This sound doesn't exist in English. It is similar to the German "ch", like in Bach, or the arabic letter|
 |![image](font_print/lete.png)|l|l|lete (LAY-tay)|Pronounced the same as English l.|
 |![image](font_print/mate.png)|m|m|mate (MAH-tay)|Pronounced the same as English m.|
 |![image](font_print/note.png)|n|n|note (NO-tay)|Pronounced the same as English n.|
@@ -34,8 +37,8 @@
 ||ó|ó	ote asënta (OH-tay ah-SENN-tah)|Accented version of the above letter, used in words that do not follow the normal stress pattern. This is not considered a seperate letter, it is a different form of ote.|
 |![image](font_print/ote.png)![image](font_print/akte.png)|õ|oa|toate (TAW-tay)|Like the aw in "law". This is a diphthong that is a combination of ote and akte. It is pronounced as a single sound.|
 ||Õ|óá|toate asënta (TAW-tay ah-SENN-tah)|Accented version of the above letter, used in words that do not follow the normal stress pattern. This is not considered a seperate letter, it is a different form of to·ate. Note that both vowels bear accent marks when transliterated.
-|![image](font_print/ote.png)![image](font_print/ite.png)|O|oi	oite (OY-tay)|Like the oy in "boy". This is a dopthong that is a combination of ote and ite. It is pronounced as a single sound.|
-||ô|óí	oite asënta (OY-tay ah-SENN-tah)|Accented version of the above letter, used in words that do not follow the normal stress pattern. This is not considered a seperate letter, it is a different form of oite. Note that both vowels bear accent marks when transliterated.|
+|![image](font_print/ote.png)![image](font_print/ite.png)|O|oi|oite (OY-tay)|Like the oy in "boy". This is a dopthong that is a combination of ote and ite. It is pronounced as a single sound.|
+||ô|óí|oite asënta (OY-tay ah-SENN-tah)|Accented version of the above letter, used in words that do not follow the normal stress pattern. This is not considered a seperate letter, it is a different form of oite. Note that both vowels bear accent marks when transliterated.|
 |![image](font_print/pate.png)|p|p|pate (PAH-tay)|Pronounced the same as English p.|
 |![image](font_print/rote.png)|r|r|rote (ROW-tay)|Pronounced the same as English r.|
 |![image](font_print/sate.png)|s|s|sate (SAH-tay)|Pronounced the same as English s. It is always pronounced like the s in "sit". It never sounds like the s in "dogs".|

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/basic/99a_glossary.md",
+                "file": "archival/austin_work/pages/keymap.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archival/new_gaea_work/03_wirtehn_orig.md",
+                "file": "archival/new_gaea_work/00_fonte_orig.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/basic/99a_glossary.md",
+                "file": "archival/new_gaea_work/00_fonte_orig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grammar/basic/99a_glossary.md",
+                "file": "archival/new_gaea_work/00_fonte_orig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/basic/99a_glossary.md"
+                "file": "archival/new_gaea_work/00_fonte_orig.md"
               }
             }
           }
@@ -172,47 +172,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c8ae6dad20eeb0a",
+  "active": "d68245f46edf857b",
   "lastOpenFiles": [
-    "grammar/basic/01-introduction-basic-rules.md",
-    "grammar/basic/99a_glossary.md",
+    "archival/austin_work/pages/keymap.md",
+    "archival/new_gaea_work/00_fonte_orig.md",
+    "fonten/font_screen/42-wookte-asehnta.png",
+    "fonten/font_screen/41-wookte.png",
+    "fonten/font_screen/56-numeral-9-nine.png",
+    "fonten/font_screen/55-numeral-8-eight.png",
+    "fonten/font_screen/54-numeral-7-seven.png",
+    "fonten/font_screen/53-numeral-6-six.png",
+    "fonten/font_screen/52-numeral-5-five.png",
+    "fonten/font_screen/51-numeral-4-four.png",
+    "fonten/font_screen/50-numeral-3-three.png",
+    "fonten/font_screen/49-numeral-2-two.png",
+    "archival/austin_work/pages/fonts.md",
+    "archival/austin_work/pages/alphabet.md",
+    "archival/austin_work/pages/grammar-verbs.md",
+    "archival/austin_work/pages/grammar-nouns.md",
+    "archival/austin_work/pages/resources/enemy-list.md",
+    "archival/austin_work/pages/resources/grammar-dictionary.md",
+    "archival/austin_work/pages/nouns.md",
+    "archival/austin_work/pages/introduction-to-the-hylian-language.md",
+    "archival/austin_work/pages/index.md",
+    "archival/austin_work/blog/20161022-wotd-001.md",
+    "archival/austin_work/blog/20161021-reviewing-hylian.md",
+    "archival/new_gaea_work/01_nioshe_orig.md",
+    "Hylian Typing.md",
+    "archival/new_gaea_work/02_aktaie_orig.md",
     "archival/new_gaea_work/03_wirtehn_orig.md",
-    "archival/new_gaea_work/04b_asonehn_orig.md",
     "HLI Text Dump.md",
+    "grammar/basic/99a_glossary.md",
+    "grammar/basic/01-introduction-basic-rules.md",
+    "archival/new_gaea_work/04b_asonehn_orig.md",
     "grammar/basic/00-welcome.md",
     "HLI Text Dump 2021.md",
     "grammar/basic/00a-Index.md",
-    "archival/new_gaea_work/00_fonte_orig.md",
     "archival/new_gaea_work/grammar/04_basics.md",
-    "archival/new_gaea_work/04_sonehn_orig.md",
-    "archival/austin_work/pages/resources/enemy-list.md",
-    "lexicon/jerin_lexicon.md",
-    "lexicon/hylian_lexicon_2023.md",
     "lexicon",
-    "images/109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif",
-    "images/7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
     "images",
-    "grammar/advanced/00_hls_intro.md",
     "grammar/advanced",
     "fonten/old_fonts/Hylian 3.x.sfd",
     "fonten/old_fonts/Hylian 3.1.ttf",
-    "contributors/venus.md",
     "contributors",
-    "archival/vinculum/hylian_community_wordlist.md",
     "archival/vinculum",
-    "New Gaea/grammar/03_orthography_font.md",
     "New Gaea/grammar",
     "New Gaea",
-    "LICENSE.md",
-    "CHANGES.md",
-    "archival/austin_work/pages/literature/verse-mudora_history-sacred_realm.md",
-    "archival/austin_work/pages/literature/song-taiu_zavokas_dono_trovag_bagu.md",
-    "archival/austin_work/blog/20161021-reviewing-hylian.md",
-    "archival/austin_work/blog/20161022-wotd-001.md",
-    "archival/austin_work/pages/resources/wordlist_kasuto.txt",
-    "archival/austin_work/pages/resources/wordlist-complete.md",
-    "archival/austin_work/pages/resources/Vinculum Letter Corruption Key.md",
-    "7a62919608d1302c0429d5f60e7ee4f2b3642fc8.gif",
-    "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif"
+    "archival/austin_work/pages/resources/wordlist_kasuto.txt"
   ]
 }
