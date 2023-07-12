@@ -378,11 +378,74 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 
 + **ondëman** (ohn deh' mahn) _adjective._ 1. eighty
 + **ondëme** (ohn deh' may) _noun._ eighty
++ **onsalan** (ohn sah' lahn) _adjective._ 1. eight hundred
++ **onsale** (ohn sah' lay) _noun._ 1. eight hundred
 + **ont** (ohnt) _preposition._ 1. in, on, at
 + **ontan** (ohn' tan) _adjective._ 1. eight
 + **ontasha** (ohn tah' shah) _adjective._ 1. eighth
 + **ontashe** (ohn tah' shay) _noun._ 1. the eighth
 + **onte** (ohn' tay) _noun._ 1. eight
++ **opzhe** (ohp' zhay) _noun._ 1. eye; usually used in the plural as _opzhën_
++ **ote** (oh' tay) _noun._ 1. o, ó; the name of the twenty-fifth letter of the Classical Hylian _aktaite_
+
+## Ö - Ô
+
++ NYR - no words yet recorded
+
+## P
+
++ **pankste** (pahnk' stay) _noun._ 1. pastry, sweetbread
++ **pankta** (pahnk' tah) _adjective._ 1. able, capable
++ **panktag** (pahnk' tahg) _verb, auxiliary._ 1. to be capable, to be able; usually used in combination with another verb, seldom used alone unless it is acting as a pro-verb
++ **pankte** (pahnk' tay) _noun._ 1. ability, capacity to do
++ **pansag** (pahn' sahg) _verb._ 1. to happen, to occur
++ **panse** (pahn' say) _noun._ 1. happening, occurence, event
++ **pandëman** (pahn deh' mahn) _adjective._ 1. fifty
++ **pandëme** (pahn deh' may) _noun._ 1. fifty
++ **pansalan** (pahn sah' lahn) _adjective._ 1. five hundred
++ **pansale** (pahn sah' lay) _noun._ 1. five hundred
++ **pantan** (pahn' tahn) _adjective._ 1. five
++ **pantasha** (pahn tah' shah) _adjective_ 1. fifth
++ **pantashe** (pahn tah' shay) _noun._ 1. the fifth
++ **pante** (pahn' tay) _noun._ 1. five
++ **pate** (pah' tay) _noun._ 1. p; name of the wenty-seventh letter of the Classical Hylian _aktaite_
++ **piante** (pee ahn' tay) _noun._ 1. parent, legal guardian
++ **piántile** (pee ahn' tee lay) _noun, masculine._ 1. father
++ **piántine** (pee ahn' tee nay) _noun, feminine._ 1. mother
++ **poedra** (poh ay' drah) _adjective._ 1. powerful, strong 2. compelling
++ **poedre** (poh ay' dray) _noun._ 1. power, strength 2. 
+
+## R
+
++ **rauka** (row' kah) _adjective._ 1. progressive, continuous
++ **raukag** (row' kahg) _verb._ 1. to progress, to continue
++ **rauke** (row' kay) _noun._ 1. progress, continuation
++ **raz** (rahz) _article._ 1. a, an; indefinite article
++ **riu** (ree' oo) _pronoun, personal._ 1. one, you, a (generic) person
++ **rote** (roh' tay) _noun._ 1. r; name of the twenty-eighth letter of the Classical Hylian _aktaite_
++ **ru** (roo) _pronoun, personal._ 1. it, they (singular)
++ **rúpie** (roo' pee ay) _noun._ 1. rupee; the primary currency of Hyrule and its neighboring lands
++ **ruzantaze** (roo'' zahn tah' zay) _noun, proper._ 1. Ruzäntas; the dynastic name of the ruling family of Hyrule from the Era of Time until the Nohansen dynasty arose some four to five generations later
+
+## S
+
++ **sajanáí** (sah djah neye') _expression._ 1. goodbye, farewell; inspired by the Japanese terms さようなら and じゃね as wys to say goodbye
++ **salan** (sah' lahn) _adjective._ 1. hundred, one hundred
++ **salashan** (sah lah' shahn) _adjective._ 1. hundredth
++ **salashe** (sah lah' shay) _noun._ 1. the one hundreth
++ **sale** (sah' lay) _noun._ 1. hundred, one hundred
++ **sate** (sah' tay) _noun._ 1. s; name of the twenty-ninth letter of the Classical Hylian _aktaite_
++ **sënshi** (sehn' shee) _noun, honorific._ 1. master, teacher, doctor, instructor, tutor; this title is used primarily for educators rather than simply the well-educated
++ **sënte** (sehn' tay) _noun._ 1. mood, feeling
++ **sëru** (sehr' oo) _pronoun, personal._ 1. she, her
++ **siafire** (see'' ah fee' ray) _noun._ 1. sapphire
++ **siëru** (see ehr' oo) _pronoun, personal._ 1. hey, them (feminine)
++ **sikwala** (see kwah' lah) _adjective._ 1. quiet, silent
++ **sikwale** (see kwah' lay) _noun._ 1. silence, quietness
++ **sikwalok** (see kwah' lohk) _adverb._ 1. silently, quietly
++ **sïlra** (sihl' rah) _adjective._ 1. gone
++ **sïlrag** (sihl' rahg) _verb._ 1. to leave, to separt, to go away
++ **sïlre** (sihl' ray) _noun._ 1. departure
 
 ## ZH
 
