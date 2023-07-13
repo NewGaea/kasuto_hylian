@@ -439,13 +439,58 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **sënte** (sehn' tay) _noun._ 1. mood, feeling
 + **sëru** (sehr' oo) _pronoun, personal._ 1. she, her
 + **siafire** (see'' ah fee' ray) _noun._ 1. sapphire
++ **sidëman** (see deh' mahn) _adjective._ 1. seventy
++ **sidëme** (see deh' may) _noun._ 1. seventy
 + **siëru** (see ehr' oo) _pronoun, personal._ 1. hey, them (feminine)
 + **sikwala** (see kwah' lah) _adjective._ 1. quiet, silent
 + **sikwale** (see kwah' lay) _noun._ 1. silence, quietness
 + **sikwalok** (see kwah' lohk) _adverb._ 1. silently, quietly
++ **sisalan** (see sah' lahn) _adjective._ 1. seven hundred
++ **sisale** (see sah' lay) _noun._ 1. seven hundred
++ **sitan** (see' tahn) _adjective._ 1. seven
++ **sitasha** (see tah' shah) _adjective._ 1. seventh
++ **sitashe** (see tah' shay) _noun._ 1. the seventh
++ **site** (see' tay) _noun._ 1. seven
 + **sïlra** (sihl' rah) _adjective._ 1. gone
 + **sïlrag** (sihl' rahg) _verb._ 1. to leave, to separt, to go away
 + **sïlre** (sihl' ray) _noun._ 1. departure
++ **skoshe** (skoh' shay) _noun._ 1. excuse, permission, allowance
++ **skoshi** (skoh' shee) _noun, expression._ 1. excuse me, pardon me; this expression is most often used to show politeness when entering another person's personal space, whether physical or metaphorical
++ **skuze** (skoo' zay) _noun._ 1. attention, focus
++ **skuzi** (skoo' zee) _noun, expression._ 1. excuse me, listen to me, may I have your attention; this expression is mostly used to draw attention
++ **sone** (soh' nay) _noun._ 1. noun
++ **sora** (soh' rah) _adjective._ 1. zero, none, no (quantity)
++ **sorasha** (soh rah' shah) _adjective._ 1. zeroth, null
++ **sorashe** (soh rah' shay) _noun._ 1. the zeroth, the nil, the null
++ **sore** (soh' ray) _noun._ 1. zero
+
+## SH
+
++ **sha** (shah) _verbal adjunct._ 1. must, shall; super-imperative adjunct, establishes a polite command, rule, or request when paired with the present tense
++ **shai** (sheye) _verbal adjunct._ 1. may, might; subjunctive verbal adjunct, establishes a mood of reliance, uncertainty, or possibility, and only works alongside the present tenses
++ **she** (shay) _verbal adjunct._ 1. should, ought to; imperative verbal adjunct, establishes a milder imperative mood similar to suggestion, advice, or lesser commands, can only be used with the present tense
++ **shekana** (shay kah' nah) _adjective._ 1. Sheikah, Sheikan; describes a person or object belong to or made by the Sheikah
++ **shekane** (shay kah' nah) _noun._ 1. Sheikah (person) 2. Sheikah (language)
++ **shëmsa** (shehm' sah) _adjective._ 1. solar, of or related to the sun
++ **shëmse** (shehm' say) _noun._ 1. sun; especially of Hyrule's world
++ **shi** (shee) _verbal adjunct._ 1. is, am; progressive verbal adjunct, creates a continuous, incomplete mood
++ **shije** (shee' djay) _noun._ 1. breast, mammary; usually used in plural form as _shijën_, considered a base, common, or vulgar anatomical term
++ **shite** (shee' tay) _noun, verbal adjunct._ 1. self 2. to oneself; reflexive verbal adjunct, creates the reflexive mood, or a vebr being done by the agent to themself
++ **shiu** (shee' oo) _verbal adjunct._ is, was; passive verbal adjunct, creates a passive voice which places the subject into a patient role
++ **shïnte** (shihn' tay) _noun._ 1. sh, S; name of the thirtieth letter of the Classical Hylian _aktaite_
++ **sho** (shoh) _verbal adjunct._ 1. used to, was doing; imperfect verbal adjunct, creates an incomplete tense and only applies to the simple past tense
++ **shoi** (shoy) _verbal adjunct._ 1. should, ought; conditional verbal adjunct, creates mood of a reliance or dependance on a codition, usually paired with a conditional phrase, only applies to the present tense
++ **shu** (shoo) _verbal adjunct._ 1. can, could; conditional ability adjunct, creates a mood of potential connected to a condition, the adjunct itself primarily connects to present tenses, while the conditional clause will typically be in a past tense
++ **shuloi** (shoo' loy) _honorific._ 1. sir, ma'am; attached to an individual's family name or home (town, region, nation), gender neutral
++ **shúliloi** (shoo' lee loy) _honorific._ 1. sir, mister; as _shuloi,_ but only used for men or masculine individuals
++ **shúlinoi** (shoo' lee noy) _honorific._ 1. miss, mistress, missus; as _shuloi,_ but only used for women or feminine individuals
+
+## T
+
++ **taktag** (tahk' tahg) _verb._ to describe
++ **takte** (tahk' tay) _noun._ 1. description 1. adjective
+
+## TH
 
 ## ZH
 
