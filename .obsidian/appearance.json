@@ -1,8 +1,11 @@
 {
-  "accentColor": "",
-  "textFontFamily": "Palatino",
-  "baseFontSize": 16,
+  "accentColor": "#e7bc23",
+  "textFontFamily": "Tinos,Palatino Linotype",
+  "baseFontSize": 17,
   "enabledCssSnippets": [
-    "hylian_text"
-  ]
+    "hylian_text",
+    "aside"
+  ],
+  "interfaceFontFamily": "Lucida Sans Unicode,Arimo",
+  "monospaceFontFamily": "Input Mono"
 }

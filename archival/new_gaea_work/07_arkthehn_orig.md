@@ -4,6 +4,20 @@
 
 I have compiled a list of commonly used expressions that will help you in your travels. They include greetings, salutations, and other phrases. Here are some examples.
 
+### Greetings & Salutations
+
+| Hylian (Kas) | Romanized | English |
+|:-------------|:----------|:--------|
+| <span class="hylian_kas">oh@o</span> | ohai.o | Hello |
+| <span class="hylian_kas">sajan&lt;</span> | sajaná.í | Goodbye; Farewell |
+| <span class="hylian_kas">vina minazi</span> | Vina minazi | Good morning |
+| <span class="hylian_kas">vina minazini</span> | Vina minazini | Good morning |
+| <span class="hylian_kas">Vina t^dri</span> | Vina ti.udri | Good afternoon; Good day |
+| <span class="hylian_kas">vina t^drini</span> | Vina ti.udrini | Good afternoon; Good day |
+| <span class="hylian_kas">vina n@stri</span> | Vina na.istri | Good evening; Good night |
+| <span class="hylian_kas">vina n@strini</span> | Vina na.istrini | Good evening; Good night |
+
+
 <table>
   <tr>
     <th colspan=2>Greetings & Salutations</th>

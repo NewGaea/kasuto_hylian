@@ -2,6 +2,20 @@
 
 The following are lists of changes made to the Hylian Language since 2023-Jul-01, with the newest and most relevant changes listed nearest to the top.
 
+## 2023-Jul-13
+
++ Converted all `.txt` files in the project to `.md` files. No structoral changes made at present.
++ Most old files now organized for initial work.
++ Set up a Kanban board within the vault to create and track tasks.
++ **Archive Processing**
+	+ [Kasuto archive](archival/kasuto_hli/) extracted from text dump, missing **Pronouns** and **Literature** sections
+		+ Cleaning up files from extractions
+			+ Converting tables from nothing or HTML
+			+ Spellchecking Kasuto's English as we go
+		+ Learning more quirks of Kasutan font mapping
+	+ [Vinculum archive](archival/vinculum/) starting to be split into single-post notes
+	+ 
+
 ## 2023-Jul-09
 
 + New introduction written.

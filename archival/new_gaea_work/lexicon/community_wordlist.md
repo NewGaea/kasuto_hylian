@@ -171,7 +171,7 @@ _**NOTE:** The words under this heading have no definition at this point in time
   * **\*hakwag** (hak' wag) _v._ to become helpless
 * **\*hand** ("QBri")
   * **\*handa** (han' da) _adj._ received
-  * **\*handag** (han' dag) _v._ to get, to receive
+  * **\*handag** (han' dag) _v._ to get, to receive`
   * **\*hande** (han' de) _n._ prize, purchase
 * **\*haijh** ("QBri": proposed _haiag_ as \[to run\]; "Austin Springer": added _jh_ to prevent confusion with _hai_ \[yes\])
   * **\*haijha** (hai' Za) _adj._ hurried, rushed
@@ -262,6 +262,7 @@ _**NOTE:** The words under this heading have no definition at this point in time
 * **\*kêule** (kë' u le) _n._ fish ("Oluademi Wolfwood")
 * **\*këum** ("QBri": suggested _këume_ as \[trouble\])
   * **\*këuma** (kE u' ma) bad, wrong
+  * **\*keumag** (kE u' mag) to trouble, to challenge, to bother
   * **\*këume** (kE u' me) trouble, wrongdoing
 * **\$kiane** (ki a' ne) _n._ bicycle ("QBri")
 * **kim\*** ("Austin Springer": based on an observation from _Venus_ and the contents of `arkthën` about _kimiloi_ and _kiminoi_, these forms seem like they may simply be undocumented Hylian words from Kasuto's own lexicon)

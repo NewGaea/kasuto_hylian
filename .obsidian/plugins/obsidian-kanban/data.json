@@ -1,0 +1,7 @@
+{
+  "new-line-trigger": "enter",
+  "archive-date-format": "YYYYYYMMDD.HHMM",
+  "archive-date-separator": ".",
+  "new-note-folder": "kanban",
+  "show-checkboxes": true
+}

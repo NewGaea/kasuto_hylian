@@ -182,12 +182,12 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **goeara** (goh'' ay ahr' ah) _adjective._ 1. enjoyable, pleasant
 + **goearag** (goh'' ay ahr' ahg) _verb._ 1. to like, to enjoy
 + **goeare** (goh'' ay ahr' ay) _noun._ 1. pleasure, enjoyment
++ **goearok** (goh'' ay ahr' ohk) _adverb._ 1. pleasantly, nicely, enjoyably
 + **goma** (goh' mah) _adjective._ 1. apologetic 2. sorry
 + **gomag** (goh' mahg) _verb._ 1. to apologize
 + **gome** (goh' may) _noun._ 1. apology
 + **gomi** (goh' mee) _expression._ 1. I'm sorry, I apologize; the simplest and most basic or casual form of apology
 + **gorana** (goh' rahn) _adjective._ 1. Goron, of or by Gorons, Goronian
-+ **gorane** (goh rahn' ay) _noun._ 1. Goron, the Goron race, a member of the Goron race
 
 ## H
 
@@ -475,7 +475,7 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **shëmse** (shehm' say) _noun._ 1. sun; especially of Hyrule's world
 + **shi** (shee) _verbal adjunct._ 1. is, am; progressive verbal adjunct, creates a continuous, incomplete mood
 + **shije** (shee' djay) _noun._ 1. breast, mammary; usually used in plural form as _shijën_, considered a base, common, or vulgar anatomical term
-+ **shite** (shee' tay) _noun, verbal adjunct._ 1. self 2. to oneself; reflexive verbal adjunct, creates the reflexive mood, or a vebr being done by the agent to themself
++ **shite** (shee' tay) _noun, verbal adjunct._ 1. self 2. to oneself; reflexive verbal adjunct, creates the reflexive mood, or a verb being done by the agent to themself
 + **shiu** (shee' oo) _verbal adjunct._ is, was; passive verbal adjunct, creates a passive voice which places the subject into a patient role
 + **shïnte** (shihn' tay) _noun._ 1. sh, S; name of the thirtieth letter of the Classical Hylian _aktaite_
 + **sho** (shoh) _verbal adjunct._ 1. used to, was doing; imperfect verbal adjunct, creates an incomplete tense and only applies to the simple past tense

@@ -5,7 +5,7 @@ The following is a truncated archive of a thread (helpfully called _"Suggest New
 There are various interjections by the previous maintainer of this archival documentation, **Austin Springer,** reflecting their thoughts as they produced and archived this data between 2017 and 2021, before they passed the torch to **Jerin of Calatia** in 2023. **Jerin** may add her own thoughts throughout this archive.
 
 ---
-## [Venus, Queen of Faeries](contributors/venus) writes:
+## [[001-venus]] | [Venus, Queen of Faeries](contributors/venus) writes:
 
 I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
 
@@ -24,7 +24,7 @@ I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
 **malanmale** (Mah-lahn-MAH-lay) or **mámale** (MAH-mah-lay): million. Derived from "malan malën," or "a thousand thousands." I like "mámale" better because it's shorter, and it's got the accent mark, which would make it an exception to the "rule" of no accent marks (save the ë) in numbers. Exceptions are good. **✅ 25-May-2021**
 
 ---
-## Venus, Queen of Faeries writes:
+## [[002-venus]] | Venus, Queen of Faeries writes:
 
 First of all, I gotta give **[K-Chan](contributors/k-chan)** all the credit in the world for this, because if she didn't say anything to me, I wouldn't be about ready to burst right now. So, moka aroti, K-chan'kumi!
 
@@ -53,9 +53,9 @@ Of course, there are two SMALL problems with what I've done.... One: the double 
 But, that's what we've come up with. What do you guys think?
 
 ---
-## Venus, Queen of Faeries writes:
+## [[004-venus]] | Venus, Queen of Faeries writes:
 
-Now that I've slept on it, it probably makes more sense to make them **usheokile** and **usheokine** as opposed to the way I had it. Thanks, **[OniGanon](contributors.oniganon)**. It cures the double N problem, in (with) **dënusheokine**. I *was* trying to go for something different, though.... I didn't quite want it to be like _dégile/dégine_ or _piántile/piántine,_ because underwear aren't people, lol. **✅ 25-May-2021**
+Now that I've slept on it, it probably makes more sense to make them **usheokile** and **usheokine** as opposed to the way I had it. Thanks, **[OniGanon](contributors/oniganon)**. It cures the double N problem, in (with) **dënusheokine**. I *was* trying to go for something different, though.... I didn't quite want it to be like _dégile/dégine_ or _piántile/piántine,_ because underwear aren't people, lol. **✅ 25-May-2021**
 
 ---
 ## Venus, Queen of Faeries writes:

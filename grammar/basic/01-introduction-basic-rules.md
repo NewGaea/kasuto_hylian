@@ -4,7 +4,7 @@
 
 ## The Rules
 
-1. There is no indefinite article (equivalent to English _a, an_), only a single universal definite article (_taz_, equivalent to English _the_). The article is never mandatory, thus if understanding its use ios difficult it is valid to never use _taz_ at all.
+1. The indefinite article is univerally _raz_ (equivalent to English _a, an_), and the definite article is universally _taz_ (equivalent to English _the_). The article is never mandatory, thus if understanding its use is difficult, it is valid to never use _taz_ at all.
 2. **Nouns** end in _-e_ if they are singular (or collective) and _-ën_ if they are plural. This rule applies to the standard case, however there is also a **topical case** which replaces _-e_ with _-i_ and _-ën_ with _-ïn_, and a **vocative** which ends in _-ur, -ai,_ or _-oi_, based on the semantic gender of the referent.
 3. **Adjectives** end in _-a_ if they describe a singular (or collective) noun, and _-an_ if they describe a plural noun.
 4. The basic **numerals** are (without inflection): _hir, dis, tro, kos, pant, hënt, sit, ont, niv_ (one through nine, in order) and the larger basic numbers are _dëm, sal,_ and _mal_ (ten, hundred, and thousand.) They may be inflected as **nouns** when referring to the concept of the number, or when performing maths, or as **adjectives** when referring to the quantity of an object.
@@ -13,7 +13,7 @@
 7. **Verbs** are always regular, and do not conjugate for person or number. Verbs conjugate for **tense** in both **time** and **completion,** as well as the **infinitive** and **imperative.** Infinitive: _-ag_, Imperative _-ans_, simple tenses _-as_ (present), _-es_ (past), _-os_ (future), perfect tenses _-ant_ (present perfect), _-ënt_ (past perfect), _-ont_ (future perfect).
 8. **Adverbs** end in _-ok_, and can be created by changing the **adjective suffix** to _-ok_. Adverbs do no inflect for number.
 9. **Prepositions** end in any consonant -- they are otherwise unmarked.
-10. Every word is read as it is written -- there are no silent letters (except for the modifier _h_) in **Classical Hylian**.
+10. Every word is read as it is written -- there are no silent letters in **Classical Hylian**. _**NOTE:** This is not true in the standard romanization, which uses a modifier \<h\> to indicate certain sounds._
 11. The **primary stress** of a word falls on the penultimate (next-to-last) syllable of a word, unless marked with the _asënte_ (as _é_) or circumflex (as _ê_). **Secondary stress** occurs on every alternate syllable before the **primary.**
 12. New compound words are straightforward juxtapositions of words, with the primary word at the end.
 13. Roles within statements or sentences are marked by the use of particles. The subject or agent is unmarked, while the **direct object** is marked by _ab_ or a contraction of _ab,_ and the **indirect object** is marked by _ank_ or a contraction of _ank._

@@ -27,7 +27,7 @@ Using the font: If you want to just play around with the letters, then go ahead.
 > 
 > There may be some cases where Kasuto's mapping fails due to these updates, and the table below should at least show you the proper way, or ways, to enter any character in Hylian.
 > 
-> Our future Hylian 4.0 font will adopt the name Classical Hylian, and will break compatibility with some letters. We will still have the Hylian 3.0 font available, however, if you need to encode (or decode) text in Kasuto's manner -- our other fonts already break compatibility.
+> Our future Hylian 4.0 font will adopt the name "Classical Hylian," and will break compatibility with some letters in prior encodings. Because of this, we will still have the Hylian 3.0 font available, in case you need to encode (or decode) text in Kasuto's manner -- our other fonts already break compatibility.
 
 ### Basic Hylian Letters
 
@@ -102,129 +102,27 @@ Using the font: If you want to just play around with the letters, then go ahead.
 | <span class="hylian_kas">õ</span> | ALT+0245 (õ) | oa |
 | <span class="hylian_kas">{</span> | \{ | óá |
 | <span class="hylian_kas">Õ</span> | ALT+0213 (Õ) | óá |
+| <span class="hylian_kas">O</span> | O (letter) | oi |
 | <span class="hylian_kas">ô</span> | ALT+0244 (ô) | oi |
 | <span class="hylian_kas">&gt;</span> | \> | óí |
 | <span class="hylian_kas">õ</span> | O, ALT+212 (Ô) | óí |
 
+### Numerals & Symbols
 
-<table>
-  <tr align="center">
-    <th>Hylian character</th>
-    <th>Keystroke</th>
-    <th>Transliterated character</th>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/oi.jpg" height="40" width="38"></td>
-    <td>O</td>
-    <td>o•i</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/oi`.jpg" height="40" width="38"></td>
-    <td>ô (Alt+0244)</td>
-    <td>ó•í</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/oa.jpg" height="40" width="38"></td>
-    <td>õ (Alt+0245)</td>
-    <td>o•a</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/oa`.jpg" height="40" width="38"></td>
-    <td>Õ (Alt+0213)</td>
-    <td>ó•á</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/0.jpg" height="40" width="22"></td>
-    <td>0</td>
-    <td>0</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/1.jpg" height="40" width="22"></td>
-    <td>1</td>
-    <td>1</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/2.jpg" height="40" width="22"></td>
-    <td>2</td>
-    <td>2</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/3.jpg" height="40" width="22"></td>
-    <td>3</td>
-    <td>3</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/4.jpg" height="40" width="22"></td>
-    <td>4</td>
-    <td>4</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/5.jpg" height="40" width="22"></td>
-    <td>5</td>
-    <td>5</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/6.jpg" height="40" width="22"></td>
-    <td>6</td>
-    <td>6</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/7.jpg" height="40" width="22"></td>
-    <td>7</td>
-    <td>7</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/8.jpg" height="40" width="22"></td>
-    <td>8</td>
-    <td>8</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/9.jpg" height="40" width="22"></td>
-    <td>9</td>
-    <td>9</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/period.jpg" height="40" width="22"></td>
-    <td>. (period)</td>
-    <td>.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/comma.jpg" height="40" width="22"></td>
-    <td>, (comma)</td>
-    <td>,</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/question.jpg" height="40" width="22"></td>
-    <td>?</td>
-    <td>?</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/apostrophe.jpg" height="40" width="22"></td>
-    <td>' (apostrophe)</td>
-    <td>'</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://web.archive.org/web/20110228134747im_/http://www.kasuto.net/image/language/exclamation.jpg" height="40" width="22"></td>
-    <td>!</td>
-    <td>!</td>
-  </tr>
-</table>
+| Hylian Character | Keystroke | Romanized Character |
+|:-:|:-:|:-:|
+| <span class="hylian_kas">0</span> | 0 (numeral) | 0 (numeral) |
+| <span class="hylian_kas">1</span> | 1 | 1 |
+| <span class="hylian_kas">2</span> | 2 | 2 |
+| <span class="hylian_kas">3</span> | 3 | 3 |
+| <span class="hylian_kas">4</span> | 4 | 4 |
+| <span class="hylian_kas">5</span> | 5 | 5 |
+| <span class="hylian_kas">6</span> | 6 | 6 |
+| <span class="hylian_kas">7</span> | 7 | 7 |
+| <span class="hylian_kas">8</span> | 8 | 8 |
+| <span class="hylian_kas">9</span> | 9 | 9 |
+| <span class="hylian_kas">.</span> | . (period) | . |
+| <span class="hylian_kas">,</span> | , (comma) | , |
+| <span class="hylian_kas">?</span> | ? | ? |
+| <span class="hylian_kas">'</span> | \' (apostrophe) | \' |
+| <span class="hylian_kas">!</span> | ! | ! |

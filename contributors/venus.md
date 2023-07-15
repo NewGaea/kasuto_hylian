@@ -1,6 +1,9 @@
+---
+tag: contributor author
+---
 # Venus, Queen of Faeries
-
-**Venus** was the original poster, and primary logger, of the thread _Suggest New Words_ on The Vinculum. She is presumed female and has a friend referred to as **[K-Chan](contributors/k-chan)** (sometimes as **K-Chan'kumi**) who did not post on The Vinculum.
+---
+**Venus** was the original poster, and primary word-logger, of the thread _Suggest New Words_ on The Vinculum. She is presumed female and has a friend referred to as **[K-Chan](contributors/k-chan)** (sometimes as **K-Chan'kumi**) who did not post on The Vinculum.
 
 **Venus** started the thread to help keep the language alive and developing, and if she is still interested in the language, the HLS will welcome her with open arms.
 

@@ -1,0 +1,449 @@
+{
+  "workspaces": {
+    "Lesson Writing": {
+      "main": {
+        "id": "5af3c0a6410e5483",
+        "type": "split",
+        "children": [
+          {
+            "id": "7892a17c1d230dff",
+            "type": "split",
+            "dimension": 19.987309644670052,
+            "children": [
+              {
+                "id": "769edd6ba68e1474",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5c8ae6dad20eeb0a",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "grammar/basic/00a-Index.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d3209e815dded432",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e1d1e01a53d0813e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "archival/new_gaea_work/00_fonte_orig.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "9fa76dc6baf4c180",
+            "type": "tabs",
+            "dimension": 39.847715736040605,
+            "children": [
+              {
+                "id": "bddcfc56110c5e2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "grammar/basic/02-greetings-introductions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bfbcf5affc01c9b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "archival/new_gaea_work/07_arkthehn_orig.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "70fdcc1e9804e9a2",
+            "type": "split",
+            "dimension": 40.16497461928934,
+            "children": [
+              {
+                "id": "fdc6e8b186c885ba",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d68245f46edf857b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "archival/new_gaea_work/lexicon/raw_wordlist.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "c0f46866a947a26a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "275f85b0b0747057",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "archival/new_gaea_work/lexicon/community_wordlist.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "38f5da3e12afcecf",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "75cba6c864cf9d63",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "lexicon/jerin_lexicon.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1986addd0c711ca9",
+        "type": "split",
+        "children": [
+          {
+            "id": "9977cd7091d22b78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66e2078c4dd006bc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "aa93d4b310fa1a95",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cd0291ae00292d26",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "86db3cef8e65897a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b46878c70c586ca0",
+        "type": "split",
+        "children": [
+          {
+            "id": "a30113c05c425656",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cec2d27a22d03d8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "archival/new_gaea_work/07_arkthehn_orig.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d7de3f0d7d9435aa",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "archival/new_gaea_work/07_arkthehn_orig.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b35925e8f55f7ab1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a0700f720cb00868",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "archival/new_gaea_work/07_arkthehn_orig.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-projects:Open projects": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "bfbcf5affc01c9b7"
+    },
+    "Full Single": {
+      "main": {
+        "id": "5af3c0a6410e5483",
+        "type": "split",
+        "children": [
+          {
+            "id": "769edd6ba68e1474",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c8ae6dad20eeb0a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "grammar/basic/00a-Index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1986addd0c711ca9",
+        "type": "split",
+        "children": [
+          {
+            "id": "9977cd7091d22b78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66e2078c4dd006bc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "aa93d4b310fa1a95",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cd0291ae00292d26",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "86db3cef8e65897a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b46878c70c586ca0",
+        "type": "split",
+        "children": [
+          {
+            "id": "a30113c05c425656",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cec2d27a22d03d8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "grammar/basic/00a-Index.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d7de3f0d7d9435aa",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "grammar/basic/00a-Index.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b35925e8f55f7ab1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a0700f720cb00868",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "grammar/basic/00a-Index.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-projects:Open projects": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "5c8ae6dad20eeb0a"
+    }
+  },
+  "active": "Full Single"
+}

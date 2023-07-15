@@ -1,22 +1,79 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:archival/kasuto_hli",
+      "color": {
+        "a": 1,
+        "rgb": 12465975
+      }
+    },
+    {
+      "query": "path:archival/austin_work",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:archival/vinculum",
+      "color": {
+        "a": 1,
+        "rgb": 14645556
+      }
+    },
+    {
+      "query": "path:archival/new_gaea_work",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:contributors",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "path:grammar",
+      "color": {
+        "a": 1,
+        "rgb": 2392238
+      }
+    },
+    {
+      "query": "path:lexicon",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:daksunare",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.404978586723769,
+  "repelStrength": 9.92683797287652,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224422,
+  "linkDistance": 247,
+  "scale": 0.18462326225858156,
   "close": false
 }
