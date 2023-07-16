@@ -8,7 +8,7 @@ Table Of Contents for the language
 5. [[05-sonën|Hylian nouns]]
 6. Hylian Pronouns
 7. [[07-taktën|Hylian Adjectives]]
-8. [[08-nïmshën|Hylian Numbers]]
+8. [[08-nïmshën|Hylian Numerals]]
 9. [[09-arkthën|Common Expressions]]
 10. The Hylian dictionary
 	1. [[10.1-daksunare-a-d|Dictionary: A - D]]

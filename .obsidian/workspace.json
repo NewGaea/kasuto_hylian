@@ -25,7 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanban/Format Extracted pages for Obsidian Markdown.md",
+                "file": "_templates/daksunare/mline_kas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd73c0f0448e69f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/daksunare/mline_hls_roman.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,19 +46,19 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "a9926ce6e0443bf0",
+        "id": "99c712cb3845639b",
         "type": "tabs",
         "children": [
           {
-            "id": "72ff8c8a0f51a2af",
+            "id": "14e86bd3c3d9e8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archival/kasuto_hli/05-sonën.md",
+                "file": "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,6 +130,47 @@
     "type": "split",
     "children": [
       {
+        "id": "60ab7477ee2e5c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7270d907ad174c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_templates/daksunare/mline_hls_roman.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121174,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "a30113c05c425656",
         "type": "tabs",
         "children": [
@@ -126,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archival/kasuto_hli/05-sonën.md",
+                "file": "_templates/daksunare/mline_hls_roman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archival/kasuto_hli/05-sonën.md",
+                "file": "_templates/daksunare/mline_hls_roman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archival/kasuto_hli/05-sonën.md"
+                "file": "_templates/daksunare/mline_hls_roman.md"
               }
             }
           }
@@ -189,35 +243,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "72ff8c8a0f51a2af",
+  "active": "fd73c0f0448e69f2",
   "lastOpenFiles": [
-    "standards/Documentation-Standards.md",
+    "_templates/daksunare/mline_hls_hylian.md",
+    "_templates/daksunare/line_hls_roman.md",
+    "_templates/daksunare/line_hls_hylian.md",
+    "_templates/daksunare/mline_oz.md",
+    "_templates/daksunare/line_kas.md",
+    "_templates/daksunare/mline_hls_roman.md",
+    "_templates/daksunare",
+    "_templates/daksunare/line_oz.md",
+    "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
+    "_templates/daksunare/mline_kas.md",
+    "archival/kasuto_hli/08-nïmshën.md",
+    "archival/austin_work/Hylian Community Wordlist.txt.md",
+    "archival/austin_work/Hylian Community Wordlist.md",
+    "archival/austin_work/Hylian Community Dictionary.txt.md",
+    "archival/austin_work/Hylian Dictionary (Kasuto Original).txt.md",
+    "archival/austin_work/Hylian Dictionary (Kasuto).txt.md",
+    "Hylian Language Society Board.md",
+    "archival/kasuto_hli/10.1-daksunare-a-d.md",
+    "archival/kasuto_hli/09-arkthën.md",
+    "kanban/Format Extracted pages for Obsidian Markdown.md",
+    "_templates",
+    "archival/kasuto_hli/00-toc.md",
+    "archival/kasuto_hli/07-taktën.md",
     "archival/kasuto_hli/05-sonën.md",
     "archival/kasuto_hli/04-wirtën.md",
-    "kanban/Format Extracted pages for Obsidian Markdown.md",
     "archival/kasuto_hli/03-aktaie.md",
-    "Hylian Language Society Board.md",
-    "contributors/k-chan.md",
-    "contributors/kasuto.md",
-    "contributors/venus.md",
-    "archival/austin_work/pages/resources/wordlist-complete.md",
-    "daksunare/index_daksunare.md",
+    "archival/kasuto_hli/02-bënkati.md",
     "daksunare",
-    "contributors/jerin-of-calatia.md",
-    "lexicon/jerin_lexicon.md",
-    "contributors/austin_springer.md",
-    "archival/austin_work/Hylian Community Dictionary.txt.md",
-    "archival/austin_work/Hylian Community Wordlist.md",
-    "archival/austin_work/Hylian Dictionary (Kasuto).txt.md",
-    "archival/austin_work/Hylian Dictionary (Kasuto Original).txt.md",
-    "archival/austin_work/Hylian Community Wordlist.txt.md",
-    "archival/vinculum/hylian_community_wordlist.md",
-    "contributors/oniganon.md",
-    "archival/vinculum/suggest_new_words/004-venus.md",
-    "archival/vinculum/suggest_new_words/002-venus.md",
-    "archival/vinculum/suggest_new_words/001-venus.md",
-    "contributors/Untitled.md",
-    "CHANGES.md",
     "archival/kasuto-hli",
     "standards/orthography",
     "archival/vinculum/suggest_new_words_map.canvas",
@@ -235,8 +290,6 @@
     "fonten/font_screen/50-numeral-3-three.png",
     "lexicon",
     "images",
-    "grammar/advanced",
-    "fonten/old_fonts/Hylian 3.x.sfd",
-    "fonten/old_fonts/Hylian 3.1.ttf"
+    "grammar/advanced"
   ]
 }

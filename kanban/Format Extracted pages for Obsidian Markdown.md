@@ -6,10 +6,10 @@ We are free to work on these files in any order, though it may be appealing to w
 + [x] Introduction to the Hylian Language
 + [x] The Hylian Alphabet
 + [x] Hylian Verbs
-+ [ ] Hylian Nouns
-+ [ ] Hylian Adjectives
-+ [ ] Hylian Numbers
-+ [ ] Common Expresssions
++ [x] Hylian Nouns
++ [x] Hylian Adjectives
++ [x] Hylian Numbers
++ [x] Common Expressions
 + [ ] Dictionary: A - D
 + [ ] Dictionary: E - Ï
 + [ ] Dictionary: J - M

@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00_toc)** | **[Previous Chapter: Introduction to the Hylian Language](archival/kasuto_hli/02-bënkati)**
+**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Introduction to the Hylian Language](archival/kasuto_hli/02-bënkati)**
 
 # <span class="hylian_kas">taz aktãe hilana</span><br>The Hylian Alphabet
 

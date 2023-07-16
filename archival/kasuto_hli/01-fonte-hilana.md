@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00_toc)**
+**[Table of Contents](archival/kasuto_hli/00-toc)**
 
 # Fonte Hilana
 
