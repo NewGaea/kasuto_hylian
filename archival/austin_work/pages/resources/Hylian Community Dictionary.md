@@ -1,6 +1,6 @@
 The dictionary presented in this file is sorted by English Alphabetical rules -- diphthongs occur in their English alphabetical order, umlaut (representing Hylian /asente/) follow neutral vowels. Each letter is given a heading line.
 
-This dictionary lists _only_ those words suggested by the Kasuto.net community in the threads /Suggest New Words Here/ and /Ont Hilana/, and any words added by Austin Alpua.
+This dictionary lists _only_ those words suggested by the Kasuto.net community in the threads /Suggest New Words Here/ and /Ont Hilana/, and any words added by Austin Springer.
 
 ## Format Rules
 
