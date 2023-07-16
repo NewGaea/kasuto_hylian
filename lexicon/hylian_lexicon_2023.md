@@ -27,15 +27,17 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 
 ## A - Á
 
-+ **ab** (ahb) _particle_ direct object marker
-+ **abaz** (ahb ahz) _contraction._ direct object combined with the definite particle. cf. **_ab, az, taz_**
-+ **aite** (eye' tay) _noun._ 1. ai; the name of the third letter of the classical Hylian _aktaite_
-+ **akantroshe** (ah' kahn troh'' shay) _compound, noun._ 1. present time, now 2. present tense
-+ **ak** (ahk) _preposition._ to, towards
++ **ab** (ahb) _particle_ 1. direct object marker | cb. [[kasuto]]
++ **abaz** (ahb ahz) _contraction._ 1. direct object combined with the definite particle. cf. **_ab, az, taz_**
++ **aite** (eye' tay) _noun._ 1. ai; the name of the third letter of the classical Hylian _aktaite_ | cb. [[kasuto]]
++ **akantroshe** (ah' kahn troh'' shay) _compound, noun._ 1. present time, now 2. present tense | cb. [[kasuto]]
++ **ak** (ahk) _preposition._ 1. to, towards | cb. [[kasuto]]
 + **akana** (ah kah' nah) _adjective._ 1. current, contemporary
 + **akane** (ah kah' nay) _noun._ 1. now, this time
-+ **aki** (ah kee) _honorific._ 1. love, darling, dear, honey; this honorific is primarily used among lovers
-+ **akime** (ah kee' may) _noun._ 1. friend, ally, comrade
++ **aki** (ah kee) _honorific._ 1. love, darling, dear, honey; this honorific is primarily used among lovers | cb. [[kasuto]]
++ **akima** (ah kee' mah) _adjective._ 1. friendly | cb. [[kasuto]]
++ **akimag** (ah kee' mahg) _verb._ 1. befriend, connect with | cb. [[kasuto]]
++ **akime** (ah kee' may) _noun._ 1. friend, ally, comrade | cb. [[kasuto]]
 + **aktaita** (ahk tie' tah) _adjective._ 1. alphabetic, alphabetical; of or related to the _aktaite_
 + **aktaite** (ahk tie' tay) _noun._ 1. alphabet, syllabary; the system of writing used in Classical Hylian, a combination of _akt + ait_ inflected as a noun; formerly _aktaie,_ spelling was changed to reflect the full names of both letters involved
 + **aktazha** (ahk tah' zha) _adjective._ 1. cursed, condemned 2. \[Legal\] condemned, sentenced
@@ -452,7 +454,7 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 + **sitashe** (see tah' shay) _noun._ 1. the seventh
 + **site** (see' tay) _noun._ 1. seven
 + **sïlra** (sihl' rah) _adjective._ 1. gone
-+ **sïlrag** (sihl' rahg) _verb._ 1. to leave, to separt, to go away
++ **sïlrag** (sihl' rahg) _verb._ 1. to leave, to depart, to go away
 + **sïlre** (sihl' ray) _noun._ 1. departure
 + **skoshe** (skoh' shay) _noun._ 1. excuse, permission, allowance
 + **skoshi** (skoh' shee) _noun, expression._ 1. excuse me, pardon me; this expression is most often used to show politeness when entering another person's personal space, whether physical or metaphorical
@@ -489,8 +491,94 @@ As of this update (beginning in July 2023), all words from [Kasuto's HLI](http:/
 
 + **taktag** (tahk' tahg) _verb._ to describe
 + **takte** (tahk' tay) _noun._ 1. description 1. adjective
++ **tano** (tahn' oh) _pronoun._ 1. how much, how many
++ **taro** (tahr' oh) _conjunction._ 1. so, so that, in order to; synonym of _lo_
++ **taz** (tahz) _article._ 1. the; definite article
++ **tairag** (teye' rahg) _verb._ 1. to be, is, am, are
++ **tairase** (teye rah' say) _noun._ 1. being; a physical or spiritual entity
++ **tai'u** (teye' oo) _pronoun, personal._ 1. you; second personal singular pronoun, used to refer to a direct interlocutor
++ **tënshag** (tehn' shahg) _verb._ 1. to have, to hold, to bear, to possess
++ **tënshase** (tehn shah' say) _noun._ 1. holder, bearer
++ **tiudre** (tyood' ray) _noun._ 1. daytime, afternoon, midday
++ **tiudri** (tyood' ree) _noun, expression._ 1. dayime, afternoon, midday; usually used to start a discussion, as in a greeting like _vina tiudri_
++ **tïnskag** (tihn' skahg) _verb._ 1. to work, to labor, to serve a role or duty
++ **tïnske** (tihn' skay) _noun._ 1. work, job, assignment, duty
++ **toëre** (toh ehr' ay) _noun._ 1. world, earth, land
++ **toka** (toh' kah) _adjective._ 1. all, all of, every
++ **tonye** (tohn' yay) _noun, expletive._ 1. pussy, cunt, vagina; this word is considered to be a vulgar term for female sexual attributes
++ **torimag** (toh ree' mahg) _verb._ 1. to finish, to complete
++ **tote** (toh' tay) _noun._ 1. t; name of the thirty-first letter of the Classical Hylian _aktaite_
++ **töte** (taw' tay) _noun._ 1. oa, ö; name of the twent-sixth letter of the Classical Hylian _aktaite_
++ **troan** (troh' ahn) _adjective_ 1. three
++ **troashan** (troh ah' shah) _adjective._ 1. third
++ **troashe** (troh ah' shay) _noun._ 1. the third
++ **trodëman** (tro deh' mahn) _adjective._ 1. thirty
++ **trodëme** (tro deh' may) _noun._ 1. thirty
++ **troe** (troh' ay) _noun._ 1. three
++ **trosalan** (tro sah' lahn) _adjective._ 1. three hundred
++ **trosale** (tro sah' lay) _noun._ 1. three hundred
++ **trofashe** (tro fah' shay) _noun._ 1. Triforce; a sacred golden triangle suffused with divine power, especially one of those left behind by the golden goddeses Din, Nayru, and Farore, which are usually guarded by the _Shekanën_ and the Hylian Royal Family
 
 ## TH
+
++ **thate** (thah' tay) _noun._ 1. th; name of the thirty-second letter of the Classical Hylian _aktaite_
++ **thisag** (thee' sahg) _verb, expletive._ 1. to piss, to urinate; this word is considered vulgar
++ **thise** (thee' say) _noun, explicit._ 1. piss, urine; this word is considered vulgar
+
+## U
+
++ **uniag** (oo nee' ahg) _verb._ 1. to join together, to unite, to combine
++ **ushikag** (oo shee' kahg) _verb._ 1. to conquer
++ **ushikage** (oo' shee kahg'' ay) _noun._ 1. conquest, conquered land or group
++ **ute** (oo' tay) _noun._ 1. u, ú; name of the thirty-third letter of the Classical Hylian _aktaite_
+
+## Ü
+
++ **ünte** (uhn' tay) _noun._ 1. ü; name of the thirty-fourth letter of the Classical Hylian _aktaite_
+
+## V
+
++ **vakonktra** (vah kohnk' trah) _adjective._ 1. righteous
++ **vakonktre** (vah kohnk' tray) _noun._ 1. righteousness
++ **vaisag** (veye' sahg) _verb._ 1. to watch over, to observe, to supervise
++ **vene** (vay' nay) _noun, expletive._ 1. penis, dick, cock; this word is considered to be a vulgar trm for male sexual characteristics
++ **vete** (vay' tay) _noun._ 1. v; name of the thirty-fifth letter of the Classical Hylian _aktaite_
++ **veuarda** (vay'' oo ahr' dah) _adjective._ 1. true, factual, honest
++ **veuarde** (vay'' oo ahr' day) _noun._ 1. truth, fact
++ **viag** (vee' ahg) _verb._ 1. to go
++ **vina** (vee' nah) _adjective._ 1. good, well
++ **viseëre** (vee'' say ehr' ay) _noun._ 1. wizard, magician; one who wields magical powers
++ **vïnshag** (vihn' shahg) _verb._ 1. to live, to reside
++ **vosu** (voh' soo) _pronoun, personal._ 1. you, you all; second person plural pronoun
+
+## W
+
++ **wante** (wahn' tay) _noun._ 1. w; name of the thirty-sixth letter of the Classical Hylian _aktaite_
++ **wirte** (weer' tay) _noun._ 1. verb
++ **witag** (wee' tahg) _verb._ 1. to guide
++ **woeka** (woh ay' kah) _adjective._ 1. wise
++ **woeke** (woh ay' kay) _noun._ 1. wisdom
+
+## Y
+
++ **yaz** (yahz) _preposition._ 1. already
++ **yote** (yoh' tay) _noun._ 1. y; name of the thirty-seventh letter of the Classical Hylian _aktaite_
++ **yovtag** (yohv' tahg) _verb._ 1. to arrive
++ **yuri** (yoo' ree) _noun, expression._ 1. pleease, may, might
+
+## Z
+
++ **za** (zah) _pronoun, demonstrative._ 1. this, this one
++ **zan** (zahn) _pronoun, demonstrative._ 1. these, these ones
++ **zante** (zahn' tay) _noun._ 1. z; name of he thirty-eighth letter of the Classical Hylian _aktaite_
++ **zata** (zah' tah) _pronoun, demonstrative._ 1. that, that one
++ **zatan** (zah' tahn) _pronoun, demonstrative._ 1. those, those ones
++ **zatiu** (zah' tyoo) _pronoun, independent._ 1. those
++ **zatu** (zah' too) _pronoun, independent._ 1. that
++ **zoëra** (zoh ehr' ah) _adjective._ 1. Zora, Zoran; describes something associated with or made for or by the Zora race
++ **zoëre** (zoh ehr' ay) _noun._ 1. Zora; describes a member of the Zora race or the languages of the Zora race
++ **zu** (zoo) _pronoun, independent._ 1. this
++ **ziu** (zyu) _pronoun, independent._ 1. these
 
 ## ZH
 
