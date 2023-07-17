@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5140582ed05b9174",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62f3e920bc36bea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archival/austin_work/pages/resources/Hylian Dictionary (Kasuto).txt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eeaf61799066876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archival/kasuto_hli/10.6-daksunare-w-z.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5cd732cecf9a5d4c",
         "type": "tabs",
         "children": [
@@ -43,7 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/hylian_lexicon_2023.md",
+                "file": "standards/Documentation-Standards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3696d5c4db6aa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards/orthography/kasuto-font.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a39e3b3785947a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7187a97c6eacef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards/orthography/kasuto-roman.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lexicon/hylian_lexicon_2023.md",
+            "file": "standards/orthography/kasuto-roman.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lexicon/hylian_lexicon_2023.md",
+            "file": "standards/orthography/kasuto-roman.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lexicon/hylian_lexicon_2023.md"
+            "file": "standards/orthography/kasuto-roman.md"
           }
         }
       }
@@ -161,10 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f2e951fcf79bd6",
+  "active": "3e7187a97c6eacef",
   "lastOpenFiles": [
-    "archival/austin_work/pages/resources/Hylian Dictionary (Kasuto).txt.md",
+    "standards/orthography/kasuto-font.md",
+    "standards/orthography/kasuto-roman.md",
+    "standards/Documentation-Standards.md",
     "lexicon/hylian_lexicon_2023.md",
+    "archival/austin_work/pages/resources/Hylian Dictionary (Kasuto).txt.md",
     "archival/austin_work/pages/resources/hylian_dictionary_austin.md",
     "archival/austin_work/pages/resources/Hylian Community Wordlist.txt.md",
     "archival/austin_work/pages/resources/Hylian Community Dictionary.txt.md",
@@ -172,9 +176,6 @@
     "archival/new_gaea_work/lexicon/raw_wordlist.md",
     "archival/kasuto_hli/10.6-daksunare-w-z.md",
     "archival/kasuto_hli/10.5-daksunare-sh-ü.md",
-    "standards/orthography/kasuto-roman.md",
-    "standards/orthography/kasuto-font.md",
-    "standards/Documentation-Standards.md",
     "standards/orthography",
     "standards",
     "kanban/Review latest data from kasuto.net.md",
