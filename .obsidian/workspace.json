@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daksunare/mline_kas.md",
+                "file": "standards/Documentation-Standards.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daksunare/mline_hls_roman.md",
+                "file": "archival/austin_work/pages/keymap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
+                "file": "standards/orthography/springer-roman.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dcebaf891e5f1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards/orthography/springer-font.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,6 +145,7 @@
       {
         "id": "60ab7477ee2e5c8b",
         "type": "tabs",
+        "dimension": 26.138433515482696,
         "children": [
           {
             "id": "9c7270d907ad174c",
@@ -139,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/daksunare/mline_hls_roman.md",
+                "file": "standards/orthography/springer-roman.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,6 +187,7 @@
       {
         "id": "a30113c05c425656",
         "type": "tabs",
+        "dimension": 73.86156648451731,
         "children": [
           {
             "id": "5cec2d27a22d03d8",
@@ -180,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/daksunare/mline_hls_roman.md",
+                "file": "standards/orthography/springer-roman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/daksunare/mline_hls_roman.md",
+                "file": "standards/orthography/springer-roman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/daksunare/mline_hls_roman.md"
+                "file": "standards/orthography/springer-roman.md"
               }
             }
           }
@@ -243,35 +258,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd73c0f0448e69f2",
+  "active": "14e86bd3c3d9e8f8",
   "lastOpenFiles": [
+    "standards/orthography/springer-font.md",
+    "standards/orthography/springer-roman.md",
+    "standards/orthography/kasuto-font.md",
+    "contributors/kasuto.md",
+    "archival/austin_work/pages/keymap.md",
+    "Hylian Language Society Board.md",
+    "standards/Documentation-Standards.md",
+    "standards/orthography/kasuto-roman.md",
+    "archive/vinculum/six_new_letters.md",
+    "archival/austin_work/pages/resources/threads-ont-hilane-and-hilanan-kantën.md",
+    "archive/vinculum",
+    "archive",
+    "archival/kasuto_hli/03-aktaie.md",
+    "archival/kasuto_hli/08-nïmshën.md",
+    "archival/kasuto_hli/01-fonte-hilana.md",
+    "_templates/daksunare/mline_kas.md",
+    "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
+    "_templates/daksunare/mline_hls_roman.md",
     "_templates/daksunare/mline_hls_hylian.md",
     "_templates/daksunare/line_hls_roman.md",
     "_templates/daksunare/line_hls_hylian.md",
     "_templates/daksunare/mline_oz.md",
     "_templates/daksunare/line_kas.md",
-    "_templates/daksunare/mline_hls_roman.md",
     "_templates/daksunare",
     "_templates/daksunare/line_oz.md",
-    "archival/austin_work/pages/resources/Hylian Community Dictionary.md",
-    "_templates/daksunare/mline_kas.md",
-    "archival/kasuto_hli/08-nïmshën.md",
     "archival/austin_work/Hylian Community Wordlist.txt.md",
     "archival/austin_work/Hylian Community Wordlist.md",
     "archival/austin_work/Hylian Community Dictionary.txt.md",
     "archival/austin_work/Hylian Dictionary (Kasuto Original).txt.md",
-    "archival/austin_work/Hylian Dictionary (Kasuto).txt.md",
-    "Hylian Language Society Board.md",
-    "archival/kasuto_hli/10.1-daksunare-a-d.md",
-    "archival/kasuto_hli/09-arkthën.md",
-    "kanban/Format Extracted pages for Obsidian Markdown.md",
     "_templates",
-    "archival/kasuto_hli/00-toc.md",
-    "archival/kasuto_hli/07-taktën.md",
-    "archival/kasuto_hli/05-sonën.md",
-    "archival/kasuto_hli/04-wirtën.md",
-    "archival/kasuto_hli/03-aktaie.md",
-    "archival/kasuto_hli/02-bënkati.md",
     "daksunare",
     "archival/kasuto-hli",
     "standards/orthography",
@@ -288,8 +306,6 @@
     "fonten/font_screen/52-numeral-5-five.png",
     "fonten/font_screen/51-numeral-4-four.png",
     "fonten/font_screen/50-numeral-3-three.png",
-    "lexicon",
-    "images",
-    "grammar/advanced"
+    "lexicon"
   ]
 }
