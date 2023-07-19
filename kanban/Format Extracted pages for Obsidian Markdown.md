@@ -12,7 +12,7 @@ We are free to work on these files in any order, though it may be appealing to w
 + [x] Common Expressions
 + [x] Dictionary: A - D
 + [x] Dictionary: E - Ï
-+ [ ] Dictionary: J - M
++ [x] Dictionary: J - M
 + [ ] Dictionary: N - S
 + [ ] Dictionary: Sh - Ü
 + [ ] Dictionary: V - Z
