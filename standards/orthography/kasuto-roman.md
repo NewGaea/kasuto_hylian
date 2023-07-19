@@ -50,7 +50,7 @@ For simplicity, this list only shows the lowercase variations of letters and the
 | <span class="hylian_kas">y</span><br>yote | y | y |
 | <span class="hylian_kas">z</span><br>zante | z | z |
 | _diphthong connector 1_ | Win: ALT+0183 | · |
-| _diphthong connector 2_ | Win: ALT+0139<br>Mac/iOS: OPT+8 | • |
+| _diphthong connector 2_ | Win: ALT+0149<br>Mac/iOS: OPT+8 | • |
 | <span class="hylian_kas">0</span><br>sore | 0 | 0 |
 | <span class="hylian_kas">1</span><br>hire | 1 | 1 |
 | <span class="hylian_kas">2</span><br>dise | 2 | 2 |
