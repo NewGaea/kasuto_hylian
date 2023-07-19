@@ -13,7 +13,7 @@ For simplicity, this list only shows the lowercase variations of letters and the
 |:-:|:-:|:-:|
 | <span class="hylian_kas">a</span><br>akte | a | a |
 | <span class="hylian_kas">á</span><br>akte asënta | Windows: ALT+0225<br>US Intl: \'+a<br>Mac/iOS: OPT+e+a | á|
-| <span class="hylian_kas">ä</span><br>äkte | Windows: ALT+228<br>US Intl: \"+a<br>Mac/iOS: OPT+u+a | ä |
+| <span class="hylian_kas">ä</span><br>äkte | Windows: ALT+0228<br>US Intl: \"+a<br>Mac/iOS: OPT+u+a | ä |
 | <span class="hylian_kas">à</span><br>äkte asënta | Windows: ALT+0224<br>US Intl: \`+a<br>Mac/iOS: OPT+\`+a | à |
 | <span class="hylian_kas">b</span><br>bete | b | b |
 | <span class="hylian_kas">d</span><br>date | d | d |
