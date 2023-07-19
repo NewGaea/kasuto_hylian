@@ -10,8 +10,8 @@ We are free to work on these files in any order, though it may be appealing to w
 + [x] Hylian Adjectives
 + [x] Hylian Numbers
 + [x] Common Expressions
-+ [ ] Dictionary: A - D
-+ [ ] Dictionary: E - Ï
++ [x] Dictionary: A - D
++ [x] Dictionary: E - Ï
 + [ ] Dictionary: J - M
 + [ ] Dictionary: N - S
 + [ ] Dictionary: Sh - Ü
