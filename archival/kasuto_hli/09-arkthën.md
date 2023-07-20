@@ -132,4 +132,4 @@ The first thing people ask when they learn a foreign language is "How do I swear
 | <span class="hylian_kas">Sije, SijEn</span> | shije, shijën | Boob, boobs (vulgar term for a woman's breasts)
 | <span class="hylian_kas">kuje, kujEn</span> | kuje, kujën | Balls, nads (vulgar term for testicles)
 
-**[Next Chapter: Hylian Dictionary (Index)](archival/kasuto_hli/10.-daksunare)**
+**[Next Chapter: Hylian Dictionary (Index)](10.0-daksunare.md)**
