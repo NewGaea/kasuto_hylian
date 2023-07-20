@@ -16,7 +16,7 @@ Table Of Contents for the language
 	3. [[10.3-daksunare-j-m|Dictionary: J - M]]
 	4. [[10.4-daksunare-n-s|Dictionary: N - S]]
 	5. [[10.5-daksunare-sh-ü|Dictionary: Sh - Ü]]
-	6. [[10.6-daksunare-w-z|Dictionary: W - Z]]
+	6. [[10.6-daksunare-v-z|Dictionary: W - Z]]
 11. Hylian Literature 
 
 ## Completion Notes

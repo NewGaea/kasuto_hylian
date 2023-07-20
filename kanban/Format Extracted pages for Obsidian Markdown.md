@@ -13,6 +13,6 @@ We are free to work on these files in any order, though it may be appealing to w
 + [x] Dictionary: A - D
 + [x] Dictionary: E - Ï
 + [x] Dictionary: J - M
-+ [ ] Dictionary: N - S
-+ [ ] Dictionary: Sh - Ü
-+ [ ] Dictionary: V - Z
++ [x] Dictionary: N - S
++ [x] Dictionary: Sh - Ü
++ [x] Dictionary: V - Z
