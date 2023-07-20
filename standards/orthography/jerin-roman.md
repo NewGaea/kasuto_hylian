@@ -35,6 +35,7 @@ It is idea that every letter than can be represented as a single letter in roman
 | lete (l) | l | l |
 | mate (m) | m | m |
 | note (n) | n | n |
+| añate (ñ) | Win: ALT+01xx | ñ |
 | ote (o) | o | o |
 | **ote asënta (ó)** | ALT+02xx | ó |
 | **töte** (ö) | ALT+02xx | ö |
@@ -55,7 +56,9 @@ It is idea that every letter than can be represented as a single letter in roman
 | zante (z) | z | z |
 
 ## Two Letter Romanizations
-Despite our best efforts, we can't represent all of the Hylian letters as single, easily-typed, characters. A few of them simply require two letters. As all of the letters used are also in the table above, their pronunciation will change if paired into one of these combinations:
+Despite our best efforts, we can't represent all of the Hylian letters as single, easily-typed, characters. A few of them simply require two letters. As all of the letters used are also in the table above, their pronunciation will change if paired into one of these combinations.
+
+Also, take note: the HLS discourages the use of the _diphthong connector_ seen in previous romanization schemes, but does not (at this time) have single-character transcriptions for the diphthongs.
 
 | Hylian Letter | Keystrokes | Romanized Form |
 |:-:|:-:|:-:|
@@ -67,4 +70,30 @@ Despite our best efforts, we can't represent all of the Hylian letters as single
 | dhënte (D) | dh | dh |
 | iute (î) | iu | iu |
 | iute asënta (Î) | íu | íu |
+| oite | oi | oi |
+| oite asënta | ói | ói |
+| shïnte | sh | sh |
+| thate | th | th |
+| zhete | zh | zh |
+
+## Numbers and Symbols
+The following mapping is used for numbers and symbols, though this remains unchanged since the original **Kasutan** system.
+
+| Hylian Character | Keystroke | Roman Character |
+|:-:|:-:|:-:|
+| <span class="hylian_kas">0</span><br>sore | 0 | 0 |
+| <span class="hylian_kas">1</span><br>hire | 1 | 1 |
+| <span class="hylian_kas">2</span><br>dise | 2 | 2 |
+| <span class="hylian_kas">3</span><br>troe | 3 | 3 |
+| <span class="hylian_kas">4</span><br>kose | 4 | 4 |
+| <span class="hylian_kas">5</span><br>pante | 5 | 5 |
+| <span class="hylian_kas">6</span><br>hënte (numeral) | 6 | 6 |
+| <span class="hylian_kas">7</span><br>site | 7 | 7 |
+| <span class="hylian_kas">8</span><br>onte | 8 | 8 |
+| <span class="hylian_kas">9</span><br>nive | 9 | 9 |
+| _full stop_ | . | . |
+| _comma_ | , | , |
+| _apostrophe_ | \' | \' |
+| _question mark_ | \? | \? |
+| _exclamation mark_ | ! | ! |
 

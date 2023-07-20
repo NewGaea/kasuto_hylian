@@ -38,7 +38,7 @@ Upon taking the reins of the project, **[Jerin of Calatia](contributors/jerin_of
 For linguists, or experienced conlangers, **Jerin of Calatia** has also mapped all of the letters used in Classical Hylian to IPA symbols. This romanization is found in the advanced grammar documents as well as the full dictionary.
 
 ### 1.c | **Link Usage**
-Links should be used generously in order to track information on the language, and to connect information across the project. We consider it ideal to ensure that every note has at least one incoming link and one outgoing link, and that no two notes exist which only link to each other.
+Links should be used generously in order to track information on the language, and to connect information across the project. We consider it ideal to ensure that every note has at least one incoming link and one outgoing link, and that no two notes exist which, between them, only link to each other.
 
 #### 1.c.1 | Archival Links
 Links going into the **archival** directory are historical references. They should generally be used to cite the historical record, and should generally not be used to deny modern updates proposed by the HLS.
