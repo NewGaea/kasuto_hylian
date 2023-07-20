@@ -1,16 +1,17 @@
-# Taz Niatore da.ia Langve Hilana
+# Taz Niatore da•ia Langve Hilana
 
-Table Of Contents for the language
+## Table of Contents
+
 1. [[01-fonte-hilana|Hylian Font]]
 2. [[02-bënkati|Introduction to the Hylian language]]
 3. [[03-aktaie|The Hylian alphabet]]
 4. [[04-wirtën|Hylian Verbs]]
-5. [[05-sonën|Hylian nouns]]
-6. Hylian Pronouns
+5. [[05-sonën|Hylian Nouns]]
+6. [[06-asonën|Hylian Pronouns]]
 7. [[07-taktën|Hylian Adjectives]]
 8. [[08-nïmshën|Hylian Numerals]]
 9. [[09-arkthën|Common Expressions]]
-10. The Hylian dictionary
+10. The Hylian Dictionary
 	1. [[10.1-daksunare-a-d|Dictionary: A - D]]
 	2. [[10.2-daksunare-e-ï|Dictionary: E - Ï]]
 	3. [[10.3-daksunare-j-m|Dictionary: J - M]]
