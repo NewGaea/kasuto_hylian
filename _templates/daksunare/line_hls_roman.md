@@ -1,0 +1,1 @@
++ **wirte** \[**wi:r'** te\] _part of speech:_ definition. other notes. \[_cb._ [[contributors]]\]
