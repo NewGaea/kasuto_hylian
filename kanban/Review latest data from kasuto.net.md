@@ -4,18 +4,18 @@ Luckily for us, despite a lack of updates in years, **[kasuto.net](http://kasuto
 	+ [x] [Hylian Pronouns](archival/kasuto_hli/06-asonën)
 	+ [x] [Hylian Literature](archival/kasuto_hli/11-lërdishe)
 
-+ [ ] **Priority 2**
-	+ [ ] Hylian Font
-	+ [ ] Introduction to the Hylian Language
-	+ [ ] The Hylian Alphabet
-	+ [ ] Hylian Verbs
-	+ [ ] Hylian Nouns
-	+ [ ] Hylian Adjectives
-	+ [ ] Hylian Numbers
-	+ [ ] Common Expresssions
-	+ [ ] Dictionary: A - D
-	+ [ ] Dictionary: E - Ï
-	+ [ ] Dictionary: J - M
-	+ [ ] Dictionary: N - S
-	+ [ ] Dictionary: Sh - Ü
-	+ [ ] Dictionary: V - Z
++ [x] **Priority 2**
+	+ [x] Hylian Font
+	+ [x] Introduction to the Hylian Language
+	+ [x] The Hylian Alphabet
+	+ [x] Hylian Verbs
+	+ [x] Hylian Nouns
+	+ [x] Hylian Adjectives
+	+ [x] Hylian Numbers
+	+ [x] Common Expressions
+	+ [x] Dictionary: A - D
+	+ [x] Dictionary: E - Ï
+	+ [x] Dictionary: J - M
+	+ [x] Dictionary: N - S
+	+ [x] Dictionary: Sh - Ü
+	+ [x] Dictionary: V - Z

@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Archive: Kasuto
 
-- [ ] [[Review latest data from kasuto.net]]
 - [ ] [[Ensure compliance with HLS standards]]
 
 
@@ -55,6 +54,7 @@ kanban-plugin: basic
 
 ## Complete
 
+- [x] [[Review latest data from kasuto.net]]
 - [x] [[Extract Text Dump to Dedicated pages]]
 - [x] [[Format Extracted pages for Obsidian Markdown]]
 

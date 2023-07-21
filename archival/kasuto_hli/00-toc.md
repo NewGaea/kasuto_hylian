@@ -6,11 +6,10 @@ author: kasuto-of-kataan, austin-springer
 ---
 # <span class="hylian_kas">bEnkati kaz niatore da•ia langve hilana</span><br>Welcome to the Hylian Language Institute
 
-I've seen a couple web sites out there that have so-called "Hylian dictionaries", but there are few entries and most of them are not very useful. This page is different. While other sites only have a few random entries, this one will develop a whole language. I am currently creating an alphabet, grammar rules, and a dictionary. I intend to create a working, speakable language. Please feel free to submit words and phrases, but I will correct them to follow the grammar rules.
-
-
 > [!NOTE] Archive Notice
 > This is an archive of Kasuto's Hylian Language Institute. We are preserving this archive for the sake of completeness, but if you are not looking for historical documentation, we encourage you to look outside of this compilation.
+
+I've seen a couple web sites out there that have so-called "Hylian dictionaries", but there are few entries and most of them are not very useful. This page is different. While other sites only have a few random entries, this one will develop a whole language. I am currently creating an alphabet, grammar rules, and a dictionary. I intend to create a working, speakable language. Please feel free to submit words and phrases, but I will correct them to follow the grammar rules.
 
 ## Table of Contents
 

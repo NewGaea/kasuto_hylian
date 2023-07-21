@@ -75,7 +75,7 @@ In Hylian, there is a myriad of ways to address people. Most of the time, people
 
 Names are the base for most forms of address. In Hylian culture, a person's first name, or "given name" is usually used. Some people have family names, but they are seldom used. Giving people a middle name is very uncommon in Hyrule, and you almost never see it.
 
-When saying a person's full name, the family name (surname) and first name (given name), the family name is always said first. For example: Ruzantaze Zelda. Ruzantaze is the surname of Hyrule's royal family, Zelda is the given name of the princess. Most of the time, a person's family name is only used when introducing someone. More commonly you will see a person's place of origin used instead of a family name. For example: _Kasuto da•ia Katane_. _Kasuto_ is the given name, and _Katane_ is Kasuto's place of origin, _Kataan_. The word _da•ia_ means "of." For instance, Impa is from Kakariko village, so she could be addressed as _Impa da•ia Kakariko._
+When saying a person's full name, the family name (surname) and first name (given name), the family name is always said first. For example: _Ruzantaze Zelda. Ruzantaze_ is the surname of Hyrule's royal family, _Zelda_ is the given name of the princess. Most of the time, a person's family name is only used when introducing someone. More commonly you will see a person's place of origin used instead of a family name. For example: _Kasuto da•ia Katane_. _Kasuto_ is the given name, and _Katane_ is Kasuto's place of origin, _Kataan_. The word _da•ia_ means "of." For instance, Impa is from Kakariko village, so she could be addressed as _Impa da•ia Kakariko._
 
 ### Honorific Titles
 
@@ -111,8 +111,8 @@ There are also stand-alone forms of address that are words by themselves and are
 
 ## Expletives
 
-The first thing people ask when they learn a foreign language is "How do I swear?" Well, I couldn't make a language tutorial without telling you how to use some of the more vulgar expressions. Just know that I don't censor anything, so if you are offended by swear words, don't read this section. Here are some common profanities: 
- 
+The first thing people ask when they learn a foreign language is "How do I swear?" Well, I couldn't make a language tutorial without telling you how to use some of the more vulgar expressions. Just know that I don't censor anything, so **if you are offended by swear words, don't read this section.** Here are some common profanities: 
+
 | Hylian Text | Romanized Text | Explanation |
 |:-:|:-:|:-:|
 | <span class="hylian_kas">dari</span> | dari | Damn, dammit (not very vulgar)

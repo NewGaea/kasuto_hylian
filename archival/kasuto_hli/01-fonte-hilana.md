@@ -24,9 +24,15 @@ Download the _Hylian Rounded_ TrueType font, version 2.1
 
 How to install the font: Once you have download the font, you must unzip it first, any Zip utility will do. Then open the Start Menu, go to "Settings", and click "Control Panel." Once you're in the control panel, open the "Fonts" folder. It should look something like this:
 
+![font directory](images/fonts1.gif)
+
 Now, click "File" and "Install New Font"
 
+![Install New Font](images/fonts2.gif)
+
 Select the folder you unzipped the font file to. Then it should appear in the "List of fonts" box. Select "Hylian" and click "OK". Congratulations! Now you have the Hylian font installed.
+
+![Add Font](images/fonts3.gif)
 
 ## Using the Font
 

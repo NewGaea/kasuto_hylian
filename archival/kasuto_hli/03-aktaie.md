@@ -8,7 +8,21 @@ author: kasuto-of-kataan, austin-springer
 
 # <span class="hylian_kas">taz aktãe hilana</span><br>The Hylian Alphabet
 
-**The Hylian Alphabet**
+## Table of Contents
+
++ [[#Hylian _Aktaie_ Basics]]
++ [[#The Hylian Alphabet]]
++ [[#Word Stress]]
+
+## Hylian _Aktaie_ Basics
+
+The Hylian alphabet is phonetic in nature, i.e. each symbol represents a distinct sound. This is similar to the English alphabet, but is much more definite. Each Hylian letter represents only one and only one sound. The letters themselves are very simple block letters. Notice that the shapes consist only of right angles and straight lines, which makes the letters very simple to write and easy to discern.
+
+The most important aspect of the language is transliteration of the words from the Hylian alphabet to the Roman alphabet. Transliteration is spelling the words from a foreign alphabet into another alphabet. Translation is telling what the word means in another language. Don't confuse _transliteration_ with _translation._
+
+A fact that makes the Hylian language easy to learn is that the letters are read from left to right and top to bottom. In other words, Hylian is read the same way English is. Many alphabets, such as the Roman alphabet which we use, has capital and lowercase letters. Hylian however, has only one set of letters. There are no capital or lowercase letters, all are in the same case.
+
+## The Hylian Alphabet
 
 | Hylian Letter | Transliteration | Name | Pronunciation |
 |:-:|:-:|:-:|:-|

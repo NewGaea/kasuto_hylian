@@ -21,8 +21,6 @@ author: kasuto-of-kataan, austin-springer, jerin-of-calatia
 ---
 Adjectives are words that describe nouns or pronouns. They give some kind of information about the modified word. Adjectives also follow a regular pattern. All adjectives have the same ending. However, some words have the same ending as adjectives, but are not adjectives. Some common exceptions will be shown later. Adjectives can come before or after the word they modify, but it is more common to see an adjective come after the noun. Adjectives are the only other part of speech other than nouns that change ending when plural. Adjectives must agree in number with the noun or pronoun they modify; singular words take a singular adjective, and plural words take plural adjectives. The two adjective endings are shown below. 
 
-<aside>Jerin: New documentation should clarify this phrase: are the exceptions "adjectives which don't end in _-a_" or are they "non-adjectives which end in _-a_"</aside>
-
 | Singular Adjectives | Plural Adjectives |
 |:-:|:-:|
 | <span class="hylian_kas">=a</span><br>-a<br>All regular singular adjectives have an _-a_ ending. <u>There are some exceptions\*</u>, but those will be listed later. A singular adjective is used only with a singular noun or singular pronoun. | <span class="hylian_kas">=an</span><br>-an<br>All regular plural adjectives have an -an ending. There are no exceptions for plural adjectives. A plural adjective is used only with a plural noun or plural pronoun |
@@ -30,13 +28,14 @@ Adjectives are words that describe nouns or pronouns. They give some kind of inf
 | Adjective | Noun | Noun-Adjective Phrase |
 |:-:|:-:|:-:|
 | <span class="hylian_kas">alba</span><br>_alba_<br>holy | <span class="hylian_kas">d)gine</span><br>_dégine_<br>goddess | <span class="hylian_kas">d)gine alba</span><br>_dégine alba_<br>holy goddess |
-| <span class="hylian_kas">alban</span><br>_alban_<br>holy | <span class="hylian_kas">d)ginEn</span><br>_déginén_<br>goddesses | <span class="hylian_kas">d)ginEn alban</span><br>_déginén alban_<br>holy goddesses |
+| <span class="hylian_kas">alban</span><br>_alban_<br>holy | <span class="hylian_kas">d)ginEn</span><br>_déginën_<br>goddesses | <span class="hylian_kas">d)ginEn alban</span><br>_déginën alban_<br>holy goddesses |
 
 SPECIAL NOTE: The order of nouns and adjectives in Hylian is fairly loose. They can come either before or after the nouns they modify, but afterward is more common.
 
 ## Exceptions to the Adjective Rule
 ---
-**Words with an _-a_ ending that are not adjectives**
+
+### Words with an _-a_ ending that are not adjectives
 
 | Hylian Text | Romanized Text | English Gloss | Part of Speech |
 |:-:|:-:|:-:|:-:|
@@ -44,7 +43,7 @@ SPECIAL NOTE: The order of nouns and adjectives in Hylian is fairly loose. They 
 | <span class="hylian_kas">dOa</span> | _do.ia_ | from | preposition |
 | <span class="hylian_kas">kwa</span> | kwa | that, which, who | relative pronoun |
 
-**Words that are adjectives, but do not have an _-a_ ending**
+### Words that are adjectives, but do not have an _-a_ ending
 
 | Hylian Text | Romanized Text | English Gloss | Part of Speech |
 |:-:|:-:|:-:|:-:|
@@ -57,16 +56,16 @@ A demonstrative adjective is a word that specifies what a noun is. In Enlgish, t
  
 | Hylian Text | Romanized Text | English Gloss | Example |
 |:-:|:-:|:-:|:-:|
-| <span class="hylian_kas">za</span> |za | this | za itsakupande - this encyclopedia |
-| <span class="hylian_kas">zan</span> | zan | these | zan itsakupandën - these encyclopedias |
-| <span class="hylian_kas">zata</span> |zata | that | zata itsakupande - that encyclopedia |
-| <span class="hylian_kas">zatan</span> | zatan | those | zatan itsakupandën - those encyclopedias |
+| <span class="hylian_kas">za</span> | _za_ | this | _za itsakupande_ (this encyclopedia) |
+| <span class="hylian_kas">zan</span> | _zan_ | these | _zan itsakupandën_ (these encyclopedias) |
+| <span class="hylian_kas">zata</span> | _zata_ | that | _zata itsakupande_ (that encyclopedia) |
+| <span class="hylian_kas">zatan</span> | _zatan_ | those | _zatan itsakupandën_ (those encyclopedias) |
 
 ## Possessive Adjectives
 
-<aside>Jerin:<br>It's fair to recognize these as adjectives, but they are essentially a genitive case, since only a noun or pronoun can accept this ending. Should we move this into our noun documentation?</aside>
+<aside>Jerin:<br>It's fair to recognize these as adjectives, but they are essentially a genitive case, since only a noun or pronoun can accept this ending. When we write our new docs, should we address this along with the other noun documentation?</aside>
 
-These adjectives show possession of something. In English, words like "my" and "your" can be pronouns or adjective, depending on context. The same is true in Hylian, this section deals with the adjective form of possessives. Any word can be made into a possessive adjective by adding a simple suffix "-'sa" or "-'san", depending on whether or not the word being modified is plural or singular; these are equivalent to English's use of the apostrophe+s. Please note that when adding this suffix, the stress of the original word is preserved, but there is no written accent mark. Here are some examples: 
+These adjectives show possession of something. In English, words like "my" and "your" can be pronouns or adjective, depending on context. The same is true in Hylian, this section deals with the adjective form of possessives. Any word can be made into a possessive adjective by adding a simple suffix _-'sa_ or _-'san,_ depending on whether or not the word being modified is plural or singular; these are equivalent to English's use of the apostrophe+s. Please note that when adding this suffix, the stress of the original word is preserved, but there is no written accent mark. Here are some examples: 
 
 | Base Word | Possessive Singular | Possessive Plural | English Gloss |
 |:-:|:-:|:-:|:-:|
@@ -79,9 +78,9 @@ These adjectives show possession of something. In English, words like "my" and "
 
 | Singular | Plural |
 |:-|:-|
-| <span class="hylian_kas">zu t@ras kasuto'sa lErde.</span><br>Zu ta.iras Kasuto'sa lërde.<br>This is Kasuto's book. | <span class="hylian_kas">ziu t@ras kasuto'san lerdEn.</span><br>Ziu ta.iras Kasuto'san lërdën.<br>These are Kasuto's books. |
-| <span class="hylian_kas">sEru t@ras bagu'sa pi&ntine.</span><br>Sëru ta.iras bagu'sa piántine.<br>She is my mother. | <span class="hylian_kas">iru t@ras bagu'san pi&ntinEn.</span><br>Iru ta.iras bagu'san piántën.<br>They are my parents. |
-| <span class="hylian_kas">Eru t@ras sEru'sa akime.</span><br>Ëru ta.iras sëru'sa akime.<br>He is her friend. | <span class="hylian_kas">iEru t@ras sEru'san akimEn.</span><br>Iëru ta.iras sëru'san akimën.<br>They are her friends. |
+| <span class="hylian_kas">zu t@ras kasuto'sa lErde.</span><br>_Zu ta.iras Kasuto'sa lërde._<br>This is Kasuto's book. | <span class="hylian_kas">ziu t@ras kasuto'san lerdEn.</span><br>_Ziu ta.iras Kasuto'san lërdën._<br>These are Kasuto's books. |
+| <span class="hylian_kas">sEru t@ras bagu'sa pi&ntine.</span><br>_Sëru ta.iras bagu'sa piántine._<br>She is my mother. | <span class="hylian_kas">iru t@ras bagu'san pi&ntinEn.</span><br>_Iru ta.iras bagu'san piántën._<br>They are my parents. |
+| <span class="hylian_kas">Eru t@ras sEru'sa akime.</span><br>_Ëru ta.iras sëru'sa akime._<br>He is her friend. | <span class="hylian_kas">iEru t@ras sEru'san akimEn.</span><br>_Iëru ta.iras sëru'san akimën._<br>They are her friends. |
 
 **IMPORTANT NOTE:** When nouns or pronouns are made into possessives, grammatically they become adjectives and behave like adjectives. Kasuto is a noun, but Kasuto'sa is an adjective.
 
@@ -91,13 +90,13 @@ Numbers are frequently used as adjectives. They are used when telling the quanti
   
 ### Cardinal Numbers
 
-Cardinal numbers are simple counting numbers, as in one, two, three. In Hylian, the nound forms would be hire, dise, troe. To turn a cardinal number into an adjective, simply change the -e ending to an -a or -an ending, depending on whether or not it's plural. Most of the time, only hire(one) will be used in the singular, and the rest are plural. Please note that in large compound numbers, as in sid?me kose (seventy-four), only the last word in the number changes to an adjective ending, e.g. sid?me kose becomes sid?me kosa.
+Cardinal numbers are simple counting numbers, as in one, two, three. In Hylian, the nound forms would be _hire, dise, troe._ To turn a cardinal number into an adjective, simply change the _-e_ ending to an _-a_ or _-an_ ending, depending on whether or not it's plural. Most of the time, only _hire_ (one) will be used in the singular, and the rest are plural. Please note that in large compound numbers, as in _sidëme kose_ (seventy-four), only the last word in the number changes to an adjective ending, e.g. _sidëme kose_ becomes _sidëme kosa._
 
 | Cardinal Number | Adjective Form | Example |
 |:-:|:-:|:-|
-| <span class="hylian_kas">hire</span><br>hire | <span class="hylian_kas">hira</span><br>hira | <span class="hylian_kas">bagu tEnshas hira r;pie.</span><br>Bagu tënshas hira rúpie.<br>I have one rupee. |
-| <span class="hylian_kas">hEnte</span><br>hënte | <span class="hylian_kas">hEntan</span><br>hëntan | <span class="hylian_kas">sEru koemes ab hentan pakstEn.</span><br>Sëru koemes ab hëntan pakstën.<br>She ate six pastries. |
-| <span class="hylian_kas">DEme onte</span><br>dëme onte | <span class="hylian_kas">dEme ontan</span><br>dëme ontan | <span class="hylian_kas">siEru tEnSas ab dEme ontan r;piEn.</span><br>Siëru tënshas ab dëme ontan rúpiën.<br>They have eighteen rupees. |
+| <span class="hylian_kas">hire</span><br>hire | <span class="hylian_kas">hira</span><br>hira | <span class="hylian_kas">bagu tEnshas hira r;pie.</span><br>_Bagu tënshas hira rúpie._<br>I have one rupee. |
+| <span class="hylian_kas">hEnte</span><br>hënte | <span class="hylian_kas">hEntan</span><br>hëntan | <span class="hylian_kas">sEru koemes ab hentan pakstEn.</span><br>_Sëru koemes ab hëntan pakstën._<br>She ate six pastries. |
+| <span class="hylian_kas">DEme onte</span><br>dëme onte | <span class="hylian_kas">dEme ontan</span><br>dëme ontan | <span class="hylian_kas">siEru tEnSas ab dEme ontan r;piEn.</span><br>_Siëru tënshas ab dëme ontan rúpiën._<br>They have eighteen rupees. |
 
 ### Ordinal Numbers
 
@@ -105,7 +104,7 @@ An ordinal number is used to tell the rank or position of something in a list or
  
 | Normal | Base | Noun Form | Adjective Form |
 |:-:|:-:|:-:|:-:|
-| <span class="hylian_kas">hire</span><br>_hire_ | <span class="hylian_kas">hir=</span><br>_hir-_ | _ | <span class="hylian_kas">hiraSa</span><br>_hirasha_ |
+| <span class="hylian_kas">hire</span><br>_hire_ | <span class="hylian_kas">hir=</span><br>_hir-_ | <span class="hylian_kas">hiraSe</span></br>_hirashe_ | <span class="hylian_kas">hiraSa</span><br>_hirasha_ |
 | <span class="hylian_kas">dEme</span><br>_dëme_ | <span class="hylian_kas">dEm=</span><br>_dëm-_ | <span class="hylian_kas">dEmaSe</span><br>_dëmashe_ | <span class="hylian_kas">dEmaSa</span><br>_dëmasha_ |
  
 #### Examples
