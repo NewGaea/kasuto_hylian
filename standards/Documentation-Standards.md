@@ -29,7 +29,7 @@ This is the name we use for the original font-mapped orthography used by **[Kasu
 This is the official romanized form of Hylian produced by Kasuto, which we maintain similarly to **Kasutan Font-Mapped Hylian,** with the primary purpose being to preserve Kasuto's old work, but also the archived work from the Vinculum Forums, which saw a number of fans contribute to the language.
 
 #### 1.b.3 | [Springerian Romanization](standards/orthography/springer-roman)
-This is the romanization used by **[Austin Springer](contributors/austin_springer)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
+This is the romanization used by **[Austin Springer](austin-springer.md)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
 
 #### 1.b.4 | [HLS Plaintext Romanization](standards/orthography/jerin-roman)
 Upon taking the reins of the project, **[Jerin of Calatia](contributors/jerin_of_calatia)** set to establish a new standard romanization. In large part, their goal was to make an orthography that would be elegant and readable even for individuals with little or no prior knowledge of the language. The orthography that results is the official romanization scheme of the HLS as of July 2023, keeping the language largely typeable on most US keyboards without trouble.
