@@ -1,3 +1,12 @@
+# Hylian Community Wordlist (Processed)
+
+This document serves as a markdown formatted archive of the Vinculum thread "Suggest New Words!" started by **[[venus|Venus, Queen of Faeries]].** The text was archived in 2016, and may not include later updates, however it is worth noting that the Forums themselves have been down for at least 2 years as of July 2023. Based on a comment in [[lexicon_community]], it appears that the thread was at least 7 years old when Austin collected the posts, meaning that some (or all) of these words were discussed by 2009.
+
+For a version of this thread without or from [[austin-springer|Austin]], look into [[Hylian Community Wordlist.txt]] or head over to [[archival/vinculum/index|The Vinculum Archive]] which focuses specifically on archiving Vinculum posts.
+
+---
+
+
 ## [Venus, Queen of Faeries](contributors/venus) writes:
 
 I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
@@ -1441,6 +1450,11 @@ Of particular note, _QBri_ is aware that "where" is _dono_ based on a prior post
 -----
 
 ## QBri writes again:
+
+
+> [!NOTE] Date Reference
+> [[lexicon_community]] contains a comment on the word **_tasag_** here noting that this suggestion is "7+ years old." While the precise date of that comment is unknown, it was between 2016 and 2021 (when [[austin-springer|Austin]] passed off general work on this project to New Gaea Entertainment). We are assuming closer to the former, which means that if you want to know the ages for words, anything from this message or earlier is likely from 2009 or earlier.
+
 
 New Words:
 

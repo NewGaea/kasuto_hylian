@@ -227,7 +227,10 @@ There are a few special words in Hylian called verbal adjuncts. They are words t
 \ft You must read this book.
 ```
 
-### Conditional Ability Adjunct - Jhunte 
+### Conditional Ability Adjunct - Jhunte _Panktashiza_
+
+> [!NOTE] New Coinage
+> **NOTE:** The word _panktashiza_ is a coinage by [[jerin-of-calatia|Jerin]] to fill in a missing word in this document. It is composed from _panktag_ (to be able) and _tashiza_ (conditional), intended to mean "to be able conditionally." It is not recorded in the archives except to fill this particular gap.
 
 | Hylian | Romanized | Summary |
 |:-:|:-:|:-|

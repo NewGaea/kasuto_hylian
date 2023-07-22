@@ -30,6 +30,8 @@ Where references to other words are made, the word should be given _emphasis for
 + **-a** (-a) _grammatical marker_ 1. This suffix indicates an adjective for a singular noun (_Kasuto_)
 + **ab** (ab) _particle_ 1. This is the direct object marker, which indicates that the following item is the direct object of the preceding verb (_Kasuto_)
 + **-ag** (-ag) _grammatical marker_ 1. to \[verb\] 1. The suffix indicates the infinitive mood of a verb (_Kasuto_)
++ **akane** (akane) _noun_ 1. present, now 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
++ **akantroSe** (akantroshe) _noun_ 1. present time 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **-aki** (-aki) _suffix_ 1. darling, dear, love 1. This is attached to a person's name to indicate love for a person. Used between spouses and boyfriends and girlfriends. (_Kasuto_)
 + **akima** (akima) _adjective_ 1. friendly (_Kasuto_)
 + **akimag** (akimag) _verb_ 1. befriend 2. connect with (_Kasuto_)
@@ -69,6 +71,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **aute** (aute) _noun_ 1. au 1. Name of the fourth letter of the Hylian alphabet (_Kasuto_)
 
 ### B
++ **baakantroSe** (baakantroshe) _noun_ 1. future 1. constructed from _bado_ + _akantroSe_, lieterally "after present-time" listed on Kasuto's verb documentation, but not recorded elsewhere, serves to indicate viability of double-vowels in words (_Kasuto_)
 + **bado** (bado) _preposition_ 1. after (_Kasuto_)
 + **bagu** (bagu) _pronoun_ 1. I, me 1. First person singular pronoun (_Kasuto_)
 + **bete** (bete) _noun_ 1. b 1. Name of the fifth letter of the Hylian alphabet. (_Kasuto_)
@@ -98,6 +101,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **dégine** (dégine) _noun, feminine_ 1. goddess 1. This refers specifically to a female deity or goddess. (_Kasuto_)
 + **depoto** (depoto) _preposition_ 1. before 1. Tells when an action happened, usually within a prepositional phrase. `Ru panses depoto taiu yovtes.` `It happened before you arrived.` (_Kasuto_)
 + **depotok** (depotok) _adverb_ 1. before, previously 1. Tells when an action happened, it modifies a verb. `Ru pansad depotok.` `It has happened before` (_Kasuto_)
++ **depotroSe** (depotroshe) _noun_ 1. past 1. constructed from _depoto_ + _troSe_, literally "before time"; listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **dëme** (dëme) _noun_ 1. ten (_Kasuto_)
 + **didëme** (didëme) _noun_ 1. twenty (_Kasuto_)
 + **diebe** (diebe) _noun_ 1. thief (_Kasuto_)
@@ -172,21 +176,27 @@ Where references to other words are made, the word should be given _emphasis for
 ### J
 + **jaina** (jaina) _adj_ 1. common, regular, frequent (_Kasuto_)
 + **jete** (jete) _noun_ 1. j 1. Name of the fifteenth letter of the Hylian alphabet. (_Kasuto_)
++ **jujowa** _adjective_ 1. passive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
++ **juSipa** (jushipa) _adjective_ 1. imperative, commanding, instructive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
++ **juSipe** (jushipe) _noun_ 1. command, instruction, direction, directive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 
 ### JH
 + **Jatag** (jhatag) _transitive verb_ 1. To speak `Lintans ab jhatag hilane.` `(You) Learn (how) to speak Hylian.` (_Kasuto_)
 + **Jete** (jhete) _noun_ 1. jh 1. Name of the sixteenth letter of the Hylian alphabet. (_Kasuto_)
 + **Jërdana** (jhërdana) _adjective_ 1. Gerudo, Gerudan, Gerudian 1. Word describing something of Gerudo origin. `Taz diebe jhërdana` `The Gerudo thief` (_Kasuto_)
 + **Jërdane** (jhërdane) _noun_ 1. Gerudo 2. Gerudic 1. A person who belongs to the Gerudo race. 2. The language of the Gerudo race. `Taz jhërdane tairas diebe` `The Gerudo is (a) thief` (_Kasuto_)
++ **Junte** (jhunte) _noun_ 1. adjunct 1. a word which modifies the mood or sense of another word, especially verbs; listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 
 ### K
 + **kamare** (kamare) _noun_ 1. Moon 1. Used to refer specifically to Hyrule's moon, not moons of other planets. (_Kasuto_)
 + **kamitsae** (kamitsae) _noun_ 1. Path 1. This can be literal or figurative, i.e. He walked on the path, or he went down the path of life. (_Kasuto_)
-+ **-kani** (-kani) _suffix_ 1. 1. Attached to the name of a person you consider a friend or acquaintance, but you also show them respect. Usually used by young people towards adults they know. (_Kasuto_)
-+ **-kanoi** (-kanoi) _suffix_ 1. 1. Attached to the name of a person you repsect and may not know. Usually used with people you've met for the first time, or with someone you know but highly respect. (_Kasuto_)
++ **-kani** (-kani) _suffix_ 1. Attached to the name of a person you consider a friend or acquaintance, but you also show them respect. Usually used by young people towards adults they know. (_Kasuto_)
++ **-kanoi** (-kanoi) _suffix_ 1. Attached to the name of a person you repsect and may not know. Usually used with people you've met for the first time, or with someone you know but highly respect. (_Kasuto_)
++ **kanSise** (kanshise) _noun_ 1. guardian (_Kasuto_)
 + **katabag** (katabag) _intransitive verb_, _transitive verb_ 1. To write (_Kasuto_)
 + **katane** (katane) _noun_ 1. Kataan 1. A village located twenty miles south of Hyrule Castle; the village Kasuto lived in. (_Kasuto_)
 + **kate** (kate) _noun_ 1. k 1. Name of the seventeenth letter of the Hylian alphabet. (_Kasuto_)
++ **kateha** (kateha) _adjective_ 1. subjunctive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **kaz** (kaz) _contraction_ 1. To the 1. Contraction of the words _ak_ and _taz_. (_Kasuto_)
 + **kaiane** (kaiane) _noun_ 1. dog 1. Gender neutral, can refer to either a female or male dog. (_Kasuto_)
 + **këm** (këm) _pronoun_ 1. what 1. This word is only used for clauses, do not confuse it with the interrogative pronoun _kono_, which is used for questions. (_Kasuto_)
@@ -194,6 +204,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **kibare** (kibare) _noun_ 1. change, difference (_Kasuto_)
 + **kiJag** (kijhag) _transitive verb_ 1. To conjugate 1. To give a verb a subject and a tense. (_Kasuto_)
 + **kiJage** (kijhage) _noun_ 1. Conjugation 1. A practical verb in use, with time and mood (_Kasuto_)
++ **kimare** (kimare) _noun_ 1. completion, completeness, perfection
 + **kímiloi** (kímiloi) _honorific_ 1. Child, kid, little boy 1. A word used to address a young child without using their name. It is sometimes used as a sign of affection. Used only with male children. (_Kasuto_)
 + **kíminoi** (kíminoi) _honorific_ 1. Child, kid, little girl 1. A word used to address a young child without using their name. It is sometimes used as a sign of affection. Used only with female children. (_Kasuto_)
 + **kirag** (kirag) _transitive verb_ 1. to buy, to purchase (_Kasuto_)
@@ -206,12 +217,15 @@ Where references to other words are made, the word should be given _emphasis for
 + **kodëme** (kodëme) _noun_ 1. forty (_Kasuto_)
 + **koemag** (koemag) _transitive verb_ 1. to eat 1. infinitive form of koeme (food) (_Kasuto_)
 + **koeme** (koeme) _noun_ 1. food `Bagu koemes ëk goeares az koeme.` `I ate and (I) liked the food.` (_Kasuto_)
++ **kokirna** (kokirna) _adjective_ 1. Kokiri, Kokirian 1. Describes something of or related to the Kokiri tribe (_Kasuto_)
++ **kokirne** (kokirne) _noun_ 1. Kokiri 2. the Kokiri language 1. a label for the Kokiri tribe and its members (_Kasuto_)
 + **kosale** (kosale) _noun_ 1. four hundred (_Kasuto_)
 + **kose** (kose) _noun_ 1. four (_Kasuto_)
 + **kragag** (kragag) _intransitive verb_ 1. To shit 1. A vulgar slang term for defecation. (_Kasuto_)
 + **krage** (krage) _noun_ 1. shit 1. A vulgar slang term for feces. (_Kasuto_)
 + **kriaSag** (kriashag) _transitive verb_ 1. To create something (_Kasuto_)
 + **kriaSase** (kriashase) _noun_ 1. Creator (_Kasuto_)
++ **krone** (krone) _noun_ 1. tense, conjugation of a verb 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **kuje** (kuje) _noun_ 1. Nads, balls 1. A crude, if not vulgar, slang term for testicles. Usually used in the plural form _kujën_. (_Kasuto_)
 + **-kumi** (-kumi) _suffix_ 1. partner 1. Attached to the name of a person whom you are close friends with. It is a sign of camaraderie and bonding. (_Kasuto_)
 + **kursiye** (kursiye) _noun_ 1. chair (_Kasuto_)
@@ -241,6 +255,8 @@ Where references to other words are made, the word should be given _emphasis for
 + **minaze** (minaze) _noun_, _interjection_ 1. Morning 1. Please note that when this is used as a greeting, as in good morning, the -e ending changes to -i as in _vina minazi_. (_Kasuto_)
 + **minazi** (minazi) _interjection_ 1. Morning 1. This word is used when greeting someone or saying hello `vina minazi` `good morning` (_Kasuto_)
 + **minazini** (minazini) _interjection_ 1. Morning 1. This word is used when greeting someone or saying goodbye `vina minazini` `good morning` (_Kasuto_)
++ **mo-** (mo-) _prefix, contraction_ 1. super, greatly 1. contracted form of _moka_ used as an amplifier to the word on which it is prefixed; listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
++ **mojuSipa** (mojushipa) _adjective_ 1. super-imperative 1. likely constructed from _moka_ + _juSipa_, meaning "greatly imperative"; listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **moka** (moka) _expression_ 1. very much, greatly `moka aroti` `thank you very much` (_Kasuto_)
 + **moastrag** (moastrag) _transitive_ verb_ 1. To show, to demonstrate (_Kasuto_)
 
@@ -294,9 +310,11 @@ Where references to other words are made, the word should be given _emphasis for
 + **poedre** (poedre) _noun_ 1. Power (_Kasuto_)
 
 ### R
++ **rauka** (rauka) _adjective_ 1. progressive, in progress 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **rektag** (rektag) _verb_ 1. to update (_Kasuto_)
 + **rote** (rote) _noun_ 1. r 1. Name of the twenty-fifth letter of the Hylian alphabet (_Kasuto_)
 + **riu** (riu) _pronoun_ 1. one, a person 1. This is an impersonal pronoun, it is used when making general statements that have no specific person in mind. `Depoto riu panktas ab kirag ru, (riu) sha tëshas ab danre.` `Before one can buy this, (one) must have enough money` (_Kasuto_)
++ **riuka** (riuka) _adjective_ 1. reflexive, self-referential 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **ru** (ru) _pronoun_ 1. It, he/she 1. This pronoun is used in the same way as "it" is in English. The word can represent something that is neither masculine nor feminine, something whose gender is unclear, an object, or a person whose gender is unknown. _Ru_ is also equivalent to today's usage of "he/she" or "they." (_Kasuto_)
 + **rúpie** (rúpie) _noun_ 1. rupie, rupee 2. ruby 1. This is the standard currency of Hyrule (_Nintendo_), (_Kasuto_)
 + **ruzantaze** (ruzantaze) _proper noun_ 1. Ruzantaze 1. This is the family name of Hyrule's royal family. (_Kasuto_)
@@ -308,6 +326,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **-san** (-san) _suffix_ 1. 's, possession marker (plural) 1. Unlike the genitive suffix, this changes the noun phrase into an adjective (_Kasuto_)
 + **sate** (sate) _n_. 1. s 1. Name of the twenty-sixth letter of the Hylian alphabet. (_Kasuto_)
 + **-sënSi** (-sënshi) _suffix_. 1. Teacher, master. 1. This is only used when attached to a person's name. It is a sign of respect for a teacher, doctor, professor, or other type of educator. (_Kasuto_)
++ **sënte** (sënte) _noun_ 1. mood 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **sëru** (sëru) _pronoun_ 1. She, her 1. Third person feminine singular pronoun `Bagu jhatos ak sëru.` `I will speak to her.` (_Kasuto_)
 + **siafire** (siafire) _n_ 1. Sapphire 1. A blue precious stone. (_Kasuto_)
 + **sidëme** (sidëme) _n_ 1. Seventy (_Kasuto_)
@@ -347,6 +366,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **takte** (takte) _noun_ 1. adjective 1. The part of speech that expresses descriptions of other words (_Kasuto_)
 + **tano** (tano) _pronoun_ 1. how much, how many (_Kasuto_)
 + **taro** (taro) _conjunction_ 1. So, so that, in order to 1. Synonymous with _lo_. (_Kasuto_)
++ **taSiza** (tashiza) _adjective_ 1. conditional, reliant on, dependent on 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **taz** (taz) _article_ 1. The 1. Definite article, used the same way as English "the". Does not change with gender or plurality. `Taz hilane (Taz hilanën)` `The Hylian (The Hylians)` (_Kasuto_)
 + **taiu** (taiu) _pronoun_ 1. You (singular) Second person neutral singular pronoun (_Kasuto_)
 + **tairag** (tairag) _linking verb_ 1. To be Used in much the same way as the English "be". Used to express a state of being or as a linking verb. This is its unconjugated form. (_Kasuto_)
@@ -366,6 +386,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **troe** (troe) _noun_ 1. three (_Kasuto_)
 + **trofaSe** (trofashe) _noun_ 1. Triforce (_Kasuto_)
 + **trosale** (trosale) _noun_ 1. three hundred (_Kasuto_)
++ **troSe** (troshe) _noun_ 1. time 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 
 ### TH
 + **Tate** (thate) _noun_ 1. th 1. Name of the twenty-eighth letter of the Hylian alphabet. (_Kasuto_)
@@ -390,6 +411,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **veuarde** (veudarde) _noun_ 1. truth (_Kasuto_)
 + **vïlae** (vïlae) _noun_ 1. village `Bënkati ak taz vïlae daia katane` `Welcome to the village of Kataan` (_Kasuto_)
 + **viseëre** (viseëre) _noun_ 1. wizard (_Kasuto_)
++ **vokimara** (vokimara) _adjective_ 1. imperfect, past habitual 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **vosu** (vosu) _pronoun_ 1. you (plural), y'all, youse 1. Second person plural pronoun (_Kasuto_)
 
 ### W
