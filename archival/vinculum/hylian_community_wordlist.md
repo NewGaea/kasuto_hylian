@@ -279,7 +279,7 @@ Sleeve: **brinstoke** ✅. ^_^ **ALL archived 25 May 2021**
 **daminazhëfolkag** ✅
 to roll around on the grass with your pet
 
-### [Austin Springer](contributors/austin_springer) dissects:
+### [Austin Springer](austin-springer.md) dissects:
 
 > Not bad, breaking it down into three parts:
 >
