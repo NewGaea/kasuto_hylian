@@ -1,19 +1,36 @@
+# Sample Texts
+
 This page collects every sample text used on Kasuto.net for the Hylian Language Institute.
 
+> [!NOTE] Conversion & Glossing Convention
+> Jerin: Converting this page to use glosses, convention does not require SINGULAR to be marked. Each gloss in this page should use the example line, **gla** for a compositionally delimited transcription, **glb** for a compositional gloss, **glc** for a composed translation, and a free translation **(ft)** for the official translation. Diphthong connectors should only be used in the example line, which should only use Capital Letters when the Kasuto Hylian Font requires them.
+
 ## Index Page
-- Bënkati kaz niatore da·ia taz langve hilana
-- `SALUT to.the institute.NSING of the language.NSING hylian.ADJSING`
-- Welcome to the Hylian Language Institute
+```gloss
+\ex bënkati kaz niatore da•ia taz langve hilana
+\gla bënkat.i kaz niator.e daia taz langv.e hilan.a
+\glb SALUT to.the institute.NOUN of the language.NOUN hylian.ADJ
+\glc Welcome to.the insitute of the language hylian
+\ft Welcome to the Hylian Language Institute
+```
 
 ## Font Page
-- Fonte Hilana
-- `font.NSING hylian.ADJSING`
-- Hylian Font
+```gloss
+\ex fonte hilana
+\gla font.e hilan.a
+\glb font.NOUN hylian.ADJ
+\glc Font Hylian
+\ft Hylian Font
+```
 
 ## Introduction Page
-- nioSe kaz langve hilana
-- `introduce.NSING to.the language.NSING hylian.ADJSING`
-- Introduction to the Hylian Language
+```gloss
+\ex nioSe kaz langve hilana
+\gla niosh.e kaz langv.e hilan.a
+\glb introduce.NOUN to.the language.NOUN hylian.ADJ
+\glc Introduction to.the Language Hylian
+\ft Introduction to the Hylian Language
+```
 
 ## Alphabet Page
 - Taz akta·ie Hilana
