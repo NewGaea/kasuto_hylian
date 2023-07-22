@@ -1,5 +1,4 @@
-**Fontën Hilanan**<br />
-**Hylian Fonts**
+## <span class="hylian_kas">fontën hilanan</span><br>**Hylian Fonts**
 
 _Do you like the Hylian alphabet presented here? Would you like to see a font for it, that you can install on your own computer? This, friends, is your lucky day: Kasuto and I have gone to the trouble of not only creating a TrueType font, but a whole selection of them for different uses. Now you can see, and write, Hylian on any site on the whole internet (though proper Hylian may be hard to find except on a few specific sites, like the Home of Hylian, [kasuto.net](kasuto.net). and here on the official mirror.)_
 
