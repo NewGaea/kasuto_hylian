@@ -48,3 +48,6 @@ Most notes outside of the **archival** directory should link back to at least on
 
 #### 1.c.3 | Navigation Links
 Most notes outside of the **archival** directory should contain some link to navigate to at least one connected page.
+
+### 1.d | File Naming Conventions
+In general, files in or related to the Archives may use any convention so long as each archival directory uses the same convention. Files in the active, non-archived sections of the project, should be in `kebab-case` for files with text, and should use `snake_case` for files containing non-text data such as images, compressed archives, or audio.
