@@ -30,9 +30,10 @@ This is the official romanized form of Hylian produced by Kasuto, which we maint
 
 #### 1.b.3 | [Springerian Romanization](standards/orthography/springer-roman)
 This is the romanization used by **[Austin Springer](austin-springer.md)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
-
-#### 1.b.4 | [HLS Plaintext Romanization](standards/orthography/jerin-roman)
-Upon taking the reins of the project, **[Jerin of Calatia](contributors/jerin_of_calatia)** set to establish a new standard romanization. In large part, their goal was to make an orthography that would be elegant and readable even for individuals with little or no prior knowledge of the language. The orthography that results is the official romanization scheme of the HLS as of July 2023, keeping the language largely typeable on most US keyboards without trouble.
+>>>>>>>+HEAD
+ [HLS PlThis is the romanization used by **[Austin Springer](contributors/austin_springer)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
+>>>>>>>-ff9548ddfe9f550
+orthography that results is the official romanization scheme of the HLS as of July 2023, keeping the language largely typeable on most US keyboards without trouble.
 
 #### 1.b.5 | [HLS IPA Romanization](standards/orthography/jerin-ipa)
 For linguists, or experienced conlangers, **Jerin of Calatia** has also mapped all of the letters used in Classical Hylian to IPA symbols. This romanization is found in the advanced grammar documents as well as the full dictionary.
