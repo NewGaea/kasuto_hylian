@@ -10,7 +10,7 @@ The **documentation** of this language is licensed for redistribution, remixing,
 
 ### Attribution
 
-> You must give [appropriate credit](https://creativecommons.org/licenses/by-sa/4.0/#), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-sa/4.0/#). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. (from _[creativecommons.org](creativecommons.org)_)
+> You must give [appropriate credit](https://creativecommons.org/licenses/by-sa/4.0/#), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-sa/4.0/#). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. (from _[creativecommons.org](https://creativecommons.org)_)
 
 Because this is a language with multiple contributors, Attribution should be given to **Kasuto of Kataan** and **The Hylian Linguistic Society** and requires no less than a list of the Names identified in the **Contributors** directory of this repository.
 

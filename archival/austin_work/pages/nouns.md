@@ -1,4 +1,4 @@
-# sonEn hilanan<br />Sonën Hilanan
+# <span class="hylian_kas">sonEn hilanan</span><br>Sonën Hilanan
 
 A noun is a person, place, thing, or idea. An important characteristic of Hylian nouns is that the vast majority of them follow a regular pattern. Unlike English, in which nouns can have almost any ending, Hylian nouns all have the same ending. Plurality is also indictated by a regular pattern. Below are the two noun endings.
 
