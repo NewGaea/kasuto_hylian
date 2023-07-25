@@ -292,7 +292,7 @@ to light something important on fire### [Austin Springer](austin-springer.md) di
 >>>>>>>+HEAD
 n to:
 >
-### [Austin Springer](contributors/austin_springer) dissects:
+### [Austin Springer](austin-springer.md) dissects:
 >>>>>>>-ff9548ddfe9f550
 , research findings ✅
 > * _zisag_ - to start a fire, to burn ✅

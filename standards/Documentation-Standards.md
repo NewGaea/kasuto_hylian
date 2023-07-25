@@ -31,7 +31,7 @@ This is the official romanized form of Hylian produced by Kasuto, which we maint
 #### 1.b.3 | [Springerian Romanization](standards/orthography/springer-roman)
 This is the romanization used by **[Austin Springer](austin-springer.md)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
 >>>>>>>+HEAD
- [HLS PlThis is the romanization used by **[Austin Springer](contributors/austin_springer)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
+ [HLS PlThis is the romanization used by **[Austin Springer](austin-springer.md)**. It is a case-sensitive romanization which incorporates the six letters which **Kasuto** announced on the Vinculum Forums. Is is, in a sense, an adaptation of **Kasutan Font-Mapped Hylian,** though with a commitment to only using alphabetic symbols.
 >>>>>>>-ff9548ddfe9f550
 orthography that results is the official romanization scheme of the HLS as of July 2023, keeping the language largely typeable on most US keyboards without trouble.
 

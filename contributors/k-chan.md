@@ -1,5 +1,6 @@
 ---
 tag: contributor ghost-writer
+alias: K-Chan
 ---
 # K-Chan
 ---

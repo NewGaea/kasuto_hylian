@@ -1,5 +1,6 @@
 ---
 tag: contributor author
+alias: Venus (Queen of Faeries)
 ---
 # Venus, Queen of Faeries
 ---
