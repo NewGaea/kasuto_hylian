@@ -424,7 +424,7 @@ I'm done now. You may continue skipping over the post/thread/forum.
 
 -----
 
-## [Pata Hikari](contributors/pata_hikari) notes:
+## [Pata Hikari](pata-hikari.md) notes:
 
 I'm surprised nobody's put this foreword.
 

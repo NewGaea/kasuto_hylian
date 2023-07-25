@@ -398,7 +398,7 @@ And a new nounverb: kiss: magze, magzag. ✅
 I'm done now. You may continue skipping over the post/thread/forum.
 
 ---
-## [Pata Hikari](contributors/pata_hikari) notes:
+## [Pata Hikari](pata-hikari.md) notes:
 
 I'm surprised nobody's put this foreword.
 
@@ -2042,7 +2042,7 @@ Yeah, that makes a lot of sense. And _**votoere**_ could still work before that 
 Thank YOU for all of yours! No way I would have come up with all those words by myself.... and the way you came up with hour, minute and second was brilliant!!
 
 ---
-## [Oluademi Wolfwood](contributors/oluademi_wolfwood) emerges from the woodwork:
+## [Oluademi Wolfwood](oluademi-wolfwood.md) emerges from the woodwork:
 
 You do realize that this is ALL YOUR FAULT. ::kicks, then finds a comfy chair in the front of the classroom.::
 
