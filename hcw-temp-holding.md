@@ -4,12 +4,14 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 
 ## A
 + **adakae** _noun_ 1. finger 1. from proposed _aikwe daia kame_ (finger of the foot) using proposed _aikwe_ (finger) and _kame_ (foot). ([[venus|Venus]])
++ **akonde** _noun_ 1. sky ([[venus|Venus]])
 + **alazae** _noun_ 1. neighbor ([[k-chan|K-Chan]])
 + **anlika** _adjective_ 1. alone ([[k-chan|K-Chan]])
 + **amite** _noun_ 1. aunt, uncle, parent’s sibling 1. from Latin _amita_ (aunt) ([[venus|Venus]])
 + **amítile** _noun_ 1. uncle ([[venus|Venus]])
 + **amítine** _noun_ 1. aunt ([[venus|Venus]])
 + **andwe** _noun_ 1. face ([[venus|Venus]])
++ **ane** _noun_ 1. elemental water ([[pata-hikari|Pata Hikari]])
 + **avike** _noun_ 1. ocarina ([[k-chan|K-Chan]])
 
 ## Ä
@@ -21,6 +23,7 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 
 ## B
 + **batyahe** _noun_ 1. valley 1. originally shared as a noun to play with ([[venus|Venus]])
++ **bíúkoge** _noun_ 1. earth ([[venus|Venus]])
 + **brinstoke** _noun_ 1. sleeve ([[venus|Venus]])
 
 ## C
@@ -32,27 +35,35 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 
 ## D
 + **daminazhëfolkag** _verb_ 1. to roll around on the grass with one’s pet ([[Emekthian]])
++ **daonkve hilana** _proper noun_ 1. Lake Hylia (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 + **dëna** _adjective, prefix_ 1. small ([[venus|Venus]]) 2. half, less than fully, only sharing one parent 2. suggested for use in kinship terms equivalent to English _half-sister_ ([[venus|Venus]])
 + **dënnuSeoke** _noun_ 1. lingerie ([[venus|Venus]])
 
 ## DH
 
 ## E
++ **emplae** _noun_ 1. church, temple, place of worship ([[pata-hikari|Pata Hikari]])
 
 ## Ë
 
 ## F
++ **feTe** _noun_ 1. wind 1. from Old Irish _feth_ (air) ([[venus|Venus]])
++ **fosa** _adjective_ 1. afraid (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **fose** _noun_ 1. fear (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 
 ## G
++ **galene** _noun_ 1. elemental earth ([[pata-hikari|Pata Hikari]])
 + **geleáfae** _noun_ 1. belief ([[venus|Venus]])
 + **geleáfag** _verb_ 1. to believe ([[k-chan|K-Chan]], [[venus|Venus]])
 + **gibdoe** _noun_ 1. gibdo, mummy 1. so named for the [[enemy-list|baddie]] (_[[nintendo|Nintendo]]_; [[k-chan|K-Chan]], [[venus|Venus]])
 + **ginie** _noun_ 1. ghost 1. so named for the [[enemy-list|baddie]] (_[[nintendo|Nintendo]]_; [[k-chan|K-Chan]], [[venus|Venus]])
++ **guaye** _noun_ 1. guay (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 
 ## H
 + **hetobe** _noun_ 1. body 1. from Old High German _boteh_ (corpse) ([[venus|Venus]])
 + **hetobokag** _verb_ 1. to clothe, to dress ([[venus|Venus]])
 + **hetoboke** _noun_ 1. clothing, garment ([[venus|Venus]])
++ **hevone** _noun_ 1. elemental spirit ([[pata-hikari|Pata Hikari]])
 + **hia** _adjective_ 1. yellow ([[k-chan|K-Chan]])
 + **hiose** _noun_ 1. child 1. from Greek _hyios_ (son) ([[venus|Venus]])
 + **hiósile** _noun_ 1. son, boy ([[venus|Venus]])
@@ -62,6 +73,7 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 
 ## I
 + **igámobondozisag** _verb_ 1. to light something important on fire ([[Emekthian]])
++ **ilidane** _noun_ 1. storm ([[slacker|Slacker]])
 + **ipa** _adjective, prefix_ 1. by marriage, in-law, step- 1. suggested to refer to relations through marriage like English _stepfather_ “suppose it could also refer to inlaws” ([[venus|Venus]])
 + **ipae** _noun_ 1. spouse 1. from Hittite _sipant-_ (spouse) ([[venus|Venus]])
 + **ipáile** _noun_ 1. husband ([[venus|Venus]])
@@ -90,10 +102,13 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **katene lasta** _proper noun_ 1. Master Sword (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
 + **kaule** _noun_ 1. fish 1. alternative to _këwle_ ([[venus|Venus]])
 + **keese** _noun_ 1. bat 1. so named for the [[enemy-list|baddie]] (_[[nintendo|Nintendo]]_; [[k-chan|K-Chan]], [[venus|Venus]])
++ **keëse** _noun_ 2. keese (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 + **kèule** _noun_ 1. fish 1. alternative to _këwle_ ([[venus|Venus]])
 + **këwle** _noun_ 1. fish ([[oluademi-wolfwood|Oluademi Wolfwood]], [[venus|Venus]])
 + **ktaniyuhrozag** _verb_ 1. to exasperate ([[Emekthian]])
 + **kukoe** _noun_ 1. chicken 1. so named for the [[enemy-list|critter]] (_[[nintendo|Nintendo]]_; [[k-chan|K-Chan]], [[venus|Venus]])
++ **kukoe** _noun_ 2. cucco (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **kuraJe** _noun_ 1. courage 1. possibly tongue-in-cheek ([[venus|Venus]])
 
 ## KH
 
@@ -101,7 +116,9 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **la** _adjective, prefix_ 1. masculine object prefix ([[venus|Venus]])
 + **lasta** _adjective_ 1. master, ruler, best ([[pata-hikari|Pata Hikari]])
 + **le** _noun, prefix_ 1. male, masculine ([[venus|Venus]])
++ **linkre** (as _lincre_) _noun_ 1. courage 1. the root of the Hylian name Linc \[sic] ([[pata-hikari|Pata Hikari]])
 + **luberag** _verb_ 1. to please ([[venus|Venus]])
++ **lune** _noun_ 1. elemental shadow, elemental darkness ([[pata-hikari|Pata Hikari]])
 + **lupe** _noun_ 1. dog 1. from Latin _lupis_ \[sic] (wolf) ([[pata-hikari|Pata Hikari]])
 + **luSeoke** _noun_ 1. masculine undergarment ([[venus|Venus]])
 
@@ -113,12 +130,18 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **mámale** _noun_ 1. million, one million 1. derived from _malan malën_; preferred form by Venus because it’s shorter and has an _asënta_ vowel; after introducing [[k-chan|K-Chan]]’s set of clothing terms, and her own modifiers for them, Venus observed that her _ma-_ prefix could make _mámale_ mean “big thousand” ([[venus|Venus]])
 + **masoke** _noun_ 1. tunic 1. literally “big shirt” ([[k-chan|K-Chan]])
 + **matre** _noun_ 1. mouse ([[pata-hikari|Pata Hikari]])
++ **mavlise** _noun_ 1. forest ([[venus|Venus]])
++ **mavlise kokirna** _proper noun_ 1. Kokiri Forest 1. replaces proposed _mavlise kokiri_ (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 + **mejag** _verb_ 1. to resemble, to look like 1. from Spanish _asemejarse_ (to resemble) ([[venus|Venus]])
 + **mia** _adjective_ 1. red
++ **miare** _noun_ 1. vision ([[venus|Venus]])
 + **mihia** _adjective_ 1. orange 1. literally “red-yellow” ([[k-chan|K-Chan]])
 + **monte** _noun_ 1. word 1. inspired by French _Montclair_ (clear mountain) and _mot_ (word) ([[venus|Venus]])
 + **moskag** _noun_ 1. to fly 1. from Spanish _mosca_ (insect) ([[k-chan|K-Chan]], [[venus|Venus]])
 + **moi’ag** _verb_ 1. to hear, to listen ([[venus|Venus]])
++ **moblne** _noun_ 1. moblin (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
++ **moldrme** _noun_ 1. moldorm (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
++ **molorne** _noun_ 1. elemental forest ([[pata-hikari|Pata Hikari]])
 + **munTaize** _noun_ 1. mouth ([[venus|Venus]])
 
 ## N
@@ -128,7 +151,11 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **napete** _noun_ 1. grandchild 1. from Sanskrit _पौत्रः (napAt)_ (grandson) ([[venus|Venus]])
 + **napétile** _noun_ 1. grandson ([[venus|Venus]])
 + **napétine** _noun_ 1. granddaughter ([[venus|Venus]])
++ **naimre** _noun_ 1. dream ([[venus|Venus]])
++ **naipe** _noun_ 1. wish ([[venus|Venus]])
 + **ne** _noun, prefix_ 1. feminine object prefix ([[venus|Venus]])
++ **nedag** _verb_ 1. to treat the sick ([[pata-hikari|Pata Hikari]])
++ **nede** _noun_ 1. doctor ([[pata-hikari|Pata Hikari]])
 + **n’kamoke** _noun_ 1. feminine boot, pair of feminine boots ([[venus|Venus]])
 + **none** _noun_ 1. leg ([[k-chan|K-Chan]], [[venus|Venus]])
 + **nonoke** _noun_ 1. legging, leggings ([[k-chan|K-Chan]])
@@ -140,6 +167,7 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **okag** _verb_ 1. to wear 1. back-formation from proposed clothing terms ([[k-chan|K-Chan]], [[venus|Venus]])
 + **opJoke** _noun_ 1. glasses ([[venus|Venus]])
 + **órode** _noun_ 1. mountain 1. replaces proposed _órod_ as grammatical form; from Ancient Greek _όρος_ (mountain) ([[bbb|BBB]], [[venus|Venus]])
++ **órode Tenta** _proper noun_ 1. Death Mountain 1. replaces proposed _órode Tente_
 + **órode Tente** _proper noun_ 1. Death Mountain 1. replaces proposed _órod Tente_ as grammatical form; uses proposed _órode_ (mountain) and _Tente_ (death) (_[[nintendo|Nintendo]]_, [[bbb|BBB]], [[venus|Venus]])
 
 ## OA
@@ -147,6 +175,8 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 ## OI
 
 ## P
++ **perine** _noun_ 1. soul ([[pata-hikari|Pata Hikari]])
++ **perlune** _noun_ 1. elemental fire ([[pata-hikari|Pata Hikari]])
 + **poe** _noun_ 1. ghost, poe 1. so named for the [[enemy-list|baddie]] (_[[nintendo|Nintendo]]_; [[k-chan|K-Chan]], [[venus|Venus]])
 + **potëra** _adjective_ 1. strong ([[venus|Venus]])
 + **potëre** _noun_ 1. strength ([[venus|Venus]])
@@ -154,6 +184,8 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 ## R
 + **reakete** _noun_ 1. battle ([[k-chan|K-Chan]])
 + **reaToa** _adjective_ 1. angry ([[k-chan|K-Chan]])
++ **rokèlzisag** _verb_ 1. to light (a candle or something) 1. from proposed _igàmobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
++ **rokèlzise** _noun_ 1. light 1. from proposed _igámobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
 + **rope** _noun_ 1. rope (monster), snake 1. so named for the [[enemy-list|baddie]] (_[[nintendo|Nintendo]]_, [[k-chan|K-Chan]], [[venus|Venus]])
 
 ## S
@@ -163,6 +195,7 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **sesole** _noun_ 1. rain (weather) ([[venus|Venus]])
 + **sia** _adjective_ 1. blue 1. from canonical _siafire_ (sapphire) ([[kasuto|Kasuto]], [[venus|Venus]])
 + **sihia** _adjective_ 1. green 1. literally “blue-yellow” ([[k-chan|K-Chan]], [[venus|Venus]])
++ **silfane** _noun_ 1. elemental wind ([[pata-hikari|Pata Hikari]])
 + **simia** _adjective_ 1. purple, violet 1. literally “blue-red” ([[k-chan|K-Chan]], [[venus|Venus]])
 + **sipe** _noun_ 1. sibling 1. from Old German _sippa_ (kinship) ([[venus|Venus]])
 + **sípile** _noun_ 1. brother ([[venus|Venus]])
@@ -174,12 +207,15 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 + **sófile** _noun_ 1. grandfather ([[venus|Venus]])
 + **sófine** _noun_ 1. grandmother ([[venus|Venus]])
 + **soke** _noun_ 1. shirt ([[k-chan|K-Chan]])
++ **solane** _noun_ 1. elemental light ([[pata-hikari|Pata Hikari]])
 
 ## SH
 + **SëmopJoke** _noun_ 1. sunglasses ([[venus|Venus]])
 + **Soyanne** _noun_ 1. explosive, _bomb_ ([[Emekthian]])
++ **stale** _noun_ 1. skeleton (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 
 ## T
++ **tekaite** _noun_ 1. tektite (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 + **trèowag** _verb_ 1. to trust ([[venus|Venus]])
 + **trèowe** _noun_ 1. trust ([[venus|Venus]])
 
@@ -206,7 +242,9 @@ This document is a list of words, unfiltered for quality, from the [[archival/au
 
 ## Z
 + **zavokag** _verb_ 1. to know, to understand 1. from French _savoir_ (to know) and Japanese _分かる (wakaru)_ (to know) ([[venus|Venus]])
++ **zeldne** _noun_ 1. wisdom 1. the root word for the Hylian name Zela ([[pata-hikari|Pata Hikari]])
 + **zenre** _noun_ 1. animal ([[pata-hikari|Pata Hikari]])
++ **zwa** _adjective, suffix_ 1. more, most 1. used as both a comparative and superlative, follows the adjective suffix as in _nasúnazwa_ (darker, darkest) ([[emekthian|Emekthian]])
 
 ## Unglossed Words
 The words in this section may be played with and glossed at a later date.
@@ -278,44 +316,6 @@ The words here are ungrammatical, but have been given grammatical forms in the w
 
 ## Unsorted Words (Filter Daily)
 
-+ **akonde** _noun_ 1. sky ([[venus|Venus]])
-+ **ane** _noun_ 1. elemental water ([[pata-hikari|Pata Hikari]])
-+ **bíúkoge** _noun_ 1. earth ([[venus|Venus]])
-+ **daonkve hilana** _proper noun_ 1. Lake Hylia (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **feTe** _noun_ 1. wind 1. from Old Irish _feth_ (air) ([[venus|Venus]])
-+ **emplae** _noun_ 1. church, temple, place of worship ([[pata-hikari|Pata Hikari]])
-+ **fosa** _adjective_ 1. afraid (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **fose** _noun_ 1. fear (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **galene** _noun_ 1. elemental earth ([[pata-hikari|Pata Hikari]])
-+ **guaye** _noun_ 1. guay (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **hevone** _noun_ 1. elemental spirit ([[pata-hikari|Pata Hikari]])
-+ **ilidane** _noun_ 1. storm ([[slacker|Slacker]])
-+ **keëse** _noun_ 2. keese (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **kukoe** _noun_ 2. cucco (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **kuraJe** _noun_ 1. courage 1. possibly tongue-in-cheek ([[venus|Venus]])
-+ **linkre** (as _lincre_) _noun_ 1. courage 1. the root of the Hylian name Linc \[sic] ([[pata-hikari|Pata Hikari]])
-+ **lune** _noun_ 1. elemental shadow, elemental darkness ([[pata-hikari|Pata Hikari]])
-+ **mavlise** _noun_ 1. forest ([[venus|Venus]])
-+ **mavlise kokirna** _proper noun_ 1. Kokiri Forest 1. replaces proposed _mavlise kokiri_ (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **miare** _noun_ 1. vision ([[venus|Venus]])
-+ **moblne** _noun_ 1. moblin (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
-+ **moldrme** _noun_ 1. moldorm (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
-+ **molorne** _noun_ 1. elemental forest ([[pata-hikari|Pata Hikari]])
-+ **naimre** _noun_ 1. dream ([[venus|Venus]])
-+ **naipe** _noun_ 1. wish ([[venus|Venus]])
-+ **nedag** _verb_ 1. to treat the sick ([[pata-hikari|Pata Hikari]])
-+ **nede** _noun_ 1. doctor ([[pata-hikari|Pata Hikari]])
-+ **órode Tenta** _proper noun_ 1. Death Mountain 1. replaces proposed _órode Tente_
-+ **perine** _noun_ 1. soul ([[pata-hikari|Pata Hikari]])
-+ **perlune** _noun_ 1. elemental fire ([[pata-hikari|Pata Hikari]])
-+ **rokèlzisag** _verb_ 1. to light (a candle or something) 1. from proposed _igàmobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
-+ **rokèlzise** _noun_ 1. light 1. from proposed _igámobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
-+ **silfane** _noun_ 1. elemental wind ([[pata-hikari|Pata Hikari]])
-+ **solane** _noun_ 1. elemental light ([[pata-hikari|Pata Hikari]])
-+ **stale** _noun_ 1. skeleton (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **tekaite** _noun_ 1. tektite (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
-+ **zeldne** _noun_ 1. wisdom 1. the root word for the Hylian name Zela ([[pata-hikari|Pata Hikari]])
-+ **zwa** _adjective, suffix_ 1. more, most 1. used as both a comparative and superlative, follows the adjective suffix as in _nasúnazwa_ (darker, darkest) ([[emekthian|Emekthian]])
 + **bëu** _pronoun_ 1. me 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab bagu_; originally proposed as _më -> mëu_ ([[qbri|QBri]])
 + **tëu** _pronoun_ 1. you (accusative) 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab tai’u_, originally proposed as _tau_ ([[qbri|QBri]])
 + **nëu** _pronoun_ 1. us 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab nosu_; originally proposd as _në_ ([[qbri|QBri]])
