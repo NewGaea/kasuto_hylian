@@ -224,11 +224,116 @@ The words here are ungrammatical, but have been given grammatical forms in the w
 + **\*órod** _ungrammatical_ 1. mountain 1. from Ancient Greek _όρος_ (mountain) ([[bbb|BBB]])
 + **\*órod Tente** _ungrammatical, proper noun_ 1. Death Mountain 1. from proposed _Tente_ (death) and _órod_ (mountain) (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
 
+## English Words Desired
++ Directions
+	+ up
+	+ down
+	+ left
+	+ right
+	+ north
+	+ east
+	+ south
+	+ west
+	+ forward
+	+ back
++ Creatures
+	+ cucco — **kukoe** ([[venus|Venus]])
+	+ keese — **keëse** ([[venus|Venus]])
+	+ guay
+	+ tektite
+	+ etc.
++ Geographical Features
+	+ mountain — **órode** ([[bbb|BBB]])
+	+ valley — **batyahe** ([[venus|Venus]])
+	+ etc.
++ Weather
+	+ rain — **sesolag, sesole** ([[venus|Venus]])
+	+ snow
++ Anatomy
+	+ head — **Cape** ([[venus|Venus]])
+	+ shoulders
+	+ knees
+	+ toes — **adakaën** ([[venus|Venus]])
++ Clothing
+	+ shirt
+	+ pants
+	+ skirt
+	+ jacket
++ Emotional Condition
+	+ sad
+	+ angry — **reaToa** ([[k-chan|K-Chan]])
+	+ lonely
++ Physical Condition
+	+ alone — **anlika** ([[k-chan|K-Chan]])
+	+ wet
+	+ injured
+	+ hot
+	+ cold
++ Superlatives
+	+ high
+	+ higher
+	+ highest
+	+ more
+	+ most
+
 ## Unsorted Words (Filter Daily)
 
-
-## Sorting Break!
-
-Delete this heading after sorting and confirming the contributors for the 92(!?) words proposed thus far! [[venus|Venus (Queen of Faeries)]] provided a compiled list in the post after grammaticalizing **_orode_** for BBB.
-
-Was a word altered? Include the alteration in the note field on the appropriate line!
++ **kukoe** _noun_ 2. cucco (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **keëse** _noun_ 2. keese (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **guaye** _noun_ 1. guay (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **tekaite** _noun_ 1. tektite (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **stale** _noun_ 1. skeleton (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **fose** _noun_ 1. fear (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **fosa** _adjective_ 1. afraid (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **zwa** _adjective, suffix_ 1. more, most 1. used as both a comparative and superlative, follows the adjective suffix as in _nasúnazwa_ (darker, darkest) ([[emekthian|Emekthian]])
++ **akonde** _noun_ 1. sky ([[venus|Venus]])
++ **miare** _noun_ 1. vision ([[venus|Venus]])
++ **naimre** _noun_ 1. dream ([[venus|Venus]])
++ **naipe** _noun_ 1. wish ([[venus|Venus]])
++ **nede** _noun_ 1. doctor ([[pata-hikari|Pata Hikari]])
++ **nedag** _verb_ 1. to treat the sick ([[pata-hikari|Pata Hikari]])
++ **lune** _noun_ 1. elemental shadow, elemental darkness ([[pata-hikari|Pata Hikari]])
++ **emplae** _noun_ 1. church, temple, place of worship ([[pata-hikari|Pata Hikari]])
++ **ilidane** _noun_ 1. storm ([[contributors/slacker]])
++ **solane** _noun_ 1. elemental light ([[pata-hikari|Pata Hikari]])
++ **perlune** _noun_ 1. elemental fire ([[pata-hikari|Pata Hikari]])
++ **ane** _noun_ 1. elemental water ([[pata-hikari|Pata Hikari]])
++ **molorne** _noun_ 1. elemental forest ([[pata-hikari|Pata Hikari]])
++ **hevone** _noun_ 1. elemental spirit ([[pata-hikari|Pata Hikari]])
++ **galene** _noun_ 1. elemental earth ([[pata-hikari|Pata Hikari]])
++ **silfane** _noun_ 1. elemental wind ([[pata-hikari|Pata Hikari]])
++ **perine** _noun_ 1. soul ([[pata-hikari|Pata Hikari]])
++ **mavlise** _noun_ 1. forest ([[venus|Venus]])
++ **rokèlzise** _noun_ 1. light 1. from proposed _igámobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
++ **rokèlzisag** _verb_ 1. to light (a candle or something) 1. from proposed _igàmobondozisag_ (to light something important on fire) ([[venus|Venus]], [[emekthian|Emekthian]])
++ **bíúkoge** _noun_ 1. earth ([[venus|Venus]])
++ **feTe** _noun_ 1. wind 1. from Old Irish _feth_ (air) ([[venus|Venus]])
++ **linkre** (as _lincre_) _noun_ 1. courage 1. the root of the Hylian name Linc \[sic] ([[pata-hikari|Pata Hikari]])
++ **zeldne** _noun_ 1. wisdom 1. the root word for the Hylian name Zela ([[pata-hikari|Pata Hikari]])
++ **moldrme** _noun_ 1. moldorm (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
++ **moblne** _noun_ 1. moblin (_[[nintendo|Nintendo]]_, [[pata-hikari|Pata Hikari]])
++ **kuraJe** _noun_ 1. courage 1. possibly tongue-in-cheek ([[venus|Venus]])
++ **\*mavlise kokiri** _ungrammatical, proper noun_ 1. Kokiri Forest (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **daonkve hilana** _proper noun_ 1. Lake Hylia (_[[nintendo|Nintendo]]_, [[bbb|BBB]])
++ **mavlise kokirna** _proper noun_ 1. Kokiri Forest 1. replaces proposed _mavlise kokiri_ ([[bbb|BBB]])
++ **órode Tenta** _proper noun_ 1. Death Mountain 1. replaces proposed _órode Tente_
++ **bëu** _pronoun_ 1. me 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab bagu_; originally proposed as _më -> mëu_ ([[contributors/qbri]])
++ **tau** _pronoun_ 1. you (accusative) 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab tai’u_ ([[contributors/qbri]])
++ **nëu** _pronoun_ 1. us 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab nosu_; originally proposd as _në_ ([[contributors/qbri]])
++ **vëu** _pronoun_ 1. you all (accusative) 1. part of a proposed set of _object role_ pronouns, equivalent to canonical _ab vosu_; originally proposed as _vë_ ([[contributors/qbri]])
++ **toka** _adjective_ 1. all ([[contributors/qbri]])
++ **toke** _noun_ 1. all ([[contributors/qbri]])
++ **to’a** _adjective_ 1. some ([[contributors/qbri]])
++ **to’e** _noun_ 1. some portion ([[contributors/qbri]])
++ **boka** _adjective_ 1. none ([[contributors/qbri]])
++ **boke** _noun_ 1. nothing, no portion ([[contributors/qbri]])
++ **ala** _adjective_ 1. there, that place ([[contributors/qbri]])
++ **aka** _adjective_ 1. here, this place ([[contributors/qbri]])
++ **sëk** _conjunction_ 1. but, however ([[contributors/qbri]])
++ **mo’a** _conjunction_ 1. also, in addition ([[contributors/qbri]])
++ **tok** _preposition_ 1. with ([[contributors/qbri]])
++ **upag** _verb_ 1. to pray ([[contributors/qbri]])
++ **vere** _noun_ 1. truth 1. canonical form is _veuarde_ by **Kasuto** ([[contributors/slacker]])
++ **jade** _preposition_ 1. until 1. from Spanish _gis_ (until) and Japanese _まで (made)_ (until) ([[contributors/qbri]])
++ **pro** _preposition_ 1. for, on behalf of ([[contributors/qbri]])
++ **ol** _preposition_ 1. than 1. from Spanish _ol_ ([[contributors/qbri]])
