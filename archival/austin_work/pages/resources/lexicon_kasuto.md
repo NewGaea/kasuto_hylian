@@ -74,6 +74,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **baakantroSe** (baakantroshe) _noun_ 1. future 1. constructed from _bado_ + _akantroSe_, lieterally "after present-time" listed on Kasuto's verb documentation, but not recorded elsewhere, serves to indicate viability of double-vowels in words (_Kasuto_)
 + **bado** (bado) _preposition_ 1. after (_Kasuto_)
 + **bagu** (bagu) _pronoun_ 1. I, me 1. First person singular pronoun (_Kasuto_)
++ **bana** (bana) _adjective_ 1. big, lots 1. "_bana_ makes it forceful" (_Kasuto_)
 + **bete** (bete) _noun_ 1. b 1. Name of the fifth letter of the Hylian alphabet. (_Kasuto_)
 + **bënkati** (bënkati) _interjection_ 1. Welcome 1. Usually used as a greeting or salutation. `Bënkati ak taz vïlae daia katane` `Welcome to the village of Kataan` (_Kasuto_)
 + **biankag** (biankag) _intransitive verb_ 1. To look, to use one's eyes to view something 2. to imagine something `Bagu biankis ant taz kaiane` `I looked at the dog` (_Kasuto_)
@@ -110,12 +111,14 @@ Where references to other words are made, the word should be given _emphasis for
 + **dise** (dise) _noun_ 1. two (_Kasuto_)
 + **do** (do) _conjunction_ 1. large-number connector 1. used between a number and _male_ (thousand) to identify a number of thousands (_Kasuto_)
 + **dokwag** (dokwag) _transitive verb_, _expletive_ 1. to fuck (_Kasuto_)
++ **dono** (dono) _pronoun_ 1. where (_Kasuto)_)
 + **dukwá** (dukwá) _intransitive verb_, _interjection_, _expletive_ 1. fuck 1. Extremely vulgar expression to indicate anger or dissatisfaction. (_Kasuto_)
 
 ### DH
 
 ### E
 + **-e** (-e) _grammatical marker_ 1. This suffix indicates a singular noun (_Kasuto_)
++ **edag** (edag) _verb_ 1. to age by a year, to grow older (_Kasuto_)
 + **-es** (-es) _grammatical marker_ 1. The suffix indicates the simple past tense of a verb (_Kasuto_)
 + **ete** (ete) _noun_ 1. e 1. Name of the seventh letter of the Hylian alphabet (_Kasuto_)
 
@@ -140,6 +143,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **gante** (gante) _noun_ 1. 1. Name of the tenth letter of the Hylian alphabet. (_Kasuto_)
 + **goearag** (goerag) _transitive verb_ 1. to like, to enjoy, to appreciate `Bagu koemes ëk goeares az koeme.` `I ate and (I) liked the food.` (_Kasuto_)
 + **goeare** (goeare) _noun_ 1. pleasure (_Kasuto_)
++ **gomi** (gomi) _expression_ 1. sorry (apology) (_Kasuto_)
 + **gorana** (gorana) _adjective_ 1. Goron, goronian 1. Adjective that describes something of Goron origin. (_Kasuto_)
 + **gorane** (gorane) _noun_ 1. Goron 2. Goronese 1. A member of the Goron race. 2. THe language of the Goron people. (_Kasuto_)
 
@@ -168,13 +172,14 @@ Where references to other words are made, the word should be given _emphasis for
 + **itsakupande** (itsakupande) _noun_ 1. encyclopedia (_Kasuto_)
 
 ### Ï
-+ **ïnte** (ïnte) _n_ 1. ï 1. Name of the thirteenth letter of the Hylian alphabet. (_Kasuto_)
++ **ïnte** (ïnte) _noun_ 1. ï 1. Name of the thirteenth letter of the Hylian alphabet. (_Kasuto_)
 
 ### IU
 + **iute** (iute) _noun_ 1. iu 1. name of the fourteenth letter of the Hylian alphabet. (_Kasuto_)
 
 ### J
-+ **jaina** (jaina) _adj_ 1. common, regular, frequent (_Kasuto_)
++ **jaina** (jaina) _adjective_ 1. common, regular, frequent (_Kasuto_)
++ **jano** (jano) _pronoun_ 1. how (_Kasuto_)
 + **jete** (jete) _noun_ 1. j 1. Name of the fifteenth letter of the Hylian alphabet. (_Kasuto_)
 + **jujowa** _adjective_ 1. passive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **juSipa** (jushipa) _adjective_ 1. imperative, commanding, instructive 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
@@ -212,6 +217,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **kisámile** (kisámine) _noun, masculine_ 1. bastard, asshole 1. A vulgar expression used to insult someone. It would be roughly equivalent to calling a man a dick. Used for males. (_Kasuto_)
 + **kisámine** (kisámine) _noun, feminine_ 1. bitch, asshole 1. A vulgar expression used to insult someone. It would be roughly equivalent to calling a woman a bitch. Used for females. (_Kasuto_)
 + **kiSoke** (kishoke) _noun_ 1. sword (_Kasuto_)
++ **kizo** (kizo) _expression_ 1. maybe, perhaps (_Kasuto_)
 + **kiu** (kiu) _pronoun_ 1. whose 1. Unlike most other pronouns, this word only has one form regardless of whether it is modifying a singular or plural word. (_Kasuto_)
 + **konktra** (konktra) _adjective_ 1. right, correct (_Kasuto_)
 + **kodëme** (kodëme) _noun_ 1. forty (_Kasuto_)
@@ -219,6 +225,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **koeme** (koeme) _noun_ 1. food `Bagu koemes ëk goeares az koeme.` `I ate and (I) liked the food.` (_Kasuto_)
 + **kokirna** (kokirna) _adjective_ 1. Kokiri, Kokirian 1. Describes something of or related to the Kokiri tribe (_Kasuto_)
 + **kokirne** (kokirne) _noun_ 1. Kokiri 2. the Kokiri language 1. a label for the Kokiri tribe and its members (_Kasuto_)
++ **kono** (kono) _pronoun_ 1. what (interrogative) 2. huh? (_Kasuto_)
 + **kosale** (kosale) _noun_ 1. four hundred (_Kasuto_)
 + **kose** (kose) _noun_ 1. four (_Kasuto_)
 + **kragag** (kragag) _intransitive verb_ 1. To shit 1. A vulgar slang term for defecation. (_Kasuto_)
@@ -233,6 +240,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **kuzoi** (kuzoi) _honorific_ 1. Sir 1. This form of address is used without a person's name, it stands by itself. It is used to refer to a male you do not know, or a male that you respect. Equivalent to using "sir" or "mister". (_Kasuto_)
 + **kúzinoi** (kúzinoi) _honorific_ 1. Madam, ma'am 1. This form of address is used without a person's name, it stands by itself. It is used to refer to a female you do not know, or a female that you respect. Equivalent to using "ma'am", "madam", or "miss". (_Kasuto_)
 + **kwa** (kwa) _pronoun_ 1. that, who, whom, which 1. This one word serves functions that multiple words do in English. In Hylian, this pronoun must be used to introduce all relative clauses. `Zu tairas taz lërde kwa bagu kakires.` `This is the book (that) I wrote.` (_Kasuto_)
++ **kwano** (kwano) _pronoun_ 1. when 
 
 ### KH
 
@@ -264,6 +272,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **nani** (nani) _interjection_ 1. No, negative, false 1. Used to speak or respond in the negative or contra-indicative sense. `Nani, bagu naz koemos az koeme.` `No, I will not eat the food.` (_Kasuto_)
 + **nasuna** (nasuna) _adjective_ 1. Dark, darkness 1. Adjective form of _nasune_. (_Kasuto_)
 + **nasune** (nasune) _noun_ 1. Dark, darkness (_Kasuto_)
++ **naSag** (nashag) _verb_ 1. to call by a name (_Kasuto_)
 + **naz** (naz) _negative adjunct_ 1. not \[verb\] 1. This gives a verb a negative meaning. It says that the following verb phrase does not occur. See verb section. `Bagu naz lërdes az lërde.` `I did not read the book.` (_Kasuto_)
 + **!nairune** (nairune) _noun_ 1. Nayru 1. the goddess of wisdom, referred to as _denairunai_ in worship (_Kasuto_)
 + **naistre** (naistre) _noun_ 1. Evening, night 1. When this word is used to greet someone, as in saying "good evening", the -e ending changes to an -i, as in _vina naistri_. (_Kasuto_)
@@ -410,6 +419,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **veuarda** (veudarda) _adjective_ 1. true 1. Adjective that describes something that is true. `Ru tairas veuarda` `It is true.` (_Kasuto_)
 + **veuarde** (veudarde) _noun_ 1. truth (_Kasuto_)
 + **vïlae** (vïlae) _noun_ 1. village `Bënkati ak taz vïlae daia katane` `Welcome to the village of Kataan` (_Kasuto_)
++ **vïnSag** (vïnshag) _verb_ 1. to live, to reside, to dwell (_Kasuto_)
 + **viseëre** (viseëre) _noun_ 1. wizard (_Kasuto_)
 + **vokimara** (vokimara) _adjective_ 1. imperfect, past habitual 1. listed on Kasuto's verb documentation, but not recorded elsewhere (_Kasuto_)
 + **vosu** (vosu) _pronoun_ 1. you (plural), y'all, youse 1. Second person plural pronoun (_Kasuto_)
@@ -425,6 +435,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **yaz** (yaz) _preposition_ 1. already (_Kasuto_)
 + **yote** (yote) _noun_ 1. y 1. Name of the thirty-third letter of the Hylian alphabet (_Kasuto_)
 + **yovtag** (yovtag) _verb_ 1. to arrive (_Kasuto_)
++ **yuri** (yuri) _expression_ 1. please (manners) (_Kasuto_)
 
 ### Z
 + **za** (za) _adjective_ 1. this `za itsakupande` `this encyclopedia` (_Kasuto_)

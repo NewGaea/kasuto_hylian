@@ -1,5 +1,6 @@
 ---
 tag: contributor maintainer author conlanger
+alias: Austin Springer
 ---
 # Austin Springer
 ---
