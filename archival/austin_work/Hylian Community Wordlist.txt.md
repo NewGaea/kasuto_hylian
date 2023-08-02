@@ -1377,8 +1377,6 @@ That reminds me. I think we should use "batai" and whatever that old word for go
 
 Anyways, I think I'm gonna post all the words suggested at this point:
 
-### sort
-
 adakae (n.) - toe
 aikwe (n.) - finger
 amite (n.) - uncle/aunt
@@ -1547,8 +1545,6 @@ Ludag - to play (an instrument)
 Rege - king
 Kafulag - to beat, defeat
 Ablat - prep. "by, by way of"
-
-### /sort
 
 add - tïpag
 again - hirmoka
@@ -1853,7 +1849,7 @@ Pata Hikari brought up the idea for different words for different swords. I thou
 
 garne - dagger
 
-^_^
+\^\_\^
 
 Oooh. And I have a suggestion with regards to the language itself. How about making the diphthongs one letter? Like, the way the font is set up now, a letter like a•i takes up as much space as writing ai. To see what I mean, take a look at what I sketched up (size 14 font):
 
