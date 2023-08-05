@@ -520,9 +520,11 @@ uSéokile	ushéokile	noun	men's undergarments				(_Venus, Queen of Faeries_)
 uSéokine	ushéokine	noun	women's undergarments				(_Venus, Queen of Faeries_)
 uSike	ushike	noun	2. War Month, August	2. Eighth month of the Hylian calendar, represents the Imprisoning War of Hylia, in which Hylia banished the demon king Demise			(_Venus, Queen of Faeries_)
 uz	uz	preposition	near to	means "like, as" though this is not a preposition of time or space -- alternate gloss listed in definition			(_QBri_)
-### Ü
+
+## Ü
 ümzua	ümzua	adjective	difficult, complicated				(_Venus, Queen of Faeries_)
-### V
+
+## V
 va•ire	vaire	noun	vire, bat-demon	/possibly added by Austin; based on an enemy from several Zelda games/			(_Nintendo_), (_Austin_)
 va•itikag	vaitike	noun	to travel				(_Venus, Queen of Faeries_)
 va•itike	vaitike	noun	travel, trip, journey				(_Venus, Queen of Faeries_)
@@ -535,17 +537,20 @@ voblafa	voblafa	adjective	unlikely, improbable				(_Venus, Queen of Faeries_)
 vokag	vokag	verb	to call, to summon				(_QBri_)
 votoere	votoere	noun	2. Heaven's Month	2. Ninth and final month of the Hylian year, represents the sacred world in which the Triforce rests.			(_Venus, Queen of Faeries_)
 vo•alag	voalag	verb	to want, to wish				(_QBri_)
-### W
+
+## W
 wanhe	wanhe	noun	voice				(_Venus, Queen of Faeries_)
 warge	warge	noun	enemy, adversary, rival				(_Venus, Queen of Faeries_)
 wiJtag	wijhtag	verb	1. to waste, to get rid of 2. to misuse				(_QBri_)
 wikye	wikye	noun	adventure				(_Venus, Queen of Faeries_)
 wole	wole	noun	wolf	/back-derived from wolfos/			(_Austin_)
 wolfose	wolfose	noun	wolfos, werewolf, walking wolf				(_Nintendo_), (_Austin_)
-### Y
+
+## Y
 yukag	yukag	verb	1. to predict, to forecast, to prophesy 2. to assume				(_QBri_)
 yurozag	yurozag	verb	to succeed, to complete, to finish	/derived from emekthian's _ktaniyurohzag_ "to exhaust"/			(_Austin_)
-### Z
+
+## Z
 zanasune	zanasune	noun	tonight				(_QBri_), (_Kasuto_)
 zatatokre	satatokre	noun	then, that time				(_Venus, Queen of Faeries_)
 zatiudre	zatiudre	noun	today				(_QBri_), (_Kasuto_)
@@ -556,18 +561,23 @@ zenre	zenre	noun	animal				(_Pata Hikari_)
 zïniste	zïniste	noun	spell, magic				(_Venus, Queen of Faeries_)
 zogre	zogre	noun	weapon				(_Venus, Queen of Faeries_)
 -zwa	-zwa	suffix	more, most	Superlative suffix, indicates superior or peerless quality of an adjective			(_emekthian_)
-### Apocryphal Content				These words do not fit the canonical description of the language, but may still be useful in certain contexts
+
+## Apocryphal Content
+These words do not fit the canonical description of the language, but may still be useful in certain contexts
+
 ### Venus' Vernacular
 kudge	kudge	noun	layer	/while most of Venus' words are added immediately, the /d'g/ combination feels very unlike Hylian, so this word remains apocryphal for now, conditional on further examples/			(_Venus, Queen of Faeries_)
 naSe	naSe	noun	name	/I counter-propose the term _sone_ "noun" to represent "name", though perhaps _naSe_ can remain in a specific sense?/			(_Venus, Queen of Faeries_)
 sronag	sronag	verb	to frown	/the /sr/ combination is unwieldy and may not fit Hylian/			(_Venus, Queen of Faeries_)
 srone	srone	noun	frown, expression of displeasure	/the /sr/ combination is unwieldy and may not fit Hylian/			(_Venus, Queen of Faeries_)
+
 ### Emekthian's Elaborates
 daminazhëfolkag	daminazhëfolkag	verb	to roll around on the grass with a pet	/Unlikely word as there is no evidence of the use of "zh"; suggest changing to _daminajhëfolkag_ to maintain consistency/			(_emekthian_)
 hra•iäte		noun	praise, glory, reward	/unlikely word, no other evidence of _hr_ exists - propose _haiäte_ or _raiäte_ instead/			(_emekthian_)
 igámobondozisag		verb	to set fire to something important				(_emekthian_)
 ktaniyuhrozag		verb	to exasperate, to exhaust, to use up all energy	/unlikely, no evidence for _kt_ or _hr_ exists, structure does not fit Kasuto's canonical forms; propose _kïtanyurozag_ instead/			(_emekthian_)
 Soyanne	shoyane	noun	explosive	/possible, but unlikely -- no evidence for _nn_ exists; propose _shoyane_ instead/			(_emekthian_)
+
 ### QBri's Qonsiderations
 aperag	aperag	verb	to appear, to seem to be	/a variant form open for reinterpretation, conflicts with Venus' _mejag_ "to look like, to resemble"/			(_QBri_)
 aute	aute	noun	automobile, car				(_QBri_)
@@ -608,6 +618,7 @@ vëu	vëu	pronoun	you all, y'all	This serves as the second person plural objecti
 via	via	adjective	by way of, by				(_QBri_)
 vor	vor	preposition	away	From Esperanto _vor_			(_QBri_)
 yesus	yesus	noun, proper	Jesus	While an interesting use of Hylian, I would counter-propose /yeSuto/ following the naming rules on the new HLI; relegated to Apocrypha for religious content			(_QBri_)
+
 ### Tushen's Thoughts
 adenbag	adenbag	verb	Suggested as "to abandon, to leave behind"				(_Tushen_)
 adenbe	adenbe	noun	Suggested as "the state of being abandoned"				(_Tushen_)
@@ -623,9 +634,11 @@ mirag	mirag	verb	Suggested as "to see, to observe"	Established as _miarag_			(_T
 tra	tra	adjective	Suggested as "more"	Established as _moka_			(_Tushen_)
 trazwa	trazwa	adjective	Suggested as "most"	Established as _masa_			(_Tushen_)
 volag	volag	verb	Suggested as "to want, to desire"	Established as _vo•alag_			(_Tushen_)
+
 ### Pata Hikari's Potentials
 bra	bra	onomotopoeia	arf, woof; the sound of a dog speaking				(_Pata Hikari_)
 lok	lok	onomotopoeia	cluck, caw, chirp; the sound of a cucco				(_Pata Hikari_)
+
 ### Austin's Compositions
 acete	acete	noun	c, ts	The name of the letter "c" (pronounced /ʦ/) in Hylian (number will be part of final sort)			(_Austin_)
 añate	añate	noun	ñ, ng	The name of the letter "ñ" (pronounced /ŋ/) in Hylian (number will be part of final sort)			(_Austin_)
