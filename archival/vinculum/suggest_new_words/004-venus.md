@@ -6,6 +6,6 @@
 
 ## Venus, Queen of Faeries writes:
 
-<aside>AS: ✅ 25-May-2021</aside>
-
 Now that I've slept on it, it probably makes more sense to make them **usheokile** and **usheokine** as opposed to the way I had it. Thanks, **[OniGanon](contributors/oniganon)**. It cures the double N problem, in (with) **dënusheokine**. I *was* trying to go for something different, though.... I didn't quite want it to be like _dégile/dégine_ or _piántile/piántine,_ because underwear aren't people, lol.
+
+**[[005-venus|Next Post: Venus Queen of Faeries]]**

@@ -5,101 +5,19 @@ The following is a truncated archive of a thread (helpfully called _"Suggest New
 There are various interjections by the previous maintainer of this archival documentation, **Austin Springer,** reflecting their thoughts as they produced and archived this data between 2017 and 2021, before they passed the torch to **Jerin of Calatia** in 2023. **Jerin** may add her own thoughts throughout this archive.
 
 ---
-## [[001-venus]] | [Venus, Queen of Faeries](contributors/venus) writes:
-
-I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
-
-**trèowe** (TREH-oh-way; not to be confused with troe): Old English for faithful. Modern English: trust. Hylian suggestion: trust. **✅ 25-May-2021**
-
-**trèowag** (TREH-oh-wahg): to trust. **✅ 25-May-2021**
-
-**potëra** (poh-TEH-rah): Hylian suggestion: strong. Latin: "potere" was "potent." I just changed the ending to make it an adjective. Modern English: power. **✅ 25-May-2021**
-
-**geleáfae** (Gay-lay-AH-fah-ay): Old English: "geleafa" was "belief." Changed ending to noun. Modern English: belief. Hylian suggestion: belief. **✅ 25-May-2021**
-
-**geleafag** (Gay-lay-AH-fahg): to believe. **✅ 25-May-2021**
-
-**luberag** (loo-BAY-rahg): Latin: "lubere" was "to please." Hylian suggestion: to please. **✅ 25-May-2021**
-
-**malanmale** (Mah-lahn-MAH-lay) or **mámale** (MAH-mah-lay): million. Derived from "malan malën," or "a thousand thousands." I like "mámale" better because it's shorter, and it's got the accent mark, which would make it an exception to the "rule" of no accent marks (save the ë) in numbers. Exceptions are good. **✅ 25-May-2021**
+![[001-venus]]
 
 ---
-## [[002-venus]] | Venus, Queen of Faeries writes:
-
-First of all, I gotta give **[K-Chan](contributors/k-chan)** all the credit in the world for this, because if she didn't say anything to me, I wouldn't be about ready to burst right now. So, moka aroti, K-chan'kumi!
-
-Down to business.
-
-K-Chan'kumi said she was bored, so she made up a couple of words in Hylian. They were mostly for clothes, and they all had the letters "ok" in them. She told me "shirt" would be "**soke**."
-
-> **soke** (SOH-kay): shirt **✅ 25-May-2021**
-
-Meanwhile, I was looking at my blog, which happens to have a picture of Link on it. He's shooting an arrow. I wondered to myself, "Well, how would you say tunic? A tunic is like a big shirt...." I don't know how, but I instantly thought that instead of words, there should be a prefix to indicate size (not suffixes, because those indicate parts of speech). I thought of "**ma**" for "big" and "**dën**" for "small." Therefore, a tunic would be "**masoke**," or literally, "big shirt." (A baby-doll tee, on the other hand, would be a dënsoke.)
-
-> AS: I'm thinking that while these could be valid words, the Hylian concept of a shirt and tunic are probably similar enough to both be _soke_
-
-Also, the more you say the prefix, the more you exaggerate the size. Like mamamasoke would be a REALLY big shirt. On top of that, the size is relative. Little Link's tunic would still be called a masoke, because it's a big shirt to him, but if Adult Link were to try and squeeze his way into clothes he wore seven years ago, his head would get stuck inside the dënsoke.
-
-> AS: I do like this, especially if the _last_ intensifier in a sequence is forced to carry primary stress for the word
-
-K-chan'kumi also thought up a few more words: Leggings (**nonoke**), undergarments (**usheoke**), boots (**kamoke**), gloves (**namoke**). I told her she forgot "hat," but I came right up with that one: "**chapoke** (can't wait for that CH letter!)," from the French chapeau. **✅ 25-May-2021**
-
-Something was wrong, though. The undergarments didn't look right to me. I thought perhaps there should be a way to tell men's undergarments from women's undergarments, because they're not quite the same, lol.
-
-This is where I got my inspiration. "_Dege_" is Hylian for "deity." We change "_dege_" to "_dégine_" for "goddess" and to "_dégile_" for "god." We have "_kímino•i_" for "little girl" and "_kímilo•i_" for "little boy." Obviously, the N and the L are for girls and boys, respectively. I thought, why not make the N and L prefixes, too? Since undergarments don't have natural gender like goddesses or little boys, the sexual distinction would go at the very beginning (i.e., a sort of exception to the rule). Then we'd have "**nusheoke**" for "girls' underclothes" and "**lusheoke**" for "boys' underclothes." "**Usheoke**" could just stand for general underwear, ne? On top of THAT, "**dënnusheoke**" would be the word for "lingerie" because they're "small-woman-undergarment." Get it?! :::squeals with excitement:::
-
-Of course, there are two SMALL problems with what I've done.... One: the double n in "_**dënnusheoke**_." Every letter in Hylian is supposed to be pronounced. How do you pronounce two Ns in a row? Two: the N and L prefixes only work for nouns that start with a vowel. What about the ones that start in consonants? I was thinking an apostrophe might work, but then again, it might not. "**N'kamoke**" (girls' boots) doesn't exactly roll off the tongue. It's actually fairly difficult to pronounce.
-
-But, that's what we've come up with. What do you guys think?
+![[002-venus]]
 
 ---
-## [[004-venus]] | Venus, Queen of Faeries writes:
-
-Now that I've slept on it, it probably makes more sense to make them **usheokile** and **usheokine** as opposed to the way I had it. Thanks, **[OniGanon](contributors/oniganon)**. It cures the double N problem, in (with) **dënusheokine**. I *was* trying to go for something different, though.... I didn't quite want it to be like _dégile/dégine_ or _piántile/piántine,_ because underwear aren't people, lol. **✅ 25-May-2021**
+![[004-venus]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-You know, I just realized how well my words work together, and it was totally unintentional....
-
-I suggested "**mámale**" for million, and then I later said that "**ma-**" should be a prefix for "big." "**Mámale**" would (could) be short for "_malan malën_" (AS: it would probably actually be _male do male_ ) or it could be "big _male_." Either way, it works. Nifty, ne?
+![[005-venus]]
 
 ---
-## Venus: Queen of Faeries writes:
-
-Family terms (inspired because I was reviewing this thread and found there are no terms for family AND because I'm writing a fic called Family Ties, which includes some very interesting family relationships....):
-
-Just wondering if kímilo•i and kímino•i are only used as forms of address. Probably, since they end in I.
-
-> AS: This is a good observation -- it is likely generic "boy" and "girl" words can be derived backwards from this, since the -il and -in gender suffixes are both present. Back-derivation suggests _kime_ for child, _kímile_ for boy, and _kímine_ for girl. **✅ 25-May-2021**
-
-But, um, suggestions for "son" and "daughter" if those are only terms of address: "hiósile" for son (or boy) and "hiósine" for daughter (or girl), with "hiose" for just a regular old child. So "bagu'san hiósilën" would be "my boys," which would probably be understood as "my sons."
-
-Here, I've got some more now that you're nice and warmed up and in my groove:
-
-* Source: Merriam-Webster OnLine
-  * PARENT, _piante_: _piántine_, _piántile_ (_piantën_) [Kasuto's original]
-  * CHILD, **hiose**: **hiósine**, **hiósile** (**hiosën**) From Greek _hyios_, for son. **✅ 25-May-2021**
-  * SIBLING, **sipe**: **sípine**, **sípile** (**sipën**) From Old German _sippa_, for kinship. **✅ 25-May-2021**
-  * GRANDCHILD, **napete**: **napétine**, **napétile** (**napetën**) From Sanskrit _napAt_, for grandson. **✅ 25-May-2021**
-  * SPOUSE, **ipae**: **ipáine**, **ipáile** (**ipaën**) From Hittite _sipant_- for spouse. **✅ 25-May-2021**
-  * UNCLE/AUNT, **amite**: **amítine**, **amítile** (**amitën**) From Latin _amita_, for aunt. **✅ 25-May-2021**
-* Source: Me. I study languages. o.o
-  * GRANDPARENT, **sofe**: **sófine**, **sófile** (**sofën**) From Japanese _sofu_, for grandfather. **✅ 25-May-2021**
-  * COUSIN, **itoke**: **itókine**, **itókile** (**itokën**) From Japanese _itoko_, for cousin. **✅ 25-May-2021**
-  * NEPHEW/NIECE, **sobre**: **sóbrine**, **sóbrile** (**sobrën**) From Spanish _sobrino_, for nephew. **✅ 25-May-2021**
-
-Great- (as in great-grandfather or great-aunt): _ma'_ (so that great-grandfather would be "masófile") From my previous suggestion for "big."
-Half- (as in half-sister): _dëna'_ (so that half-sister would be "dënasípine") From my previous suggestion for "little." I'm changing "little/small" from "dën" to "dëna" since it's an adjective, and all adjetives must end in A.
-Note: "ma" and "dëna" in these cases would not mean "big" or "little," but indicate more of a hierarchy of terms. "**Dënasípine**," then, would not mean "little sister" or "younger sister", but rather "half sister", indicating that one is not as close to a half sister as a full sister. Similarly, "**masófile**" would not indicate one's elder grandfather, but rather, someone older THAN one's grandfather, who should be one's grandfather's father, or one's great-grandfather. Don't worry about it if I've confused you. It's just one of those weird things about language. Trust me when I say that it makes perfect sense in my head. But if you do understand it, then good for you! You can help me explain it to others! ^_^
-
-> AS: It really is a nice idea, but I'm not 100% certain I want to go exactly this way. I'll review this once the community wordlist is finalised.
-
-Step- (e.g., stepfather): **ipa'** ✅ (stepfather is "ipapiántile") From "**ipae**", previously mentioned to mean "spouse." "**Ipapiántile**" would have a literal translation as "spouse-father," which could be interpreted as a father-by-marriage, which is precisely what a stepfather is. I suppose it could also refer to inlaws, and differentiated by context. Haven't exactly worked this one out.
-
-> AS: I love this one, though, it's a great way to distinguish blood relations from legal ones!
-
-So what do you all think? :::grins proudly:::
+![[006-venus]]
 
 ---
 ## Venus: Queen of Faeries writes:
