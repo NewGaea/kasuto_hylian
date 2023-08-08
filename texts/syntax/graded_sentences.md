@@ -6,19 +6,74 @@ In late 2006, Gary Shannon posted a list of over 800 example sentences from the 
 
 Section I contains 285 sentences, of increasing complexity.
 
-1. Birds sing.
-2. Children play.
-3. Dogs bark.
+### 1. Birds sing.
+```gloss
+\ex fugolën kantas
+\gla fugol-ën kant-as
+\glb bird-N.PL sing-PRES
+\glc Bird-s sing
+\ft Birds sing
+```
+### 2. Children play.
+```gloss
+\ex hiosën Site luberas
+\gla hios-ën Site luber-as
+\glb child-N.PL REFL entertain-PRES
+\glc Child-ren self entertain
+\ft Children entertain themselves
+```
+### 3. Dogs bark
+```gloss
+\ex kaianën bra Jatas
+\gla kaian-ën bra Jat-as
+\glb dog-N.PL arf say-PRES
+\glc Dogs arf say
+\ft Dogs say “arf.”
+```
 4. Bees hum.
 5. Baby laughed.
-6. The sun shines.
+### 6. The sun shines
+```gloss
+\ex Sëmse rokèlzisas
+\gla Sëms-e rokèlzis-as
+\glb sun-N.SG illuminate-PRES
+\glc The.Sun shines
+\ft The sun shines.
+```
+> Note: In Hylian, Sëmse only refers to _the sun_ of Hyrule — never to the concept of a sun or other stars.
+
+### 7. The wind blows.
+```gloss
+\ex taz fire firas
+\gla taz fir-e fir-as
+\glb DEF wind-NSG blow-PRES
+\glc the wind blow-s
+\ft The wind blows.
+```
 7. The wind blows.
-8. The car started.
+	1. taz fire firas
+	2. DEF wind.NSG blow.PRES
+### 8. The car started.
+```gloss
+\ex taz aute zises
+\gla taz aut-e zis-es
+\glb DEF car-NSG ignite.PAT
+\glc the car ignited
+\ft The car started.
+```
 9. School began again.
-10. The child ran quickly.
+### 10. The child ran quickly
+```gloss
+\ex taz hiose pastyok haies
+\gla taz hios-e pasty-ok hai-es
+\glb DEF child-NSG quick.ADV run.PAST
+\glc the child quickly ran
+\ft The child ran quickly.
+```
 11. Yellow daffodils nodded gaily.
 12. Little Marigold cried bitterly.
 13. All the people shouted.
+	1. toka taz hitën klimes.
 14. I recited twice.
 15. The weary traveler slept soundly.
 16. The little brook flows swiftly.
@@ -42,7 +97,11 @@ Section I contains 285 sentences, of increasing complexity.
 34. The snow has melted.
 35. Our teacher is writing.
 36. All the children are singing.
+	1. toka taz hiosën Si kantas
+	2. all DEF child.NPL PROG sing.PRES
 37. I will go now.
+	1. bagu movans akanok
+	2. 1SG move.IMPER now.ADV 
 38. Soon the baby will walk.
 39. The whistles are blowing.
 40. The thimble rolled away.
@@ -50,6 +109,8 @@ Section I contains 285 sentences, of increasing complexity.
 42. She was always smiling.
 43. I am patiently waiting.
 44. Now the day is dawning.
+	1. akani, taz tiudre Si minazinas
+	2. now.TOP the day PROG dawn.PRES
 45. The baby's ball has rolled away.
 46. The two boys are working together.
 47. The old turkey was strutting about.
