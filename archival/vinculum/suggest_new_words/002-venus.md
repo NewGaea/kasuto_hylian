@@ -1,3 +1,8 @@
+---
+tag: venus k-chan vinculum community
+orthography: kasuto roman
+language: english old-english latin kasuto-hylian
+---
 # Suggest New Words
 
 **[Previous Post: Venus, Queen of Fairies](archival/vinculum/suggest_new_words/001-venus)**
@@ -12,17 +17,11 @@ K-Chan'kumi said she was bored, so she made up a couple of words in Hylian. They
 
 > **soke** (SOH-kay): shirt
 
-<aside>AS: I think that while these could be valid, the Hylian concept of a shirt and tunic may be similar enough to both be <em>soke</em></aside>
-
 Meanwhile, I was looking at my blog, which happens to have a picture of Link on it. He's shooting an arrow. I wondered to myself, "Well, how would you say tunic? A tunic is like a big shirt...." I don't know how, but I instantly thought that instead of words, there should be a prefix to indicate size (not suffixes, because those indicate parts of speech). I thought of "**ma**" for "big" and "**dën**" for "small." Therefore, a tunic would be "**masoke**," or literally, "big shirt." (A baby-doll tee, on the other hand, would be a **dënsoke**.) 
-
-<aside>AS: I do like this, especially if the <em>last</em> intensifier in a sequence is forced to carry primary stress for the word</aside>
 
 Also, the more you say the prefix, the more you exaggerate the size. Like mamamasoke would be a REALLY big shirt. On top of that, the size is relative. Little Link's tunic would still be called a masoke, because it's a big shirt to him, but if Adult Link were to try and squeeze his way into clothes he wore seven years ago, his head would get stuck inside the dënsoke.
 
 K-chan'kumi also thought up a few more words: Leggings (**nonoke**), undergarments (**usheoke**), boots (**kamoke**), gloves (**namoke**). I told her she forgot "hat," but I came right up with that one: "**chapoke** (can't wait for that CH letter!)," from the French chapeau.
-
-<aside>AS: you're misinterpreting Kasuto's rules. -il- makes a word masculine, and -in- makes it feminine, it's not the L or the N alone. That leaves the path of <em>ilusheoke</em> and <em>inusheoke</em> if you want them to be prefixes, or you follow the rules Kasuto laid out and use <em>usheókile</em> and <em>usheókine.</em><br>Long consonants are not that difficult: Gemination is one common process when two matching consonants come together. If <em>dënnusheoke</em> is your preference, think of how you might say, "<em>ten new words</em>" -- though the problem does disappear with my solution of <em>dënusheókine</em>, which uses the process of <em>elision</em> to reduce sequences of the same sound into a single instance of that sound</aside>
 
 Something was wrong, though. The undergarments didn't look right to me. I thought perhaps there should be a way to tell men's undergarments from women's undergarments, because they're not quite the same, lol.
 
@@ -33,3 +32,4 @@ Of course, there are two SMALL problems with what I've done.... One: the double 
 But, that's what we've come up with. What do you guys think?
 
 **[Next Post: Venus, Queen of Fairies](archival/vinculum/suggest_new_words/004-venus)**
+**[[002a-venus-austin|Commentary: Austin Springer]]**

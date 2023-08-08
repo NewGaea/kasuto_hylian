@@ -5,9 +5,9 @@ language: english old-english latin kasuto-hylian
 ---
 # Suggest New Words
 
-## Original Post
+_Original Post_
 
-### **[Venus, Queen of Faeries](contributors/venus) writes:**
+## **[Venus, Queen of Faeries](contributors/venus) writes:**
 
 I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
 

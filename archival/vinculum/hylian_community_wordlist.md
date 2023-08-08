@@ -20,814 +20,172 @@ There are various interjections by the previous maintainer of this archival docu
 ![[006-venus]]
 
 ---
-## Venus: Queen of Faeries writes:
-
-Just like I promised last month in "Is there a Hylian letter for C?" topic, the list of words **KChan** and I made up. There aren't very many, but I hope it helps. I also have the complete list of Hylian words **[Kasuto](contributors/kasuto)** made up, in case anyone wants it, and a list of words we should probably tackle first, suggestion-wise. Without further ado:
-
-* Alone -- **anlika** ✅
-* Angry -- **reathoa** ✅
-* Bat -- **keese** (so named for the baddie) => adapted to **kíse** ✅
-* Battle -- **reakete** ✅
-* Belief -- **geleáfae** ✅
-* Believe -- **geleafag** ✅
-* Big -- ma- (prefix); **ma** ✅
-* Blue -- **sia** ✅
-* Boot -- **kamoke** ✅
-* Chance/Luck -- **jheluke** ✅
-* Chicken -- **kukoe** ✅
-* Fly (verb)-- **moskag** (Inspired by Spanish "mosca," for the insect.) ✅
-* Ghost -- **poe** ✅, **ginie** (so named for the baddies) ✅
-* Glove -- **namoke** ✅
-* Green -- **sihia** ✅
-* Hat -- **chapoke** ✅
-* Leg -- **none** ✅
-* Leggings -- **nonoke** ✅
-* Lucky -- **jhelúkea** ✅
-* Million -- **mámale** ✅
-* Monarch -- **janie** ✅
-* Mummy -- **gibdoe** ✅
-* Neighbor -- **alazae** ✅
-* Ocarina -- **avike** ✅
-* Orange -- **mihia** ✅
-* Purple -- **simia** ✅
-* Red -- **mia** ✅
-* Small -- dën- (prefix); **dëna** (adjective) ✅
-* Snake -- **rope** (so named for the baddie) ✅
-* Trust -- **trèowe**/**trèowag** ✅
-* Tunic -- **masoke** ✅
-* Undergarment -- **usheoke** ✅
-* Yellow -- **hia** ✅
-
-One more thing, and this is for Kasuto:
-I was looking through the HLI pages, trying to get a list of ALL the words (including ones I missed. You'll be pleased to know you've got nearly 300 words, not counting what's in the dictionary! :D But I digress), and I ran across a couple that were repeated, but had different meanings in Hylian and I was wondering if you could clear them up for me.
-
-This/That/These/Those: I found a BUNCH of words for those four, like _za, zan, zata, zatan, zu, ziu, zatu_ and _zatiu_. The only conclusion I could draw was that you decided to change the words halfway through and didn't change it on ALL of the pages, so I'm sort of confused as to which means what.
-
-> AS: Pronouns ending in _a_ are demonstratives, as in "_za lërde_ => that book" while pronouns ending in _u_ are independent pronouns, as in "_zu tairas bagu'sa lërde_ => that is my book"
-
-To Write: Two words have come up, _kakirag_ and _katabag_.
-
-Ordinal numbers: Take the stem and add "_-ashe_" for the noun, "_-asha_" for the adjective. I understand that. You have "fourth book" as "_koshasa lërde_" and I'm wondering if that's a mistake and it should be "_koasha lërde_."
-
-> AS: Actually, it should be _kosasha_ -- the s is dropped for _-dëme_ and _-sale_ due to an undescribed phonological process that dislikes consonant clusters.
-
-Thanks a lot. ^_^;;
+![[007-venus]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-New word: **këwle** ✅ for fish. Olua made it up, not me. It was actually the result of a typo. Anyway, it's pronounced "KEHW-lay." Um, if that's sort of difficult to figure out (cuz it looks that way), it's like "keh-oo-lay," but the first two syllables become one.
-
-I think that it's sort of difficult to pronounce at first, but it's easy once you get the hang of it. If not, I offer "ka•ule" (COW-lay) and "kèule" (KEH-oo-lay) as alternates.
+![[008-venus]]
 
 ---
-## [emekthian](contributors/emekthian) writes:
-
-You can pronounce 2 n's in a row. There are plenty of languages that even make a distinction between, say "kanor" and "kannor". Just because a word is hard for someone used to speaking English doesn't mean it's impossible to pronounce.
-
-Anyway, some words:
-
-**hraiäte** - praise ✅
-**shoyanne** - explosive ✅
-**ktaniyuhrozag** - to exasperate
+![[009-emekthian]]
 
 ---
-## Venus, Queen of Faeries responds:
-
-^_^ The Goddesses must have heard my prayers last night when I complained that no one ever posts in this section, so thank you, emekthian!
-
-As for double letters, I looked over my collection of words Kasuto has made up and found no double letters. Maybe it's just something that doesn't happen in Hylian?
-
-One more thing about making up a language: ease of pronunciation. So, if you don't mind, could you explain exactly HOW one would pronounce the words you've made up because I can't seem to do it.
+![[010-venus]]
 
 ---
-## emekthian responds:
-
-* hraiäte- hr-eye-at-ey /AS: _raiät_ ✅ or _harät_ seems like a reasonable form that feels consistent with Kasuto's lexicon/
-* shoyanne- sh-oh-yahn-ney /AS: _shoyane_ ✅ seems reasonable enough since Hylian does not have any official long consonants/
-* ktaniyuhrozag- ktah-nee-you-hroh-zahg /AS: Yeah, uh, Hylian certainly lacks several of these. Let's shuffle the letters a bit: _tanikyurozag_ ✅ the only dropped letter is the _h_./
-
-"hr" is like the "hy" sound in "huge", only with a "r" instead of a "y".
-
-I admit the "kt" is hard to pronounce. But it can be done!
+![[011-emekthian]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-Hmm. A little difficult, but I bet I can knock them off with practice.
-
-Okay, I've got a couple of more words, too. Inspired by a little speech I plan to have a character making in the future:
-
-**mo•iag** (MOY-ahg): to hear, to listen. (And note that it includes the "o•i" letter (o•ite), which is NOT listed in the alphabet, but used in the particle "sho•i.") I took the Spanish "oír," for "hear" and part of "comprendar." I would have used more of "comprendar" but I was also planning to use "kiku," Japanese for "to listen to." Then I remembered that there were way more words that started with K than any other letter, so I scrapped the whole thing. Mo•iag was the result. ✅
-
-**mejag** (MEH-jahg): to resemble, to look like. Taken from Spanish "asemejarse," to resemble. ✅
-
-**zavokag** (zah-VOH-kahg): to know, to understand. Taken from French "savoir," to know. I changed the S to a Z because every time I said it, it came out that way. :p There's also a K from the Japanese "wakaru," to know. I can't seem to stay away from those Japanese Ks, can I? LOL. ✅
+![[012-venus]]
 
 ---
-## OniGanon observes:
-
-Hmm... one thing about Kasuto's Hylian is that the words are usually pretty easy to pronounce. It's a bit like Japanese, in that it doesn't often have two consonants in a row. So sounds like hr and kt, while possible, don't fit so well with Kasuto's Hylian.
-
-Of course this is just my opinion. It's up to Kasuto of course.
+![[013-oniganon]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-One more suggestion: Blowing people off.
-
-Most interjections seem to end in i, and blowing someone off (don't ask why I thought of it, this stuff just pops up in my head), seems like something one might need. Something to say a sarcastic "yeah, right," scoff, or just plain old "pssssh."
-
-I suggest "**jhi**." Monosyllabic, two letters, and it's not difficult to pronounce. AND, it uses the not-too-often used JH letter. ^_^
-
-And tongue twisters! Don't know why I was thinking about that either, but along with the words K-Chan and I made up, there's already a simple one: "_siafirën sian_." (Blue sapphires.) Say it five times fast. Betcha mess up. :p
+![[014-venus]]
 
 ---
-## [Link Æwondåslåmon](contributors/link_æwondåslåmon) rebuts:
-
-That's a very interesting language, emekthian, though I've always imagined the Kokiris speaking a much more beautiful language, without any uvular sound. :roll: I've never thought of making an own language for the Kokiris. In my fan fics they're speaking ancient Hylian, my own version of Hylian. :) The text below is written in my Hylian. In that language there are no uvular sounds, only beautiful sounds (might be because I only like beautiful sounds and don't wanna make a language that elves would think of as distasteful). :) But, you've done a great job.
+![[016-link_æwondåslåmon]]
 
 ---
-## emekthian rebuts:
-
-Are you saying that uvular sounds are ugly?! Because I've killed people for making lesser derisions against sounds! :)
-
-I happen to like uvulars, and so I say the Gágïrhi (Kokiri) do too.
+![[017-emekthian]]
 
 ---
-## Link Æwondåslåmon defends:
-
-I meant that ELVES thinks that it's ugly, and (I might have read too much Tolkien) I just didn't want to create a language that elves would think of as distasteful, though I'm not that fond of uvular sounds as well. Yeah, I know I'm weard. I'm speaking uvular r's myself. :mrgreen: Anyways, when we see the nature they live in, I don't think uvular sounds in their language would be likely :roll: , but it's your language.
+![[018-link_æwondåslåmon]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-W00T! In5p1r4710n @ l457! Check out part of this list I posted ages ago:
-
-### Venus, Queen of Faeries wrote:
-
-> * Boot -- kam**ok**e
-> * Glove -- nam**ok**e
-> * Hat -- chap**ok**e
-> * Leg -- none
-> * Leggings -- non**ok**e
-> * Tunic --mas**ok**e
-> * Undergarment -- ushe**ok**e
-
-Notice the part I put in bold. See the relation? And since KChan has said that clothes should have "ok" in them, if we took that out and added and E to the end, we should have the related body parts. :::nod:::
-
-So, foot would be **kame**, hand would be **name**, head -\> **chape**, chest -\> **se** (remember, a tunic is a "big shirt." It has the _ma_ prefix), and one's genital area would be **ushëe** or **ushe**, whichever flows better. o.o Keep in mind that ë and e are two different letters. Hmmm, wondering if that should be broken down into gender or not? ✅✅✅
-
-> AS: I actually took _ushe_ to mean "under, below" instead of "crotch" so it can refer to more than just underpants, which would be _ushenonoke_ in my paradigm. Otherwise this is a good setup for major body parts.
-
-Whew. Thank goodness for that. I was worried about a severe vocabulary dry spell.
-
-Afterthoughts (Really Modern Hylian): Eyeglasses. **Opjhoke** ✅. I'm SO on a roll. Sunglasses, **shëmopjhoke** ✅.
-
-To wear: **Okag** ✅.
-
-Body: **Hetobe** ✅. Clothes: **hetoboke** ✅. To get dressed: **hetobokag** ✅, literally, "to clothe."
-("hetobe" from Old High German "boteh" -- I just spelt it backwards -- which means corpse. Source: Merriam-Webster Online.)
-
-Sleeve: **brinstoke** ✅. ^_^ **ALL archived 25 May 2021**
+![[019a-venus-austin]]
 
 ---
-## emekthian writes:
-
-**daminazhëfolkag** ✅
-to roll around on the grass with your pet
-
-### [Austin Springer](contributors/austin_springer) dissects:
-
-> Not bad, breaking it down into three parts:
->
-> * _damie_ - a pet or animal companion ✅
-> * _najhe_ - a field or pasture ✅
-> * _folkag_ - to roll or spin about ✅
-
-**igámobondozisag** ✅
-to light something important on fire
-
-### Austin Springer dissects:
-
-> Also useful, breaking this down to:
->
-> * _iga_ - sealed, locked away, forbidden ✅
-> * _mobonde_ - lore, legendary knowledge, research findings ✅
-> * _zisag_ - to start a fire, to burn ✅
+![[020-emekthian]]
 
 ---
-## Venus, Queen of Fairies indulges:
-
-Yes, it's very in-depth. Just like any other language. And it's nowhere NEAR completion; the stuff you see in this topic isn't even "official," I just like to help out and suggest words. Whether my suggestions are taken or not is something different, but it's good to help, you know?
-
-I saw the HLI updated for the first time in almost THREE MONTHS, so I had to take a look. I was slightly disappointed to see that it was only a comment, but I got over myself and started looking over my work. I got a teeeeeeeny bit of inspiration and two (four?) new vocabulary words.
-
-There's this problem that's been plaguing me for a year. Underwear. :::laughs::: If you've read the topic, then you know what I'm talking about. If not, well, bear with me.
-
-KChan made up the word for undies, usheoke. Fantastic. I took it and ran.
-
-> **Venus, Queen of Faeries wrote:**
-> 
-> Obviously, the N and the L are for girls and boys, respectively. I thought, why not make the N and L prefixes, too? Since undergarments don't have natural gender like goddesses or little boys, the sexual distinction would go at the very beginning (i.e., a sort of exception to the rule). Then we'd have "nusheoke" for "girls' underclothes" and "lusheoke" for "boys' underclothes." "Usheoke" could just stand for general underwear, ne? On top of THAT, "dënnusheoke" would be the word for "lingerie" because they're "small-woman-undergarment." Get it?! :::squeals with excitement:::
-
-I ran into a couple of problems, though:
-
-> **Venus, Queen of Faeries wrote:**
-> 
-> Of course, there are two SMALL problems with what I've done.... One: the double n in "dënnusheoke." Every letter in Hylian is supposed to be pronounced. How do you pronounce two Ns in a row? Two: the N and L prefixes only work for nouns that start with a vowel. What about the ones that start in consonants? I was thinking an apostrophe might work, but then again, it might not. "N'kamoke" (girls' boots) doesn't exactly roll off the tongue. It's actually fairly difficult to pronounce.
-
-I came up with a solution I didn't like:
-
-> **Venus, Queen of Faeries wrote:**
->
-> Now that I've slept on it, it probably makes more sense to make them usheokile and usheokine as opposed to the way I had it. Thanks, OniGanon. It cures the double N problem, in dënusheokine. I *was* trying to go for something different, though.... I didn't quite want it to be like dégile/dégine or piántile/piántine, because underwear aren't people, lol.
-
-And left it at that. I later changed "dën" to "dëna" since "small" is an adjective. "Dën'" would be used as the prefix if the next word started with a vowel, and "dëna" if it started with a consonant, or if there were another prefix. I was thinking that since I mentioned N and L, I could use that for gender itself. Simply, "ne" and "na" for "female" and "le" and "la" for male ("female" and "male" can be either a noun or an adjective, depending on usage; mostly adjectives). With that done, the underwear problem is solved. "Dënusheokine" ceases to exist because the "in" at the end implies the noun is a sentient being, and underwear most certainly is not.
-
-> **Austin Springer analyses:**
-> 
-> I strongly disagree with your assumption that the -il and -in suffixes imply sentience or personhood -- they may be used to mark a semantic gender, but even a semantic gender can be a gender based on association rather than literal sex. Just think about terms like "man-bun" or "boyshorts" -- both of these have a semantic gender even though neither the bun nor shorts involved have a physical gender.
-
-Similarly to "dën'-" and "dëna-", "na" and "la" would be apostrophized (is that a word? I can't find a dictionary that has a verb "to apostrophe") if the word it was describing started with a vowel. When used in conjunction, "small" would be "dëna-", because both "na" and "la" start with consonants, so good thing for that; there won't be apostrophes all over the place. "Lingerie," then, becomes "Dënan'usheoke." Man-thongs (ew?), "dënal'usheoke." "Ma" would not have this rule. That's what we call irregular, folks.
-
-WHEW. I hope you got all that.
-
-One more thing. I thought:
-
-> **Venus, Queen of Faeries wrote:**
->
-> and one's genital area would be ushëe or ushe, whichever flows better. o.o Keep in mind that ë and e are two different letters. Hmmm, wondering if that should be broken down into gender or not?
-
-I think "Ushe" works better as the word for "crotch". Woohoo, more irregularities! It doesn't need to be broken down into gender, because I think that would be understood, given the person in question. And we've got words for male and female now, besides.
-
-There need to be more words with the complex letter sounds, like a•ite and such. And irregularities! Irregularities (even though Hylian is mostly regular) still need to exist, and they're fun because you can confuse people with them!!
-
-Okay, I'm done for now. Sorry, everyone. ^_^;;
+![[022-venus]]
 
 ---
-## Venus, Queen of Faeries notes:
-
-I've got it documented... actually, I've got a huge chart of all of Kasuto's words in alphabetical order (English alphabet, anyway), then color coded for what part of speech it is.... Underneath that, I've got mine and KChan's words, and the ones we thought up together, organized the same way... I don't think I have anyone else's, though.
+![[024-venus]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-monte - word ✅
+![[025-venus]]
 
 ---
-## [Maiku](contributors/maiku) implodes:
-
-?!?!
-
-You mean there wasn't a word for word?!? Hahaha! Wow!
-
-^_^ Way to necromance, Venus! I'm beginning to think we're the last vocal followers of the language...
+![[026-maiku]]
 
 ---
-## Venus, Queen of Fairies explains:
-
-It came to me when I was at work on Friday... someone was wearing a jacket for Montclair Hockey. Montclair is in New Jersey, btw. So then I thought "Mont clair" means "clear mountain" in French. And then I thought "mot" (pronounced like Moe, the bartender on The Simpsons). means "word" in French. And then I thought, there's no word for word in Hylian. So, I didn't want it to be too close to the French mot, so mont is was. Monte to make it a noun.
-
-Yup, I still think about this stuff. I just want it to continue SO BADLY.... and I wish there were more people interested in this. ;-;
+![[027-venus]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-I should major in Necromancy in college instead of Mathematics. ^_^;;
-
-Today: body parts! We've already got eyes and arms ("Vosu'san opjhën sha•i va•isas ab nosu ëk Vosu'san brinstën da•ia amkane sha•i witas ab nosu" no, that wasn't from memory and no, I'm not a dork), and I suggested a few more (foot, head and others), but there are still some we don't have. Until now.
-
-Ear - hizaze ✅
-Nose - isue ✅
-Mouth - muntha•ize ✅
-Hair - serise ✅
-Heart - chepaye ✅
-Face - andwe ✅
-Finger - aikwe ✅
-Toe - adakae ✅ (from aikwe da•ia kame; fingers of the foot -- real original, I know -- kame having been previously suggested for foot.)
-
-A note about serise: The singular is used to mean one strand of hair; the hair on your head would be serisën. Like the French cheveux. That means 'hair', but it's plural, because you've got more than one hair on your head. You would say "Mes cheveux sont..." "My hairs are..." unlike the English "My hair is..."
-
-Here are some nouns that you can play with if you feel like it:
-batyahe, pete.
-
-And a new nounverb: kiss: magze, magzag. ✅
-
-I'm done now. You may continue skipping over the post/thread/forum.
+![[028-venus]]
 
 ---
-## [Pata Hikari](contributors/pata_hikari) notes:
-
-I'm surprised nobody's put this foreword.
-
-Katene Lasta - Master Sword.
-
-**Katene** - Sword, based off the japanese word katana
-
-**Lasta** - Master, ruler, best, etc. Invented in my mind ✅
+![[029-pata]]
 
 ---
-## Venus, Queen of Faeries replies:
-
-Well, there's already a word for sword (it's kishoke) but your other suggestion is awesome. And welcome to the forums! :::offers a potted plant with a big fuschia bow:::
-
-...perhaps we can use katene for something else.
+![[030-venus]]
 
 ---
-## Pata Hikari wonders:
-
-Maybe katene can be used for a type of sword?
-
-I mean, in english there's rapier, saber, etc.
-
-Katene could mean broadsword, which is what the Master Sword is. While kishoke could be the generic word. ✅
-
-> AS: I like the idea, but _broadsword_ is actually a word that eans nothing in historical terms -- it could be a bastard sword, though, which is a sword suitable for use in either one or two hands.
+![[031-pata]]
 
 ---
-
-## Venus, Queen of Faeries muses:
-
-Perhaps... but then we've got to make up all the sword-words while there are still plenty of other words that don't have... words. Like... mouse. Or something. You know?
-
-> **Austin Springer muses:**
-> 
-> not at all! The main reason we have so many sword words isn't because of simply having many designs over the years, but many languages that we borrowed names from for their more unique designs. If Hyrule only has a few types of swords, they may only have a few words for them!
+![[032-venus]]
 
 ---
-## Pata Hikari offers:
-
-Mouse?
-
-Heh, got a word for that!
-
-**Matre** Mouse ✅
-
-**Lupe** Dog, from the latin word Lupis ✅
-
-**Zenre** Animal ✅
+![[033-pata]]
 
 ---
-## Venus, Queen of Faeries whispers:
-
-<3_<3 I love you.
+![[034-venus]]
 
 ---
-## Pata Hikari offers:
-
-I came up with this word while writing a fanfic. ^^
-
-**Thente** Death. From the Greek word Thantos(sp? /thanatos/) also meaning death. ✅
+![[035-pata]]
 
 ---
-## Venus, Queen of Faeries accepts:
-
-**Thentag** - to die. ^_^ Good job, Pata. ✅
+![[036-venus]]
 
 ---
-## [SoloWolf](contributors/solowolf) chimes in:
-
-Hmmmm
-Well as a former latin student I have a few
-Gladius=Sword
-Patrus=father
-Victore=To conquer
-Polutus=chicken(cucoo)
-
-/These words are not gramamtical, but could be massaged into usable forms/
-
-> AS: All of your suggestions step on the toes of either official words or obvious borrowings from the games, as Venus points out below. I hope you are able to make some contributions, though!
+![[037-solowolf]]
 
 ---
-## Venus, Queen of Faeries explains:
-
-There are already words for sword, father AND conquer (they're kishoke, piántile and ushikag, respectively). Besides, you don't want the words to be too close to any real language (living or dead).
-
-> AS: This is not necessarily true -- cognates, and false cognates, are a real phenomenon, so having some words close to prior languages, and even having a meaning that sounds similar, is not a huge problem. Just look at _toëre_ v. _tierra_ or _kisame_ v. _kisame_ -- even the numbers show a strong PIE bias.
+![[038-venus]]
 
 ---
-## Link Æwondåslåmon re-iterates:
-
-There could be words for different kinds of swords, though.
+![[039-link]]
 
 ---
-## Venus, Queen of Faeries writes:
-
-Rain: **Sesolag** (v); **sesole** (n) ✅
+![[040-venus]]
 
 ---
-## [BBB](contributors/bbb) offers:
-
-I have a word for mountain.
-**Órod**, derived from the ancient Greek word for mountain Óros. ✅
-
-Órod-thente: Death mountain
-or
-Thente-órod: Death mountain
-
-What d'ya think?
+![[041-bbb]]
 
 ---
-## Venus, Queen of Faeries smiles:
-
-^____^
-
-You make my mornings happy, BBB.
+![[042-venus]]
 
 ---
-## Venus, Queen of Faeries observes:
-
-Oops. Forgot one teeny thing. All nouns must end in -e, so órod's gotta be **órode**. Is that okay? I liked how you used Pata Hikari's suggestion for death, too. ^_^
-
-I hope Kasuto does come back and adds all these suggestions to the official language. Together, in this topic, we've created 92 words!!! And the list of words we need is growing, too. It's aliiiiiiiiiiive!!!
-
-Here's the list I've gathered from this topic that includes everything up to this post. I'm working on doublechecking Kasuto's words as you read this. Give yourself a pat on the back, everyone! ^_^:
-
-### Venus
-
-404. adakae (n.) - toe
-405. aikwe (n.) - finger
-406. amite (n.) - uncle/aunt
-407. andwe (n.) - face
-408. batyahe (n.) - valley
-409. brinstoke (n.) - sleeve
-410. chape (n.) - head
-411. chapoke (n.) - hat
-412. chepaye (n.) - heart
-413. dëna (adj.) - small, half
-414. geleáfae (n.) - belief
-415. geleáfag (v.) - to believe
-416. gibdoe (n.) - mummy
-417. hetobe (n.) - body
-418. hetobokag (v.) - to get dressed (lit. "to clothe")
-419. hetoboke (n.) - clothes (generally)
-420. hiose (n.) - child
-421. hizaze (n.) - ear
-422. ipae (n.) - spouse
-423. isue (n.) - nose
-424. itoke (n.) - cousin
-425. jhi (int.) - blow someone off
-426. jheluke (n.) - chance, luck
-427. jhelúkea (adj.) - lucky
-428. kame (n.) - foot
-429. keese (n.) - bat
-430. këwle (n.) - fish
-431. kukoe (n.) - chicken
-432. la (adj.) - male
-433. le (n.) - male
-434. luberag (v.) - to please
-435. ma (adj.) - big, great
-436. magzag (v.) - to kiss
-437. magze (n.) - kiss
-438. mámale (n.) - million
-439. mejag (v.) - to resemble, to look like, to seem, to appear
-440. monte (n.) - word
-441. moskag (v.) - to fly
-442. mo•iag (v.) - to hear, to listen
-443. muntha•ize (n.) - mouth
-444. na (adj.) - female
-445. name (n.) - hand
-446. napete (n.) - grandchild
-447. ne (n.) - female
-448. okag (v.) - to wear
-449. opjhoke (n.) - eyeglasses
-450. poe (n.) or ginie (n.) - ghost
-451. potëra (adj.) - strong
-452. potëre (n.) - strength
-453. rope (n.) - snake
-454. se (n.) - chest
-455. serise (n.) - hair
-456. sesolag (v.) - to rain
-457. sesole (n.) - rain
-458. sia (adj.) - blue
-459. sipe (n.) - sibling
-460. sobre (n.) - niece/nephew
-461. sofe (n.) - grandparent
-462. shëmopjhoke (n.) - sunglasses
-463. trèowag (v.) - to trust
-464. trèowe (n.) - trust
-465. thentag (v.) - to die
-466. ushe (n.) - groin
-467. zavokag (v.) - to know, to understand
-
-### KChan:
-
-468. alazae (n.) - neighbor
-469. anlika (adj.) - alone
-470. avike (n.) - ocarina
-471. hia (adj.) - yellow
-472. janie (n.) - monarch
-473. kamoke (n.) - boots, shoes
-474. masoke (n.) - tunic
-475. mia (adj.) - red
-476. mihia (adj.) - orange
-477. namoke (n.) - gloves
-478. none (n.) - leg
-479. nonoke (n.) - leggings, pants
-480. reakete (n.) - battle, fight
-481. reathoa (adj.) - angry
-482. sihia (adj.) - green
-483. simia (adj.) - purple
-484. usheoke (n.) - undies
-
-### emekthian:
-
-485. daminazhëfolkag (v.) - to roll around on the grass with your pet
-486. hraiäte (n.) - praise /AS: => raiäte/
-487. igámobondozisag (v.) - to light something important on fire
-488. ktaniyuhrozag (v.) - to exasperate /AS: => tanikyurozag/
-489. shoyanne (n.) - explosive /AS: => shoyane "bomb"/
-
-### Pata Hikari:
-
-490. katene (n.) - broadsword
-491. lupe (n.) - dog
-492. matre (n.) - mouse
-493. thente (n.) - death /AS: => thënte for sound/
-494. zenre (n.) - animal
-
-### BBB:
-
-495. órode (n.) - mountain
-
-### Hylian words to play with:
-
-496. from Venus: pete (n.)
-497. from Pata Hikari: lasta (adj.) /AS: Heroic, of or related to a Legendary Hero/
-
-### English words to include:
-
-* Directions (up, down, left, right, forward, back, compass points)
-* Common creatures (cuccos, keese, guays, tektites)
-* Geographical features (mountains, valleys)
-* Weather (rain, snow)
-* Anatomy (head, shoulders, knees, toes)
-* Clothing (shirt, pants, skirt, jacket)
-* Emotional/Physical conditions (sad, angry, alone, wet, injured, cold)
-* Superlatives (e.g., high/higher/highest)
+![[043-venus-wordlist]]
 
 ---
-## BBB gratefully nods:
-
-I don't mind at all that an e must be added. It further distances it from the Greek word which is desireable if you want to make the Hylian language individual.
-
-However I do think the words:
-Cuccos, Keese, guays,and teketites should be considered Hylian words because there is no possible translation into English. (Except perhaps giant, jumpey' one eyed bug type creature and peck out the eyes bird.)
-I also thougt that a good word for skeleton would be stal, as in the stal in stalfos. And perhaps fos could be added to somethings name as a term of fear, like skeleton-monster or wolf-monster (wolfos). Although there could be a word for both already in Kasutos dictionary.
-
-> AS: I agree, Hylian words presented in the games, including monster names, should generally be considered and adapted with minimal distortion.
+![[044-bbb]]
 
 ---
-## Venus, Queen of Faeries grins:
-
-Well, they are... their spellings just need to be modified a teeny bit to fit Kasuto's grammar rules. I only copied things verbatum [sic]; I didn't touch anything (though I added batyahe as a word for valley. I think that sounds pretty cool. Think you could use it, OniGanon?).
-
-### BBB wrote:
-
-> I also thougt that a good word for skeleton would be stal, as in the stal in stalfos. And perhaps fos could be added to somethings name as a term of fear
-
-Oooh, I like that. It's so amazingly simple. Stale for skeleton (remember, nouns end in -e), fose for fear, and maybe fosa for afraid? There's no word for wolf... but there's a word for dog.
+![[045-venus]]
 
 ---
-## BBB agrees:
-
-Yes, that sounds very good to me.
-
-Stale: Skeleton ✅
-
-Fose: Fear, added to a somethings name to suggest that it is to *be* feared. ✅
-
-Fosa: Afraid ✅
-
-This language is evolving a lot is'nt [sic] it?
+![[046-bbb]]
 
 ---
-### Venus, Queen of Faeries writes:
-
-I guess a faerie flew around this section and gave it a couple more hearts. ^_^;;
-
-So, I'm still working on that huge list of vocabulary that Kasuto made up. I went through all the pages of the Hylian Language Institute with a fine-toothed comb (again), picking up any words I could find. Turns out, there are over a hundred words that are not included in the dictionary.
-
-I'm taking it upon myself to write up a new dictionary for the HLI, with all those words included. When I'm done, I'll upload it as a .txt file. The upside of this is that you can get to it -- all the words at once -- whenever you want. The downside of this is that the Hylian font will not be included (since you can only have one style of text in a .txt file), and the parts of speech will not be italicized. If you want the .doc file that I'm writing, which will include all of that, you can PM me when I'm finished. I'll also be making a version that includes our suggestions. However, I won't be uploading that. I'll be updating it constantly to keep up with the changes that we make in this thread, so if you'd like that at any time, you can PM me for that, too. That'll be available as either a .txt file or a .doc file, whatever you want. ^_^
+![[047-venus]]
 
 ---
-## Magnas requests:
-
-When you're done that, maybe you could make it into an HTML file that will include all that, if you're capable? It may help you sort it out. Just a suggestion for now  :D I don't have anything else to add, since I'm not really capable of suggesting new words ATM. If you don't know HTML, I can use it as practice once you're done and try to do that for you (once I understand the language and all).
+![[048-magnas]]
 
 ---
-## Venus, Queen of Faeries agrees:
-
-Well, I do know HTML (I used to webmistress my marching band's site), but I'll give it to you for practice anyway. ^_^
-
-Edit: The HLI .txt file is complete! You can find it here [http://www.kasuto.net/uploads/HLI.txt](http://www.kasuto.net/uploads/HLI.txt). The .doc file is also available.
-
-Editedit: Our additional words are available in both .txt and .doc files. Hurray! ^_^
+![[049-venus]]
 
 ---
-## Blues Brother ponders:
-
-Hmmm... Since Skeleton is Stale... Should we maybe name the different bones? Or maybe just like.... The major limbs... I don't know, I just thought I might drop a suggestion for a new word...
-
-Hey no word for wolf, but who knows, maybe they meant wolfos to be the word for wolf? XD
-
-Do not make me get critcised, I am no good at words. XD Not different languages anyway... Anyway.... What ARE some words you do not have?? Do you have one for Dragon? If you do not.... Shenro or something along those lines might work... (I like dragons. XD Especially serpentine ones. XD The Shenron, or Dragon Gods. XD Like Volvagia. XD)
+![[050-blues]]
 
 ---
-## Venus, Queen of Faeries offers:
-
-Here's a incomplete list of what we need:
-
-* Directions (up, down, left, right, forward, back, compass points)
-* Common creatures (cuccos, keese, guays, tektites)
-* Geographical features (mountains, valleys)
-* Weather (rain, snow)
-* Anatomy (head, shoulders, knees, toes)
-* Clothing (shirt, pants, skirt, jacket)
-* Emotional/Physical conditions (sad, angry, alone, wet, injured, cold)
-* Superlatives (e.g., high/higher/highest)
-
-We *do* have some of these things... like rain, head, shoe, you know. But ifyou could just list things, we'll either take them or assign the word to something else (if the English word you chose to translate is already translated).
+![[051-venus]]
 
 ---
-## Blues Brother requests:
-
-Okie dokie.... Do we have the planets? Like Mars? Could be...Marisia? Or Marsio? I don't know.... - -;;
-
-Spirit?
-
-Vile-A vile, like for water... /AS: vial/
-
-Vile-as in Vile, not a vile...
-
-Poison
-
-Snake
-
-Evil
-
-Colours-Red, blue, black, ect..
-
-Music-Rock, Jazz, Hip hop, Rap, Country, Flamingo, J Rock, J Pop, German Rock, Hard Rock, Grunge... Any others?
-
-Sorry, am no good at thinking up words to translate them too... Sorry again... - -;;
+![[052-blues]]
 
 ---
-## Venus, Queen of Fairies moans:
-
-:/
-
-Not to sound mean or anything... but I thought you were going to help make up words... not list more words that we don't have.
+![[053-venus]]
 
 ---
-## Blues Brother dodges:
-
-I am going to help, but I listed them so I can look for them when I want to try and think of things to translate them to Hylian... I mean.... I listed some of the words I wanted to get translated, so I would not forget them, then, you guys might beat me to the punch... Or maybe just... I don't know. I am searching for something for spirit right now... I am not THAT lazy.
-
-EDIT:
-
-supiritto,
-seirei,
-iki,
-seishou,
-shinzui,
-konjou
-
-
-Those are Japanese for Spirit, I shal look for others now. X3 I am just getting a bases for the Hylian words, later I shall add the little parts like the e after vowels... or however that rule went...
-
-
-EDITEDIT: Found Rock... Found an online Japanese dictionary. XD I love the japanese language. XD Will look for latin next. Promise. XD
-
-
-yurasu,
-yusaburu,
-yusuburu,
-iwa,
-rokku,
-ganseki
-
-EDITEDITEDIT: Nevermind, here, I'llpost the dictionary site too. X3 HAs lotsa languages, not just Japnese. X3
-
-(Can even get African! X3)
-
-http://www.freedict.com/onldict/lat.html
+![[054-blues]]
 
 ---
-## emekthian suggests:
-
-How about using the suffix -zwa as a superlative, and not having a comparative at all? E.G. nasunazwa, "darkest" or "darker".
-
-> AS: I see the idea you're going for here, but I actually think we can simply use _Venus'_ augmentative and dimiunitive prefixes as comparatives like so:
->
-> * dëne-: a smaller or lesser amount
-> * mahe-: a larger or greater amount
+![[055-emekthian]]
 
 ---
-## Venus, Queen of Faeries observes:
-
-I'm dumb... I didn't see the bit about not having comparitives at all. So yeah, that could work... me gusta.
+![[056-venus]]
 
 ---
-## Venus, Queen of Faeries adds:
-
-Four new words!
-
-akonde - sky **archived 27 May 2021** ✅
-miare - vision **archived 27 May 2021** ✅
-na•imre - dream **archived 27 May 2021** ✅
-na•ipe - wish **archived 27 May 2021** ✅
-
-And with that, I have the verse from the Book of Mudora in the LttP manual. There's a topic around, so I'll post it there.
+![[057-venus]]
 
 ---
-## Pata Hikari offers:
-
-I have some new words! These came to me.
-
-Nede Doctor **archived 27 May 2021** ✅
-
-Nedag Treating the sick **archived 27 May 2021** ✅
-
-> **Austin Springer thinks:**
-> 
-> Nice, but a simple suggestion: _nede_ should be medicine or potions, and _nedase_ would be "one who treats the sick", as _kriashag_ is "to create" and _kriashase_ (simple present tense, re-inflected into a noun) is "creator"
-
-Lune Shadow/Darkness Would be used in the context of the element, such as Emplae Lune **archived 27 May 2021** ✅
-
-Emplae A church, temple, or general place of worship **archived 27 May 2021** ✅
-
-What do you think?
+![[058-pata]]
 
 ---
-## Venus, Queen of Faeries reflects:
-
-We have shadow and darkness already.... unless you mean lune to be used ONLY as the element (and nasuna NEVER to be used for the element), not like "I don't have a shadow cuz the sun went behind a cloud." But then we'd have to get special words for the other five elements, too. That could be interesting, actually.
-
-The other suggestions are great, too, of course. I'll add those to the dictionary post-haste. (Post-haste is a cool word.)
+![[059-venus]]
 
 ---
-## [Slacker](contributors/slacker) facetiously suggests:
-
-Illidan :Storm.
-
-Yeah... that is about it.
+![[060-slacker]]
 
 ---
-## Venus, Queen of Faeries sincerely accepts:
-
-If you don't mind, I'm gonna stick an E on the end of that to make it a noun, and take out one of the Ls because there are no double letters in Hylian (aside from just two words). Thanks a lot!
-
-/ilidane "storm"/ **archived 27 May 2021** ✅
+![[061-venus]]
 
 ---
-## Pata Hikari submits:
-
-Yeah, I meant it /lune/ to be only used as the Element /shadow/.
+![[062-pata]]
 
 ---
-## Venus, Queen of Faeries muses:
-
-Okay, so now we need special words for forest, fire, water, spirit and light. Not to mention regular words for forest, spirit and light. ^_^;;
+![[063-venus]]
 
 ---
-## Pata Hikari winks:
-
-Way ahead of ya. ;)
-
-* **Solan** Light Element ✅
-* **Perlun** Fire Element ✅
-* **An** Water Element /* AS: I don't like this one as it feels too short even after giving it the standard inflections. **Auwën** ✅ seems closer even to the rest of your elemtnal words */
-* **Molorn** Forest Element ✅
-* **Hevon** Spirit Element ✅
-* **Galen** Earth Element ✅
-* **Silfan** Wind Element ✅
-
-And a random word :D
-
-* **Perin** Soul ✅
+![[064-pata]]
 
 ---
-## Venus, Queen of Faeries proposes:
-
-\*\_\* Marry me! I see you even included Wind and Earth. How clever of you! (Perin could also double as the normal word for spirit!)
-
-I was looking through the ooooooold Kas.net (thanks, Lysia!) and found the old Hylian Language. Well, not much has changed in three and a half years, but a few words did, most notably hello and good-bye. Hello used to be **_batá•í_** (bah-TIE), and now it's _oha•io_ (oh-HIGH-oh). Goodbye used to be **_jhënta•i_** (JHEHN-tie) and now it's _sajaná•í_ (Sah-jah-NIGH). (The words for fire and righteousness only changed by pronunciation and apostrophe, respectively.)
-
-I like _batá•í_ and _jhënta•i_. We should use them for something, don't you think? (I actually like _batá•í_ for hello a lot better than _oha•io_.)
-
-> AS: I agree -- I actually note that _batai_ seems more closely related to the still-current _bënkati_ used in greeting or welcoming people, so perhaps both of these words can be kept as traditional or formal ways say "hello" and "goodbye".
-
-Normal words (non-elementals):
-
-* forest - **mavlise** (mahv-LEE-say) ✅
-* light - **rokèlzise** (roh-KEHL-zee-say) ✅
-* to light (a candle or something): **rokèlzisag** - emekthian, look! I managed to incorporate a bit of one of your words! ✅
-* earth - **bí•úkoge** (BYOO-koh-gay). Something I just made up with letters I felt weren't used enough. ✅
-* wind - **fethe** (FAY-thay; rom Old Irish "feth", meaning "air") ✅
-
-Oh, and I found a mistake in the .doc, Pata. I SWITCHED ënt and ont. Sorry about that!
+![[065-venus]]
 
 ---
 ## Pata Hikari thinks deeply:
