@@ -10,13 +10,13 @@ I like _batá•í_ and _jhënta•i_. We should use them for something, don't y
 
 Normal words (non-elementals):
 
-* forest - **mavlise** (mahv-LEE-say) ✅
-* light - **rokèlzise** (roh-KEHL-zee-say) ✅
-* to light (a candle or something): **rokèlzisag** - [[emekthian]], look! I managed to incorporate a bit of one of your words! ✅
-* earth - **bí•úkoge** (BYOO-koh-gay). Something I just made up with letters I felt weren't used enough. ✅
-* wind - **fethe** (FAY-thay; rom Old Irish "feth", meaning "air") ✅
+* forest - **mavlise** (mahv-LEE-say)
+* light - **rokèlzise** (roh-KEHL-zee-say)
+* to light (a candle or something): **rokèlzisag** - [[emekthian]], look! I managed to incorporate a bit of one of your words!
+* earth - **bí•úkoge** (BYOO-koh-gay). Something I just made up with letters I felt weren't used enough.
+* wind - **fethe** (FAY-thay; rom Old Irish "feth", meaning "air")
 
-Oh, and I found a mistake in the .doc, Pata. I SWITCHED ënt and ont. Sorry about that!
+Oh, and I found a mistake in the .doc, Pata. I SWITCHED _ënt_ and _ont._ Sorry about that!
 
 **[[066-pata|Next Post: Pata Hikari]]**
 **[[065a-venus-austin|Commentary: Austin Springer]]**

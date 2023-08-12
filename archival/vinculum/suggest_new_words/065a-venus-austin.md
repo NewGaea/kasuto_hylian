@@ -9,4 +9,4 @@
 
 I agree -- I actually note that _batai_ seems more closely related to the still-current _bënkati_ used in greeting or welcoming people, so perhaps both of these words can be kept as traditional or formal ways say "hello" and "goodbye".
 
-**[[065a-venus-austin|Next Commentary]]**
+**[[073a-qbri-austin|Next Commentary]]**

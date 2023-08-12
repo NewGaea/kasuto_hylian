@@ -1,5 +1,5 @@
 **[[011-emekthian|Parent Post]]**
-**[[007a--venus-austin|Previous Commentary]]**
+**[[007a-venus-austin|Previous Commentary]]**
 
 ## [[emekthian]] responds:
 

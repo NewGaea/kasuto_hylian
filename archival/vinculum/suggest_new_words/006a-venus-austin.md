@@ -22,4 +22,4 @@ AS: It really is a nice idea, but I'm not 100% certain I want to go exactly this
 
 AS: I love this one, though, it's a great way to distinguish blood relations from legal ones!
 
-**[[007a--venus-austin|Next Commentary]]**
+**[[007a-venus-austin|Next Commentary]]**

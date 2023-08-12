@@ -50,4 +50,4 @@ Ordinal numbers: Take the stem and add "_-ashe_" for the noun, "_-asha_" for the
 Thanks a lot. ^_^;;
 
 **[[008-venus|Next Post: Venus, Queen of Faeries]]**
-**[[007a--venus-austin|Commentary: Austin Springer]]**
+**[[007a-venus-austin|Commentary: Austin Springer]]**
