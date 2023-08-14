@@ -1,3 +1,4 @@
+**[[100-qbri|Previous Post]]**
 ## [[venus|Venus, Queen of Faeries]] offers:
 
 1. Okay, I'll add on the words just as you have them, regardless of their part of speech in English.
@@ -23,3 +24,5 @@
 	- · - alt+0183
 
 4. and 5. Gotcha. No problem.
+
+**[[102-qbri|Next Post: QBri]]**

@@ -1,7 +1,7 @@
 # Suggest New Words
 
 <aside class="notice">This post references an un-archived post by <strong><u>OniGanon</u></strong>. We will attempt to retrieve this post if The Vinculum is ever restored.</aside>
-**[Previous Post](archival/vinculum/suggest-new-words/002-venus)**
+**[[002-venus|Previous Post]]**
 
 
 ## Venus, Queen of Faeries writes:

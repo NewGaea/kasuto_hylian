@@ -1,8 +1,6 @@
-In this file, words listed in \[square brackets\] are constructions created by the author given the rules of Hylian available on [kasuto.net](http://kasuto.net) in the Hylian Language Institute section of the site. Any word in \<angle brackets\> is created by an author from The Vinculum’s ”Hylian Language Institute,” or otherwise can be cited from Kauto's dictionary and lessons. Anything in
-"quotation marks" is a non-adopted loan word, or an indicator of the English form of words or phrases being discussed.
+In this file, words listed in \[square brackets\] are constructions created by the author given the rules of Hylian available on [kasuto.net](http://kasuto.net) in the Hylian Language Institute section of the site. Any word in \<angle brackets\> is created by an author from The Vinculum’s ”Hylian Language Institute,” or otherwise can be cited from Kauto's dictionary and lessons. Anything in "quotation marks" is a non-adopted loan word, or an indicator of the English form of words or phrases being discussed.
 
-This file contains interlinear translations of every sample from the Hylian Language Institute, as well as sample Hylian text
-from the "Ont Hilana" thread and the rest of the Hylian Language Insititute forum.
+This file contains interlinear translations of every sample from the Hylian Language Institute, as well as sample Hylian text from the "Ont Hilana" thread and the rest of the Hylian Language Insititute forum.
 
 ---
 ## Hylian Language Institute : Verbs

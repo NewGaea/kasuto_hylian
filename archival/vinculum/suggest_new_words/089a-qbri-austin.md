@@ -32,4 +32,4 @@ Of particular note, _QBri_ is aware that "where" is _dono_ based on a prior post
 
 EDIT: I eventually realized that QBri wasn't use an "all where" construction, but an "all place" construction. My goodness, that was a bothersome error to make, but I do want it on record that I figured it out! -A
 
-**[[089a-qbri-austin|Next Commentary]]**
+**[[105a-venus-austin|Next Commentary]]**
