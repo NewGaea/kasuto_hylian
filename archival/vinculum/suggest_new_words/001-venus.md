@@ -5,7 +5,7 @@ language: english old-english latin kasuto-hylian
 ---
 # Suggest New Words
 
-_Original Post_
+_Original Post: 2003-Aug-03_
 
 ## **[Venus, Queen of Faeries](contributors/venus) writes:**
 
