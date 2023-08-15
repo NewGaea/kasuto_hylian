@@ -1,6 +1,6 @@
 # Hylian Typing - Key and Character Map
 
-So you've downloaded one of the Hylian fonts available here or on [kasuto.net](kasuto.net), and it looks cool, but you aren't sure how to get all of the Hylian letters to show up? This is the place to be, my friend: there are three types of fonts available, and each uses its own mapping of keystrokes to Hylian letters, but this is the place to learn how to type all of them.
+So you've downloaded one of the Hylian fonts available here or on [kasuto.net](http://kasuto.net), and it looks cool, but you aren't sure how to get all of the Hylian letters to show up? This is the place to be, my friend: there are three types of fonts available, and each uses its own mapping of keystrokes to Hylian letters, but this is the place to learn how to type all of them.
 
 ## Keymaps
 
