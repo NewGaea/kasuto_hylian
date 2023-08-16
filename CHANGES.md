@@ -22,7 +22,7 @@ The following are lists of changes made to the Hylian Language since 2023-Jul-01
 + Started re-organization of the directory tree.
 	+ Started **Contributors** directory.
 		+ Added a **Contributors** page for **[Venus, Queen of Faeries](contributors/venus)**
-	+ Ported _Hylian Community Wordlist_ to [archival/vinculum/hylian_community_wordlist](archival/vinculum/hylian_community_wordlist)
+	+ Ported _Hylian Community Wordlist_ to [suggest-new-words](suggest-new-words.md)
 + Added `fonten/old_fonts/Hylian 3.1.ttf`; includes easier mapping and all new letters mentioned on the old Vinculum forum.
 + **LICENSE** file added.
 + **CHANGES** file added.

@@ -5,7 +5,7 @@ tag: standards documentation romanization orthography
 ---
 This is the form of Hylian romanization adapted by [Austin Springer](contributors/austin_springer) for use with his documentation. It uses diacritics to indicate stress and vowel variations, and digraphs to indicate diphthongs and consonant variations. Unlike [[kasuto-font|Kasutan Font-Mapped Orthography]], the romanization is not case-sensitive -- you may use capital or lowercase version of letters, and should capitalize this orthography similarly to English.
 
-Unlike [[kasuto-roman|Kasutan Romanization]], this includes the **[six letters](archive/vinculum/six_new_letters)** which [[kasuto|Kasuto]] announced on [[archival/vinculum/index|the Vinculum forums]]. However, Springerian Romanization is an adaptation of Kasutan Romanization with the following changes:
+Unlike [[kasuto-roman|Kasutan Romanization]], this includes the **[six letters](six_new_letters.md)** which [[kasuto|Kasuto]] announced on [[archival/vinculum/index|the Vinculum forums]]. However, Springerian Romanization is an adaptation of Kasutan Romanization with the following changes:
 
 1. Incorporate the **six letters** mentioned above: ts/c, ch/C, dh/D, kh/K, ng/ñ/N, and û/Û.
 2. Alternate digraph marker: replace the middle-dots with nothing
