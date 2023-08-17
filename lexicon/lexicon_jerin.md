@@ -10,25 +10,25 @@ This document contains words coined by **[Jerin of Calatia](contributors/jerin_o
 
 ## DH
 
-+ **dhagola** (dhah goh' lah) _adjective._ 1. cold, chilly; especially environmental or weather related
++ **dhagola** (dhah goh' lah) _adjective._ 1. cold, chilly 1. especially environmental or weather related
 + **dhagolag** (dhah goh' lahg) _verb._ 1. (temperature) to cool, to chill, to freeze
 + **dhagole** (dhah goh' lay) _noun._ 1. coolness, coldness; especially climate, weather or environmental
-
-## Ë
-
-+ **\~eñlana** (ehng lah' nah) _adjective._ 1. Englishl of, related to, or made by the English people
-+ **\~eñlane** (ehng lah' nay) _noun._ 1. England 2. English person 3. the English language
 
 ## H
 
 + **haika** (heye' kah) _adjective._ 1. helpful
 + **haikag** (hah' kahg) _verb._ 1. to help, to assist, to aid
 + **haike** (hah' kay) _noun._ 1. help, assistance, aid
++ **hilañve** (he lahng' vay) _noun._ 1. Hylian (language)
 
 ## K
 
 + **konktrakakira** _adjective_ 1. orthographic (etymology: _konktra_ + _kakirag_, inflected as adjective; coined 2023-Jun-27)
 + **konktrakakire** _noun_ 1. orthography (etymology: _konktra_ + _kakirag_, inflected as noun; coined 2023-Jun-27)
+
+## L
+
++ **lañve** (lahng' vay) _noun_ 2. _suffix_ language, language of 2. added sense and use, may be added to a word to name a language
 
 ## W
 

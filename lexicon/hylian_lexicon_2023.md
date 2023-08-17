@@ -2,24 +2,7 @@
 
 This lexicon is a list of words only, compiled in English alphabetical order. There is a **dictionary** available for more detailed definitions of words, and the old lexicon files are still in place for now.
 
-As changes from the original documentation by Kasuto:
-
-1. The HLS uses a new romanization, and an updated version of Kasuto's original fonts. It is our objective to, as near as possible, allow text to be fully legible in plain Latin script as well as Hylian font faces, though certain digraphs will exist purely for this purpose. In general, we advise using case-sensitive spellings to avoid this.
-2. The romanized diphthong marker \<•\> is being removed. Instead of this marker, an apostrophe \<'\> may be inserted after a diphthong if needed for clarity.
-3. The diphthong \<oa\> is being phased out in favor of \<ö\>, with the stress-marked version \<óá\> becoming \<ô\> instead.
-4. The circumflex \<^\> is relacing the grave \<\`\> as the preferred marker for modified vowels' _asënta_ forms.
-5. We are incorporating the letters \<c\>, \<C\> or \<ch\>, \<ñ\> or \<ng\>, and \<D\> or \<dh\>.
-6. Grammatical suffixes are not listed as their own entries. However, to make up for this change, more words are listed in multiple grammatical forms!
-
-In addition to this, the following basic rules are used:
-
-1. This is a lexicon, not a full dictionary. As such, our format is
-	+ **word** (pro nun ci a tion) _wordclass._ 1. glosses 2. separate glosses
-2. We are seeking to only list basic word forms. Many words can be built threough compounding or grammatical processes, therefore we focus on:
-	+ **Singular** nouns, pronouns, and adjectives
-	+ **Infinitive** forms of verbs
-	+ Otherwise documented forms such as adverbs, prepositions, etc., in their simplest construction
-3. Any word which ends with a star \<\*\> is a word preserved from the original documentation by Kasuto which does not otherwise fit the documentation he provided (for example, many words ending in \<i\> are expressions, but there is no clearly defined rule for grammatical use of this suffix).
+For details about how entries are listed in this new format, please check [[lexicon-guidelines|our Lexicon Guidelines]] page.
 
 As of this update (beginning in July 2023), all words from [Kasuto's HLI](http://kasuto.net/language.php?main=language/language.html), our archived Vinculum threads, [[Hylian Community Wordlist]] and [[Ont Hilana (Interlinear of Thread).md|Ont Hilana]], and our own creations are afforded first-class status as documented Hylian words under the Hylian Language Society.
 
