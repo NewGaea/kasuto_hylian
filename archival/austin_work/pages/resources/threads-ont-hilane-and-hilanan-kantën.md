@@ -40,7 +40,6 @@ QBri sings:
 Venus sings:
 
 + **aje** (AH-jay): noun. Cloud.
-* **-aki** (AH-kee): form of address. Darling. Used as a suffix (indicating deep love and affection) in addition to a person's first name. (_Kasuto_)
 + **alJag** (AHL-jhahg): verb. To tell.
 + **apa** (AH-pah): adjective. Aloud.
 + **arage** (ah-RAH-gay): noun. Melody.
@@ -80,7 +79,7 @@ Venus sings:
 + **glihag** (GLEE-hahg): verb. To laugh.
 + **hakSag** (HAHK-shahg): verb. To beat; to pulsate.
 + **hima** (HEE-mah): adjective. Certain.
-+ **hirmoka** - again (from hire + moka)
++ **hirmoka** - again (from hire + [ ] moka)
 + **hista•ite** (hee-STY-tay): noun. Stage, floor.
 + **hürne** (HUHR-nay): noun. Corner.
 + **ikom** (EE-kohm): preposition. Around.
@@ -147,16 +146,16 @@ Venus sings:
 + **twilne** (TWEEL-nay): noun. Fate.
 + **Tëkanag** (theh-KAH-nahg): verb. To cover; to shield, to protect, to guard.
 + **ümzua** (uhm-ZOO-ah): adjective. Difficult.
-- **veuardok**(vay-oo-ahr-dohk): adverb. Truly; really.
-- **vïrstag** (VIHR-stahg): verb. To explain.
-- **vo'anta** (voh-AHN-tah): adjective. Behind. (Lit. "un-ahead")
-- **voblafa** (voh-BLAH-fah): adjective. Unlikely.
-- **wanhe** (WAHN-hay): noun. Voice.
-- **warge** (WAHR-gay): noun. Enemy.
-- **wikye** (WEEK-yay): noun. Adventure.
-- **zatatokre** (Zah-tah-TOH-kray): noun. Then; that time.
-- **zïniste** (zih-NEE-stay): noun. Spell, magic.
-- **zogre** (ZOHG-ray): noun. Weapon.
++ **veuardok**(vay-oo-ahr-dohk): adverb. Truly; really.
++ **vïrstag** (VIHR-stahg): verb. To explain.
++ **vo'anta** (voh-AHN-tah): adjective. Behind. (Lit. "un-ahead")
++ **voblafa** (voh-BLAH-fah): adjective. Unlikely.
++ **wanhe** (WAHN-hay): noun. Voice.
++ **warge** (WAHR-gay): noun. Enemy.
++ **wikye** (WEEK-yay): noun. Adventure.
++ **zatatokre** (Zah-tah-TOH-kray): noun. Then; that time.
++ **zïniste** (zih-NEE-stay): noun. Spell, magic.
++ **zogre** (ZOHG-ray): noun. Weapon.
 
 -----
 

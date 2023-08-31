@@ -225,7 +225,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **koeme** (koeme) _noun_ 1. food `Bagu koemes ëk goeares az koeme.` `I ate and (I) liked the food.` (_Kasuto_)
 + **kokirna** (kokirna) _adjective_ 1. Kokiri, Kokirian 1. Describes something of or related to the Kokiri tribe (_Kasuto_)
 + **kokirne** (kokirne) _noun_ 1. Kokiri 2. the Kokiri language 1. a label for the Kokiri tribe and its members (_Kasuto_)
-+ **kono** (kono) _pronoun_ 1. what (interrogative) 2. huh? (_Kasuto_)
++ **kono** (kono) _pronoun_ 1. what (interrogative) 2. huh? 1. Used when a statement is open ended, or to allow free response ([[kasuto|Kasuto]])
 + **kosale** (kosale) _noun_ 1. four hundred (_Kasuto_)
 + **kose** (kose) _noun_ 1. four (_Kasuto_)
 + **kragag** (kragag) _intransitive verb_ 1. To shit 1. A vulgar slang term for defecation. (_Kasuto_)
