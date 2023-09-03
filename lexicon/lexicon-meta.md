@@ -11,18 +11,15 @@ This document contains words coined which are strictly out-of-scope for the Hyli
 
 + **brïthana** (brih thah'' nah) _adjective._ 1. British
 + **brïthane** (brih thah'' nay) _noun._ 1. Britain, the United Kingdom of Great Britain and Northern Ireland
-
 ## Ë
 
 + **ëñlana** (ehng lah' nah) _adjective._ 1. Englishl of, related to, or made by the English people
 + **ëñlane** (ehng lah' nay) _noun._ 1. England 2. English person 3. the English language
 + **ëñlañve** (ehng lahng' vay) _noun._ 1. English (language) 1. may refer to any English language, such as British (_~brithana_), Canadian (_~kánada_), American (_~amërika_), or Australian (_~ostralya_)
-
 ## K
 
 + **kánada** (k@ nah'' dah) _adjective._ 1. Canadian
 + **kánade** (k@ nah'' day) _noun._ 1. Canada
-
 ## O
 + **ostralya** (oh strahl'' yah) _adjective._ 1. Australian
 + **ostralye** (oh strahl'' yay) _noun._ 1. Australia
