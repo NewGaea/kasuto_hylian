@@ -454,7 +454,7 @@ Venus, Queen of Faeries explains:
 
 > There are already words for sword, father AND conquer (they're kishoke, piántile and ushikag, respectively). Besides, you don't want the words to be too close to any real language (living or dead).
 >
-> > _Kharn's Aside: This is not necessarily true -- cognates, and false cognates, are a real phenomenon, so having some words close to prior languages is not a huge problem._
+> > _Austin's Aside: This is not necessarily true -- cognates, and false cognates, are a real phenomenon, so having some words close to prior languages is not a huge problem._
 
 -----
 

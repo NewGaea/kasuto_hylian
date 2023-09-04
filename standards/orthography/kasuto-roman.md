@@ -3,7 +3,7 @@ tag: standards documentation romanization orthography
 ---
 # Kasutan Romanization
 ---
-This is the form of Hylian romanization first established by Kasuto for use with his documentation. It uses diacritics to indicate stress and vowel variations, and digraphs to indicate diphthongs and consonant variations. Unlike [[kasuto-font|Kasutan Font-Mapped Orthography]], the romanization is not case-sensitive -- you may use capital or lowercase version of letters, and should capitalize this orthography similarly to English.
+This is the form of Hylian romanization first established by Kasuto for use with his documentation. It uses diacritics to indicate stress and vowel variations, and digraphs to indicate diphthongs and consonant variations. Unlike [[kasuto-font|Kasutan Font-Mapped Orthography]], the romanization is not (generally) case-sensitive -- you may use capital or lowercase version of letters, and should capitalize this orthography similarly to English.
 
 For simplicity, this list only shows the lowercase variations of letters and their input codes. These input codes are provided for Windows US input, Windows' US International keyboard, and Mac and iOS devices using a traditional keyboard. If you would like to add entries for other Keyboard layouts, please ensure they match the character indicated.
 

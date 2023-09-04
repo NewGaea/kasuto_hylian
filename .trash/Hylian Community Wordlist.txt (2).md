@@ -1,11 +1,3 @@
-# Hylian Community Wordlist (Original)
-
-This document serves as a plaintext archive of the Vinculum thread "Suggest New Words!" started by **[[venus|Venus, Queen of Faeries]].** The text was archived in 2016, and may not include later updates, however it is worth noting that the Forums themselves have been down for at least 2 years as of July 2023. Based on a comment in [[lexicon_community]], it appears that the thread was at least 7 years old when Austin collected the posts, meaning that some (or all) of these words were discussed by 2009.
-
-For a version of this thread with Markdown and commentary from [[austin-springer|Austin]], look into [[Hylian Community Wordlist]] or head over to [[archival/vinculum/index|The Vinculum Archive]] which focuses specifically on archiving Vinculum posts.
-
----
-
 Venus, Queen of Faeries writes:
 
 I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
@@ -1849,7 +1841,7 @@ Pata Hikari brought up the idea for different words for different swords. I thou
 
 garne - dagger
 
-\^\_\^
+^_^
 
 Oooh. And I have a suggestion with regards to the language itself. How about making the diphthongs one letter? Like, the way the font is set up now, a letter like a•i takes up as much space as writing ai. To see what I mean, take a look at what I sketched up (size 14 font):
 
@@ -2394,7 +2386,7 @@ As far as your suggestion on "Skolire" goes, OKBYME.
 
 As for my usual suggestion in a post.
 
-\# 507
+#507
 Dorobe - Thief
 Date-ote-rote-ote-bete-ete
 Derived from the Japanese "Dorobo" meaning thief
@@ -2446,9 +2438,11 @@ Lete-ute-sate-tote-rote-ete
 From Luster as in "Black Luster Soldier-Envoy of the Beginning" or its Japanese name "Chaos Soldier-Messenger of Destruction"
 (Avid Yugioh collecter/theorist/player. Damn proud of it! I revel in my rentsiness! 8) )
 
+>
+
 FINALLY! I came up with another new word. I'm considering doing words with Vinny members' names a roots. I have only one so far.
 
-\# 513
+# 513
 Onigara
 Ote-note-ite-gante-akte-rote-akte
 Adj. Drunk/Intoxicated
@@ -2457,7 +2451,7 @@ Derived from "Oni Garo." Got the idea from his avatar.
 Venus, I'll let you think up a meaning for "Vekwof e/ag/a/etc." since you know yourself better than I do.  :-)
 
 Thought of another Vinny member word.
-\# 514
+#514
 Utmastag
 Ute-tote-mate-akte-sate-tote-ete
 To revive
@@ -2475,8 +2469,11 @@ kanshise (kahn-SHEE-say): noun. Guardian.
 
 I choose "lively" as the meaning for vekwofa. No matter what mood I'm really in, I can always act happy and spirited and cheerful on the outside. Pansale dëme pante! W00T!
 
+>
 
 It's unsurprising that I've kept a list of all the words we've got so far, so if anyone's worried (all, like, one of me), nothing here, at least, was lost, except for the posts.
+
+>
 
 So, yes. I'm back, but only for a moment, to post a new word that someone actually e-mailed to me.
 

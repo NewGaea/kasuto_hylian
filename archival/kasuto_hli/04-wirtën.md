@@ -227,11 +227,17 @@ There are a few special words in Hylian called verbal adjuncts. They are words t
 \ft You must read this book.
 ```
 
-### Conditional Ability Adjunct - Jhunte 
+### Conditional Ability Adjunct - Jhunte _Panktashiza_
 
-| Hylian | Romanized | Summary |
-|:-:|:-:|:-|
-| <span class="hylian_kas">Su</span> | shu | This is used to say that something could be done, but there is some doubt or uncertainty about it. This is different from the verb panktag which denotes definite ability. I can speak Hylian ~ _Bagu jhatas ab hilana._ This sentence denotes a sense of certainty and definiteness. I could speak hylian if I learned it ~ _Bagu shu jhatas ab hilana at (bagu) lintes ab ru._ This sentence describes the ability to speak Hylian, but there is a doubt or condition surrounding it. This adjunct is used with the present and present perfect tense, but the verb in the following if clause is often in the past or past perfect tense. |
+> [!NOTE] New Coinage
+> **NOTE:** The word _panktashiza_ ### Conditional Ability Adjunct - Jhunte _Panktashiza_
+
+> [!NOTE] New Coinage
+> **NOTE:** The word _panktashiza_ is a coinage by [[jerin-of-calatia|Jerin]] to fill in a missing word in this document. It is composed from _panktag_ (to be able) and _tashiza_ (conditional), intended to mean "to be able conditionally." It is not recorded in the archives except to fill this particular gap.
+>>>>>>>+HEAD
+ could b### Conditional Ability Adjunct - Jhunte 
+>>>>>>>-ff9548ddfe9f550
+ifferent from the verb panktag which denotes definite ability. I can speak Hylian ~ _Bagu jhatas ab hilana._ This sentence denotes a sense of certainty and definiteness. I could speak hylian if I learned it ~ _Bagu shu jhatas ab hilana at (bagu) lintes ab ru._ This sentence describes the ability to speak Hylian, but there is a doubt or condition surrounding it. This adjunct is used with the present and present perfect tense, but the verb in the following if clause is often in the past or past perfect tense. |
 
 ```gloss
 \gla bagu Su Jatas ab hilane at lintes ab ru. 

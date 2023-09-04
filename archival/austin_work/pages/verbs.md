@@ -233,7 +233,7 @@ Below are the verbal adjuncts and their uses:
   - Sa (sha)
   - This gives the verb an _imperative_ meaning, but it much more forceful than the above adjunct. It tells what a person must do, and is one step down from giving a direct command. It gives a feeling of necessity and duty to the sentence, as in `You must go home.`
   - `t@u Sa lErdas ab za lErde (Taiu sha lërdas ab za lërde) > You must read this book.`
-- Conditional Ability Adjunct - Jhunte
+- Conditional Ability Adjunct - Jhunte _Panktashiza_
   - Su (shu)
   - This is used to say that something _could be done_, but there is some doubt or uncertainty about it. This is different from the verb _panktag_ which denotes definite ability. `Bagu jhatas ab hilana > I can speak Hylian` denotes a sense of certainty and definiteness. `Bagu shu jhatas ab hilana at (bagu) lintes ab ru > I could speak hylian if I learned it` describes the ability to speak Hylian, but with some form of doubt or condition surrounding it. This adjunct is used with the present and present perfect tense, but the verb in the following _if_ clause is often in the past or past perfect tense.
   - `bagu Su Jatas ab hilane at lintes ab ru (Bagu shu jhatas ab hilane at lintes ab ru) > I could speak Hylian if I learned it.`
