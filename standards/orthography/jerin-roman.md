@@ -58,7 +58,7 @@ It is idea that every letter than can be represented as a single letter in roman
 ## Two Letter Romanizations
 Despite our best efforts, we can't represent all of the Hylian letters as single, easily-typed, characters. A few of them simply require two letters. As all of the letters used are also in the table above, their pronunciation will change if paired into one of these combinations.
 
-Also, take note: the HLS discourages the use of the _diphthong connector_ seen in previous romanization schemes, but does not (at this time) have single-character transcriptions for the diphthongs.
+Also, take note: the HLS discourages the use of the _diphthong connector interpunct_ seen in previous romanization schemes, but does not (at this time) have single-character transcriptions for the diphthongs. Diphthongs with _asënta_ forms may have only the first _or_ both letters maerkes as _asënta_.
 
 | Hylian Letter | Keystrokes | Romanized Form |
 |:-:|:-:|:-:|
@@ -87,7 +87,7 @@ The following mapping is used for numbers and symbols, though this remains uncha
 | <span class="hylian_kas">3</span><br>troe | 3 | 3 |
 | <span class="hylian_kas">4</span><br>kose | 4 | 4 |
 | <span class="hylian_kas">5</span><br>pante | 5 | 5 |
-| <span class="hylian_kas">6</span><br>hënte (numeral) | 6 | 6 |
+| <span class="hylian_kas">6</span><br>hënte | 6 | 6 |
 | <span class="hylian_kas">7</span><br>site | 7 | 7 |
 | <span class="hylian_kas">8</span><br>onte | 8 | 8 |
 | <span class="hylian_kas">9</span><br>nive | 9 | 9 |

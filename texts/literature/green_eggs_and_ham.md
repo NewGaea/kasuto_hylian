@@ -198,7 +198,16 @@ Sam-I-am!
 
 ## Translation Status
 
-Not Translated
+Bagu tairas ab Sam.
+
+Sam-ab-bagu tairas.
+
+Zata Sam-ab-Bagu!
+Zata Sam-ab-Bagu!
+Bagu naz goearas
+ab Sam-ab-Bagu!
+
+***This translation is incomplete***
 
 ## Commentary
 

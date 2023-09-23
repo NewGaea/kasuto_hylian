@@ -1,14 +1,6 @@
 # Hylian Dictionary - Community
 
 This file collects the official dictionary and wordlist used on Kasuto.net's Hylian Language Institute as well as all community contributions into a single list. This list can be separated into whatever format is necessary later on.
-
-> [!NOTE] Austin?
-> Austin was not working in simple Markdown when producing this file. They say they were using a program called CodeBrowser with a feature called "elastic tabstops."
-> 
-> This file **must** be compared against [[hcw-temp-holding]], and ~~[[Hylian Community Dictionary.txt]]~~ but should also be the final **preserved document** for the archive (even if the final filename changes from the current [[lexicon_community]].
->
->As a record of as many of the community-proposed words (from The Vinculum forums) as possible, this wordlist will not judge the quality of the words, and accepts every word that was proposed in the _Suggest New Words_ thread or other archived threads from The Vinculum.
-
 # Format Rules
 
 Although this file uses Markdown formatting, it is at heart a CSV table using tabstops to separate fields. This table is sorted on romanized alphabetical order. The Hylian Font column will use case-sensitive spellings for the romanized digraphs ch, dh, jh, kh, ng, sh, and th (C, D, J, K, N, S, and T), however it will be case-insensitive for vowel forms.
@@ -630,7 +622,7 @@ Where references to other words are made, the word should be given _emphasis for
 + **voblafa** (voblafa) _adjective_ 1. unlikely, improbable ([[venus|Venus]])
 + **vokag** (vokag) _verb_ 1. to call, to summon 1. from Epseranto _voki_ (to call) ([[qbri|QBri]])
 + **vomevine** _noun_ 1. novice, beginner (proficiency) 1. from proposed _vo-_ (un-, not-) and _mevine_ (master, expert) ([[venus|Venus]], [[auric_trinity|Auric Trinity]])
-+ **votoere** (votoere) _noun_ 2. Sacred Realm, Golden Land, Heaven's Month 2. Ninth and final month of the Hylian year, represents the sacred world in which the Triforce rests. ([[venus|Venus]], [[arrow|Arrow]]?)
++ **votoëre** (votoere) _noun_ 2. Sacred Realm, Golden Land, Heaven's Month 2. Ninth and final month of the Hylian year, represents the sacred world in which the Triforce rests. ([[venus|Venus]], [[arrow|Arrow]]?)
 + **voalag** (voalag) _verb_ 1. to want, to wish ([[qbri|QBri]]?)
 
 ### W
