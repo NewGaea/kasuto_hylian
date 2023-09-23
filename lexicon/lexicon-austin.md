@@ -50,10 +50,18 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 
 ## M
 
++ <span class="hylian">malöa</span> **malöa** () _adjective._ 1. compassionate, concerned, caring 2. connecting, holding a group together 1. ([[austin-springer|Austin Springer]])
++ <span class="hylian">malöag</span> **malöag** () _verb._ 1. to tend to, to care for 2. to bring people together 1. ([[austin-springer|Austin Springer]])
++ <span class="hylian">malöe</span> **malöe** () _noun._ 1. compassion, concern, empathy 2. the heart of a group 1. ([[austin-springer|Austin Springer]])
 + <span class="hylian">mëu</span> **mëu** ('mɛ.u) _pronoun._ 1. sort of, kind of, more or less, mostly correct, close enough 1. a simple and short form of _mokok_ used as an answer without further elaboration; originally proposed as _mëu_ (me) by **QBri** while trying to develop the accusative case pronouns, adapted by Austin after noting that there was a lack of "yes" and "no" language 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
 + <span class="hylian">milute</span> **milute** _noun._ 1. red meat 1. from _mia_ (red) and _lute_ (meat) 1. ([[austin-springer|Austin Springer]])
 + <span class="hylian">mokstëke</span> **mokstëke** (moks.'tɛ.ke) _noun._ 1. octopus, squid 1. from _moka_ and _brinstoke_, meaning "many arms" 1. ([[austin-springer|Austin]])
 + <span class="hylian">mokok</span> **mokok** ('mok.ok) _adverb._ 2. sort of, kind of, more or less, mostly correct, close enough 2. while this response can stand on its own, it is considered more emphatic than _mëu_ and is usually accompanied by further clarification 2. ([[kasuto|Kasuto]], [[austin-springer|Austin Springer]])
+
+## N
+
+- <span class="hylian">naistronkve</span> **naistronkve** () _noun._ 1. dew 1. from _naistre_ "night" and _onkve_ "water" 1. ([[austin-springer|Austin Springer]], via [[kasuto|Kasuto]])
+
 
 ## Ö
 
