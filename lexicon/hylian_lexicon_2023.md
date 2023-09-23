@@ -1,6 +1,8 @@
 # The Hylian Linguistic Society's Compiled Lexicon
 
-This lexicon is a list of words only, compiled in English alphabetical order. There is a **dictionary** available for more detailed definitions of words, and the old lexicon files are still in place under the archival directory.
+This lexicon is a list of words only, compiled in English alphabetical order. There is a **dictionary** available for more detailed definitions of words, and the old lexicon files are still in place for now.
+
+For details about how entries are listed in this new format, please check [[lexicon-guidelines|our Lexicon Guidelines]] page.
 
 As of this update (beginning in July 2023), all words from [Kasuto's HLI](http://kasuto.net/language.php?main=language/language.html), our archived Vinculum threads, [[Hylian Community Wordlist]] and [[Ont Hilana (Interlinear of Thread).md|Ont Hilana]], and our own creations are afforded first-class status as documented Hylian words under the Hylian Language Society.
 
