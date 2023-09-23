@@ -3,7 +3,7 @@ tag: standards documentation font-map orthography
 ---
 # Springerian Font-Mapped Hylian
 ---
-This form of Hylian was established by [[austin_springer|Austin Springer]] in developing the Hylian 3.0 font. It is largely backwards compatible with **[[kasuto-font|Kasutan Font Mapping]],** but adds the six characters which Kasuto added through a Vinculum forum post, and ensures that the transliterated characters map, as often as possible, to the character they represent.
+This form of Hylian was established by [[austin-springer|Austin Springer]] in developing the Hylian 3.0 font. It is largely backwards compatible with **[[kasuto-font|Kasutan Font Mapping]],** but adds the six characters which Kasuto added through a Vinculum forum post, and ensures that the transliterated characters map, as often as possible, to the character they represent.
 
 If you are using this mapping, it may be good to familiarize yourself with [[springer-roman|Springerian Romanization]] as well.
 

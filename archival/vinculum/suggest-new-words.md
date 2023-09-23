@@ -2,7 +2,7 @@
 ---
 The following is a truncated archive of a thread (helpfully called _"Suggest New Words!"_) in which community members of the Vinculum suggested and discussed words to fill in gaps left by Kasuto's documentation. The biggest contributor was **Venus, Queen of Faeries** and her presumed partner, **K-Chan.** **K-Chan** did not have an account of her own (or at least didn't use it to post here), and all of her contributions are listed within posts from **Venus.** Several other people also came up with quite a few words, rivalling **Venus and K-Chan** over the course of the thread.
 
-There are various interjections by the previous maintainer of this archival documentation, **Austin Springer,** reflecting their thoughts as they produced and archived this data between 2017 and 2021, before they passed the torch to **Jerin of Calatia** in 2023. **Jerin** may add her own thoughts throughout this archive. We have done our best to remove most such interjections into alternate posts focused on the topic being considered.
+There are various interjections by the previous maintainer of this archival documentation, **Austin Springer,** reflecting their thoughts as they produced and archived this data between 2017 and 2021, before they started sharing the load with **Jerin of Calatia** in 2023. **Jerin** may add her own thoughts throughout this archive. We have done our best to remove most such interjections into alternate posts focused on the topic being considered.
 
 According to the Wayback Machine, **_Suggest New Words_** was started on 2003-Aug-03, had 221 replies, 29,700 views (as of 2016-Sep-20), and its final reply was posted by **[[venus|Venus, Queen of Faeries]]** on 2009-Jun-04 -- just two months shy of it's seventh cakeday.
 

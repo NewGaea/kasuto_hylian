@@ -1,12 +1,24 @@
 ---
-tag: kasuto, austin-springer, hylian-language-institute, documentation, archive, nouns
-orthography: kasuto, roman
-language: english, kasuto-hylian
-author: kasuto-of-kataan, austin-springer
+tags:
+  - kasuto
+  - austin-springer
+  - hylian-language-institute
+  - documentation
+  - archive
+  - nouns
+orthography:
+  - "[[kasuto-roman]]"
+  - "[[springer-roman]]"
+language:
+  - English
+  - Modern Hylian
+author:
+  - "[[kasuto|Kasuto]]"
+  - "[[austin-springer|Austin Springer]]"
 ---
 **[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Verbs](archival/kasuto_hli/04-wirtën)**
 
-# <span class="hylian_kas">sonën hilanan</span><br>Hylian Nouns
+# <span class="hylian">sonën hilanan</span><br>Hylian Nouns
 
 ## Table of Contents
 

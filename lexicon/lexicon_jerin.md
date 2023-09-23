@@ -2,6 +2,10 @@
 
 This document contains words coined by **[Jerin of Calatia](contributors/jerin_of_calatia)** in the process of adapting this language project to a more modern format. This includes a variety of words, marked with a **\~** at the front, which may not be relevant to Hylian within lore, but may be useful in discussions of (and in) the Hylian language about the real world.
 
+## A
+
++ **awirte** (awirte) _noun_ 1. pro-verb 1. a verb which stands in for another verb or verbal phrase, based on _asone_ (pronoun), there are only a few pro-verbs
+
 ## C
 
 + **cucua** (tsoo tsoo' ah) _adjective._ 1. hot, warm; especially environmental or weather-related
@@ -29,6 +33,14 @@ This document contains words coined by **[Jerin of Calatia](contributors/jerin_o
 ## L
 
 + **lañve** (lahng' vay) _noun_ 2. _suffix_ language, language of 2. added sense and use, may be added to a word to name a language
+
+## P
++ **panktashiza** _adjective._ 1. able conditionally 1. composed from _panktag_ (to be able) + _tashiza_ (conditional), coined by Jerin on 2023-Jul-22 (_Jerin_)
++ **panktashizag** _verb._ 1. to be able with a condition 1. composed from _panktag_ (to be able) + _tashiza_ (conditional), coined by Jerin on 2023-Jul-22 (_Jerin_)
++ **panktashize** noun. 1. conditional ability, ability dependent on another factor 1. composed from _panktag_ (to be able) + _tashiza_ (conditional), coined by Jerin on 2023-Jul-22 (_Jerin_)
+
+## T
++ **taktwirte** (taktwirte) _noun._ 1. adverb 1. coined from _takte_ + _wirte_, literally "adjective-verb" (_Jerin_)
 
 ## W
 

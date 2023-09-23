@@ -5,9 +5,9 @@ _Austin's Aside: The following names are sorted alphabetically by name and chron
   - Armos - **armose**
   - Blade Trap
   - Boulder
-  - Bubble - b`ub"ele
+  - Bubble - bùbële
   - Darknut - **darknaute**
-  - Digdogger (Boss) - **d"igdoge**
+  - Digdogger (Boss) - **dïgdoge**
   - Dodongo (Boss) - **dodonge**
   - Gel - **gele**
   - Ghini - **ginie**
