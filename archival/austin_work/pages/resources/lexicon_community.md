@@ -11,8 +11,8 @@ Formatting to be used is thus:
 3. Category shall be in _emphasis format_
 4. Glosses shall be 1. enumerated in groups
 5. Usage Notes shall be 1. enumerated to match their respective gloss
-	1. Blank notes such as `1. 2. Commentary` imply that the notes apply to all blank senses leading up to the comment.
-	2. Blank notes should be formatted as `1. - 2. Comment` to indicate an actual blank note
+	1. Blank notes such as `1, 2. Commentary` imply that the notes apply to all blank senses leading up to the commentary.
+	2. Blank notes should be formatted as `1. - 2. Commentary` to indicate an actual blank note
 6. Sample texts and translations will be in individual `preformatted text blocks`
 7. Contributors of content shall be credited as ([[contributors|Contributor Links in Parentheses]]) after all other fields. (Emphasis format is permissible for non-linked names)
 
