@@ -15,7 +15,6 @@ Formatting to be used is thus:
 	2. Blank notes should be formatted as `1. - 2. Commentary` to indicate an actual blank note
 6. Sample texts and translations will be in individual `preformatted text blocks`
 7. Contributors of content shall be credited as ([[contributors|Contributor Links in Parentheses]]) after all other fields. (Emphasis format is permissible for non-linked names)
-
 Where references to other words are made, the word should be given _emphasis formatting_ to show that it refers to the word as a word, not as a reference to what it means.
 
 # Dictionary

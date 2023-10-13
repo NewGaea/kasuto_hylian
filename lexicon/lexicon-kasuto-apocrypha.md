@@ -1,0 +1,3 @@
+This list contains undocumented words coined by [[kasuto|Kasuto of Kataan]] in his fan fiction saga following the life of Child Link after the events of *Ocarina of Time,* seemingly in a timeline in which Link did not promptly venture forth to Termina \[citation needed]. This includes a variety of words, marked with a **~** at the front, which may not match the canonical forms.
+
+This file uses IPA phonetic notation, but uses a comma <,> for secondary stress, <'> for primary stress, and fullstop or period <.> for syllable separation. All of the modern lexicon files will be updated to use this standard as we migrate the archival lexicons.

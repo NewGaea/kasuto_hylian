@@ -55,7 +55,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + <span class="hylian_kas">albag</span> **albag** \['al.bag\] _verb._ 1. to bless, to hallow. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + <span class="hylian_kas">albe</span> **albe** \['al.be\] _noun._ 1. blessing, holiness. 2. purification ritual. 3. Holiness Month, July 3. Seventh month of the Hylian calendar, represents the blessings of the Goddesses 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\] 3. ([[venus|Venus]] and [[contributors/arrow|Arrow]], via [[kasuto|Kasuto]])
 + <span class="hylian_kas">albende</span> **albende** \[al.'ben.de\] _noun._ 1. home. 1. presumed from _albode_. 1. \[_cb._ [[tushen|Tushen]]\]
-+ <span class="hylian_kas">albode</span> **albode** \[al.'bo.de\] _noun._ 1. house. 1. presumed from Englihs _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
++ <span class="hylian_kas">albode</span> **albode** \[al.'bo.de\] _noun._ 1. house. 1. presumed from English _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
 + <span class="hylian_kas">alJag</span> **alzhag** \['al.ʒag\] _verb._ 1. to tell, to report. 1. curiously sounds a bit like English "I'll say." 1. \[_cb._ [[venus|Venus]]\]
 + <span class="hylian_kas">alu</span> **alu** \['a.lu\] _pronoun._ 1. there. 1. independent pronoun. 1. \[_cb._ [[qbri|QBri]]\]
 + <span class="hylian">amite</span> **amite** \[a.'mi.te\] _noun._ 1. uncle, aunt. 1. refers to any sibling of one's parents; from Latin _amita_ "aunt" 1. \[_cb._ [[venus|Venus]]\]
@@ -101,7 +101,9 @@ This lexicon uses IPA to show the pronunciation of words.
 + <span class="hylian_kas">ati</span> **ati** \['a.ti\] _interjection, expression, rude._ 1. darn. 1. a non-vulgar expletive. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + <span class="hylian_kas">az</span> **az** \[az\] _particle compound._ 1. direct object plus definite article. 1. may be used anywhere the words _ab az_ would normally be found; cf. _ab, abaz, taz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
 
-+ <span class="hylian">ane</span> **ane** \['a.ne\] _part of speech._ 1. water (elemental, magical), . 1. other notes. 1. \[_cb._ [[contributors]]\]
++ <span class="hylian">ane</span> **ane** \['a.ne\] _part of speech._ 1. water (elemental, magical). 2. northeast 1. \[_cb._ [[pata-hikari|Pata Hikari]]\] 2. \[_cb._ [[venus|Venus]]]
++ <span class="hylian">animade</span> **animade** \[,a.ni.'ma.de] _noun._ 1. pain, suffering, angst. 2. oblivion 1. from Latin _anima_ (spirit, soul) via the Aeon *Anima* in the game _Final Fantasy X_ 2. from one of the moves used by the Aeon _Anima_ 1. \[_cb._ [[auric_trinity|Auric Trinity]]]
++ <span class="hylian">anlika</span> **anlika** \[**wi:r'** te\] _part of speech._ 1. definition. 1. other notes. 1. \[_cb._ [[contributors]]\]
 
 
 + **ane** _noun_ 1. water (elemental) 2. northeast 1. ([[pata-hikari|Pata Hikari]]) 2. ([[venus|Venus]])
@@ -489,7 +491,7 @@ This lexicon uses IPA to show the pronunciation of words.
 
 ## S
 
-+ **sajanáí** (sah djah neye') _expression._ 1. goodbye, farewell; inspired by the Japanese terms さようなら and じゃね as wys to say goodbye
++ **sajanáí** (sah djah neye') _expression._ 1. goodbye, farewell; inspired by the Japanese terms さようなら and じゃね as ways to say goodbye
 + **salan** (sah' lahn) _adjective._ 1. hundred, one hundred
 + **salashan** (sah lah' shahn) _adjective._ 1. hundredth
 + **salashe** (sah lah' shay) _noun._ 1. the one hundreth

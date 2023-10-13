@@ -78,6 +78,7 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 
 + <span class="hylian">tëu</span> **tëu** ('tɛ.u) _pronoun._ 1. yes, absolutely (so), correct a simple and short form of _tokok_ used as an answer without further elaboration; originally proposed as _tëu_ (you \[sg.]) by **QBri** while trying to develop the accusative case pronouns, adapted by Austin after noting that there was a lack of "yes" and "no" language 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
 + <span class="hylian">tokok</span> **tokok** ('tok.ok) _adverb._ 1. absolutely, completely, fully 2. yes, absolutely (so), correct 1. adverbial sense of _toka_ 2. while this response can stand on its own, it is considered more emphatic than _bëu_ and is usually accompanied by further clarification 1, 2. ([[kasuto|Kasuto]], [[austin-springer|Austin Springer]])
++ <span class="hylian">tornag</span> **tornag** ('tor.nag): _verb._ 1. to run, to flee, to escape. (_cb. [[austin-springer|Austin Springer]]_)
 
 ## U
 
@@ -99,3 +100,12 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 + <span class="hylian">zëlda</span> **zëlda** ('zɛl.da) _adjective._ 1. caught up in an inescapable destiny; destined, fated, ordained, star-crossed 1. derived from the eternal pattern of Hylian princesses by this name 1. (_[[nintendo|Nintendo]]_, [[austin-springer|Austin Springer]])
 + <span class="hylian">zëldag</span> **zëldag** ('zɛl.dag) _verb._ 1. to manipulate the course of destiny (especially for others) 1. see _zëlda_ 1.  (_[[nintendo|Nintendo]]_, [[austin-springer|Austin Springer]])
 + <span class="hylian">zëlde</span> **zëlde** ('zɛl.de) _noun._ 1. an inescapable destiny, a divine or cosmic plan or pattern 1. see _zëlda_ 1.  (_[[nintendo|Nintendo]]_, [[austin-springer|Austin Springer]])
+
+## Unsorted
+
+- **agithe** _noun._ 1. butterfly, moth
+- **varbe** _noun._ 1. bee, hornet, wasp, flying ant 1. may refer to any flying insects with stingers
+- **bibidoe** _noun._ 1. beetle 
+- **dachue** _noun._ 1. leech, slug, snail
+- **chule** _noun._ 1. spider
+- **zhishag** _verb._ 1. to blow, to breathe

@@ -6,26 +6,61 @@ In late 2006, Gary Shannon posted a list of over 800 example sentences from the 
 
 Section I contains 285 sentences, of increasing complexity.
 
-1. Birds sing.
-2. Children play.
-3. Dogs bark.
-4. Bees hum.
-5. Baby laughed.
-6. The sun shines.
-7. The wind blows.
-8. The car started.
-9. School began again.
-10. The child ran quickly.
-11. Yellow daffodils nodded gaily.
-12. Little Marigold cried bitterly.
-13. All the people shouted.
-14. I recited twice.
-15. The weary traveler slept soundly.
-16. The little brook flows swiftly.
-17. Softly the great white snowflakes fell.
-18. The kind old man laughed pleasantly.
-19. The happy days passed quickly.
-20. Up jumped the smallest boy.
+### 1. Birds sing.
+
+```gloss
+\ex Fugolën kantas.
+```
+
+### 2. Children play.
+
+```gloss
+\ex Hiosën luberas.
+```
+
+### 3. Dogs bark.
+
+```gloss
+\ex Kaianën wanwanas.
+```
+
+### 4. Bees hum.
+
+```gloss
+\ex Varbën bazbazas.
+```
+
+### 5. Baby laughed.
+
+```gloss
+\ex Miaashi glihes.
+```
+
+### 6. The sun shines.
+
+```gloss
+\ex Taz shëmse rokèlzisas.
+```
+
+### 7. The wind blows.
+
+```gloss
+\ex Taz fethe zhishas.
+```
+
+### 8. The car started.
+### 9. School began again.
+### 10. The child ran quickly.
+### 11. Yellow daffodils nodded gaily.
+### 12. Little Marigold cried bitterly.
+### 13. All the people shouted.
+### 14. I recited twice.
+### 15. The weary traveler slept soundly.
+### 16. The little brook flows swiftly.
+### 17. Softly the great white snowflakes fell.
+### 18. The kind old man laughed pleasantly.
+### 19. The happy days passed quickly.
+### 20. Up jumped the smallest boy.
 21. My little white kitten purrs softly.
 22. Slowly the great door opened.
 23. All the boys ran away.
