@@ -1,1 +1,1 @@
-+ <span class="hylian_kas">wirte</span> **wirte** (**wi:r'** te): _part of speech._ definition. (_cb. [[contributors]]_)
++ <span class="hylian">wirte</span> **wirte** (**wi:r'** te): _part of speech._ definition. (_cb. [[contributors]]_)
