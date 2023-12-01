@@ -197,7 +197,7 @@ _**NOTE:** The words under this heading have no definition at this point in time
     * **\*igënte** (i ge' se) _n._ one which is sealed or imprisoned
       * **\*taz igëntefose** (i ge" se fo' se) _prop n._ The Imprisoned, a mythical and legendary demon king from the earliest legends of Hyrule's founding.
   * **\*ige** (i' ge) _n._ 1. seal, lock
-* **\*igamobondezisag** (i ga" mo bon" do zi' sag) _v._ to burn something of importance; literally "to burn sealed lore" ("emekthian": suggested as _igámobondozisag_ \[to light something important on fire\]; "Venus, Queen of Faeries": incorporated _zisag_ into _rokêlzisag_ \[to light, to start or activate a light source\]; "Austin Springer": this leaves _igámobonde_ to be derived)
+* **\*igamobondozisag** (i ga" mo bon" do zi' sag) _v._ to burn something of importance; literally "to burn sealed lore" ("emekthian": suggested as _igámobondozisag_ \[to light something important on fire\]; "Venus, Queen of Faeries": incorporated _zisag_ into _rokêlzisag_ \[to light, to start or activate a light source\]; "Austin Springer": this leaves _igámobonde_ to be derived)
 * **\*ilidane** (i" li da' ne) _n._ storm, harsh weather"("Slacker": proposed _illidan_ as \[storm\]; "Venus, Queen of Faeries": smoothed it into _ilidane_)
 * **\*ipan** ("Venus, Queen of Faeries": from Hittite _sipant_ \[spouse\]; "Austin Springer": modified for simpler inflection)
   * **\*ipana** (i pa' a) _adj._ spousal, married, by marriage
