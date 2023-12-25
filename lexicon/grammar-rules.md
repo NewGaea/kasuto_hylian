@@ -60,7 +60,7 @@ These suffixes may be used in property or social situations, however social situ
 
 There are also three levels of genitive used in social contexts which are not used in property contexts:
 
-- **-aSi** (-shi) indicates the social superior genitive. It is used primarily as a post-suffix in terms of endearment used between older family members to younger, but sometimes also between a master and apprentice.
+- **-aSi** (-ashi) indicates the social superior genitive. It is used primarily as a post-suffix in terms of endearment used between older family members to younger, but sometimes also between a master and apprentice.
 - **-aSoi** (-shoi) indicate the social neutral genitive. It is used primarily between peers and generational cohorts within a family or organization, but also among coworkers regardless of age or status, as a general sign of respect.
 - **-oi** (-oi) indicates the social inferior genitive. It is used primarily by younger persons towards older, but is also used as a general sign of respect when dealing with unfamiliar people. This may be modified to **-loi** or **-noi** to indicate the gender of the person being addressed.
 
