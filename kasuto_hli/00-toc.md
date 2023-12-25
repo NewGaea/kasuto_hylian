@@ -22,14 +22,14 @@ I've seen a couple web sites out there that have so-called "Hylian dictionaries"
 7. **[[07-taktën|Hylian Adjectives]]**<br>These are the rules for using Hylian Adjectives.
 8. **[[08-nïmshën|Hylian Numerals]]**<br>The symbols used to indicate Hylian numbers and mathematical notation. Also explains how numbers are used.
 9. **[[09-arkthën|Common Expressions]]**<br>These are some common expressions and phrases you might hear in your travels to Hyrule. It includes greetings, salutations, forms of address, and slang. Please note that this section includes Hylian expletives, or swear words. If you are offended by swear words, skip the Expletives section in this page.
-10. **[The Hylian Dictionary](archival/kasuto_hli/10.0-daksunare)**<br>Looking for a particular word? This is the largest Hylian dictionary on the net, and the only one based on real grammar rules. Has both a Hylian to English and an English to Hylian version.
+10. **[The Hylian Dictionary](10.0-daksunare.md)**<br>Looking for a particular word? This is the largest Hylian dictionary on the net, and the only one based on real grammar rules. Has both a Hylian to English and an English to Hylian version.
 	1. **[[10.1-daksunare-a-d|Dictionary: A - D]]**
 	2. **[[10.2-daksunare-e-ï|Dictionary: E - Ï]]**
 	3. **[[10.3-daksunare-j-m|Dictionary: J - M]]**
 	4. **[[10.4-daksunare-n-s|Dictionary: N - S]]**
 	5. **[[10.5-daksunare-sh-ü|Dictionary: Sh - Ü]]**
 	6. **[[10.6-daksunare-v-z|Dictionary: W - Z]]**
-11. **[Hylian Literature](archival/kasuto_hli/11-lërdishe)**<br>See examples of Hylian literature, such as prayers and poems.
+11. **[Hylian Literature](11-lërdishe.md)**<br>See examples of Hylian literature, such as prayers and poems.
 
 ## Completion Notes
 

@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Introduction to the Hylian Language](archival/kasuto_hli/02-bënkati)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Introduction to the Hylian Language](02-bënkati.md)**
 
 # <span class="hylian_kas">taz aktãe hilana</span><br>The Hylian Alphabet
 
@@ -103,4 +103,4 @@ Words with apostrophes retain the stress of the original word, the letters after
 |:-:|:-:|:-|
 | <span class="hylian_kas">kasuto'sa</span> | Kasuto'sa | ka **su'** to sa |
 
-**[Next Chapter: Hylian Verbs](archival/kasuto_hli/04-wirtën)**
+**[Next Chapter: Hylian Verbs](04-wirtën.md)**

@@ -69,4 +69,4 @@ For simplicity, this list only shows the lowercase variations of letters and the
 
 The _diphthong connectors_ are only used in romanization, and you can choose to use either one when using this romanization scheme. You can also use a _full-stop mark_ (often called a _period_) if you are typing in a hurry.
 
-This romanization is preserved for historical purposes, and is primarily used only within the [Kasuto HLI](archival/kasuto_hli/00-toc) and [Vinculum](archival/vinculum/index) Archives. Austin developed their own [preferred standard](standards/orthography/springer-roman), and the HLS is developing [its own standards](standards/orthography/jerin-roman) [as well](standards/orthography/jerin-ipa).
+This romanization is preserved for historical purposes, and is primarily used only within the [Kasuto HLI](00-toc.md) and [Vinculum](archival/vinculum/index) Archives. Austin developed their own [preferred standard](standards/orthography/springer-roman), and the HLS is developing [its own standards](standards/orthography/jerin-roman) [as well](standards/orthography/jerin-ipa).

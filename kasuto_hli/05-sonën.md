@@ -16,7 +16,7 @@ author:
   - "[[kasuto|Kasuto]]"
   - "[[austin-springer|Austin Springer]]"
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Verbs](archival/kasuto_hli/04-wirtën)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Hylian Verbs](04-wirtën.md)**
 
 # <span class="hylian">sonën hilanan</span><br>Hylian Nouns
 
@@ -60,4 +60,4 @@ Forming a gender-specific noun conforms to a regular pattern. It involves taking
 | _dege_ | deity | _dégile_ | god (masculine) |
 | _dege_ | deity | _dégine_ | goddess (feminine) |
 
-**[Next Chapter: Hylian Pronouns](archival/kasuto_hli/06-asonën)**
+**[Next Chapter: Hylian Pronouns](06-asonën.md)**

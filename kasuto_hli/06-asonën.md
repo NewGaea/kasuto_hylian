@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Nouns](archival/kasuto_hli/05-sonën)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Hylian Nouns](05-sonën.md)**
 
 # <span class="hylian_kas">asonën hilanan</span><br>Hylian Pronouns
 
@@ -91,4 +91,4 @@ _I am the person (whom, that) ..._
 > The last example here is incomplete as of the last update to the page (retrieved 2023-Jul-19) -- the relative clause is never actually provided! We've preserved this as an ellipsis.
 > -Jerin-
 
-**[Next Page: Hylian Adjectives](archival/kasuto_hli/07-taktën)**
+**[Next Page: Hylian Adjectives](07-taktën.md)**

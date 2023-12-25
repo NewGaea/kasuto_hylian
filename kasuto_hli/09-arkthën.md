@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Numerals](archival/kasuto_hli/08-nïmshën)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Hylian Numerals](08-nïmshën.md)**
 
 # <span class="hylian_kas">arkTEn jainan</span><br>Common Expressions
 

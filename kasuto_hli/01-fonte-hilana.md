@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)**
+**[Table of Contents](00-toc.md)**
 
 # Fonte Hilana
 
@@ -102,4 +102,4 @@ If you want to just play around with the letters, then go ahead. But if you want
 | <span class="hylian_kas">'</span> | ' (apostrophe) | ' |
 | <span class="hylian_kas">!</span> | ! | ! |
 
-**[Next Chapter: Introduction to the Hylian Language](archival/kasuto_hli/02-bënkati)**
+**[Next Chapter: Introduction to the Hylian Language](02-bënkati.md)**

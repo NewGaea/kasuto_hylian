@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: The Hylian Font](archival/kasuto_hli/01-fonte-hilana)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: The Hylian Font](01-fonte-hilana.md)**
 
 # <span class="hylian_kas">bënkati kaz niatore daia langve hilana</span><br>Welcome to the Hylian Language Institute
 
@@ -38,4 +38,4 @@ The alphabet was another prime concern. It took me a while to figure that out. I
 
 That's really all I have to say about this. If you want to really get into the language, then read the grammar sections. I'll tell you right now: this isn't going to be something that will be completed overnight. developing a real language is going to take me a while. But it'll get done eventually.
 
-[**Next Chapter: The Hylian Alphabet**](archival/kasuto_hli/03-aktaie)
+[**Next Chapter: The Hylian Alphabet**](03-aktaie.md)

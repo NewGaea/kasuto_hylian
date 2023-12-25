@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Adjectives](archival/kasuto_hli/07-taktën)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Hylian Adjectives](07-taktën.md)**
 
 # <span class="hylian_kas">nImSEn hilanan</span><br>Hylian Numerals
 
@@ -116,4 +116,4 @@ Note that Hylian places the equivalent of a period between the thousands column 
 | | _disale sidëme nive do male onsale pandëme hire_ | |
 | | two hundred seventy-nine thousand eight hundred fifty-one | |
 
-**[Next Chapter: Common Expressions](archival/kasuto_hli/09-arkthën)**
+**[Next Chapter: Common Expressions](09-arkthën.md)**

@@ -1,8 +1,8 @@
 Luckily for us, despite a lack of updates in years, **[kasuto.net](http://kasuto.net)** is still a live website. We can still ensure that all of our data is the latest once initial processing is finished. We should start by recovering the missing **Pronouns** and **Literature** data!
 
 + [x]  **Priority 1**
-	+ [x] [Hylian Pronouns](archival/kasuto_hli/06-asonën)
-	+ [x] [Hylian Literature](archival/kasuto_hli/11-lërdishe)
+	+ [x] [Hylian Pronouns](06-asonën.md)
+	+ [x] [Hylian Literature](11-lërdishe.md)
 
 + [x] **Priority 2**
 	+ [x] Hylian Font

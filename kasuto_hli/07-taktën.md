@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer, jerin-of-calatia
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: Hylian Pronouns](archival/kasuto_hli/06-asonën)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: Hylian Pronouns](06-asonën.md)**
 
 # <span class="hylian_kas">taktën hilanan</span><br>Hylian Adjectives
 
@@ -123,4 +123,4 @@ A predicate adjective describes the subject of a sentence, linked to the subject
 |:-|:-|
 | <span class="hylian_kas">zatu t@ras taz kosaSa lErde kwa bagu katabes.</span><br>_Zatu ta.iras taz koshasa lërde kwa bagu katabes._<br>That is the fourth book (that) I wrote. | <span class="hylian_kas">iEru t@res taz hiraSan hitEn kwa vies ak hirule.</span><br>_Iëru ta.iras taz hirashan hitën kwa vies ak hirule._<br>They are the first people that went to Hyrule. |
 
-**[Next Chapter: Hylian Numbers](archival/kasuto_hli/08-nïmshën)**
+**[Next Chapter: Hylian Numbers](08-nïmshën.md)**

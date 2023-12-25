@@ -6,7 +6,7 @@ author: austin-springer
 ---
 # The Hylian Language Institute
 
-Welcome to this official mirror of the Hylian Language Institute. This mirror seeks to reflect the original work [Kasuto did on the Hylian Language Institute](archival/kasuto_hli/00-toc), though it is slightly different, and seeks to document some undocumented, or poorly documented, elements of the language.
+Welcome to this official mirror of the Hylian Language Institute. This mirror seeks to reflect the original work [Kasuto did on the Hylian Language Institute](00-toc.md), though it is slightly different, and seeks to document some undocumented, or poorly documented, elements of the language.
 
 > [!NOTE] Unfinished Documentation
 > Austin never finished this documentation. While they will be putting in occasional work to process the archived data, and hope to finishing their mirror to some extent. It is, however, likely that any currently un-linked elements of the menu don't exist, and may not exist any time soon.

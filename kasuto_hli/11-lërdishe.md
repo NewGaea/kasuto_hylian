@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Page: Dictionary Index](archival/kasuto_hli/10.0-daksunare)
+**[Table of Contents](00-toc.md)** | **[Previous Page: Dictionary Index](10.0-daksunare.md)
 
 # <span class="hylian_kas">lErdiSe Hilana</span><br>Hylian Literature
 
@@ -41,4 +41,4 @@ righteousness to us,
 So we can join you in  
 heaven.
 
-**[Archive Index](archival/kasuto_hli/00-toc)**
+**[Archive Index](00-toc.md)**

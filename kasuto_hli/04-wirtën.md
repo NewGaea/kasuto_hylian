@@ -4,7 +4,7 @@ orthography: kasuto, roman
 language: english, kasuto-hylian
 author: kasuto-of-kataan, austin-springer
 ---
-**[Table of Contents](archival/kasuto_hli/00-toc)** | **[Previous Chapter: The Hylian Alphabet](archival/kasuto_hli/03-aktaie)**
+**[Table of Contents](00-toc.md)** | **[Previous Chapter: The Hylian Alphabet](03-aktaie.md)**
 
 # <span class="hylian_kas">wirtën hilanan</span><br>Hylian Verbs
 
@@ -339,4 +339,4 @@ Hylian uses the regular verb **_dag_** as its pro-verb, it is conjugated just li
 \ft I sought the Triforce, as many others did (as did many others).
 ```
 
-**[Next Chapter: Hylian Nouns](archival/kasuto_hli/05-sonën)**
+**[Next Chapter: Hylian Nouns](05-sonën.md)**
