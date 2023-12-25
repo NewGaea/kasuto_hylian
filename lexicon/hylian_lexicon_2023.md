@@ -198,7 +198,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **depoto** (day poh' toh) _preposition._ 1. before, in front
 + **depotok** (day poh' tohk) _adverb._ 1. before, prior to
 + **dhote** (dhoh' tay) _noun._ 1. dh, the name of the ninth letter of the Classical Hylian _aktaite_
-+ **diares** (dee ahr' ays) _verb._ 1. to give
++ **diarag** (dee ahr' ays) _verb._ 1. to give
 + **diare** (dee ahr' ay) _noun._ 1. gift
 + **dieba** (dee ay' bah) _adjective._ 1. stolen
 + **diebag** (dee ay' bahg) _verb._ 1. to steal, to rob
