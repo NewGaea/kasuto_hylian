@@ -25,4 +25,4 @@ I'm copying my post from St. Patrick's Day.... maybe it'll inspire someone.
 
 **malanmale** (Mah-lahn-MAH-lay) or **mámale** (MAH-mah-lay): million. Derived from "malan malën," or "a thousand thousands." I like "mámale" better because it's shorter, and it's got the accent mark, which would make it an exception to the "rule" of no accent marks (save the ë) in numbers. Exceptions are good.
 
-**[Next Post: Venus, Queen of Fairies](archival/vinculum/suggest_new_words/002-venus.md)**
+**[Next Post: Venus, Queen of Fairies](002-venus.md)**

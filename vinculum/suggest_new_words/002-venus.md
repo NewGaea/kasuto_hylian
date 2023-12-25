@@ -5,7 +5,7 @@ language: english old-english latin kasuto-hylian
 ---
 # Suggest New Words
 
-**[Previous Post: Venus, Queen of Fairies](archival/vinculum/suggest_new_words/001-venus)**
+**[Previous Post: Venus, Queen of Fairies](001-venus.md)**
 
 ## Venus, Queen of Faeries writes:
 
@@ -31,5 +31,5 @@ Of course, there are two SMALL problems with what I've done.... One: the double 
 
 But, that's what we've come up with. What do you guys think?
 
-**[Next Post: Venus, Queen of Fairies](archival/vinculum/suggest_new_words/004-venus)**
+**[Next Post: Venus, Queen of Fairies](004-venus.md)**
 **[[002a-venus-austin|Commentary: Austin Springer]]**
