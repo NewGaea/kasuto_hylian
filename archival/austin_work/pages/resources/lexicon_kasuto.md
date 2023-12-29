@@ -1,6 +1,7 @@
 # Hylian Dictionary - Kasuto
 
 This file collects the official dictionary and wordlist used on Kasuto.net's Hylian Language Institute as well as all community contributions into a single list. This list can be separated into whatever format is necessary later on.
+
 ## Format Rules
 
 Although this file uses Markdown formatting, it is at heart a CSV table using tabstops to separate fields. This table is sorted on romanized alphabetical order. The Hylian Font column will use case-sensitive spellings for the romanized digraphs ch, dh, jh, kh, ng, sh, and th (C, D, J, K, N, S, and T), however it will be case-insensitive for vowel forms.
