@@ -13,7 +13,7 @@ I've seen a couple web sites out there that have so-called "Hylian dictionaries"
 
 ## Table of Contents
 
-1. **[[01-fonte-hilana|Hylian Font]]**<br>Download this True Type font if you want to be able to type Hylian characters on your computer. The keystrokes for all the characters are explained along with a tutorial on how to install the font. **Necessary in order for the Hylian text to display correctly.**
+1. **[Hylian Font](01-fonte-hilana)**<br>Download this True Type font if you want to be able to type Hylian characters on your computer. The keystrokes for all the characters are explained along with a tutorial on how to install the font. **Necessary in order for the Hylian text to display correctly.**
 2. **[[02-bënkati|Introduction to the Hylian Language]]**<br>This gives a basic overview of the language and its history. I also explain why I decided to invent this language, and some inspirations for it. I recommend you read this first.
 3. **[[03-aktaie|The Hylian Alphabet]]**<br>Learn the rules and symbols for writing in Hylian script. It lists all the characters as well as how to transliterate Hylian characters into standard Roman characters. Also learn the proper pronunciation of Hylian letters.
 4. **[[04-wirtën|Hylian Verbs]]**<br>Learn the rules for conjugating and using Hylian verbs. Very important if you want to learn the language.
