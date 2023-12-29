@@ -4,7 +4,7 @@ Welcome to the **Kasuto.net Hylian Language** repository.
 
 ### What is this repository for? ###
 
-This repository is for the Hylian language originally created by _Kasuto of Kataan_, webmaster of [Kasuto.net](http://kasuto.net) which contains the original source materials in its Hylian Language Institute section. It will consist of the grammar, lexicon, and other materials from [[archival/kasuto_hli|the original Hylian Language Institute]], updated with sources from [[archival/vinculum/|the Vinculum]] (the forum on that site), [[archival/austin_work/index|from Austin]], [[archival/new_gaea_work/index|from New Gaea]], and even newer work done by [[contributors/jerin_of_calatia|Jerin of Calatia]] and the new Hylian Linguistic Society.
+This repository is for the Hylian language originally created by _Kasuto of Kataan_, webmaster of [Kasuto.net](http://kasuto.net) which contains the original source materials in its Hylian Language Institute section. It will consist of the grammar, lexicon, and other materials from [[archival/kasuto_hli|the original Hylian Language Institute]], updated with sources from [[vinculum/|the Vinculum]] (the forum on that site).
 
 * Mainstream commits for Kasuto's Hylian language
 * All documentation produced in Markdown, with inline HTML where necessary.
