@@ -4,7 +4,7 @@
 
 ## Translation Status
 
-Not Translated
+Ënt raz moge ënt taz biukoge, kwa alvirënt arz höbite. Za moge naz tairëns arz moge mida, kwa ënt moldën alvirënt nëd tairënt arz moge kaya gëlda, kwa boke daia iza: Za tairënt arz moge höbita, kwa za zhatas ab ize.
 
 ## Commentary
 
