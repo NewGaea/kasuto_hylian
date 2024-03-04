@@ -38,14 +38,14 @@ In our context, the words _minaze_ and _minazi_ refer to the period from the cra
 
 Comments are usually kept simple, with room for agreement or disagreement, but not so much for discussion.
 
-| Hylian | Romanized | Translation |
-|:-------|:----------|:------------|
-| <span class="hylian_kas">Vina vëntre tãras jano?</span> | Vina vëntre naz tairas jano? | Good weather, isn't it? |
-| <span class="hylian_kas">cucua naz tãras jano?</span> | Cucua naz tairas jano? | It's hot, isn't it? |
-| <span class="hylian_kas">Dagola naz tãras jano?</span> | Dhagola naz tairas jano? | It's cold, isn't it? |
+| Hylian                                                        | Romanized                     | Translation               |
+| :------------------------------------------------------------ | :---------------------------- | :------------------------ |
+| <span class="hylian_kas">Vina vëntre tãras jano?</span>       | Vina vëntre naz tairas jano?  | Good weather, isn't it?   |
+| <span class="hylian_kas">cucua naz tãras jano?</span>         | Cucua naz tairas jano?        | It's hot, isn't it?       |
+| <span class="hylian_kas">Dagola naz tãras jano?</span>        | Dhagola naz tairas jano?      | It's cold, isn't it?      |
 | <span class="hylian_kas">a, sesole shite sesolag jano?</span> | A, sesole shite sesolag jano? | It's really raining, huh? |
-| <span class="hylian_kas">hã, ru tãras.</span> | Hai, ru tairas. | Yes, it is. |
-| <span class="hylian_kas">nani, ru këuma naz tãras.</span> | Nani, ru këuma naz tairas. | No, it's not so bad. |
+| <span class="hylian_kas">hã, ru tãras.</span>                 | Hai, ru tairas.               | Yes, it is.               |
+| <span class="hylian_kas">nani, ru këuma naz tãras.</span>     | Nani, ru këuma naz tairas.    | No, it's not so bad.      |
 
 In Hylian, it is considered genial to make a short and simple response to these sorts of weather comments, and while it is usually preferred to agree, a friendly _nani_ doesn't tend to go amiss -- as long as you don't start to argue. This is one of the reasons we recommend that, if you must disagree on the weather, you use a plain factive statement like the one above, rather than, "I don't mind it." 
 

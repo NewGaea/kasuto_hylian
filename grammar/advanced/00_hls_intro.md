@@ -1,4 +1,4 @@
-# Introduction to the Hylian Linguistics Society's _Classical Hylian_ Project
+# Introduction to the Hylian Linguistics Society's _Neo-Modern Hylian_ Project
 ---
 
 ## Foreword
@@ -22,7 +22,7 @@ Whether or not you join the HLS, you are free to use this documentation in any w
 
 ## Background
 
-Thanks go to **Kasuto** of [Kasuto.net](https://kasuto.net) for developing the original language. This project is an extension of a permission granted to Austin Springer by Kasuto several years ago, and if he should ask us to take it down, we shall.
+Thanks go to **Kasuto of Kataan** of [Kasuto.net](https://kasuto.net) for developing the original language. This project is an extension of a permission granted to Austin Springer by Kasuto several years ago, and if he should ask us to take it down, we shall.
 
 We members of the Hylian Linguistic Society do not, in fact, live within Hyrule. We live on modern-day Earth, and engage in this project for fun, to appease an intellectual or emotional itch to become more invested in a world we love. To this end, we imagine stories about the world that occur between the glimpses the games of the series show us. In this project, we indulge our curiosity for the languages, cultures, and histories of the world in which Hyrule is set.
 
@@ -32,7 +32,7 @@ We welcome contributions from others, as we are already in the process of incorp
 
 ### Kasuto's Work, Summarized
 
-Kasuto started the project to create a language that was mroe than just words that fit the interests of storytelling: He set forth to establish the grammar rules, the sounds of the language, and enough words to tell some stories. It is unclear if Kasuto was a linguist, though he did call himself "fairly competent in English mechanics and grammar," as also that he had "in \[sic\] interest in foreign languages." It is possible that he did study linguistics as either a hobby or formally, as he noted in his original introduction that he speaks Spanish, was studying Arabic, and had future plans to study Chinese and Japanese. He also noted explicit inspiration from **Esperanto,** the **international auxiliary language** created by Dr. L. L. Zamenhof.
+Kasuto started the project to create a language that was more than just words that fit the interests of storytelling: He set forth to establish the grammar rules, the sounds of the language, and enough words to tell some stories. It is unclear if Kasuto was a linguist, though he did call himself "fairly competent in English mechanics and grammar," and also that he had "in \[sic\] interest in foreign languages." It is possible that he did study linguistics as either a hobby or formally, as he noted in his original introduction that he speaks Spanish, was studying Arabic, and had future plans to study Chinese and Japanese. He also noted explicit inspiration from **Esperanto,** the **international auxiliary language** created by Dr. L. L. Zamenhof.
 
 Kasuto started with the grammar, choosing what grammatical function to use for the language, and decided to use an Esperantish system of grammar marking, where words can be divided into stems and grammatically marked endings -- endings which can (though he never strictly documented this) be stacked together -- which identify what part of speech a word fills, such as the ending \<e\> for all singular nouns and \<ën\> for all plural nouns, while leaving no rule for proper nouns.
 
@@ -48,10 +48,10 @@ As of 2016, **[Austin Springer](austin-springer.md)** reached out for permission
 
 ### Jerin of Calatia
 
-As of July 2023, the project has been handed off to **Jerin of Calatia,** (GitHub: gaeaJen6L27), who has dumped Austin's copies of Kasuto's documentation, and Austin's own archival work, in a GitHub repository managed by the **New Gaea Entertainment** organization. In this process, **Jerin** is establishing the **Hylian Linguistic Society,** in order to welcome new contributors to the language.
+As of July 2023, the project has been joined by **Jerin of Calatia,** (GitHub: gaeaJen6L27), who has dumped Austin's copies of Kasuto's documentation, and Austin's own archival work, in a GitHub repository managed by the **New Gaea Entertainment** organization. In this process, **Jerin** is establishing the **Hylian Linguistic Society,** in order to welcome new contributors to the language.
 
 We have done very little to the documentation at this point, but have started compiling a new lexicon file, and rebooting the documentation.
 
 **Bënkati, tokahitën!**
 
-Next Chapter: **[The Context of Classical Hylian](grammar/advanced/01_context)**
+**Next Chapter**: **[The Context of Classical Hylian](grammar/advanced/01_context)**

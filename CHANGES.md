@@ -2,9 +2,18 @@
 
 The following are lists of changes made to the Hylian Language since 2023-Jul-01, with the newest and most relevant changes listed nearest to the top.
 
+## 2024-01-09
+
+### Official change to V3 labeling
+Changeover to Version numbers:
+- Version 1 (V1) is labeled *Kasutan Modern Hylian* and contains only the documentation from [Kasuto.net](https://kasuto.net) and archived content from the Vinculum
+- Version 2 (V2) is the incomplete solo work of Austin Springer and New Gaea Entertainment, and is labeled *Austinian Modern Hylian*. This documentation is, again, incomplete, but may be fleshed out somewhat.
+- **Version 3** (V3) is labeled as *Neo-Modern Hylian* and currently contains the archives of past efforts, while focusing on a more consistent direction forward. All **new** work from 2023 and onwards should be in V3 until such a time as V4 is established.
+### Words of the Day
+While we are still a bit behind on documentation, words of the day from September-December 2023 are being processed. Most words of the day in early 2024 are intended to build on existing words, expanding them with polysemy, or possibly coining new words through deconstruction of existing words.
 ## 2023-Jul-13
 
-+ Converted all `.txt` files in the project to `.md` files. No structoral changes made at present.
++ Converted all `.txt` files in the project to `.md` files. No structural changes made at present.
 + Most old files now organized for initial work.
 + Set up a Kanban board within the vault to create and track tasks.
 + **Archive Processing**
@@ -14,7 +23,6 @@ The following are lists of changes made to the Hylian Language since 2023-Jul-01
 			+ Spellchecking Kasuto's English as we go
 		+ Learning more quirks of Kasutan font mapping
 	+ [Vinculum archive](archival/vinculum/) starting to be split into single-post notes
-	+ 
 
 ## 2023-Jul-09
 

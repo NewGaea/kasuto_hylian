@@ -251,7 +251,7 @@ This is used to say that something could be done, but there is some doubt or unc
 
 ```
 I can speak Hylian
-Bagu jhatas ab hilana.
+Bagu shu jhatas ab hilana.
 ```
 
 This sentence denotes a sense of certainty and definiteness.
