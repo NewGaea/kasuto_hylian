@@ -80,7 +80,7 @@ Proper nouns are very special: they do not always follow the same rules as other
    1. If the name represents a physical noun (e), such as _faroe_, it must end in _ra_, _re_, or _ro_.
    2. If the name represents an abstract noun (u), such as _nairu_, it must end in _na_, _ne_, or _no_.
    3. If the name represents an adjective (a), such as _dina_, it must end in _sa_, _se_, or _so_
-   4. If the name represents an action (ans), such as _miarans_, it must end in _ta_, _te_, or _to_. The /t/ of this suffix replaces the imperative /s/.
+   4. If the name represents an action (o, ans), such as _miarans_, it must end in _ta_, _te_, or _to_. The /t/ of this suffix replaces the imperative /s/.
    5. Of the above, /a/ names are seen as gender neutral and preferred for pet or animal names (_Linkera_, _Kapoera_, _Epouna_), /e/ is associated with female names (_Dinase_, _Farore_, _Nairune_), and /o/ is associated with male names (_Kasuto_, _Miaranto_, _Zaneto_).
 4. An /i/ may be added to the end of a name to show respect, especially for elders or higher class persons.
 5. Any other suffix may be added after the name.
