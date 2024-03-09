@@ -29,6 +29,11 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 + <span class="hylian">dëkse</span> **dëkse** ('dɛk.se) 1. a hidden threat, a trap 2. a hidden space 1, 2. from the behaviours of the [[enemy-list|baddies]] dexihand and dexivine 1, 2. ([[austin-springer|Austin Springer]])
 + <span class="hylian">dënjánine</span> **dënjánine** (dɛn.'ja.ni.ne) _noun._ 1. princess 1. literally composed from canonical _dën_ (small) + _janie_ (royal ruler) + _in_ (feminine) meaning "little queen" 1. ([[austin-springer|Austin Springer]], *via* [[kasuto|Kasuto]], [[k-chan|K-Chan]], [[venus|Venus]])
 
+## G
+
++ <span class="hylian">gETag</span> **gëtag** \[**gë'** tag\] _verb._ 1. to struggle, to endure hardship. 1. other notes. 1. \[_cb._ [Austin Springer](austin-springer.md)\]
+
+
 ## H
 
 + <span class="hylian">harka</span> **harka** ('har.ha) _adjective._ 1. clean, washed 2. unspoken, forbidden, banned 1, 2. see _harkag_ 1, 2. ([[austin-springer|Austin Springer]])
@@ -42,6 +47,11 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 + <span class="hylian">ïniga</span> **ïniga** (ɪ.'ni.ga) _adjective._ 1. artful, skilled, professional 2. artsy, well produced 1, 2. see _inige_ _ 1, 2. ([[austin-springer|Austin Springer]])
 + <span class="hylian">ïnigag</span> **ïnigag**_ (ɪ.'ni.gag) _verb._ 1. to create or produce (something) 2. to illustrate, paint, or weave 1, 2. see _inige_ 1, 2. ([[austin-springer|Austin Springer]])
 + <span class="hylian">ïnige</span> **ïnige** (ɪ.'ni.ge) _noun._ 1. art, skill, craft, trade, professional field 2. art work, imagery, tapestry 1. from the master swordsman _Inigo_ Montoya from _The Princess Bride_ 2. an extension of sense one as _art_ 1, 2. (Austin Springer)
+
+## J
+
++ <span class="hylian">jEgwe</span> **jëgwe** \[**jëg'** we\] _noun._ 1. goat. 1. other notes. 1. \[_cb._ [Austin Springer](austin-springer.md), [Taerelon](taerelon.md)\]
+
 
 ## L
 
