@@ -1,7 +1,7 @@
 A
 =
 
-* _**[-a](a.md)**_	adj. suffix		Indicates an adjective for a singular noun
+* _**[-a](archival/new_gaea_work/lexicon/a/a.md)**_	adj. suffix		Indicates an adjective for a singular noun
 * _**ab**_	particle		Direct object marker; indicates that the following item is a direct object of a preceding verb
 * _**=ag**_	-ag	vs.	to [verb]	Infinitive ending
 * _**=aki**_	-aki	suffix		This is attached to a person's name to indicate love for a person. Used between spouses and boyfriends and girlfriends.
