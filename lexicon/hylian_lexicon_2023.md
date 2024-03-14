@@ -526,10 +526,10 @@ This lexicon uses IPA to show the pronunciation of words.
 + **sïlra** (sihl' rah) _adjective._ 1. gone
 + **sïlrag** (sihl' rahg) _verb._ 1. to leave, to depart, to go away
 + **sïlre** (sihl' ray) _noun._ 1. departure
-+ **skoshe** (skoh' shay) _noun._ 1. excuse, permission, allowance
-+ **skoshi** (skoh' shee) _noun, expression._ 1. excuse me, pardon me; this expression is most often used to show politeness when entering another person's personal space, whether physical or metaphorical
-+ **skuze** (skoo' zay) _noun._ 1. attention, focus
-+ **skuzi** (skoo' zee) _noun, expression._ 1. excuse me, listen to me, may I have your attention; this expression is mostly used to draw attention
++ **skoshe** (skoh' shay) _noun._ 1. attention, focus
++ **skoshi** (skoh' shee) _noun, expression._ 1. excuse me, listen to me, may I have your attention; this expression is mostly used to draw attention
++ **skuze** (skoo' zay) _noun._ 1. excuse, permission, allowance
++ **skuzi** (skoo' zee) _noun, expression._ 1. excuse me, pardon me; this expression is most often used to show politeness when entering another person's personal space, whether physical or metaphorical
 + **sone** (soh' nay) _noun._ 1. noun
 + **sora** (soh' rah) _adjective._ 1. zero, none, no (quantity)
 + **sorasha** (soh rah' shah) _adjective._ 1. zeroth, null
