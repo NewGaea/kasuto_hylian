@@ -1,4 +1,4 @@
-# Benkati ëk Jahas Goearok ab Taiu.<br>Welcome and Pleased to Meet You!
+# Bënkati ëk Jahas Goearok ab Taiu.<br>Welcome and Pleased to Meet You!
 
 > In this chapter we will explore:
 > 
@@ -24,10 +24,10 @@ So let's look at a few of the options for how to fill in such a conversation mor
 
 As such casual conversations will often begin with a time-related greeting, let's consider the three most common such greetings.
 
-| Hylian | Romanized | Translation |
-|:-------|:----------|:------------|
-| <span class="hylian_kas">vina minazi<br>vina minaze</span> | Vina minazi<br>Vina minaze | Good morning |
-| <span class="hylian_kas">vina tîdri<br>vina tîdre</span> | Vina tiudri<br>Vina tiudre | Good day, good afternoon |
+| Hylian                                                     | Romanized                    | Translation              |
+| :--------------------------------------------------------- | :--------------------------- | :----------------------- |
+| <span class="hylian_kas">vina minazi<br>vina minaze</span> | Vina minazi<br>Vina minaze   | Good morning             |
+| <span class="hylian_kas">vina tîdri<br>vina tîdre</span>   | Vina tiudri<br>Vina tiudre   | Good day, good afternoon |
 | <span class="hylian_kas">vina nãstri<br>vina nãstre</span> | Vina naistri<br>Vina naistre | Good evening, Good night |
 
 In general , the first person to use one of these greetings will use the **topical form** which ends in the letter \<i\> while the responder (or responders) use the simple form ending with the letter \<e\>. The forms listed here are also _only_ used for greetings -- when you depart, the words take on a different form.
@@ -76,31 +76,31 @@ Below are three interactions between **Antinai** and **Bagethur.** Look them ove
 
 Please always remember your manners when you have a favor ask. You don't need to worry about the specific grammar -- these words and phrases will serve you well in being polite when you need help.
 
-| Hylian | Romanized | Translation |
-|:-------|:----------|:------------|
-| <span class="hylian_kas">skuzi</span> | skuzi | Excuse me (I'm sorry) |
-| <span class="hylian_kas">skoSi</span> | skoshi | Excuse me (Please listen) |
-| <span class="hylian_kas">yuri</span> | yuri | Please |
-| <span class="hylian_kas">dënyuri</span> | dënyuri | Please, just a little help |
-| <span class="hylian_kas">yuri Su das pro ab bagu</span> | Yuri, shu das pro ab bagu. | Please give me X.
-| ^^ | ^^ | Please do X for me/on my behalf. |
-| <span class="hylian_kas">... at tãu yuros.</span> | ... at taiu yuros. | If you please.
-| <span class="hylian_kas">yuri, tas ab za.</span> | Yuri, tas ab za | Please accept this. |
-| <span class="hylian_kas">yuri, bagu Su rekwas ab tãu'sa hãke.</span> | Yuri, bagu shu rekwas ab taiu'sa haike. | Please, I need your help. |
-| <span class="hylian_kas">jano bagu Su arotas ab tãu?</span> | Jano bagu shu arotas ab taiu? | How can I thank you? |
-| <span class="hylian_kas">x</span> | x | Here is some X as a favor. |
-| <span class="hylian_kas">x</span> | x | Would some X help you? |
-| <span class="hylian_kas">arotas ab tãu</span> | Arotas ab taiu. | Thank you. |
-| <span class="hylian_kas">moka arotas ab tãu.</span> | Moka arotas ab taiu. | Thank you very much. |
-| <span class="hylian_kas">gomi</span> | gomi | I'm sorry<br>Sorry |
-| <span class="hylian_kas">bagu gomas pro t$rabënt ab tãu</span> | Bagu gomas pro toarabënt ab taiu. | I'm sorry to have bothered you. |
-| <span class="hylian_kas">Bagu mokok naz hãkag.</span> | Bagu mokok naz haikas. | I'm not much help. |
-| <span class="hylian_kas">... at naz këumos</span> | ... at naz këumos | If it's no trouble. |
-| <span class="hylian_kas">x</span> | x | No, it's nothing. |
-| <span class="hylian_kas">hã</span> | hai | Yes |
-| <span class="hylian_kas">x</span> | x | Very well |
-| <span class="hylian_kas">nani aroti</span> | Nani aroti | No, thank you<br>I'm fine without |
-| <span class="hylian_kas">aroti</span> | aroti | Thanks! |
-| <span class="hylian_kas">danÔ</span> | danoi | You're welcome |
+| Hylian                                                               | Romanized                               | Translation                       |
+| :------------------------------------------------------------------- | :-------------------------------------- | :-------------------------------- |
+| <span class="hylian_kas">skuzi</span>                                | skuzi                                   | Excuse me (I'm sorry)             |
+| <span class="hylian_kas">skoSi</span>                                | skoshi                                  | Excuse me (Please listen)         |
+| <span class="hylian_kas">yuri</span>                                 | yuri                                    | Please                            |
+| <span class="hylian_kas">dënyuri</span>                              | dënyuri                                 | Please, just a little help        |
+| <span class="hylian_kas">yuri Su das pro ab bagu</span>              | Yuri, shu das pro ab bagu.              | Please give me X.                 |
+| ^^                                                                   | ^^                                      | Please do X for me/on my behalf.  |
+| <span class="hylian_kas">... at tãu yuros.</span>                    | ... at taiu yuros.                      | If you please.                    |
+| <span class="hylian_kas">yuri, tas ab za.</span>                     | Yuri, tas ab za                         | Please accept this.               |
+| <span class="hylian_kas">yuri, bagu Su rekwas ab tãu'sa hãke.</span> | Yuri, bagu shu rekwas ab taiu'sa haike. | Please, I need your help.         |
+| <span class="hylian_kas">jano bagu Su arotas ab tãu?</span>          | Jano bagu shu arotas ab taiu?           | How can I thank you?              |
+| <span class="hylian_kas">x</span>                                    | x                                       | Here is some X as a favor.        |
+| <span class="hylian_kas">x</span>                                    | x                                       | Would some X help you?            |
+| <span class="hylian_kas">arotas ab tãu</span>                        | Arotas ab taiu.                         | Thank you.                        |
+| <span class="hylian_kas">moka arotas ab tãu.</span>                  | Moka arotas ab taiu.                    | Thank you very much.              |
+| <span class="hylian_kas">gomi</span>                                 | gomi                                    | I'm sorry<br>Sorry                |
+| <span class="hylian_kas">bagu gomas pro t$rabënt ab tãu</span>       | Bagu gomas pro toarabënt ab taiu.       | I'm sorry to have bothered you.   |
+| <span class="hylian_kas">Bagu mokok naz hãkag.</span>                | Bagu mokok naz haikas.                  | I'm not much help.                |
+| <span class="hylian_kas">... at naz këumos</span>                    | ... at naz këumos                       | If it's no trouble.               |
+| <span class="hylian_kas">x</span>                                    | x                                       | No, it's nothing.                 |
+| <span class="hylian_kas">hã</span>                                   | hai                                     | Yes                               |
+| <span class="hylian_kas">x</span>                                    | x                                       | Very well                         |
+| <span class="hylian_kas">nani aroti</span>                           | Nani aroti                              | No, thank you<br>I'm fine without |
+| <span class="hylian_kas">aroti</span>                                | aroti                                   | Thanks!                           |
+| <span class="hylian_kas">danÔ</span>                                 | danoi                                   | You're welcome                    |
 
 These are all polite, to varying degrees -- in general, the longer the phrase is within this chart, the more polite it is.
