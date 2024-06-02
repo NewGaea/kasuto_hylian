@@ -3,11 +3,16 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech: Noun
+englishGloss:
+  - house
+  - flat
+  - apartment
 contributors:
+  - "[[contributors/austin-springer|Austin Springer]]"
+  - "[[contributors/tushen|Tushen]]"
 ---
-# *mote*
+# *albode*
 
 # Neo-Modern Hylian
 ## Alternative Forms

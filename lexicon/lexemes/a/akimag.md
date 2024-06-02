@@ -28,13 +28,12 @@ Suspected to come from Esperanto *amiko*, and ultimately from Latin *amicus*, vi
 ### akimag
 1. to befriend
 2. to connect with, to establish good relations with another person
-
-## Verb Paradigm
+#### Verb Paradigm
 |                    | **Nonfinite**<br>\<-g> | Basic<br>\<-s> | Perfect<br>\<-"nt> | Imperative<br>\<-"ns> |
 | ------------------ | ---------------------- | -------------- | ------------------ | --------------------- |
-| **Present** \<-a-> | **akimag**            | **akimas**    | **akimant**       | **akimans**          |
-| **Past** \<-e->    | **akimeg**            | **akimes**    | **akimënt**       | **akimëns**          |
-| **Future** \<-o->  | **akimog**            | **akimos**    | **akimönt**       | **akimöns**          |
+| **Present** \<-a-> | **akimag**             | **akimas**     | **akimant**        | **akimans**           |
+| **Past** \<-e->    | **akimeg**             | **akimes**     | **akimënt**        | **akimëns**           |
+| **Future** \<-o->  | **akimog**             | **akimos**     | **akimönt**        | **akimöns**           |
 
 # Thesaurus
 

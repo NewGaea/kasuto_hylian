@@ -13,6 +13,11 @@ This file uses IPA phonetic notation, but uses a comma <,> for secondary stress,
 + <span class="hylian">bíúa</span> **bíúa** ('bʲu:.a) _adjective._ 1. brown, earth-coloured 1. from the short -ia pattern of color words and _bíúkoge_ (earth) 1. ([[austin-springer|Austin Springer]], _via_ [[venus|Venus]])
 + <span class="hylian">bokok</span> **bokok** ('bok.ok) _adverb._ 1. no, not at all, incorrect 1. while this response can stand on its own, it is considered more emphatic than _bëu_ and is usually accompanied by further clarification 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
 
+## C
+
++ **coltag** \[ˈtsol.tag] (_verb._) 1. to dance, to leap with joy 2. to move with abandon, to flail about
++ **velyag** \[vel.jag] (_verb._) 1. to spin, to rotate, to twirl 2. to show off, to display
+
 ## CH
 
 + <span class="hylian">Cepoa</span> **chepoa** (tSe.'po.a) _adjective._ 1. equine, equestrian 1. see _chepoe_ 1. ([[austin-springer|Austin Springer]])
