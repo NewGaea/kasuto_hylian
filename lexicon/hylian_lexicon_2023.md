@@ -54,169 +54,217 @@ This lexicon uses IPA to show the pronunciation of words.
 + [x] <span class="hylian">alba</span> **alba** \['al.ba\] _adjective._ 1. holy, sacred, blessed, hallowed. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + [x] <span class="hylian">albag</span> **albag** \['al.bag\] _verb._ 1. to bless, to hallow. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + [x] <span class="hylian">albe</span> **albe** \['al.be\] _noun._ 1. blessing, holiness. 2. purification ritual. 3. Holiness Month, July 3. Seventh month of the Hylian calendar, represents the blessings of the Goddesses 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\] 3. ([[venus|Venus]] and [[contributors/arrow|Arrow]], via [[kasuto|Kasuto]])
-+ [ ] <span class="hylian">albende</span> **albende** \[al.'ben.de\] _noun._ 1. home. 1. presumed from _albode_. 1. \[_cb._ [[tushen|Tushen]]\]
-+ [ ] <span class="hylian">albode</span> **albode** \[al.'bo.de\] _noun._ 1. house. 1. presumed from English _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
-+ [ ] <span class="hylian">alJag</span> **alzhag** \['al.ʒag\] _verb._ 1. to tell, to report. 1. curiously sounds a bit like English "I'll say." 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">albende</span> **albende** \[al.'ben.de\] _noun._ 1. home. 1. presumed from _albode_. 1. \[_cb._ [[tushen|Tushen]]\]
++ [x] <span class="hylian">albode</span> **albode** \[al.'bo.de\] _noun._ 1. house. 1. presumed from English _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
++ [x] <span class="hylian">alJag</span> **alzhag** \['al.ʒag\] _verb._ 1. to tell, to report. 1. curiously sounds a bit like English "I'll say." 1. \[_cb._ [[venus|Venus]]\]
 + [x] <span class="hylian">alu</span> **alu** \['a.lu\] _pronoun._ 1. there. 1. independent pronoun. 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">amite</span> **amite** \[a.'mi.te\] _noun._ 1. uncle, aunt. 1. refers to any sibling of one's parents; from Latin _amita_ "aunt" 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">amítile</span> **amítile** \[a.'mi.ti.le\] _noun._ 1. uncle. 1. refers to any brother of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">amítine</span> **amítine** \[a.'mi.ti.ne\] _noun._ 1. aunt. 1. refers to any sister of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">amkana</span> **amkana** \[am.'ka.na\] _adjective._ 1. loving, affectionate. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">amkanag</span> **amkanag** \[am.'ka.nag\] _verb._ 1. to love. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">amkane</span> **amkane** \[am.'ka.ne\] _noun._ 1. love, affection. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">amite</span> **amite** \[a.'mi.te\] _noun._ 1. uncle, aunt. 1. refers to any sibling of one's parents; from Latin _amita_ "aunt" 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">amítile</span> **amítile** \[a.'mi.ti.le\] _noun._ 1. uncle. 1. refers to any brother of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">amítine</span> **amítine** \[a.'mi.ti.ne\] _noun._ 1. aunt. 1. refers to any sister of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">amkana</span> **amkana** \[am.'ka.na\] _adjective._ 1. loving, affectionate. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">amkanag</span> **amkanag** \[am.'ka.nag\] _verb._ 1. to love. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">amkane</span> **amkane** \[am.'ka.ne\] _noun._ 1. love, affection. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + [x] <span class="hylian">=an</span> **-an** \[an\] _grammatical suffix._ 1. plural adjective. 1. This suffix indicates an adjective for plural nouns. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">andakvag</span> **andakvag** \[an.'dak.vag\] _verb._ 1. to cry, to weep. 1. see _andakve_ 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">andakve</span> **andakve** \[an.'dak.ve\] _part of speech._ 1. tear, teardrop. 1. from proposed _andwe_ "face" and canonical _onkve_ "water." 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">andre</span> **andre** \['an.dre\] _noun._ 1. Watersday. Third day of the Hylian week, honors the spirits of water; from proposed _ane_ (elemental water) and canonical _tiudre_ (day) 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[kasuto|Kasuto]], [[contributors/arrow]]?\]
-+ [ ] <span class="hylian">andwe</span> **andwe** \['an.dwe\] _noun._ 1. face, countenance. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">andwoke</span> **andwoke** \[an.'dwo.ke\] _noun._ 1. mask, hood, veil. 1. from proposed _andwe_ "face" and _oke_ "clothing." 1. \[_cb._ [[contributors/auric_trinity|Auric Trinity]], [[venus|Venus]], [[k-chan|K-Chan]]\]
-+ [ ] <span class="hylian">ane</span> **ane** \['a.ne\] _part of speech._ 1. water (elemental, magical). 2. northeast 1. \[_cb._ [[pata-hikari|Pata Hikari]]\] 2. \[_cb._ [[venus|Venus]]]
-+ [ ] <span class="hylian">animade</span> **animade** \[,a.ni.'ma.de] _noun._ 1. pain, suffering, angst. 2. oblivion 1. from Latin _anima_ (spirit, soul) via the Aeon *Anima* in the game _Final Fantasy X_ 2. from one of the moves used by the Aeon _Anima_ 1. \[_cb._ [[auric_trinity|Auric Trinity]]]
-+ [ ] <span class="hylian">anlika</span> **anlika** \[an.'li.ka\] _adjective._ 1. alone. 1. \[_cb._ [[k-chan|K-Chan]]\]
-+ [ ] <span class="hylian">ank</span> **ank** \[aŋ̥(k)\] _particle._ 1. indirect object marker. 1. the following phrase is the indirect object of the verb. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">anperine</span> **anperine** (,an.pe.'ri.ne): _noun._ alcohol, liquor, spirits. 1. from _ane_ (elemental water) and _perine_ (spirit) (_cb. [[auric_trinity|Auric Trinity]]_)
-+ [ ] <span class="hylian">ánpita</span> **ánpita** \[an.'pi.te\] _adjective._ 1. northeast, northeastern. 1. see *ánpite*. 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
-+ [ ] <span class="hylian">ánpite</span> **ánpite** \[an.'pi.te\] _part of speech._ 1. northeast. 1. from _ane_ (water) and _pite_ (gate). 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
-+ [ ] <span class="hylian">ankaz</span> **anraz** \[aŋ̥.ɹaz\] _particle compound._ 1. indirect object marker + indefinite article. 1. used when the words _ank_ and _raz_ are used in sequence; cf. _antaz, anz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">=ans</span> **-ans** \[ans\] _brammatical suffix._ 1. do \[verb\]. 1. This suffix creates the (present) imperative mood of a verb, used to give a direct command. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">=ant</span> **-ant** \[ant\] _grammatical marker._ 1. have done \[verb]. 1. This suffix creates the present perfect tense, for a task which is currently complete. 1. \[_cb._ [[contributors]]\]
-+ [ ] <span class="hylian">anta</span> **anta** \['an.ta\] _adjective._ 1. ahead of, in front of, before (space). 1. *presumed* from Latine _ante_ (before, in front of). 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">antaz</span> **antaz** \[an.taz\] _particle compound._ 1. indirect object marker + definite article. 1. used when _ank_ and _taz_ are used in sequence; cf. _anraz, anz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">ante</span> **ante** \['an.te\] _adjective._ 1. the front (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">anto</span> **anto** \['an.ta\] _preposition._ 1. ahead of, in front of, before (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">anya</span> **anya** \['aɲ:ja\] _adjective._ 1. annual, yearly. 2. mature 1. from _anye_. 2. development from _sense 1._ 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">anya'e</span> **anya'e** \[aɲ.'ja.e\] _noun._ 1. maturity. 2. a distinct stage in or of maturity. 1, 2. from _anya_ 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">anyag</span> **anyag** \['aɲ.jag\] _verb._ 1. to age, to mature, to grow. 1. from _anye_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">anye</span> **anye** \['aɲ.je\] _noun._ 1. definition. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">anz</span> **anz** \[anz\] _particle compound._ 1. the, to the; indirect object marker + definite article. 1. may be used anywhere that _ank taz_ would appear. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">añate</span> **añate** \['aŋ.a.te\] _part of speech._ 1. ñ, ŋ, ng. 1. The name of the Hylian letter _ñ_, _ŋ_ or _ng_. 1. \[_cb._ [[kasuto|Kasuto]], [[austin-springer|Austin Springer]]\]
-+ [ ] <span class="hylian">apa</span> **apa** \['a.pa\] _adjective._ 1. aloud, audible. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">arage</span> **arage** \[a.'ɹa.ge\] _noun._ 1. melody. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">arákisag</span> **arákisag** \[a.'ɹa.ki.sag\] _verb._ 1. to gather, to collect. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">arkTa</span> **arktha** \['aɹk.θa\] _adjective._ 1. expressive, quoted. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arkTag</span> **arkthag** \['aɹk.θag\] _verb._ 1. to say, to express an idea. 2. to quote, to recite 1, 2. from _arkthe_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arkTe</span> **arkthe** \['aɹk.θe\] _noun._ 1. saying, expression, phrase. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arme</span> **arme** \['aɹ.me\] _noun._ 1. statue, sculpture. 1. from _Armose_ 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
-+ [ ] <span class="hylian">armose</span> **armose** \['aɹ.mo.se\] _noun._ 1. Armos, walking statue. 1. A statue made of stone or metal, especially in the form of an armored soldier, animated by magic in some manner; may be either _örme_ or _arme_ with the suffix _fose_ to indicate a human-like monster. 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
-+ [ ] <span class="hylian">arota</span> **arota** \[aɹ.'o.ta\] _adjective._ 1. appreciative, grateful, thankful. 1. from _aroti_ "thank you". 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arotafire</span> **arotafire** (aɹ.,o.ta.'fi.re) _noun._ 1. Gratitude Crystal, Gratitude Gem 1. the name of a crystallized form of the emotional energy known as _arote_ "gratitude," these gems are seldom seen, but are rumored to grant wishes if one is able to find a sufficient number 1. \[_cb._ [[austin-springer|Austin]], via [[nintendo|Nintendo]], [[kasuto|Kasuto]]]
-+ [ ] <span class="hylian">arotag</span> **arotag** \[aɹ.'o.tag\] _verb._ 1. to thank, to express gratitude. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arote</span> **arote** \[aɹ.'o.te\] _noun._ 1. appreciation, gratitude, thanks. 1. from _aroti_ "thank you." 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">aroti</span> **aroti** \[aɹ.'o.ti\] _noun, expression._ 1. thanks, thank you. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">arotok</span> **arotok** \[a.'ɹo.tok\] _abverb._ 1. thankful, thankfully. 1. adverbial form of _aroti_ "thank you." 1. \[_cb._ [[kasuto|Kasuto]], [[qbri|QBri]]\]
-+ [ ] <span class="hylian">=as</span> **-as** \[as\] _grammar marker._ 1. does, doing. 1. this suffix indicates the simple present tense of a verb, one which is is being performed. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">asa</span> **asa** \['a.sa\] _adjective._ 1. very far away, very distant. 1. adjectival form of _aso_ 1. \[_cb._ [[venus|Venus (Queen of Faeries)]]\]
-+ [ ] <span class="hylian">asënta</span> **asënta** \[a.'sɛn.ta\] _adjective._ 1. accented, stressed. 1. when used after the name of a (vowel) letter, indicates that the letter is stress-marked, and breaks the standard word stress rules. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">asëntag</span> **asentag** \[a.'sɛn.tag\] _verb._ 1. to accentuate, to stress. 2. to speak slowly with precise enunciation 1. from _asënta_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">asënte</span> **asënte** \[a.'sɛn.te\] _noun._ 1. accent, manner of pronunciation. 2. dialect 1. the pattern of stress used in Hylian words. 2. any regional or otherwise unusual manner of pronunciation 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">aso</span> **aso** \['a.so\] _preposition._ 1. very far away, very distant. 1. other notes. 1. \[_cb._ [[venus|Venus]], [[austin-springer|Austin]]\]
-+ [ ] <span class="hylian">asona</span> **asona** \[a.'so.na\] _adjective._ 1. pronominal, referential, euphemistic. 1. a way to describe words which are used to refer to things other than their literal meaning. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">asone</span> **asonag** \[a.'so.nag\] _noun._ 1. to use a euphemism, to make a reference. 1. from _asone_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">asone</span> **asone** \[a.'so.ne\] _noun._ 1. pronoun, reference. 2. euphemism, epithet 1. the label used for words which stand in for _sonan arkthën_ (noun phrases). 2. a word or phrase used to avoid a different word, especially one which might be seen as rude, distasteful, or sacred 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]]
-+ [ ] <span class="hylian">asu</span> **asu** \['a.su\] _pronoun._ 1. that distant place. 1. pronoun form of _aso_. 1. \[_cb._ [[venus|Venus]], [[austin-springer|Austin]]\]
-+ [ ] <span class="hylian">=aS=</span> **-ash-** \[-a.sh-\] _grammatical marker._ 1. ordinal marker for numerals. 1. precedes adjective or noun marking. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">=ashi</span> **-ashi** \[a.shi\] _honorific suffix._ 1. dear, love; sib, cuz. 1. Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins). 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">=aSô</span> **-ashoi** \[-a.sho‿i\] _part of speech._ 1. sir, ma'am, miss; dear, honored, respected. 1.  Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">at</span> **at** \[at\] _conjunction._ 1. if, in the case. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">atemptag</span> **atemptag** \[a.'temp.tag\] _verb._ 1. to reach out. 2. to stretch, to flex 1. from English *attempt.* 1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">ati</span> **ati** \['a.ti\] _interjection, expression, rude._ 1. darn. 1. a non-vulgar expletive. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">avike</span> **avike** \[a.'vi.ke\] _noun._ 1. ocarina, flute. 1. refers to a wooden or clay wind instrument only. 1. \[_cb._ [[k-chan|K-Chan]]\]
-+ [ ] <span class="hylian">az</span> **az** \[az\] _particle compound._ 1. direct object plus definite article. 1. may be used anywhere the words _ab az_ would normally be found; cf. _ab, abaz, taz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">andakvag</span> **andakvag** \[an.'dak.vag\] _verb._ 1. to cry, to weep. 1. see _andakve_ 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">andakve</span> **andakve** \[an.'dak.ve\] _part of speech._ 1. tear, teardrop. 1. from proposed _andwe_ "face" and canonical _onkve_ "water." 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">andre</span> **andre** \['an.dre\] _noun._ 1. Watersday. Third day of the Hylian week, honors the spirits of water; from proposed _ane_ (elemental water) and canonical _tiudre_ (day) 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[kasuto|Kasuto]], [[contributors/arrow]]?\]
++ [x] <span class="hylian">andwe</span> **andwe** \['an.dwe\] _noun._ 1. face, countenance. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">andwoke</span> **andwoke** \[an.'dwo.ke\] _noun._ 1. mask, hood, veil. 1. from proposed _andwe_ "face" and _oke_ "clothing." 1. \[_cb._ [[contributors/auric_trinity|Auric Trinity]], [[venus|Venus]], [[k-chan|K-Chan]]\]
++ [x] <span class="hylian">ane</span> **ane** \['a.ne\] _part of speech._ 1. water (elemental, magical). 2. northeast 1. \[_cb._ [[pata-hikari|Pata Hikari]]\] 2. \[_cb._ [[venus|Venus]]]
++ [x] <span class="hylian">animade</span> **animade** \[,a.ni.'ma.de] _noun._ 1. pain, suffering, angst. 2. oblivion 1. from Latin _anima_ (spirit, soul) via the Aeon *Anima* in the game _Final Fantasy X_ 2. from one of the moves used by the Aeon _Anima_ 1. \[_cb._ [[auric_trinity|Auric Trinity]]]
++ [x] <span class="hylian">anlika</span> **anlika** \[an.'li.ka\] _adjective._ 1. alone. 1. \[_cb._ [[k-chan|K-Chan]]\]
++ [x] <span class="hylian">ank</span> **ank** \[aŋ̥(k)\] _particle._ 1. indirect object marker. 1. the following phrase is the indirect object of the verb. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">anperine</span> **anperine** (,an.pe.'ri.ne): _noun._ alcohol, liquor, spirits. 1. from _ane_ (elemental water) and _perine_ (spirit) (_cb. [[auric_trinity|Auric Trinity]]_)
++ [x] <span class="hylian">ánpita</span> **ánpita** \[an.'pi.te\] _adjective._ 1. northeast, northeastern. 1. see *ánpite*. 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
++ [x] <span class="hylian">ánpite</span> **ánpite** \[an.'pi.te\] _part of speech._ 1. northeast. 1. from _ane_ (water) and _pite_ (gate). 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
++ [x] <span class="hylian">ankaz</span> **anraz** \[aŋ̥.ɹaz\] _particle compound._ 1. indirect object marker + indefinite article. 1. used when the words _ank_ and _raz_ are used in sequence; cf. _antaz, anz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">=ans</span> **-ans** \[ans\] _brammatical suffix._ 1. do \[verb\]. 1. This suffix creates the (present) imperative mood of a verb, used to give a direct command. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">=ant</span> **-ant** \[ant\] _grammatical marker._ 1. have done \[verb]. 1. This suffix creates the present perfect tense, for a task which is currently complete. 1. \[_cb._ [[contributors]]\]
++ [x] <span class="hylian">anta</span> **anta** \['an.ta\] _adjective._ 1. ahead of, in front of, before (space). 1. *presumed* from Latine _ante_ (before, in front of). 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">antaz</span> **antaz** \[an.taz\] _particle compound._ 1. indirect object marker + definite article. 1. used when _ank_ and _taz_ are used in sequence; cf. _anraz, anz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">ante</span> **ante** \['an.te\] _adjective._ 1. the front (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">anto</span> **anto** \['an.ta\] _preposition._ 1. ahead of, in front of, before (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">anya</span> **anya** \['aɲ:ja\] _adjective._ 1. annual, yearly. 2. mature 1. from _anye_. 2. development from _sense 1._ 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">anya'e</span> **anya'e** \[aɲ.'ja.e\] _noun._ 1. maturity. 2. a distinct stage in or of maturity. 1, 2. from _anya_ 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">anyag</span> **anyag** \['aɲ.jag\] _verb._ 1. to age, to mature, to grow. 1. from _anye_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">anye</span> **anye** \['aɲ.je\] _noun._ 1. definition. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">anz</span> **anz** \[anz\] _particle compound._ 1. the, to the; indirect object marker + definite article. 1. may be used anywhere that _ank taz_ would appear. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">añate</span> **añate** \['aŋ.a.te\] _part of speech._ 1. ñ, ŋ, ng. 1. The name of the Hylian letter _ñ_, _ŋ_ or _ng_. 1. \[_cb._ [[kasuto|Kasuto]], [[austin-springer|Austin Springer]]\]
++ [x] <span class="hylian">apa</span> **apa** \['a.pa\] _adjective._ 1. aloud, audible. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">arage</span> **arage** \[a.'ɹa.ge\] _noun._ 1. melody. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">arákisag</span> **arákisag** \[a.'ɹa.ki.sag\] _verb._ 1. to gather, to collect. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">arkTa</span> **arktha** \['aɹk.θa\] _adjective._ 1. expressive, quoted. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arkTag</span> **arkthag** \['aɹk.θag\] _verb._ 1. to say, to express an idea. 2. to quote, to recite 1, 2. from _arkthe_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arkTe</span> **arkthe** \['aɹk.θe\] _noun._ 1. saying, expression, phrase. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arme</span> **arme** \['aɹ.me\] _noun._ 1. statue, sculpture. 1. from _Armose_ 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
++ [x] <span class="hylian">armose</span> **armose** \['aɹ.mo.se\] _noun._ 1. Armos, walking statue. 1. A statue made of stone or metal, especially in the form of an armored soldier, animated by magic in some manner; may be either _örme_ or _arme_ with the suffix _fose_ to indicate a human-like monster. 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
++ [x] <span class="hylian">arota</span> **arota** \[aɹ.'o.ta\] _adjective._ 1. appreciative, grateful, thankful. 1. from _aroti_ "thank you". 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arotafire</span> **arotafire** (aɹ.,o.ta.'fi.re) _noun._ 1. Gratitude Crystal, Gratitude Gem 1. the name of a crystallized form of the emotional energy known as _arote_ "gratitude," these gems are seldom seen, but are rumored to grant wishes if one is able to find a sufficient number 1. \[_cb._ [[austin-springer|Austin]], via [[nintendo|Nintendo]], [[kasuto|Kasuto]]]
++ [x] <span class="hylian">arotag</span> **arotag** \[aɹ.'o.tag\] _verb._ 1. to thank, to express gratitude. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arote</span> **arote** \[aɹ.'o.te\] _noun._ 1. appreciation, gratitude, thanks. 1. from _aroti_ "thank you." 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">aroti</span> **aroti** \[aɹ.'o.ti\] _noun, expression._ 1. thanks, thank you. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">arotok</span> **arotok** \[a.'ɹo.tok\] _abverb._ 1. thankful, thankfully. 1. adverbial form of _aroti_ "thank you." 1. \[_cb._ [[kasuto|Kasuto]], [[qbri|QBri]]\]
++ [x] <span class="hylian">=as</span> **-as** \[as\] _grammar marker._ 1. does, doing. 1. this suffix indicates the simple present tense of a verb, one which is is being performed. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">asa</span> **asa** \['a.sa\] _adjective._ 1. very far away, very distant. 1. adjectival form of _aso_ 1. \[_cb._ [[venus|Venus (Queen of Faeries)]]\]
++ [x] <span class="hylian">asënta</span> **asënta** \[a.'sɛn.ta\] _adjective._ 1. accented, stressed. 1. when used after the name of a (vowel) letter, indicates that the letter is stress-marked, and breaks the standard word stress rules. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">asëntag</span> **asentag** \[a.'sɛn.tag\] _verb._ 1. to accentuate, to stress. 2. to speak slowly with precise enunciation 1. from _asënta_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">asënte</span> **asënte** \[a.'sɛn.te\] _noun._ 1. accent, manner of pronunciation. 2. dialect 1. the pattern of stress used in Hylian words. 2. any regional or otherwise unusual manner of pronunciation 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">aso</span> **aso** \['a.so\] _preposition._ 1. very far away, very distant. 1. other notes. 1. \[_cb._ [[venus|Venus]], [[austin-springer|Austin]]\]
++ [x] <span class="hylian">asona</span> **asona** \[a.'so.na\] _adjective._ 1. pronominal, referential, euphemistic. 1. a way to describe words which are used to refer to things other than their literal meaning. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">asone</span> **asonag** \[a.'so.nag\] _noun._ 1. to use a euphemism, to make a reference. 1. from _asone_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">asone</span> **asone** \[a.'so.ne\] _noun._ 1. pronoun, reference. 2. euphemism, epithet 1. the label used for words which stand in for _sonan arkthën_ (noun phrases). 2. a word or phrase used to avoid a different word, especially one which might be seen as rude, distasteful, or sacred 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]]
++ [x] <span class="hylian">asu</span> **asu** \['a.su\] _pronoun._ 1. that distant place. 1. pronoun form of _aso_. 1. \[_cb._ [[venus|Venus]], [[austin-springer|Austin]]\]
++ [x] <span class="hylian">=aS=</span> **-ash-** \[-a.sh-\] _grammatical marker._ 1. ordinal marker for numerals. 1. precedes adjective or noun marking. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">=ashi</span> **-ashi** \[a.shi\] _honorific suffix._ 1. dear, love; sib, cuz. 1. Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins). 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">=aSô</span> **-ashoi** \[-a.sho‿i\] _part of speech._ 1. sir, ma'am, miss; dear, honored, respected. 1.  Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">at</span> **at** \[at\] _conjunction._ 1. if, in the case. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">atemptag</span> **atemptag** \[a.'temp.tag\] _verb._ 1. to reach out. 2. to stretch, to flex 1. from English *attempt.* 1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">ati</span> **ati** \['a.ti\] _interjection, expression, rude._ 1. darn. 1. a non-vulgar expletive. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">avike</span> **avike** \[a.'vi.ke\] _noun._ 1. ocarina, flute. 1. refers to a wooden or clay wind instrument only. 1. \[_cb._ [[k-chan|K-Chan]]\]
++ [x] <span class="hylian">az</span> **az** \[az\] _particle compound._ 1. direct object plus definite article. 1. may be used anywhere the words _ab az_ would normally be found; cf. _ab, abaz, taz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
 ## Ä - Â
 
-+ [ ] <span class="hylian">äbiu'e</span> **äbiu'e** \[a.'bʲu.e\] _noun._ 1. flower. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">äkte</span> **äkte** \['æk.te\] _noun._ 1. ä, æ. 1. the name of the second letter of the Neo-Modern Hylian *aktaite.* 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">äktriu</span> **äktriu** \[æk.'tri.u\] _pronoun._ 1. others. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">äbiu'e</span> **äbiu'e** \[a.'bʲu.e\] _noun._ 1. flower. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">äkte</span> **äkte** \['æk.te\] _noun._ 1. ä, æ. 1. the name of the second letter of the Neo-Modern Hylian *aktaite.* 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">äktriu</span> **äktriu** \[æk.'tri.u\] _pronoun._ 1. others. 1. \[_cb._ [[kasuto|Kasuto]]\]
 ## AI
 
-+ [ ] <span class="hylian">aikwe</span> **aikwe** \['ai.kwe\] _noun._ 1. finger, digit. 1. refers only to those digits which are generally able to perform fine motor manipulations. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">aite</span> **aite** \['ai.te\] _noun._ 1. ai. 1. the name of the third letter of the Neo-Modern Hylian *aktaite*. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">aikwe</span> **aikwe** \['ai.kwe\] _noun._ 1. finger, digit. 1. refers only to those digits which are generally able to perform fine motor manipulations. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">aite</span> **aite** \['ai.te\] _noun._ 1. ai. 1. the name of the third letter of the Neo-Modern Hylian *aktaite*. 1. \[_cb._ [[kasuto|Kasuto]]\]
 ## AU
 
-+ [ ] <span class="hylian">aute</span> **aute** \['au.te\] _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Classical Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">aute</span> **aute** \['au.te\] _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Classical Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
 ## B
 
-+ [ ] <span class="hylian">ba'akantroSe</span> **ba'akantroshe** \[ba.,a.kan.'tro.ʃe\] _noun._ 1. future time, future tense. 1. archaic legacy form, preferred form in NMH is **badotroshe**. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">bado</span> **bado** \[ba.do\] _preposition._ 1. after, beyond, yonder. 1. other notes. 1. \[_cb._ [[contributors]]\]
-+ [ ] <span class="hylian">badotroSe</span> **badotroshe** \[,ba.do.'tro.ʃe\] _noun._ 1. future, future time, future tense. 1. preferred Neo-Modern form of Modern Hylian's **ba'akantroshe**. 1. \[_cb._ [[austin-springer|Austin]], [[jerin-of-calatia|Jerin]]\]
-+ [ ] <span class="hylian">baftag</span> **baftag** \['baf.tag\] _verb._ 1. to weave. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">bagta</span> **bagta** \['bag.ta\] _adjective._ 1. same, identical. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">bagu</span> **bagu** \['ba.gu\] _pronoun._ 1. I, me. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">bágusa</span> **bágusa** \['ba.gu.sa\] _pronoun._ 1. my, mine. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">bamdag</span> **bamdag** \['bam.dag\] _verb._ 1. to continue, to resume. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">bana</span> **bana** \['ba.na\] _adjective, interjection._ 1. great, very much, intense. 1. a general intensifier, especially in expressive situations. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] <span class="hylian">banSag</span> **banshag** \['ban.shag\] _verb._ 1. to scream, to shriek. 1. from Irish "_bean sí_" via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
-+ [ ] <span class="hylian">batáí</span> **batáí** \['ba.tai\] _expression._ 1. hello, hi. 1. casual greeting suitable for social peers; originally coined by Kasuto, retired, and later discovered by Venus. 1. \[_cb._ [[kasuto|Kasuto]], [[venus|Venus]]\]
-+ [ ] <span class="hylian">batyahe</span> **batyahe** \[bat.'ya.he\] _noun._ 1. valley, canyon, gorge. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] **bete** \['be.te\] _part of speech._ 1. b. 1. the name of the fifth letter of the Neo-Modern Hylian *aktaite*. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] **bënkata** \[bEn.'ka.ta\] _adjective._ 1. welcome, appreciated, desired. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] **bënkate** \[bEn.'ka.te\] _noun._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ [ ] **bënkati** \[ben.'ka.ti\] _noun, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [[jerin-of-calatia|Jerin]]\]
-+ [ ] <span class="hylian">béone</span> **béone** \['be.o.ne\] _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
-+ [ ] <span class="hylian">bërek</span> **bërek** \['bEr.ek\] _conjunction._ 1. however. 1. "from Houd. _bebere_, a conjunction meaning _ever_"  1. \[_cb._ [[qbri|QBri]]\]
-+ [ ] <span class="hylian">bianka</span> **bianka** \[bi.'an.ke\] _adjective._ 1. definition. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
-+ [ ] <span class="hylian">biankag</span> **biankag** \[bi.'an.kag\] _verb._ 1. to seek, to look for. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md)\]
-+ [ ] <span class="hylian">bianke</span> **bianke** \[bi.'an.ke\] _part of speech._ 1. search, exploration, study, investigation. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
-
-
-+ **brinsta** (breen' stah) _adjective._ 1. armed, equipped for fighting or hunting
-+ **brinstag** (breen' stahg) _verb._ 1. to arm, to bear arms, to provide arms
-+ **brinste** (breen' stay) _noun._ 1. arm, forelimb
-
++ [x] <span class="hylian">ba'akantroSe</span> **ba'akantroshe** \[ba.,a.kan.'tro.ʃe\] _noun._ 1. future time, future tense. 1. archaic legacy form, preferred form in NMH is **badotroshe**. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bado</span> **bado** \[ba.do\] _preposition._ 1. after, beyond, yonder. 1. other notes. 1. \[_cb._ [[contributors]]\]
++ [x] <span class="hylian">badotroSe</span> **badotroshe** \[,ba.do.'tro.ʃe\] _noun._ 1. future, future time, future tense. 1. preferred Neo-Modern form of Modern Hylian's **ba'akantroshe**. 1. \[_cb._ [[austin-springer|Austin]], [[jerin-of-calatia|Jerin]]\]
++ [x] <span class="hylian">baftag</span> **baftag** \['baf.tag\] _verb._ 1. to weave. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">bagta</span> **bagta** \['bag.ta\] _adjective._ 1. same, identical. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">bagu</span> **bagu** \['ba.gu\] _pronoun._ 1. I, me. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bágusa</span> **bágusa** \['ba.gu.sa\] _pronoun._ 1. my, mine. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bamdag</span> **bamdag** \['bam.dag\] _verb._ 1. to continue, to resume. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">bana</span> **bana** \['ba.na\] _adjective, interjection._ 1. great, very much, intense. 1. a general intensifier, especially in expressive situations. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">banSag</span> **banshag** \['ban.shag\] _verb._ 1. to scream, to shriek. 1. from Irish "_bean sí_" via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
++ [x] <span class="hylian">batáí</span> **batáí** \['ba.tai\] _expression._ 1. hello, hi. 1. casual greeting suitable for social peers; originally coined by Kasuto, retired, and later discovered by Venus. 1. \[_cb._ [[kasuto|Kasuto]], [[venus|Venus]]\]
++ [x] <span class="hylian">batyahe</span> **batyahe** \[bat.'ya.he\] _noun._ 1. valley, canyon, gorge. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">bete</span> **bete** \['be.te\] _part of speech._ 1. b. 1. the name of the fifth letter of the Neo-Modern Hylian *aktaite*. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bënkata</span> **bënkata** \[bEn.'ka.ta\] _adjective._ 1. welcome, appreciated, desired. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bënkate</span> **bënkate** \[bEn.'ka.te\] _noun._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ [x] <span class="hylian">bënkati</span> **bënkati** \[ben.'ka.ti\] _noun, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [[jerin-of-calatia|Jerin]]\]
++ [x] <span class="hylian">béone</span> **béone** \['be.o.ne\] _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
++ [x] <span class="hylian">bërek</span> **bërek** \['bEr.ek\] _conjunction._ 1. however. 1. "from Houd. _bebere_, a conjunction meaning _ever_"  1. \[_cb._ [[qbri|QBri]]\]
++ [x] <span class="hylian">bianka</span> **bianka** \[bi.'an.ke\] _adjective._ 1. definition. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
++ [x] <span class="hylian">biankag</span> **biankag** \[bi.'an.kag\] _verb._ 1. to seek, to look for. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md)\]
++ [x] <span class="hylian">bianke</span> **bianke** \[bi.'an.ke\] _noun._ 1. search, exploration, study, investigation. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
++ [x] <span class="hylian">biukoge</span> **bíúkoge** _noun._ 1. earth, ground, dirt 1. ([[venus|Venus]])
++ [x] <span class="hylian">blafa</span> **blafa** (blafa) _adjective._ 1. probable, likely ([[venus|Venus]])
++ [x] <span class="hylian">blafe</span> **blafe** (blafa) _noun._ 1. probability, likelihood ([[venus|Venus]])
++ [x] <span class="hylian">blïne</span> **blïne** (blïne) _noun._ 1. goblin 1. the root term used to group all goblins together; _blinën_ are a variety of humanoid monsters who are not settled down in the same social structures as humans in Hyrule (_Nintendo_), (_Austin_)
++ [x] <span class="hylian">boka</span> **boka** _adjective._ 1. none, empty, absent 1. ([[qbri|QBri]])
++ [x] <span class="hylian">bokakrone</span> **bokakrone** _noun._ 1. never 1. from proposed _boka_ (none) and canonical _krone_ (time) 1. ([[kasuto|Kasuto]], [[qbri|QBri]])
++ [x] <span class="hylian">bokatokre</span> **bokatokre** _noun._ 1. nowhere 1. from proposed _boka_ (none) and proposed(?) _tokre_ (place) 1. ([[qbri|QBri]])
++ [x] <span class="hylian">boke</span> **boke** _noun._ 1. nothing, void, emptiness 1. ([[qbri|QBri]])
++ [x] <span class="hylian">bokkoblïne</span> **bokoblïne** (bokoblïne) _noun._ 1. Bokoblin 1. small and lithe variety of goblins which live in all sorts of environments; they are often pressed into serving bulblins or moblins (_Nintendo_), (_Austin_)
++ [x] <span class="hylian">bra</span> **bra** _adjective, onomatopoeia._ 1. arf, woof, bark 1. the sound commonly made by dogs ([[pata-hikari|Pata Hikari]])
++ [ ] <span class="hylian">brinsta</span> **brinsta** (breen' stah) _adjective._ 1. armed, equipped for fighting or hunting \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
++ [ ] <span class="hylian">brinstag</span> **brinstag** (breen' stahg) _verb._ 1. to arm, to bear arms, to provide arms \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
++ [ ] <span class="hylian">brinste</span> **brinste** (breen' stay) _noun._ 1. arm, forelimb \[cb. [[Kasuto]]]
++ [ ] <span class="hylian">brinstoke</span> **brinstoke** _noun._ 1. sleeve, armband, armwear ([[k-chan|K-Chan]], [[venus|Venus]])
++ [ ] <span class="hylian">bulblïne</span> **bulblïne** (bulblïne) _noun._ 1. Bulblin 1. a tribe of goblins skilled in taming and riding boars, they primarily live a nomadic life on the open plains of Hyrules (_Nintendo_), (_Austin_)
++ [ ] <span class="hylian">bünSa</span> **bünsha** _adjective._ 1. safe, secure ([[qbri|QBri]])
++ [ ] <span class="hylian">bunSag</span> **bünshag** _verb._ 1. to save from danger, to secure ([[qbri|QBri]])
++ [ ] <span class="hylian">bwiba</span> **bwiba** _adjective._ 1. sweet, affectionate 1. Does not describe the flavor of sugar or fruit ([[venus|Venus]])
 ## C
 
-+ **cate** (tsah' tay) _noun._ c, ts; the name of the sixth letter of the Classical Hylian _aktaite_
-
++ [ ] <span class="hylian">cate</span> **cate** (tsah' tay) _noun._ c, ts; the name of the sixth letter of the Classical Hylian _aktaite_
++ [ ] <span class="hylian">cukae</span> **cukae** _noun_ 1. user, operator, wielder 1. from Japanese <ruby>使<rt>つか</rt>え</ruby> (to use, user), originally proposed as _tsukae,_ spelling changed when **Venus** pointed out the existence of _acete_ ([[contributors/auric_trinity|Auric Trinity]])
 ## CH
 
-+ **chote** (choh' tay) _noun._ ch; the name of the seventh letter of the Classical Hylian _aktaite_
++ [ ] <span class="hylian">Cape</span> **Cape** (chape) _noun_ 1. head 1. back-formation from proposed _chapoke_ (hat) ([[k-chan|K-Chan]], [[venus|Venus]])
++ [ ] <span class="hylian">Capoke</span> **Capoke** (chapoke) _noun_ 1. hat ([[venus|Venus]])
++ [ ] <span class="hylian">Cate</span> **Cate** (chate) _noun_ 1. ch 1. The name of the letter "ch" in Hylian (number will be part of final sort) (_Austin_)
++ [ ] <span class="hylian">Cepaye</span> **Cepaye** (chepaye) _noun_ 1. heart 1. refers to the physical organ, not the seat of emotions ([[venus|Venus]])
++ [ ] <span class="hylian">Cirka</span> **Cirka** (chirka) _adjective_ 1. next, following 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
++ [ ] <span class="hylian">Cirkau</span> **Cirka•u** (chirkau) _preposition_ 1. next to, nearby 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
++ [ ] <span class="hylian">Cirkdre</span> **Cirkdre** (chirkdre) _noun_ 1. tomorrow 1. from _Cirka_ "next" and _tiudre_ "day" ([[venus|Venus]])
++ [ ] <span class="hylian">Come</span> **Come** (chome) _noun_ 1. thing 1. native form of _obJekte_ 1. from French _chose_ and Japanese <ruby>もの<rt></rt></ruby>, both meaning “thing” ([[qbri|QBri]])
++ [ ] <span class="hylian">Cote</span> **chote** (choh' tay) _noun._ ch; the name of the seventh letter of the Classical Hylian _aktaite_
++ [ ] <span class="hylian">Cuke</span> **Cuke** (chuke) _noun_ 1. chuka 1. a unit of length equal to 4 _dënletën_, or 9 U.S. customary feet ([[pata-hikari|Pata Hikari]])
 
 ## D
 
-+ **dag** (dahg) _verb, pro-verb._ 1. to do
-+ **daksunare** (dahk'' soo nah' ray) _noun._ 1. dictionary
-+ **danói** (dahn oy') _expression._ 1. you're welcome, no problem
-+ **danre** (dahn' ray) _noun._ 1. money, currency, value, wealth
-+ **daonkve** (dah ohnk' vay) _noun._ 1. lake; contraction of _daia onkve_, "of water"
-+ **darasuna** (dah'' rah soo' nah) _adjective._ 1. celestial
-+ **darasune** (dah'' rah soo' nay) _noun._ 1. star; refers to any stars except the sun
-+ **dari** (dah' ree) _expression, vulgar._ 1. damn, damn it, cursed; moderately vulgar
-+ **darshe** (dahr' shay) _noun, vulgar._ 1. ass, buttocks
-+ **date** (dah' tay) _noun._ 1. d; the name of the eighth letter of the Classical Hylian _aktaite_
-+ **daia** (die' ah) _conjunction._ 1. of, from, about, with; used to connect related terms, especially related to possession or origin
-+ **daz** (dahz) _contraction._ 1. of the, from the, about the, with the; a contraction of _daia taz_
-+ **dega** (day' gah) _adjective._ 1. divine, godly, sacred
-+ **dege** (day' gay) _noun._ 1. god, divine spirit
-+ **dégile** (day' ghee lay) _noun, masculine._ 1. god, a masculine divine being
-+ **dégine** (day' ghee nay) _noun, feminine._ 1. goddess, a feminine divine being
-+ **dëman** (deh' ma) _adjective._ 1. ten 
-+ **dëmasha** (deh mah' shah) _adjective, ordinal._ 1. tenth
-+ **dëmashe** (deh mah' shay) _noun, ordinal._ 1. the tenth
-+ **dëme** (deh' may) _noun, cardinal._ 1. ten
-+ **depoto** (day poh' toh) _preposition._ 1. before, in front
-+ **depotok** (day poh' tohk) _adverb._ 1. before, prior to
-+ **dhote** (dhoh' tay) _noun._ 1. dh, the name of the ninth letter of the Classical Hylian _aktaite_
-+ **diarag** (dee ahr' ays) _verb._ 1. to give
-+ **diare** (dee ahr' ay) _noun._ 1. gift
-+ **dieba** (dee ay' bah) _adjective._ 1. stolen
-+ **diebag** (dee ay' bahg) _verb._ 1. to steal, to rob
-+ **diebe** (dee ay' bay) _noun._ 1. thief, robber, burglar
-+ **didëman** (dee deh' mahn) _adjective._ 1. twenty
-+ **didëmasha** (dee'' deh mah' shah) _adjective, ordinal._ 1. twentieth
-+ **didëmashe** (dee'' deh ma' shay) _noun, ordinal._ 1. the twentieth
-+ **didëme** (dee deh' may) _noun._ 1. twenty
-+ **disalan** (dee sah' lahn) _adjective_ 1. two hundred
-+ **disale** (dee sah' lay) _noun._ 1. two hundred
-+ **disan** (dees' ahn) _adjective._ 1. two; unlike English, the adjectival numbers in Classical Hylian must be pluralized
-+ **disasha** (dees ah' shah) _adjective, ordinal._ 1. second
-+ **disashe** (dees ah' shay) _noun, ordinal._ 1. the second
-+ **dise** (dees' ay) _noun._ 1. two
-+ **do** (doh) _number adjunct_ 1. connects two numbers into a larger compound, especially _malan/male_ or higher base numbers, for example _disan do malan disan_ (2,002)
-+ **doia** (doy' ah) _preposition_ 1. from
-+ **dokwá** (doh kwah') _expression, vulgar._ 1. fuck; a very intense and vulgar expression
-+ **dokwa** (doh' kwah) _adjective, vulgar._ 1. fucking, fucked
-+ **dokwag** (doh' kwag) _verb, vulgar._ 1. to fuck, to have sex with
-+ **dono** (doh' noh') _pronoun, interrogative_ 1. where
++ **dag** (dahg) _verb, pro-verb._ 1. to do \[cb. [[Kasuto]]]
++ **daksunare** (dahk'' soo nah' ray) _noun._ 1. dictionary \[cb. [[Kasuto]]]
++ **daminaJëfolkag** _verb_ 1. to roll around on the grass with a pet 1. Austin suggests derivational elements from this word: _damine_ "domestic animal, pet", _nejae_ "grass", _folkag_ "to roll about" ([[emekthian|Emekthian]])
++ **danói** (dahn oy') _expression._ 1. you're welcome, no problem \[cb. [[Kasuto]]]
++ **danre** (dahn' ray) _noun._ 1. money, currency, value, wealth \[cb. [[Kasuto]]]
++ **daonkve** (dah ohnk' vay) _noun._ 1. lake; contraction of _daia onkve_, "of water" \[cb. [[Kasuto]]]
++ **darasuna** (dah'' rah soo' nah) _adjective._ 1. celestial \[cb. [[Kasuto]]]
++ **darasune** (dah'' rah soo' nay) _noun._ 1. star; refers to any stars except the sun \[cb. [[Kasuto]]]
++ **dari** (dah' ree) _expression, vulgar._ 1. damn, damn it, cursed; moderately  \[cb. [[Kasuto]]]vulgar
++ **darkna•ute** (darknaute) _noun_ 1. Darknut, Monster Knight 1. A monster which wears heavy armor and battles like a Knight, may be related to Moblins or Goriya; may derive from /darke/ + /naute/ (_Nintendo_), (_Austin_)
++ **darshe** (dahr' shay) _noun, vulgar._ 1. ass, buttocks \[cb. [[Kasuto]]]
++ **date** (dah' tay) _noun._ 1. d; the name of the eighth letter of the Classical  \[cb. [[Kasuto]]]Hylian _aktaite_
++ **dawëna** _adjective_ 1. foolish, stupid 1. from the _Darwin_ Awards, notable as a list of ways foolish people notably removed themselves from producing (further) offspring ([[contributors/auric_trinity|Auric Trinity]])
++ **daz** (dahz) _contraction._ 1. of the, from the, about the, with the; a contraction  \[cb. [[Kasuto]]]of _daia taz_
++ **daia** (die' ah) _conjunction._ 1. of, from, about, with; used to connect related  \[cb. [[Kasuto]]]terms, especially related to possession or origin
++ **dainshag** (dainshag) _verb_ 1. to guess ([[venus|Venus]])
++ **deatag** _verb_ 1. to stay, to remain, to reside 1. conflicts with canonical _vïnSag_ (to live, to reside, to dwell) ([[qbri|QBri]])
++ **dega** (day' gah) _adjective._ 1. divine, godly, sacred \[cb. [[Kasuto]]]
++ **dege** (day' gay) _noun._ 1. god, divine spirit \[cb. [[Kasuto]]]
++ **dégidre** _noun_ 1. Goddessday 1. Seventh day of the Hylian week, honors the Golden Goddess - Din, Farore, and Nayru; from canonical _dege_ (deity, god) and _tiudre_ (daytime) ([[venus|Venus]])
++ **dégile** (day' ghee lay) _noun, masculine._ 1. god, a masculine divine being \[cb. [[Kasuto]]]
++ **dégine** (day' ghee nay) _noun, feminine._ 1. goddess, a feminine divine being \[cb. [[Kasuto]]]
++ **dëman** (deh' ma) _adjective._ 1. ten  \[cb. [[Kasuto]]]
++ **dëmasha** (deh mah' shah) _adjective, ordinal._ 1. tenth \[cb. [[Kasuto]]]
++ **dëmashe** (deh mah' shay) _noun, ordinal._ 1. the tenth \[cb. [[Kasuto]]]
++ **dëme** (deh' may) _noun, cardinal._ 1. ten \[cb. [[Kasuto]]]
++ **dëna** _adjective_ 1. small 2. half, less than fully, only sharing one parent 1. proposed to refer to clothing by size and expanded to generic use 2. suggested for use in kinship terms equivalent to English _half-sister_ 1, 2. ([[venus|Venus]])
++ **dënal'usheoke** (dënal'usheoke) _noun_ 1. male undergarments (_Venus, Queen of Faeries_)
++ **dënan'usheoke** (dënan'usheoke) _noun_ 1. lingerie 1. /alternative form proposed by Venus, interpreting the -il- and -in- suffixes to imply a natural gender, or in her words: "because underwear aren't people;" Austin disagrees about this implication, and prefers the other entry, though he maintains this form for historical purposes/ (_Venus, Queen of Faeries_)
++ **dënlete** _noun_ 1. dënleto 1. a unit of measure equal to 9 matra, or 27 inches ([[pata-hikari|Pata Hikari]])
++ **dënsoke** (dënsoke) _noun_ 1. small shirt, t-shirt (_Venus, Queen of Faeries_)
++ **dënushéoke** _noun_ 1. small underwear, tight underwear ([[venus|Venus]])
++ **dënushéokile** (dënushéokile) _noun_ 1. small male underwear ([[venus|Venus]])
++ **dënushéokine** (dënushéokine) _noun_ 1. lingerie, small female underwear ([[venus|Venus]])
++ **depota nasune** (depota nasune) _compound noun_ 1. previous night, last night 1. Proposed as single word _depotanasune_, separated for clarity ([[qbri|QBri]])
++ **depoto** (day poh' toh) _preposition._ 1. before, in front \[cb. [[Kasuto]]]
++ **depotok** (day poh' tohk) _adverb._ 1. before, prior to \[cb. [[Kasuto]]]
++ **dhote** (dhoh' tay) _noun._ 1. dh, the name of the ninth letter of the Classical  \[cb. [[Kasuto]]]Hylian _aktaite_
++ **diarag** (dee ahr' ays) _verb._ 1. to give \[cb. [[Kasuto]]]
++ **diare** (dee ahr' ay) _noun._ 1. gift \[cb. [[Kasuto]]]
++ **dieba** (dee ay' bah) _adjective._ 1. stolen \[cb. [[Kasuto]]]
++ **diebag** (dee ay' bahg) _verb._ 1. to steal, to rob \[cb. [[Kasuto]]]
++ **diebe** (dee ay' bay) _noun._ 1. thief, robber, burglar \[cb. [[Kasuto]]]
++ **didëman** (dee deh' mahn) _adjective._ 1. twenty \[cb. [[Kasuto]]]
++ **didëmasha** (dee'' deh mah' shah) _adjective, ordinal._ 1. twentieth \[cb. [[Kasuto]]]
++ **didëmashe** (dee'' deh ma' shay) _noun, ordinal._ 1. the twentieth \[cb. [[Kasuto]]]
++ **didëme** (dee deh' may) _noun._ 1. twenty \[cb. [[Kasuto]]]
++ **disalan** (dee sah' lahn) _adjective_ 1. two hundred \[cb. [[Kasuto]]]
++ **disale** (dee sah' lay) _noun._ 1. two hundred \[cb. [[Kasuto]]]
++ **disan** (dees' ahn) _adjective._ 1. two; unlike English, the adjectival numbers in  \[cb. [[Kasuto]]]Classical Hylian must be pluralized
++ **disasha** (dees ah' shah) _adjective, ordinal._ 1. second \[cb. [[Kasuto]]]
++ **disashe** (dees ah' shay) _noun, ordinal._ 1. the second \[cb. [[Kasuto]]]
++ **dise** (dees' ay) _noun._ 1. two \[cb. [[Kasuto]]]
++ **do** (doh) _number adjunct_ 1. connects two numbers into a larger compound,  \[cb. [[Kasuto]]]especially _malan/male_ or higher base numbers, for example _disan do malan disan_ (2,002)
++ **doia** (doy' ah) _preposition_ 1. from \[cb. [[Kasuto]]]
++ **dokwá** (doh kwah') _expression, vulgar._ 1. fuck; a very intense and vulgar  \[cb. [[Kasuto]]]expression
++ **dokwa** (doh' kwah) _adjective, vulgar._ 1. fucking, fucked \[cb. [[Kasuto]]]
++ **dokwag** (doh' kwag) _verb, vulgar._ 1. to fuck, to have sex with \[cb. [[Kasuto]]]
++ **dono** (doh' noh') _pronoun, interrogative_ 1. where \[cb. [[Kasuto]]]
+
++ **diadora** (diadora) _adjective_ 1. different ([[qbri|QBri]])
++ **diadorag** (diadorag) _verb_ 1. to differ ([[qbri|QBri]])
++ **diadore** (diadore) _noun_ 1. difference ([[qbri|QBri]])
++ **diarag** (diarag) _verb_ 1. to grant a wish, to make real ([[venus|Venus]])
++ **dine** _noun_ 2. Din's Month, April Fourth month of the Hylian Calendar, represents the power of life flowing through the people and the crops ([[nintendo|Nintendo]], [[venus|Venus]], [[contributors/arrow|Arrow]]?)
++ **diose** (diose) _noun_ 1. twin 1. from _disan_ "two" and _hiose_ "sibling" ([[kasuto|Kasuto]], [[venus|Venus]])
++ **dirange** (dirange) _noun_ 1. side 2. alignment 1. ([[venus|Venus]]) 2. ([[austin-springer|Austin Springer]])
++ **disamiCe** _noun_ 1. minute 1. roughly means “(the) second division” with second referring to the place or scale; from canonical _disan_ (two), originally proposed as _disamiche_ ([[venus|Venus]], [[kasuto|Kasuto]], [[contributors/arrow|Arrow]])
++ **diskelag** (diskelag) _verb_ 1. to descend, to sink ([[qbri|QBri]])
++ **dormag** (dormag) _verb_ 1. to sleep 1. _presumed_ relaed to Latin<sup>?</sup> _dormire_ ([[qbri|QBri]])
++ **dríanag** (dríanag) _verb_ 1. to begin, to start ([[venus|Venus]])
 
 ## DH
 
