@@ -2,7 +2,7 @@
 
 ## [[venus|Venus, Queen of Faeries]] grins:
 
-Well, they are... their spellings just need to be modified a teeny bit to fit Kasuto's grammar rules. I only copied things verbatum [sic]; I didn't touch anything (though I added batyahe as a word for valley. I think that sounds pretty cool. Think you could use it, [[oniganon|OniGanon]]?).
+Well, they are... their spellings just need to be modified a teeny bit to fit Kasuto's grammar rules. I only copied things verbatum [sic]; I didn't touch anything (though I added *batyahe* as a word for valley. I think that sounds pretty cool. Think you could use it, [[oniganon|OniGanon]]?).
 
 ### [[043-bbb|BBB wrote:]]
 
