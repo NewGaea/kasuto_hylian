@@ -1,5 +1,11 @@
 ---
-tag: contributor maintainer linguist
+tags:
+  - contributor
+  - maintainer
+  - linguist
+aliases:
+  - Jerin
+  - Jerin of Calatia
 ---
 # Jerin of Calatia
 ---
