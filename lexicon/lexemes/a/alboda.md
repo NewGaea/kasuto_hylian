@@ -3,9 +3,13 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech: Adjective
+englishGloss:
+  - domestic
+  - residential
 contributors:
+  - "[[contributors/austin-springer|Austin Springer]]"
+  - "[[contributors/tushen|Tushen]]"
 ---
 # *alboda*
 
@@ -21,10 +25,11 @@ contributors:
 
 ### alboda (plural *albodan*)
 1. domestic, residential
-2. (context) sense
 
 # Thesaurus
 ## Homolemmas
+- [albodag](lexicon/lexemes/a/albodag.md): to live in, to reside, to dwell at
+- [albode](lexicon/lexemes/a/albode.md): house, flat, apartment, quarters, chamber, residence
 ## Synonyms
 
 ## Antonyms
