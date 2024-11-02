@@ -4,23 +4,23 @@ _Austin's Aside: The following names are sorted alphabetically by name and chron
   - Aquamentus (Boss) - **akumente**
   - Armos - **armose**
   - Blade Trap
-  - Boulder
+  - Boulder - *masakse*
   - Bubble - bùbële
   - Darknut - **darknaute**
   - Digdogger (Boss) - **dïgdoge**
-  - Dodongo (Boss) - **dodonge**
-  - Gel - **gele**
+  - Dodongo (Boss) - **doñdoñu** "the drumbeat"
+  - Gel - **chújële**
   - Ghini - **ginie**
   - Gibdo - **gibdoe**
-  - Gleeok (Boss) - **gli'yoke**
+  - Gleeok (Boss) - **glihoku**
   - Gohma (Boss) - **gomae**
   - Goriya - **goriye**
-  - Keese - **k"eese**
+  - Keese - **kiise**
   - Lanmola - **lanmole**
   - Leever - **livare**
   - Like Like - **goegoeare**
   - Lynel - **lainele**
-  - Manhandla (Boss)
+  - Manhandla (Boss) - **nückursiyu**
   - Moblin - **mobline**
   - Moldorm - **moldorme**
   - Octorok - **oktoroke** or something from (_onte_ + _shakse_) - perhaps **ontashakse**?
@@ -34,7 +34,7 @@ _Austin's Aside: The following names are sorted alphabetically by name and chron
   - Vire
   - Wallmaster
   - Wizzrobe
-  - Zol
+  - Zol - **chúzole**
   - Zora
 - The Legend of Zelda: The Adventure of Link
   - Ache
