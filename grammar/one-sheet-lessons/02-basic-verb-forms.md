@@ -2,7 +2,7 @@
 tags:
   - lesson
 ---
-# Hirlërde Hilañva - Chapter 2: Hylian Verbs I – Simple Tense
+# Hirlërde daia Hilañve - Chapter 2: Hylian Verbs I – Simple Tense
 
 Now that we know how to build sentences, we should try to understand the elements of each sentence. The most important class of word for this purpose is the verb, which is the answer to question: “What is happening in this sentence?”
 
@@ -49,7 +49,7 @@ The following samples help to demonstrate how to conjugate verbs:
 ---
 ```ngloss
 \ex Lïnkera koemes ab koemën mokan.
-\ft Link ate all of the food.
+\ft Link ate a lot of food.
 ```
 ---
 ### Present Tense
