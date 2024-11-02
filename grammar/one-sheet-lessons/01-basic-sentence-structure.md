@@ -2,7 +2,7 @@
 tags:
   - lesson
 ---
-# Hirlërde Hilañva - Chapter 1: Basic Sentence Structure
+# Hirlërde daia Hilañve - Chapter 1: Basic Sentence Structure
 
 The first question most people will ask about a new language is how to say various things – and we hold to the old adage that if we give you the fish, you will eat for the day, but if we teach you to fish, you may eat for the rest of your life. So we are going to teach you how to structure a sentence in Modern Hilañve before we go any further or go into details. This lesson may seem awkward, for we will use only a few words in Hylian and will focus on teaching you how to form the simplest of sentences.
 
@@ -53,7 +53,7 @@ What is Link reading? A book! “Link,” is the subject, and “a book,” is t
 | _diarag_     | to give, giving          |
 | _zhatag_     | to say, saying           |
 | _lërde_      | book                     |
-| _goere_      | food                     |
+| _koeme_      | food                     |
 | _promag_     | to walk, walking         |
 
 ## Indirect Objects
