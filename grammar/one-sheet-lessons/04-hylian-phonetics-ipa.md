@@ -3,7 +3,7 @@ tags:
   - lesson
   - phonology
 ---
-# Hirlërde Hilañva - Chapter 4: Sounds of Hylian – Romanization & IPA
+# Hirlërde daia Hilañve - Chapter 4: Sounds of Hylian – Romanization & IPA
 
 Now that we know how to form simple verbs and adjectives, it’s time to get to actually _speaking_ the Modern Hylian language.
 
@@ -31,7 +31,7 @@ Most of the consonants in Hylian are pronounced nearly as an American English sp
 |            r            | t as in _water_ (dialectal)<br>as Japanese \<r> in _nigiri_ | ɾ                     |
 |            s            |               s as in _safe_, c as in _lace_                | s                     |
 |           sh            |                  _sh_ as in _ship_, _fish_                  | ʃ                     |
-|            t            |                  t as in _t__ake_, _se__t_                  | tʰ, t                 |
+|            t            |                      t as in take, set                      | tʰ, t                 |
 |           th            |                  th as in _thick_, _fifth_                  | θ                     |
 |            v            |                   v as in _vine_, _wave_                    | v                     |
 |            w            |                       w as in _well_                        | w                     |
@@ -45,7 +45,7 @@ Most of the consonants in Hylian are pronounced nearly as an American English sp
 
 Where not specified above, consonants cluster similarly to English, and a word can even begin with a cluster as complex as <_str_>, much like the English “strength.” We will explore some of the unique ways they behave in a later chapter, but in general:
 
-1. The letter <**h**> only clusters as defined above. It starts syllables following any other letter, or after an apostrophe.
+1. The letter <**h**> only clusters as defined above. It starts syllables following any other letter, or after an apostrophe (or interpunct \<•>) .
 2. The letter <**r**> strengthens the closure of the consonant before it. It never causes a <**ts**> or <**ch**> like sound in Hylian, but may cause a long consonant or aspiration.
 3. The letters <**h**>, <**w**>, and <**y**> only occur at the start of a syllable. Similarly, the letter <ñ> only appears in the ending part of a syllable, immediately after a vowel.
 
@@ -62,10 +62,10 @@ Hylian has 11 plain vowels. It is important to understand that all of these are 
 |        **u, ú**         |             u as in Sp. _**u**no_              |           **u**           |
 |        **ä, à**         |              a as in _**a**pple_               |           **æ**           |
 |        **ë, è**         |           e as in _p**e**t, s**e**t_           |           **ɛ**           |
-|        **ï, ì**         |           i as in _p_i_ck, t__i__n_            |           **ɪ**           |
+|        **ï, ì**         |          i as in _p**i**ck, t**i**n_           |           **ɪ**           |
 |        **ö, ò**         | au as in _c**au**ght_<br>ou as in _b**ou**ght_ |           **ɔ**           |
-|        **ü, ù**         |         u as in _str__u__t, p__u__tt_          |           **ʌ**           |
-|        **ÿ, ý**         |              oo as in _b__oo__k_               |           **ʊ**           |
+|        **ü, ù**         |         u as in _str**u**t, p**u**tt_          |           **ʌ**           |
+|        **ÿ, ý**         |              oo as in _b**oo**k_               |           **ʊ**           |
 
 For the first five vowels, pronounce the vowels as if you were speaking with, or imitating, a Spanish accent. If you pronounce these vowels as you might expect from English, you will struggle to recognize some of the diphthongs.
 
@@ -73,4 +73,4 @@ Also, it may be difficult to hear the difference between \<a, á> and \<ö, ò> 
 
 And that’s all for this lesson: Hopefully you can take this opportunity to look back at the past lessons and hear the sounds in your mind – or read them out loud – a bit better now! Next time: Adjectives and Articles.
 
-
+**Next Lesson:** [Basic Adjectives](grammar/one-sheet-lessons/05-basic-adjectives.md)
