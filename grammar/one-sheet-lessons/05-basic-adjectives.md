@@ -2,11 +2,11 @@
 tags:
   - lesson
 ---
-# Hirlërde Hilañve - Lesson 5: Basic Adjectives & Articles
+# Hirlërde daia Hilañve - Lesson 5: Basic Adjectives & Articles
 
 Adjectives are words which describe nouns. The quick brown fox is a fox with two adjectives describing it: _quick_ describes its speed, while _brown_ describes its color. In English, adjectives usually come before the noun they describe, but in Modern Hylian, they almost always come after.
 
-So instead of _the quick brown fox_ in English, you would describe _taz wole pastya biua_, literally “the fox quick (and) brown.”
+So instead of _the quick brown fox_ in English, you would describe _taz kvïcane pastya biua_, literally “the fox quick (and) brown.”
 
 ## Marking Adjectives
 
@@ -14,8 +14,12 @@ We’ve seen the simplicity of marking nouns and verbs so far, because they don�
 
 Adjectives, however, must agree in number with the noun they describe. Remember that nouns can be singular or plural? Well, Adjectives have to take a singular _-a_ suffix if they describe a singular noun, and a plural _-an_ suffix if they describe a plural noun.
 
-**Hitën man koemas ab malsëte ma****.  
-**“Big people eat a big meal_._”
+---
+```ngloss
+\ex Hitën man koemas ab malsëte ma.
+\ft Big people eat a big meal.
+```
+---
 
 Note that the plural _hitën_ takes the plural adjective _man_ while the singular _malsëte_ takes a singular adjective _ma_, but both forms translate into English as simply “big.”
 
@@ -34,21 +38,21 @@ Here, _the child_ is something known by the listener, but we don’t know _what_
 
 ## Vocabulary
 
-| **Hylian** | **English**            |
-| ---------- | ---------------------- |
-| _wole_     | wolf, fox              |
-| _pastya_   | quick, fast, rapid     |
-| _biua_     | first, one, sole, only |
-| _ma_       | big, large, thick      |
-| _taz_      | the                    |
-| _raz_      | a, an                  |
-| _malsëte_  | meal, prepared food    |
-| _kime_     | child, young person    |
-| _soke_     | shirt                  |
-| _sihia_    | green                  |
-| _toboke_   | dress, gown, robe      |
-| _vimia_    | pink                   |
-| _simia_    | purple                 |
+| **Hylian** | **English**          |
+| ---------- | -------------------- |
+| _kvïcane_  | fox                  |
+| _pastya_   | quick, fast, rapid   |
+| _bíúa_     | brown, earth-colored |
+| _ma_       | big, large, thick    |
+| _taz_      | the                  |
+| _raz_      | a, an                |
+| _malsëte_  | meal, prepared food  |
+| _kime_     | child, young person  |
+| _soke_     | shirt                |
+| _sihia_    | green                |
+| _toboke_   | dress, gown, robe    |
+| _vimia_    | pink                 |
+| _simia_    | purple               |
 ## Describing Things
 
 In English, we can describe things in several ways, and Hylian is no different. We’ve already established that we can stick adjectives directly after the noun the describe, but how about if someone asks us what color something is?
