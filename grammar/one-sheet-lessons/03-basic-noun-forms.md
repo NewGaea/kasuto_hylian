@@ -2,7 +2,7 @@
 tags:
   - lesson
 ---
-# Hirlërde Hilañva - Chapter 3: Basic Hylian Nouns
+# Hirlërde daia Hilañve - Chapter 3: Basic Hylian Nouns
 
 Now that we’ve covered the basic structure of statements and verbs, it’s time to learn how to use nouns in Modern Hylian. Nouns, or _sonën_ in Modern Hylian, are words that represent things: concrete things like people, places, and objects, and abstract things like ideas, forces, and emotions.
 
