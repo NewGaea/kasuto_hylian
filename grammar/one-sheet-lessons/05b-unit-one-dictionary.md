@@ -3,11 +3,11 @@ tags:
   - lesson
   - dictionary
 aliases:
-  - Hirlërde daia Hilañgve - Unit 1 Dictionary
-linter-yaml-title-alias: Hirlërde daia Hilañgve - Unit 1 Dictionary
+  - Hirlërde daia Hilañve - Unit 1 Dictionary
+linter-yaml-title-alias: Hirlërde daia Hilañve - Unit 1 Dictionary
 ---
 
-# Hirlërde daia Hilañgve - Unit 1 Dictionary
+# Hirlërde daia Hilañve - Unit 1 Dictionary
 
 Thank you for your interest in learning Neo-Modern Hylian. We hope you've been reading all of the lessons so far, and picked up a bit about the words we've shared. This is a bonus for the Unit 1 compilation, with more complete definitions for all of the words we've covered in the first 5 lessons. For simplicity, they're listed in English alphabetical order -- since we haven't explained the Hylian alphabet yet.
 
@@ -44,7 +44,7 @@ Thank you for your interest in learning Neo-Modern Hylian. We hope you've been r
 + **pastya** (_adjective_) 1. quick, fast, rapid, speedy
 + **piante** (_noun_) 1. parent; _piante_ implies a familial relationship between the _piante_ and some _hiose_
 + **promag** (_verb_) 1. to walk, to stroll, to move about on foot
-+ **rausën** (_noun_) 1. rice
++ **rausën** (_noun_) 1. rice (uncountable)
 + **raz** (_article_) 1. a, an; the indefinite article refers to an unclarified thing, something the speaker _may_ know, but which the listener is not expected to know the identity of at this point
 + **sihia** (_adjective_) 1. green, grue, teal; generally that range of colors that is equidistant or closer to blue than to yellow on a color wheel
 + **simia** (_adjective_) 1. purple, violet, magenta; generally that range of colors which is equidistant or closer to blue than to red on a color wheel

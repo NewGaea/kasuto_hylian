@@ -1,3 +1,5 @@
+---
+---
 As changes from the original documentation by Kasuto:
 
 1. The HLS uses a new romanization, and an updated version of Kasuto's original fonts. It is our objective to, as near as possible, allow text to be fully legible in plain Latin script as well as Hylian font faces, though certain digraphs will exist purely for this purpose. In general, we advise using case-sensitive spellings to avoid this.
@@ -6,11 +8,11 @@ As changes from the original documentation by Kasuto:
 4. The circumflex \<^\> is relacing the grave \<\`\> as the preferred marker for modified vowels' _asënta_ forms.
 5. We are incorporating the following phonemes and letters which were not originally present:
 	1. /ts/ as \<c\>
-	2. /tS/ as  \<ch\> or \<C\>
+	2. /tS/ as \<ch\> or \<C\>
 	3. /ŋ/ as \<ñ\> or \<ng\>
 	4. /D/ as \<dh\> or \<D\>
 	5. /x/ as \<x\> or \<kh\>
-	6. /oo/ as <ŭ> 
+	6. /oo/ as <ŭ>
 6. Grammatical suffixes are not listed as their own entries. However, to make up for this change, more words are listed in multiple grammatical forms!
 
 In addition to this, the following basic rules are used:
