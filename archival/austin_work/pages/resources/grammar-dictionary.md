@@ -121,9 +121,9 @@ The perfect mood refers to actions as discrete, completed events. A perfect is n
 
 The infinitive mood is the dictionary form for all verbs in Hylian. While Kasuto only presents a single infinitive, the infinitive can conceivably be conjugated with the same patterns as the other tenses, though English does not typically combine time and infinitive marking.
 
-**-ag** (-ag) is the suffix for the (present) infinitive. This is equivalent to the English construction of "to verb," and suggests a present time.
-**-ëg** (-ëg) would suggest a past infinitive, or the construction "to have verbed" in English, as in "'Tis better to have loved..." It is worth noting that this is an assumption, not a part of Kasuto's official grammar.
-**-og** (-og) would suggest a future infinitive, which could be used as a form of intentional, which might be similar to "want to verb" in English. It is worth noting that this is an assumption, not a part of Kasuto's official grammar.
+- **-ag** (-ag) is the suffix for the (present) infinitive. This is equivalent to the English construction of "to verb," and suggests a present time.
+- **-ëg** (-ëg) would suggest a past infinitive, or the construction "to have verbed" in English, as in "'Tis better to have loved..." It is worth noting that this is an assumption, not a part of Kasuto's official grammar.
+- **-og** (-og) would suggest a future infinitive, which could be used as a form of intentional, which might be similar to "want to verb" in English. It is worth noting that this is an assumption, not a part of Kasuto's official grammar.
 
 As an additional addendum to the infinitive, the _gerund_ form of a verb, that form which allows a verb to serve as a noun, becoming the subject or object of a sentence, can be formed by adding a nominal suffix (-e, -ën, -i, -ïn) after the infinitive suffix. This is an addendum, but a sensible one.
 
