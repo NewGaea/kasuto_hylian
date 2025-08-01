@@ -98,19 +98,19 @@ Pronouns may take the genitive as if they were nouns, with the same _-su_ and _-
 
 Impersonal pronouns are pronouns which don't refer to people, and they include demonstratives and interrogative pronouns, such as who, where, what, when, why, and how.
 ##### Table P.2 - Pronouns by Role  
-| | **Dem. Immediate** | **Dem. Proximate** | **Interrogative** |
-|:-|:-:|:-:|:-:|
-| **Object, Sing.** | _za_<br>(this) | _zata_<br>(that) | _kono_<br>(what) |
-| **Object, Pl.** | _zan<br>(these) | _zatan_<br>(those) | _konon_<br>(what[s]) |
-| **Place, Sing.** | _*käna_<br>(here) | _*känta_<br>(there) | _*käno_<br>(where) |
-| **Place, Pl.** | _*känan_<br>(here[s]) | _*käntan_<br>(there[s]) | _*käno_<br>(where[s]) |
-| **Person, Sing.** | _*zaru_<br>(this person) | _*zataru_<br>(that person) | _*kózaro_<br>(who) |
-| **Person, Pl.** | _*zarun_<br>(these people) | _*zatarun_<br>(those people) | _*kózaron_<br>(who, pl.) |
-| **Time, Past** | _*akan_<br>(now) | _depoto_<br>(before) | _*këpoto_<br>(when, past) |
-| **Time, Future** | _*akan_<br>(now) | _bado_<br>(after) | _*këbado_<br>(when, future) |
-| **Quantity** | _*kako'a_<br>(this much) | _*känko'a_<br>(that much) | _*konto_<br>(how much) |
-| **Manner** | _*mo'a_<br>(like this) | _*mo'ata_<br>(like that) | _*kiumo_<br>(how) |
-| **Motivation** | _*taro_<br>(because of this) | _*tarota_<br>(because of that) | _*kutaro_<br>(why) |
+|                   |      **Dem. Immediate**      |       **Dem. Proximate**       |      **Interrogative**      |
+| :---------------- | :--------------------------: | :----------------------------: | :-------------------------: |
+| **Object, Sing.** |        _za_<br>(this)        |        _zata_<br>(that)        |      _kono_<br>(what)       |
+| **Object, Pl.**   |       _zan_<br>(these)       |       _zatan_<br>(those)       |    _konon_<br>(what[s])     |
+| **Place, Sing.**  |      _*käna_<br>(here)       |      _*känta_<br>(there)       |     _*käno_<br>(where)      |
+| **Place, Pl.**    |    _*känan_<br>(here[s])     |    _*käntan_<br>(there[s])     |    _*käno_<br>(where[s])    |
+| **Person, Sing.** |   _*zaru_<br>(this person)   |   _*zataru_<br>(that person)   |     _*kózaro_<br>(who)      |
+| **Person, Pl.**   |  _*zarun_<br>(these people)  |  _*zatarun_<br>(those people)  |  _*kózaron_<br>(who, pl.)   |
+| **Time, Past**    |       _*akan_<br>(now)       |      _depoto_<br>(before)      |  _*këpoto_<br>(when, past)  |
+| **Time, Future**  |       _*akan_<br>(now)       |       _bado_<br>(after)        | _*këbado_<br>(when, future) |
+| **Quantity**      |   _*kako'a_<br>(this much)   |   _*känko'a_<br>(that much)    |   _*konto_<br>(how much)    |
+| **Manner**        |    _*mo'a_<br>(like this)    |    _*mo'ata_<br>(like that)    |      _*kiumo_<br>(how)      |
+| **Motivation**    | _*taro_<br>(because of this) | _*tarota_<br>(because of that) |     _*kutaro_<br>(why)      |
 #### **Object Pronouns**
 Impersonal pronouns of objects are used to refer to inanimate and most abstract concepts. These are also the only impersonal pronouns originally provided by Kasuto, as noted by the * prefixing every other entry in this chart (except _depoto_ and _bado_).  
 #### **Place Pronouns**
