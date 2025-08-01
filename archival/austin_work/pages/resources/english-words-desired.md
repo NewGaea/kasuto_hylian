@@ -1,4 +1,11 @@
+---
+aliases:
+  - English Words Desired
+linter-yaml-title-alias: English Words Desired
+---
+
 # English Words Desired
+
 + Directions
 	+ up
 	+ down
@@ -6,7 +13,7 @@
 	+ right
 	+ north — **silfánpite**
 	+ east — **solánpite**
-	+ south — **galénpite** 
+	+ south — **galénpite**
 	+ west — **lúnpite**
 	+ forward
 	+ back
@@ -29,8 +36,8 @@
 	+ knees
 	+ toes — **adakaën** ([[venus|Venus]])
 + Clothing
-	+ shirt — **soke**
-	+ pants — **nonoke**
+	+ shirt — **soke** ([Venus](contributors/venus.md), [K-Chan](contributors/k-chan.md))
+	+ pants — **nonoke** ([Venus](contributors/venus.md), [K-Chan](contributors/k-chan.md))
 	+ skirt
 	+ jacket
 + Emotional Condition
@@ -54,4 +61,4 @@
 
 **Are we missing posts?** (_Probably_).
 
-We've reached the end of the list... unless we can get into the Vinculum and find more new words there, somehow. We'll sort this out on mobile during our break.
+We've reached the end of the list… unless we can get into the Vinculum and find more new words there, somehow. We'll sort this out on mobile during our break.
