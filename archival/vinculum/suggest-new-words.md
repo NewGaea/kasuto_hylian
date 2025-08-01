@@ -13,6 +13,10 @@ According to the Wayback Machine, **_Suggest New Words_** was started on 2003-Au
 ![[002-venus]]
 
 ---
+
+![002a-venus-austin](archival/vinculum/suggest_new_words/002a-venus-austin.md)
+
+---
 ![[004-venus]]
 
 ---
