@@ -569,6 +569,7 @@ This lexicon uses IPA to show the pronunciation of words.
 ## Ï - Î
 
 + **ïlbere** _noun_. 1. river 1. a moving body of water which is too deep to walk through; from Esp. _riviera_ "river"
++ [**ïndêze**](lexicon/lexemes/ï/ïndêze.md) / ɪn.ˈdɛ.ze / _noun._ 1. Aquatic egg, fish egg, frog egg, roe 2. Zora egg, Zora hatchling 1, 2. from Reddit's [Telephone game 698](https://www.reddit.com/r/conlangs/comments/1mewcfl/comment/n6hro4i/), from Tokén _eñdzẹ_ / eɲ.d͡zɤ / "fish, tadpole", from Vu _ndzɛ́_ / ⁿd͡ʒɛ˦˧˨ / "fish egg, roe"; internal etymology from Zoran \*_ʕïndëzh_ "egg, roe" 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **ïndwag** _verb._ 1. to attend to, to focus 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **ïndwa** _adjective._ 1. attentive, focused 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **ïndwe** _noun._ 1. attention, focus 1. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -1030,7 +1031,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **tabela** _adjective._ 1. table-like, raised and flat 2. placed upon a table 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tabelag** _verb._ 1. to place something on a _tabele_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tabele** _noun._ 1. table, desk, mesa, plateau 1. may refer to a raised flat surface of most any size or nature. 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **taktag** (tahk' tahg) _verb._ to describe
++ **taktag** (tahk' tahg) _verb._ 1. to describe
 + **takte** (tahk' tay) _noun._ 1. description 1. adjective
 + **taktwirte** \[tak.twiɾ.te] _noun_. 1. adverb. 1. coined from _takte_ + _wirte_, literally "adjective-verb" (Jerin) 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
 + **tälona** (tæ.'lo.na) _adjective._ 1. lazy, slow 1. unlike English, this word is not necessarily negative 1. from _Talon_ of Lon Lon Ranch 1. (cb. [Jerin](contributors/jerin-of-calatia.md))
