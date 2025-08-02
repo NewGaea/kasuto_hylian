@@ -413,7 +413,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **dhagolag** \[ða.ˈgo.lag] _verb_. 1. (temperature) to cool, to chill, to freeze. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
 + **dhagole** \[ða.ˈgo.le] _noun_. 1. coolness, coldness; especially climate, weather or environmental. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
 + **dhote** (dhoh' tay) _noun._ 1. dh, the name of the ninth letter of the Classical Hylian _aktaite_ \[cb. [[Kasuto]]]
-+ **dhÿkre** ('ðʊk.ɹe) _noun._ 1. squirrel 2. hiding place 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **dhÿkre** / 'ðʊk.ɹe / _noun._ 1. squirrel 2. hiding place 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 
 ## E - É
 
@@ -615,7 +615,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **kaz** (kahz) _contraction._ 1. to the; contraction of _??? + taz_
 + **kazhe** / 'ka.ʒe / _noun_ 1. teenager, adolescent
 + **kázhile** / 'ka.ʒi.le / _noun_ 1. teenage boy, adolescent boy
-+ **kázhine** / 'ka.ʒi.le / _noun_ 1. teenage girl, adolescent girl
++ **kázhine** / 'ka.ʒi.ne / _noun_ 1. teenage girl, adolescent girl
 + **kazhitroshe** 1. adolescence 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **kaiane** (keye ah' nay) _noun._ 1. dog, hound
 + **kaistakse** _noun._ 1. hail, hailstone. 1. from _kaistire_ "ice" and _sakse_ "stone".
@@ -626,7 +626,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **këchwa** _adjective._ 1. deadly, poisonous 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **këchwag** _verb._ 1. to make poison 2. to use or apply poison 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **këchwe** _noun._ 1. nightshade 2. poison 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **këm** (kehm) _pronoun, demonstrative_ 1. whose; introduces relative clauses for pesonal attribution
++ **këm** (kehm) _pronoun, demonstrative_ 1. whose; introduces relative clauses for personal attribution
 + **këze** _noun._ 1. manor, estate 1. a large family house which has been extended over two or more generations 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **kibara** (kee bah' rah) _adjective_ 1. changed, altered, transformed
 + **kibara** _adjective._ 1. altered, alternate, different, changed, other, transformed 2. \[linguistics] lax, lowered, centered 3. \[slang] sweet, spicy, hot, cool; describes something which is interesting _because_ it is different 1. \[_cb._ [Kasuto](contributors/kasuto.md), extended by [Austin](contributors/austin-springer.md)] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -911,7 +911,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **pikag** 1. to breathe in water, as a fish or Zora 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **pike** 1. pike (fish) 2. large freshwater fish 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **poedra** (poh ay' drah) _adjective._ 1. powerful, strong 2. compelling
-+ **poedre** (poh ay' dray) _noun._ 1. power, strength 2.
++ **poedre** (poh ay' dray) _noun._ 1. power, strength
 + **polute** _noun_. 1. poultry, bird meat. 1. from Latin _pullus_ (chicken). 1. ([[austin-springer|Austin Springer]], via [[solowolf|SoloWolf]])
 
 ## R
@@ -951,9 +951,14 @@ This lexicon uses IPA to show the pronunciation of words.
 + **salashe** (sah lah' shay) _noun._ 1. the one hundreth
 + **sale** (sah' lay) _noun._ 1. hundred, one hundred
 + **sate** (sah' tay) _noun._ 1. s; name of the twenty-ninth letter of the Classical Hylian _aktaite_
-+ **sesolag** _verb._ 1. to rain, to snow. 2. to fall from the sky. 2. especially of multiple similar things.
-+ **sesovlise** _noun._ 1. rainforest, jungle. 1. from _sesole_ "rain" and _mavlise_ "forest".
-+ **sënshi** (sehn' shee) _noun, honorific._ 1. master, teacher, doctor, instructor, tutor; this title is used primarily for educators rather than simply the well-educated
++ **serisa** / se.**'ɾi**.sa / _adjective._ 1. fibrous 2. delicate 1. cf. _serise_ 1, 2. \[_cb._ [Austin](contributors/austin-springer.md) via [Venus (Queen of Faeries)](contributors/venus.md)]
++ **serise** / se.**'ɾi**.se / _noun._ 1. strand of hair, strand of fur 2. fiber 1, 2. possibly from French _(la) cerise_ "cherry" 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **serisën** / se.**'ɾi**.sɛn / _mass noun._ 1. hair, mane, fur coat 1. most often used in the plural when referring to a person's hair, similar to how French _cheveux_ "hairs" is a natural plural 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)]
++ **sesolag** / se.**'so**.lag / _verb._ 1. to rain, to snow. 2. to fall from the sky. 1. may refer to any form of precipitation, natural or unnatural 2. especially of multiple similar things. 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **sesole** / se.**'so**.le / _noun._ 1. rain, snow, precipitation 2. \[alchemy, chemistry] precipitate 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **sesolu** / se.**'so**.lu / _euphemism._ 1. effect, result of an action 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **sesovlise** / se.so.**'vli**.se / _noun._ 1. rainforest, jungle. 1. from _sesole_ "rain" and _mavlise_ "forest". 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **sënshi** / **'sɛn**.ʃi / _noun, honorific._ 1. master, teacher, doctor, instructor, tutor 1. this title is used primarily for educators rather than simply the well-educated; from Japanese 先生 _sensei_ "teacher, master" 1. \[_cb._ [Kasuto](contributors/kasuto.md)]
 + **sënte** (sehn' tay) _noun._ 1. mood, feeling
 + **sëru** (sehr' oo) _pronoun, personal._ 1. she, her
 + **siafire** (see'' ah fee' ray) _noun._ 1. sapphire
