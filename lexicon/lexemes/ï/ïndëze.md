@@ -14,7 +14,7 @@ contributors:
   - "[[contributors/austin-springer|Austin Springer]]"
 ---
 
-# _mote_
+# _ïndëze_
 
 # Neo-Modern Hylian
 
@@ -50,6 +50,8 @@ From Zoran \*_ʕïndëzh_ / ʕɪn˨.dɛʒ˦ / "egg, roe." This is the first word
 + [**vate**](lexicon/lexemes/v/vate.md): "bird egg"
 
 ## Antonyms
+
++ [**añothe**](lexicon/lexemes/a/añothe.md): "birth"
 
 ## Derived Terms
 
