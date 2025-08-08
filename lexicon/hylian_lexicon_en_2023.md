@@ -726,10 +726,13 @@ This lexicon uses IPA to show the pronunciation of words.
 ## M
 
 + **macupe** _noun._ 1. stew 2. roux, gravy 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **malan** (mah' lahn) _adjective._ 1. one thousand, thousand
-+ **malasha** (mah lah' shah) _adjective._ 1. thousandth
-+ **male** (mah' lahg) _noun._ 1. thousand 1. \[_cb._ [Kasuto](contributors/kasuto.md)]
-+ **maleue** _noun._ 1. great evil, high evil, great vice 2. villain, great criminal 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ [**magza**](lexicon/lexemes/m/magza) _adjective._ 1. kissable, smoochable 2. delicious, tasty 3. cute, adorable 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md) via [Venus (Queen of Faeries)](contributors/venus.md)]
++ [**magzag**](lexicon/lexemes/m/magzag) _verb._ 1. to kiss, to smooch, to press one's lips to something 2. to taste, to sample the flavor of something 1. possibly from English _mwah_, an onomatopoeia for kissing or smooching 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ [**magze**](lexicon/lexemes/m/magze) _noun._ 1. a kiss, a smooch 2. a taste, a sample 3. a preview, sneak-peek 1. possibly from English _mwah_, an onomatopoeia for kissing of smooching 1. \[_cb._ [Venus (Queen of Faeries)](contributors/venus.md)] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **malan** (mah' lahn) _adjective._ 1. one thousand, thousand, thousands 1. \[_cb._ [Kasuto of Kataan](contributors/kasuto.md)]
++ **malasha** (mah lah' shah) _adjective._ 1. thousandth 1. \[_cb._ [Kasuto of Kataan](contributors/kasuto.md)]
++ **male** (mah' lahg) _noun._ 1. thousand 1. \[_cb._ [Kasuto of Kataan](contributors/kasuto.md)]
++ **maleue** _noun._ 1. great evil, high evil, great vice 2. villain, great criminal 1, 2. from "_Maleua Fouerze_" which is the name of the "Evil Force" at the center of Kasuto's fanfiction _The Biggest of Lies_, filtered through the use of _ma_ "big, great" from Vinculum member Venus 1, 2. \[_cb._ [Austin](contributors/austin-springer.md) via [Kasuto of Kataan](contributors/kasuto.md) and [Venus (Queen of Faeries)](contributors/venus.md)]
 + **malö•a** (adjective.) 1. compassionate, concerned, caring 2. connecting, holding a group together 1, 2. ([[austin-springer|Austin Springer]])
 + **malö•ag** (verb.) 1. to tend to, to care for 2. to bring people together 1, 2. ([[austin-springer|Austin Springer]])
 + **malö•e** (noun.) 1. compassion, concern, empathy 2. the heart of a group 1, 2. ([[austin-springer|Austin Springer]])
