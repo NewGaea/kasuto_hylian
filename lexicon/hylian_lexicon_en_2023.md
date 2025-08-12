@@ -1049,6 +1049,10 @@ This lexicon uses IPA to show the pronunciation of words.
 + **tecaya** _adjective._ 1. feline, cat-like 2. flexible, agile, lithe
 + **tecayag** _verb._ 1. to pounce 2. to attack from hiding
 + **tecaye** _noun._ 1. cat, feline 2. flexibility, agility
++ **tetra** _adjective._ 1. wandering, moving about, ghostly, phantom 2. outcast, exiled 3. criminal, rogue, renegade 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **tetrag** _verb._ 1. to wander, to sojourn, to travel 2. to exile, to banish 3. to live lawlessly 1, 2, 3. From _Tetra_, the pirate (and disguise of Princess Zelda) in _The Wind Waker_ and _Phantom Hourglass_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **tetrase** _noun._ 1. wanderer, sojourner, traveler 2. exiler, banisher 3. a criminal, an outlaw 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **tetre** _noun._ 1. journey, voyage 2. terms of exile or banishment 3. crime, sin (especially one worthy of exile or banishment) 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tëgrote** _noun._ 1. cave, cavern, hollow. 1. specifically refers to a surface-level cave, especially one carved out by water; from Mudoran \*_takiarii_ "cave, cavern"
 + **tëna** _adjective._ 1. secure, held, kept 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tënaga** _adjective._ 1. reserve, stored, backup 1. \[_cb._ [Austin](contributors/austin-springer.md)]
