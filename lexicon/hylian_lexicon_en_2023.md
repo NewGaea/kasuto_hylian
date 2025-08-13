@@ -939,6 +939,9 @@ This lexicon uses IPA to show the pronunciation of words.
 + **rën** \[ɾɛn\] _pronoun._ 1. \[informal] them, those guys. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
 + **rída** _adjective._ 1. artificial, false, fabricated, manufactured 1. when used in a compound, the _i_ of this word-element takes stress regardless of its position 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **rídëste** _noun._ 1. redead, golem 2. false life, reanimation 1. from _rida_ "artificial, false" and _dëste_ "death" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **[risha](lexicon/lexemes/r/risha)** /**'ɾi**.ʃa/ _adjective._ 1. showing cheer or joy 2. amusing, cheerful, fun
++ **[rishag](lexicon/lexemes/r/rishag)** /**'ɾi**.ʃag/ _verb._ 1. to smile 2. to laugh 3. to joke, to amuse, spread joy
++ **[rishe](lexicon/lexemes/r/rishe)** /**'ɾi**.ʃe/ _noun._ 1. smile 2. laughter 3. joke, humour, amusement
 + **riu** (ree' oo) _pronoun, personal._ 1. one, you, a (generic) person
 + **rote** (roh' tay) _noun._ 1. r; name of the twenty-eighth letter of the Classical Hylian _aktaite_
 + **ru** (roo) _pronoun, personal._ 1. it, they (singular)
@@ -1049,10 +1052,11 @@ This lexicon uses IPA to show the pronunciation of words.
 + **tecaya** _adjective._ 1. feline, cat-like 2. flexible, agile, lithe
 + **tecayag** _verb._ 1. to pounce 2. to attack from hiding
 + **tecaye** _noun._ 1. cat, feline 2. flexibility, agility
-+ **tetra** _adjective._ 1. wandering, moving about, ghostly, phantom 2. outcast, exiled 3. criminal, rogue, renegade 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **tetrag** _verb._ 1. to wander, to sojourn, to travel 2. to exile, to banish 3. to live lawlessly 1, 2, 3. From _Tetra_, the pirate (and disguise of Princess Zelda) in _The Wind Waker_ and _Phantom Hourglass_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **tetrase** _noun._ 1. wanderer, sojourner, traveler 2. exiler, banisher 3. a criminal, an outlaw 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **tetre** _noun._ 1. journey, voyage 2. terms of exile or banishment 3. crime, sin (especially one worthy of exile or banishment) 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **[tetra](lexicon/lexemes/t/tetra)** / **'te**.tɹa / _adjective._ 1. wandering, moving about, ghostly, phantom 2. outcast, exiled 3. criminal, rogue, renegade 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **[tetrag](lexicon/lexemes/t/tetrag)** / **'te**.tɹag / _verb._ 1. to wander, to sojourn, to travel 2. to exile, to banish 3. to live lawlessly 1, 2, 3. From _Tetra_, the pirate (and disguise of Princess Zelda) in _The Wind Waker_ and _Phantom Hourglass_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **[tetrante](lexicon/lexemes/t/tetrante)** / te.**'tɹan**.te / _noun._ 1. exile, outcast, outlaw, pariah
++ **[tetrase](lexicon/lexemes/t/tetrase)** / te.**'tɹa**.se / _noun._ 1. wanderer, sojourner, traveler 2. exiler, banisher 3. a criminal, an outlaw 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **[tetre](lexicon/lexemes/t/tetre)** / **'te**.tɹe / _noun._ 1. journey, voyage 2. terms of exile or banishment 3. crime, sin (especially one worthy of exile or banishment) 1, 2, 3. see _tetrag_ 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tëgrote** _noun._ 1. cave, cavern, hollow. 1. specifically refers to a surface-level cave, especially one carved out by water; from Mudoran \*_takiarii_ "cave, cavern"
 + **tëna** _adjective._ 1. secure, held, kept 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **tënaga** _adjective._ 1. reserve, stored, backup 1. \[_cb._ [Austin](contributors/austin-springer.md)]
