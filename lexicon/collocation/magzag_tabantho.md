@@ -6,8 +6,8 @@ tags:
   - phrase
 partSpeech: Expression
 englishGloss:
-  - Tabanthan Kiss
-  - French Kiss
+  - Tabanthan kiss
+  - French kiss
   - make out
   - swap spit
 contributors:
