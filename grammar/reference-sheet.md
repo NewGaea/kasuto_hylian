@@ -1,45 +1,48 @@
 # Neo-Modern Hylian Grammatical Cheatsheet
 
 This serves as a quick reference sheet to grammatical rules and markers, including how to combine them.
+
 ## Basic Markers
 
 1. **Nouns**
-	1. **Singular:** *-e, -i*
-	2. **Plural:** *-ën, -ïn*
+	1. **Singular:** _-e, -i_
+	2. **Plural:** _-ën, -ïn_
 	3. **Gender** is marked before the primary noun ending, and only applies on nouns
-		4. **Masculine:** *-il-*
-		5. **Feminine:** *-in-*
+		1. **Masculine:** _-il-_
+		2. **Feminine:** _-in-_
 2. **Genitive**
-	1. **Singular:** *-sa, -su*
-	2. **Plural:** *-san, -sun*
+	1. **Singular:** _-sa, -su_
+	2. **Plural:** _-san, -sun_
 3. **Adjectives**
-	1. **Singular:** *-a*
-	2. **Plural:** *-an*
+	1. **Singular:** _-a_
+	2. **Plural:** _-an_
 4. **Verbs**
-	1. **Non-Finite:** *-ag*
-	2. **Present:** *-as, -ant*
-	3. **Past:** *-es, ënt*
-	4. **Future:** *-os, -ont*
-	5. **Imperative:** *-ans*
+	1. **Non-Finite:** _-ag_
+	2. **Present:** _-as, -ant_
+	3. **Past:** _-es, ënt_
+	4. **Future:** _-os, -ont_
+	5. **Imperative:** _-ans_
+	6. Agent Nom: _-ase_
+	7. Patient Nom: _-ante_
 5. **Prepositions**
-	1. May inflect as **adjectives, pronouns,** or with *-o*
+	1. May inflect as **adjectives, pronouns,** or with _-o_
 6. **Adverbs**
-	1. Always inflect with *-ok*
+	1. Always inflect with _-ok_
 7. **Pronouns**
-	1. **Singular:** *-u*
-	2. **Plural:** Either *-su* or *i-*
+	1. **Singular:** _-u_
+	2. **Plural:** Either _-su(n)_ (generic) or _i-_ (specific)
 8. **Numerals**
 	1. Inflect as their appropriate class by context
-	2. **Ordinals**: *-ash-* before the primary class marker
+	2. **Ordinals**: _-ash-_ before the primary class marker
 
 ## Compound Markers
 
 1. **Agent & Patient**
-	1. **Agent Nouns** are denoted by the **simple present verb** *-as* and **noun** *-e,* for the performer of a transitive verb *-ase* (***kriashase*** "creator")
-	2. **Patient Nouns** are denoted by a special form of the passive adjunct *-ashiut* followed by the noun ending *-e*, for the patient of a verb *-ashiute* (***kriashashiute*** "creation")
-	3. Due to the nature of Hylian role marking, **Patient**
+	1. **Agent Nouns** are denoted by the **simple present verb** _-as_ and **noun** _-e,_ for the performer of a transitive verb _-ase_ (_**kriashase**_ "creator")
+	2. **Patient Nouns** are denoted by the **passive present verb** _-ant_ followed by the noun ending _-e_, for the patient of a verb _-ante_ (_**kriashante**_ "creation")
+	3. The **future tense** _-o-_ may be used (usually informally) instead to refer to an apprentice, student, or trainee (agent) or a future patient.
 2. **Gerunds & Participles**
-	1. The **non-finite** verb can serve as an infinitive or gerund, but one can avoid or reduce confusion by using the **non-finite verb** form *-ag,* and adding a noun ending *-e* for an *-age* ending (***kriashage*** "creating")
+	1. The **non-finite** verb can serve as an infinitive or gerund, but one can avoid or reduce confusion by using the **non-finite verb** form _-ag,_ and adding a noun ending _-e_ for an _-age_ ending (**_kriashage_** "creating")
 	2. **Participles** can be formed in two ways
-		1. **Standard participles** simply use the non-finite form (***kriashasag dégine*** "creating goddess")
-		2. **Informal participles** use a simple tense (*-as, -es, -os*) and then add an **adjective ending** (*-a, -an*) to that
+		1. **Formal participles** simply use the non-finite form (_**dégine kriashag**_ "creating goddess")
+		2. **Informal participles** use a simple tense (_-as, -es, -os_) and then add an **adjective ending** (_-a, -an_) to that (**_taz hiose rishasa_** "the smiling child")
