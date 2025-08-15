@@ -18,29 +18,29 @@ This lexicon uses IPA to show the pronunciation of words.
 
 ## A - Á
 
-+ **a** / a / _grammatical suffix._ 1. adjective marker. 1. This suffix indicates an adjective that matches a singular noun. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **ab** / ab / _particle._ 1. direct object marker. 1. particle goes directly before the direct object of a sentence. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **abaz** / **'ab**.az / _particle contraction._ 1. direct object marker + definite article 1. used identically to _ab_ if _taz_ would be used after it; cf. _ab, az, taz_ 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **ablat** \[**'a:b**.lat\] _preposition._ 1. by way of, via. 1. other notes. 1. \[_cb._ [QBri](contributors/qbri.md)\]
++ **[a](lexicon/grammar/-a)** / a / _grammatical suffix._ 1. adjective marker. 1. This suffix indicates an adjective that matches a singular noun. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[ab](lexicon/grammar/ab)** / ab / _particle._ 1. direct object marker. 1. particle goes directly before the direct object of a sentence. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[abaz](lexicon/grammar/abaz)** / **'ab**.az / _particle contraction._ 1. direct object marker + definite article 1. used identically to _ab taz_; cf. _ab, az, taz_ 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **ablat** \[**'ab**.lat\] _preposition._ 1. by way of, via. 1. other notes. 1. \[_cb._ [QBri](contributors/qbri.md)\]
 + **adakae** / _,a_.da.**'ka**.e / _noun._ 1. toe. 1. a contraction of _aikwe daia kame_ "finger of the foot;" cf. _aikwe, kame_. 1. \[_cb._ ([[venus|Venus]]\]
 + **adenba** / a.**'den**.ba / _adjective._ 1. abandoned. 1. see _adenbag_. 1. \[_cb._ [[tushen|Tushen]]\]
 + **adenbag** / a.**'den**.bag / _verb._ 1. to abandon, to leave completely. 1. presumed to be derived from English _abandon_. 1. \[_cb._ [[tushen|Tushen]]\]
 + **adenbe** / a.**'den**.be / _noun._ 1. abandonment. 1. see _adenbag_ 1. \[_cb._ [[tushen|Tushen]]\]
 + **agithe** / a.**'gi**.θe / _noun_. 1. butterfly, moth. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
-+ **a•i** / **'a**.i / _expression, interjection._ 1. oh!, ah! 1. an interjection commonly used to indicate recognition or surprise. 1. \[_cb._ [[venus|Venus]]\]
++ **[a•i](lexicon/lexemes/a/a'i)** / **'a**.i / _expression, interjection._ 1. oh!, ah! 1. an interjection commonly used to indicate recognition or surprise. 1. \[_cb._ [[venus|Venus]]\]
 + **aja** / **ˈa**.d͜ʒa / _adjective._ 1. cloudy, cloud-like. 2. concealed, hidden 1. see _aje_. 2. from the effects of a cloud on visibility 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
 + **ajag** / **ˈa**.d͜ʒag / _verb._ 1. to cloud, to condense 2. to conceal, to hide. 1. specifically to form a cloud, condensation of vapor. 2. from _aja (2.)_ 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
 + **aje** / **ˈa**.d͜ʒe / _noun._ 1. cloud. 2. camouflage, concealment 1. describes distinct clouds above ground level, and not fog. 2. an extension of _cloud_ based on metaphor 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
 + **ak** / ak / _preposition._ 1. to, towards. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **aka** / **ˈa**.ka / _adjective, demonstrative pronoun._ 1. here, this place. 1. from Spanish _aquí_ (here). 1. \[_cb._ [[qbri|QBri]]\]
-+ **akana** / a.**ˈka**.na / _adjective._ 1. current, contemporary. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akane** / a.**ˈka**.ne / _noun._ 1. now, present time. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akana](lexicon/lexemes/a/akana)** / a.**ˈka**.na / _adjective._ 1. current, contemporary. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akane](lexicon/lexemes/a/akane)** / a.**ˈka**.ne / _noun._ 1. now, present time. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **akanto** / a.**ˈkan**.to / _pronoun, adverb_ 1. now, immediate, instant 1. \[_cb_ [QBri](contributors/qbri.md)]
-+ **akantroshe** / _ˌa_.kan.**ˈtɹo**.ʃe / _noun, compound word._ 1. present tense. 2. present time, now. 1. from _akana_ "current, now" and _troshe_ "tense, time" 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **aki** / **ˈa**.ki / _honorific._ 1. love, darling, dear, honey. 1. an honorific applied to a lover's name or other form of address. 1. takes no stress when used as a suffix 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akima** / a.**ˈki**.ma / _adjective._ 1. friendly, amicable. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akimag** / a.**ˈki**.mag / _verb._ 1. to befriend, to connect with someone. 1. this word is reserved for person-to-person interactions, not impersonal or group-to-group. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akime** / a.**ˈki**.me / _noun._ 1. friend, ally, comrade. 1. this refers to personal relations only, not impersonal or group relations. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akantroshe](lexicon/lexemes/a/akantroshe)** / _ˌa_.kan.**ˈtɹo**.ʃe / _noun, compound word._ 1. present tense. 2. present time, now. 1. from _akana_ "current, now" and _troshe_ "tense, time" 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[aki](lexicon/lexemes/a/aki)** / **ˈa**.ki / _honorific._ 1. love, darling, dear, honey. 1. an honorific applied to a lover's name or other form of address. 1. takes no stress when used as a suffix 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akima](lexicon/lexemes/a/akima)** / a.**ˈki**.ma / _adjective._ 1. friendly, amicable. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akimag](lexicon/lexemes/a/akimag)** / a.**ˈki**.mag / _verb._ 1. to befriend, to connect with someone. 1. this word is reserved for person-to-person interactions, not impersonal or group-to-group. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akime](lexicon/lexemes/a/akime)** / a.**ˈki**.me / _noun._ 1. friend, ally, comrade. 1. this refers to personal relations only, not impersonal or group relations. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **akoia** / a.**ˈkoi**.a / _adjective._ 1. cyan, cerulean 2. sky-colored 1. literally from **akonde** "sky" and **ícia** "colour" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **akok** / **ˈa**.kok / _adverb._ 1. here. 1. see _aka_. 1. \[_cb._ [[austin-springer|Austin]], via [[qbri|QBri]]\]
 + **akonda** / a.**ˈkon**.da / _adjective._ 1. celestial, heavenly, of the sky. 1. may refer to anything which is of or in the sky or heavens. 1. \[_cb._ [[austin-springer|Austin]], via [[venus|Venus]]\]
@@ -447,6 +447,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **falekïnige** _noun._ 1. archery, shooting. 1. a common form of competition is bowmanship, whether to hit moving targets or fixed, while standing, running, or riding.
 + **famushe** _noun._ 1. bear, ursine 1. from _Moosh_, the winged bear in the Oracle games 1. \[cb. [Austin Springer](contributors/austin-springer.md), 2025-07-13]
 + **fárialzhag** _verb._ 1. story-telling, re-enacting. 1. this social story-telling often involves experienced story-tellers and (often less experienced) re-enactors, plus audience participation, and may involve a stage or an area around a campfire or clearing.
++ **[farishe](lexicon/lexemes/f/farishe)** / fa.**'ɾi**.ʃe / _noun._ 1. fairy, sprite 1. \[_cb._ [Austin](contributors/austin-springer.md), 2023-Nov-08]
 + **farore** (fah roh' ray) _noun._ 1. Farore, the golden goddess of Willpower and Courage
 + **fäwira** / fæ.**'wi**.ɹa / _adjective._ 1. cooked, baked 1. see _fäwirag_ 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
 + **fäwirag** / fæ.**'wi**.ɹag / _verb._ 1. to cook, to bake 1. from _faeuire_ "fire" 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
@@ -506,7 +507,7 @@ This lexicon uses IPA to show the pronunciation of words.
 ## H
 
 + **hajuwe** _noun._ 1. death (from PH *_hateru_ "death") 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **harka** \['haɾ.ka] _adjective_. 1. clean, washed. 2. unspoken, forbidden, banned. 1, 2. see harkag 1, 2. ([[austin-springer|Austin Springer]])
++ **[harka](lexicon/lexemes/h/harka)** \['haɾ.ka] _adjective_. 1. clean, washed. 2. unspoken, forbidden, banned. 1, 2. see harkag 1, 2. ([[austin-springer|Austin Springer]])
 + **harkag** \['haɾ.kag] _verb._ 1. to clean, to wash. 2. to forget by deliberate effort or conceal knowledge of something. 1. from _Harkinian_ the royal family name in the CDi Zelda games. 2. from the manner in which the CDi Zelda games are not afforded canonical status. 1, 2. ([[austin-springer|Austin Springer]])
 + **harke** \[ 'haɾ.ke] _noun_. 1. brush, sponge. 2. forbidden knowledge or information. 1. a tool used to clean by scrubbing. 1, 2. see _harkag_ 1, 2. ([[austin-springer|Austin Springer]])
 + **haruke** (hah roo' kay) _noun._ 1. arrow
@@ -555,6 +556,8 @@ This lexicon uses IPA to show the pronunciation of words.
 + **íciag** ('i.t͜si.ag) _verb._ 1. to colour, to apply pigment 2. to introduce variation 3. to apply make-up 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **ície** ('i.t͜si.e) _noun._ 1. colour, pigment, hue 2. variety 3. make-up 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **iëru** (ee ehr' oo) _pronoun, masculine._ 1. they, them, these guys, those guys 1. \[_cb._ [Kasuto](contributors/kasuto.md)]
++ **[iga](lexicon/lexemes/i/iga)** /'i.ga/ _adjective._ 1. forbidden, locked away, sealed 2. caged, imprisoned 1. backformation from _[igámobondozisag](lexicon/lexemes/i/igámobondozisag)_ "to light something important on fire" 1. \[_cb._ [Austin](contributors/austin-springer.md) via [Emekthian](contributors/emekthian.md)]
++ **[igámobondozisag](lexicon/lexemes/i/igámobondozisag)** /i.**'ga**.mo._,bon_.do._,zi_.sag/ _verb._ 1. to light something important on fire 1. \[_cb._ [Emekthian](contributors/emekthian.md)]
 + **ipa•a** _adjective_. 1. married, by marriage, in-law, step-relation. 2. familial, filial, of or related to one's family. 3. joined, connected, brought together. 4. bound by a contract or oath, holding hands. 5. (of an animal) trained, disciplined, domesticated.
  + **ipa•ag** _verb_. 1. to marry, to wed. 2. to make a family, to be a family. 3. to join, to connect, to come together, to ally. 4. to make a contract, to enter a contract, to swear an oath, to promise. 5. to raise animals, to train animals, to care for animals.
  + **ipa•e** _noun._ 1. spouse, husband, wife, partner, mate. 2. family, tribe, clan, alliance. 3. connection, glue, binding agent. 4. contract, oath, promise. 5. farm, ranch.
