@@ -672,9 +672,9 @@ _Austin's Aside: The following names are sorted alphabetically by name and chron
 	    + Demise
 	    + Dreadfuse
 	    + Ghirahim
-	    + Imprisoned (Demise)
+	    + [Imprisoned](lore/i/imprisoned_the) ([Demise](lore/d/demise)) - _Igante_ (_Vortuñag_)
 	    + Koloktos
-	    + Levias
+	    + [Levias](lore/l/levias) - _Leváiasa_
 	    + Moldarach
 	    + Scaldera
 	    + Scervo
