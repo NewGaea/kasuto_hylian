@@ -10,23 +10,29 @@ englishGloss:
 contributors:
   - "[[contributors/tushen|Tushen]]"
 ---
+
 # adenbag
 
 # Neo-Modern Hylian
+
 ## Alternative Forms
 
 ## Etymology
-Presumed to be derived from Modern English *abandon*
+
+Presumed to be derived from Modern English _abandon_
 
 ## Pronunciation
-- **IPA Broad**: /a.ˈden.bag/
+
++ **IPA Broad**: /a.ˈden.bag/
 
 ## Verb
 
 ### adenbag
+
 1. to abandon, to leave behind, to desert, to surrender
 
-## Verb Paradigm
+### Verb Paradigm
+
 |                    | **Nonfinite**<br>\<-g> | Basic<br>\<-s> | Perfect<br>\<-"nt> | Imperative<br>\<-"ns> |
 | ------------------ | ---------------------- | -------------- | ------------------ | --------------------- |
 | **Present** \<-a-> | **adenbag**            | **adenbas**    | **adenbant**       | **adenbans**          |
@@ -34,6 +40,7 @@ Presumed to be derived from Modern English *abandon*
 | **Future** \<-o->  | **adenbog**            | **adenbos**    | **adenbönt**       | **adenböns**          |
 
 # Thesaurus
+
 ## Synonyms
 
 ## Hyponyms
@@ -41,11 +48,14 @@ Presumed to be derived from Modern English *abandon*
 ## Derived Terms
 
 ### Compound Words
+
 ### Phrasal Terms
 
 ## Related Terms
 
 ### Same Roots
-- [**adenba**](lexicon/lexemes/a/adenba.md): (verb) *abandoned, left behind*
-- **[adenbe](lexicon/lexemes/a/adenbe.md)**: (noun) *abandonment*
+
++ [**adenba**](lexicon/lexemes/a/adenba.md): (verb) _abandoned, left behind_
++ **[adenbe](lexicon/lexemes/a/adenbe.md)**: (noun) _abandonment_
+
 # Translations
