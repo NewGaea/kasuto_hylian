@@ -36,7 +36,7 @@ aliases:
 + **minasëte** _noun._ 1. breakfast, morning meal
 + **moblïne** _noun._ 1. moblin; forest-native goblins, taller (and sometimes fatter) than _bokoblinën_ (from the games)
 + **molde** _noun._ 1. worm, underground snake; (from _lanmola, moldorm,_ and _twinmold_ monsters throughout the series)
-+ **moldorme** _noun._ 1. moldorm; a segmented sandwork with two (or more) eyes and a tough, armored exoskeleton in adulthood (from the games)
++ **moldorme** _noun._ 1. moldorm; a segmented sandworm with two (or more) eyes and a tough, armored exoskeleton in adulthood (from the games)
 + **onkvag** _verb._ 1. to drink; derived from Kasuto's noun, _onkve_ meaning _water_
 + **oarme** _noun._ 1. armor (from monster names like _moldorm_ and _armos_)
 + **stale** _noun._ 2. _esp. as stalën;_ a skeleton as a whole; not the formal word, but a common colloquial term (from BBB's sense of _stale_ as _skull, bone_)

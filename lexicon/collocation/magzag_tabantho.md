@@ -37,18 +37,6 @@ A compound of _Tabantha_, a frontier region in north-western Hyrule, and _magzag
 
 # Thesaurus
 
-## Homolemmas
-
-## Synonyms
-
-## Antonyms
-
-## Derived Terms
-
-### Compound Words
-
-### Phrasal Terms
-
 ## Related Terms
 
 + **[magzag](lexicon/lexemes/m/magzag.md)**: to kiss

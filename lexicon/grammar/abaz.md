@@ -16,8 +16,9 @@ contributors:
 
 ## Alternative Forms
 
-+ _abz_
-+ _az_
++ _ab taz_: formal, full form
++ _abz_: shorter variant
++ _az_: shorter variant
 
 ## Etymology
 

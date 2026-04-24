@@ -165,11 +165,14 @@ This lexicon uses IPA to show the pronunciation of words.
 ## AI
 
 + **aikwe** \['ai.kwe\] _noun._ 1. finger, digit. 1. refers only to those digits which are generally able to perform fine motor manipulations. 1. \[_cb._ [[venus|Venus]]\]
++ [**aitäxa**](lexicon/lexemes/a/aitäxa.md) / aj.'tæ.xa / _adjective._ 1. plowed, tilled 2. fertile
++ [**aitäxag**](lexicon/lexemes/a/aitäxag.md) / aj.'tæ.xag / _verb._ 1. to plow, to till 2. to farm crops
++ [**aitäxe**](lexicon/lexemes/a/aitäxe.md) / aj.'tæ.xe / _noun._ 1. plow 2. hoe, shovel, spade
 + **aite** \['ai.te\] _noun._ 1. ai. 1. the name of the third letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\]
 
 ## AU
 
-+ **aute** \['au.te\] _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Classical Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
++ **aute** \['au.te\] _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Neo-Modern Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
 
 ## B
 
@@ -830,6 +833,10 @@ This lexicon uses IPA to show the pronunciation of words.
 + **niatore** (nee'' ah tohr' ay) _noun._ 1. institute, university, organization; especially used for groups which are focused on the development, recording, preserving, an sharing of knowledge
 + **nidëman** (nee deh' mahn) _adjective._ 1. ninety
 + **nidëme** (nee deh' may) _noun._ 1. ninety
++ **nikova** /ni.ko.va/
++ **nikovag** /ni.ko.va/ 1.
++ **nikovase** /ni.ko.va.se/ 1. retainer, loyal servant
++ **nikove** /ni.ko.ve/
 + **nïlve** _noun._ 1. knife 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **nïmsha** (nihm' shah) _adjective._ 1. numeric 2. mathematical
 + **nïmshag** (nihm' shahg) _verb._ 1. to calculate, to do mathematics

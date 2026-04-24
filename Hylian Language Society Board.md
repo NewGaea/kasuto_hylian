@@ -13,9 +13,7 @@ kanban-plugin: basic
 
 <<<<<<< HEAD
 - [ ] [[Review Austin Springer Work]]
-=======
->>>>>>> ff9548ddfe9f550ed276344b9dc2e50aa0bcdecc
-- [ ] Ensure all Austin Springer work is compliant
+	- [ ] Ensure all Austin Springer work is compliant
 
 
 ## Archive: New Gaea
