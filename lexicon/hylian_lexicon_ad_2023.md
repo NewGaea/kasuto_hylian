@@ -188,7 +188,7 @@ This is a collaboration effort to build richer relationships between conlang pro
 + **bete** \['be.te\] _part of speech._ 1. b, the name of the Hylian letter \<b> 2. bed, bedding 3. a collection of soft dirt, leaves, and grass prepared for growing flowers 1. the name of the fifth letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **betfolke** _menachin_ 1. bedroll, futon 2. sleeping bag 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **bëg** \[bɛg\] _immenachin._ 1. \[informal] I, me. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
-+ **bën** \[bɛg\] _immenachin._ 1. \[informal] we, us. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
++ **bën** \[bɛn\] _immenachin._ 1. \[informal] we, us. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
 + **bënkata** \[bEn.'ka.ta\] _gormachin menaxi._ 1. welcome, appreciated, desired. 2. of introduction, of greeting. 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **bënkate** \[bEn.'ka.te\] _menachin._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **bënkati** \[ben.'ka.ti\] _menachin, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [Jerin](contributors/jerin-of-calatia.md)]
@@ -290,7 +290,7 @@ This is a collaboration effort to build richer relationships between conlang pro
 + **dari** (dah' ree) _expression, vulgar._ 1. damn, damn it, cursed; moderately \[cb. [[Kasuto]]]vulgar
 + **darknaute** (darknaute) _menachin_ 1. Darknut, Monster Knight 1. A monster which wears heavy armor and battles like a Knight, may be related to Moblins or Goriya; may derive from /darke/ + /naute/ (_Nintendo_), (_Austin_)
 + **darshe** (dahr' shay) _menachin, vulgar._ 1. ass, buttocks \[cb. [[Kasuto]]]
-+ **date** (dah' tay) _menachin._ 1. d; the name of the eighth letter of the Neo-Modern \[cb. [[Kasuto]]]Hylian _aktaite_
++ **date** (dah' tay) _menachin._ 1. d; the name of the eighth letter of the Neo-Modern \[cb. [[Kasuto]]] Hylian _aktaite_
 + **dawëna** _gormachin menaxi_ 1. foolish, stupid 1. from the _Darwin_ Awards, notable as a list of ways foolish people notably removed themselves from producing (further) offspring ([[contributors/auric_trinity|Auric Trinity]])
 + **daz** (dahz) _contraction._ 1. of the, from the, about the, with the; a contraction of _daia taz_ 1. \[cb. [[Kasuto]]]
 + **dai-** _prefix._ 1. part of, taken from 2. fractional number prefix; this prefix indicates the denominator of a fraction, composed like so: _hira daitroan_ "one third" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -463,7 +463,7 @@ This is a collaboration effort to build richer relationships between conlang pro
 
 + **gante** (gahn' tay) _menachin._ 1. g; the name of the thirteenth letter in the Neo-Modern Hylian _aktaite_
 + **garnoe** 1. root (especially root vegetables) 2. carrot
-+ **garsite** _menachin_. 1. axe. 1. from Spanish Garcia, based on an axe-wielder in Fire Emblem
++ **garsite** _menachin_. 1. axe. 1. from Spanish Garcia, based on an axe-wielder in Fire Emblem 1. \[_cb._ [Auric Trinity](contributors/auric_trinity.md)]
 + **gëlde** _menachin._ 1. sand
 + **gëldörme** _menachin._ 1. antlion, geldorm, geldarm; a larval monstrous insect which nests in the sand, waiting to lash out at any passers by, _gëldörmën_ which metamorphose into their adult form acquire elemental traits and are often called _karimoske_ "lightning-fly", _kaistimoske_ "ice-fly", or _faeuirmoske_ "fire-fly" (based on the traits they possess) or by the common term _daimoske_ "darner, dragonfly, damselfly" though the latter is primarily used as a general term, and more often for non-monstrous insects.
 + **gëranike** _menachin._ 1. desert coffee, highlands coffee. 1. coffee beans which grow in the western deserts and highlands of Hyrule, known for their bitterness and strong aroma.

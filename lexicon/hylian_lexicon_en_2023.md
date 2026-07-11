@@ -110,11 +110,11 @@ This lexicon uses IPA to show the pronunciation of words.
 + **anya** / **ˈa**.ɲa / _adjective._ 1. annual, yearly. 2. mature 1. from _anye_. 2. development from _sense 1._ 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **anya'e** / a.**ˈɲa**.e / _noun._ 1. maturity. 2. a distinct stage in or of maturity. 1, 2. from _anya_ 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **anyag** / **ˈa**.ɲag / _verb._ 1. to age, to mature, to grow. 1. from _anye_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **anye** / **ˈa**.ɲe / _noun._ 1. nyore. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **anye** / **ˈa**.ɲe / _noun._ 1. year. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **anz** / anz / _particle compound._ 1. the, to the; indirect object marker + definite article. 1. may be used anywhere that _ank taz_ would appear. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **añate** / aŋ.**ˈa**.te / _part of speech._ 1. ñ, ŋ, ng. 1. The name of the Hylian letter _ñ_, /ŋ/ or _ng_. 1. \[_cb._ [[kasuto|Kasuto]], [[austin-springer|Austin Springer]]\]
 + **añotha** / aŋ.**ˈo**.θa / _adjective._ 1. pregnant 2. responsible, loyal 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **añothag** / aŋ.**ˈo**.θag / _verb._ 1. worka.in, gaya.m, ==to incubate an egg== 2. ==to bear responsibility== 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **añothag** / aŋ.**ˈo**.θag / _verb._ 1. to bear child, to birth, ==to incubate an egg== 2. ==to bear responsibility== 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **añothe** / aŋ.**ˈo**.θe / _noun._ 1. birth 2. burden 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **apa** / **ˈa**.pa / _adjective._ 1. aloud, audible. 1. \[_cb._ [[venus|Venus]]\]
 + **arage** / a.**ˈɾa**.ge / _noun._ 1. melody. 1. \[_cb._ [[venus|Venus]]\]
@@ -198,12 +198,12 @@ This lexicon uses IPA to show the pronunciation of words.
 + **béone** \['be.o.ne\] _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
 + **bete** \['be.te\] _part of speech._ 1. b, the name of the Hylian letter \<b> 2. bed, bedding 3. a collection of soft dirt, leaves, and grass prepared for growing flowers 1. the name of the fifth letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **betfolke** _noun_ 1. bedroll, futon 2. sleeping bag 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **bëg** \[bɛg\] _pronoun._ 1. \[informal] I, me. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
-+ **bën** \[bɛn\] _pronoun._ 1. \[informal] we, us. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
-+ **bënkata** \[bEn.'ka.ta\] _adjective._ 1. welcome, appreciated, desired. 2. of introduction, of greeting. 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **bënkate** \[bEn.'ka.te\] _noun._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **bënkati** \[ben.'ka.ti\] _noun, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [Jerin](contributors/jerin-of-calatia.md)]
-+ **bërek** \['bEr.ek\] _conjunction._ 1. however. 1. "from Houd. _bebere_, a conjunction meaning _ever_" 1. \[_cb._ [[qbri|QBri]]\]
++ **bëg** / bɛg / _pronoun._ 1. \[informal] I, me. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
++ **bën** / bɛn / _pronoun._ 1. \[informal] we, us. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
++ **bënkata** / bɛn.'ka.ta / _adjective._ 1. welcome, appreciated, desired. 2. of introduction, of greeting. 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **bënkate** / bɛn.'ka.te / _noun._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **bënkati** / bɛn.'ka.ti / _noun, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [Jerin](contributors/jerin-of-calatia.md)]
++ **bërek** / 'bɛr.ek / _conjunction._ 1. however. 1. "from Houd. _bebere_, a conjunction meaning _ever_" 1. \[_cb._ [[qbri|QBri]]\]
 + **bëu** _pronoun_. 1. no, wrong, not at all. 1. this is a simple and short answer and requires no elaboration, when one's answer is further clarified one should use _bokok_; originally proposed as *bëu *(me) by QBri while trying to develop the accusative case pronouns, adapted by Austin after noting that there was a lack of "yes" and "no" language. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
 + **bibidoe** _noun_. 1. beetle. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
 + **bielute** _noun_. 1. beef. 1. from _bieve_ (cattle) and _lute_ (meat). 1. ([[austin-springer|Austin Springer]])
@@ -310,7 +310,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **daimoska vorua** _noun._ 1. golden dragonfly; this rare variety of dragonfly or darner is said to shine even in the darkest night
 + **daimoske zherdana** _noun._ 1. Gerudo Dragonfly; this may not be related to the _gëldörme_, however this ancient dragonfly is believed to be one of the ancient symbols of both Nayru and the Gerudo tribe
 + **dainshag** (dainshag) _verb_ 1. to guess ([[venus|Venus]])
-+ **deatag** _verb_ 1. to stay, to remain, to reside 1. conflicts with canonical _vïnSag_ (to live, to reside, to dwell) ([[qbri|QBri]])
++ **deatag** _verb_ 1. to stay, to remain, to reside 1. used as a temporary resident or resident guest ([[qbri|QBri]])
 + **dega** (day' gah) _adjective._ 1. divine, godly, sacred \[cb. [[Kasuto]]]
 + **degarma** _adjective._ 1. \[spirituality] raised, elevated, focused upon 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **degarmag** _verb._ 1. to fashion an idol 2. to wield an idol 1. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -352,13 +352,13 @@ This lexicon uses IPA to show the pronunciation of words.
 + **dën** \[dɛn\] _pronoun._ 1. \[informal] they, them. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
 + **dëna** _adjective_ 1. small 2. half, less than fully, only sharing one parent 1. proposed to refer to clothing by size and expanded to generic use 2. suggested for use in kinship terms equivalent to English _half-sister_ 1, 2. ([[venus|Venus]])
 + **dënal'usheoke** (dënal'usheoke) _noun_ 1. male undergarments (_Venus, Queen of Faeries_)
-+ **dënan'usheoke** (dënan'usheoke) _noun_ 1. lingerie 1. /alternative form proposed by Venus, interpreting the -iland -insuffixes to imply a natural gender, or in her words: "because underwear aren't people;" Austin disagrees about this implication, and prefers the other entry, though he maintains this form for historical purposes/ (_Venus, Queen of Faeries_)
++ **dënan'usheoke** (dënan'usheoke) _noun_ 1. lingerie 1. /alternative form proposed by Venus, interpreting the _-il_ and _-in_ suffixes to imply a natural gender, or in her words: "because underwear aren't people;" Austin disagrees about this implication, and prefers the other entry, though he maintains this form for historical purposes/ (_Venus, Queen of Faeries_)
 + **dënarie** _noun._ 1. desert, wasteland 1. from Mudroran \*_taniarii_ "desert, wasteland"
 + **dënaistre** _noun._ 1. evening, twilight, dusk 1. from _dëna_ "small, little, lesser" and _naistre_ "evening, night"
 + **dënbote** _noun._ 1. dënbot, half pound 1. a unit of mass equal to 9 _önchën_, or 285.77 grams; a common amount of preserved food for travelers to consume during a meal
 + **dëncete** _noun._ 1. skewer 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **dëncelute** _noun._ 1. kebab, grilled or roasted food on a skewer 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **dënjánine** \[dɛn.'d͜ʒa.ni.ne] _noun_. 1. princess. 1. literally composed from canonical _dën_ (small) + *janie *(royal ruler) + in (feminine) meaning "little queen". 1. ([[austin-springer|Austin Springer]], via [[kasuto|Kasuto]], [[k-chan|K-Chan]], [[venus|Venus]])
++ **dënjánine** \[dɛn.'d͜ʒa.ni.ne] _noun_. 1. princess. 1. literally composed from canonical _dën_ (small) + _janie_ (royal ruler) + _in_ (feminine) meaning "little queen". 1. ([[austin-springer|Austin Springer]], via [[kasuto|Kasuto]], [[k-chan|K-Chan]], [[venus|Venus]])
 + **dënkacae** \[ˌdɛn.ka.ˈt͜sa.e] _noun._ 1. window, shutter 2. image, vision 3. television, monitor 1. refers to an opening in a wall, as well as any way to cover such an opening, which is not intended for people to pass through; such openings are commonly sources of daylight, fresh airflow, or both. 2. refers to images produced by magic or technology, but not by the hands of an illustrator or painter; the PictoBox produces _dënkacaën_, a painter does not 3. useful in out-of-scope contexts, but may also describe the portion of a Sheikah Slate or Purah Pad which displays information or images 1, 2, 3. from _dëna_ "small" and _kacae_ "door" 1, 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **dënlete** _noun_ 1. dënleto 1. a unit of measure equal to 9 matra, or 27 inches ([[pata-hikari|Pata Hikari]])
 + **dënleue** _noun._ 1. small evil, petty evil, banal evil 2. rogue, minor criminal 1. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -373,7 +373,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **diadore** (diadore) _noun_ 1. difference ([[qbri|QBri]])
 + **diapag** _verb._ 1. to harvest, to reap 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **diapatroshe** 1. harvest time 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **diarag** (dee ahr' ays) _verb._ 1. to give 2. to grant a wish, to make real 1. \[_cb._ [Kasuto](contributors/kasuto.md)] 2. \[_cb._ [[venus|Venus]]]
++ **diarag** (dee ahr' ahg) _verb._ 1. to give 2. to grant a wish, to make real 1. \[_cb._ [Kasuto](contributors/kasuto.md)] 2. \[_cb._ [[venus|Venus]]]
 + **diare** (dee ahr' ay) _noun._ 1. gift \[cb. [[Kasuto]]]
 + **dieba** (dee ay' bah) _adjective._ 1. stolen \[cb. [[Kasuto]]]
 + **diebag** (dee ay' bahg) _verb._ 1. to steal, to rob \[cb. [[Kasuto]]]
@@ -616,8 +616,9 @@ This lexicon uses IPA to show the pronunciation of words.
 + **karimoske** _noun._ 1. electric dragonfly, electric darner
 + **katabag** (kah tah' bahg) _verb._ 1. to write formally, to transcribe, to take dictation
 + **katabe** (kah tah' bay) _noun._ 1. formal writing 2. official document
++ **katag** ('ka.tag) _verb._ 1. to acknowledge, to greet, to recognize 2. to assess, to score 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **katanur** (kah tah' noor) _noun, proper_ 1. Kataan, a village located about 32 km south by southeast of Hyrule Castle during the Classical era; many settlements have held this name over the ages
-+ **kate** (kah' tay) _noun._ 1. k; the name of the twentieth letter of the Classical Hylian _aktaite_
++ **kate** (kah' tay) _noun._ 1. k; the name of the twentieth letter of the Classical Hylian _aktaite_ 2.
 + **kaxüre** _noun._ 1. chert 1. a sedimentary stone suitable for toolmaking.
 + **kaz** (kahz) _contraction._ 1. to the; contraction of _??? + taz_
 + **kazhe** / 'ka.ʒe / _noun_ 1. teenager, adolescent
@@ -635,7 +636,6 @@ This lexicon uses IPA to show the pronunciation of words.
 + **këchwe** _noun._ 1. nightshade 2. poison 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **këm** (kehm) _pronoun, demonstrative_ 1. whose; introduces relative clauses for personal attribution
 + **këze** _noun._ 1. manor, estate 1. a large family house which has been extended over two or more generations 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **kibara** (kee bah' rah) _adjective_ 1. changed, altered, transformed
 + **kibara** _adjective._ 1. altered, alternate, different, changed, other, transformed 2. \[linguistics] lax, lowered, centered 3. \[slang] sweet, spicy, hot, cool; describes something which is interesting _because_ it is different 1. \[_cb._ [Kasuto](contributors/kasuto.md), extended by [Austin](contributors/austin-springer.md)] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **kibarag** _verb._ 1. to alter, to change, to transform 2. \[linguistics] to pronounce a sound in a non-standard manner 3. \[slang] to be into, to dig, to follow; especially of trends 1. \[_cb._ [Kasuto](contributors/kasuto.md), extended by [Austin](contributors/austin-springer.md)] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **kibare** _noun._ 1. alteration, difference, change, transformation 2. \[linguistics] a weakened sound; a bit of a vague term 3. \[slang] vibes, coolness, hotness; a thing which is novel 1. \[_cb._ [Kasuto](contributors/kasuto.md), extended by [Austin](contributors/austin-springer.md)] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -705,7 +705,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **lamieca** /,la.mi.'e.tsa/ _adjective._ 1. wealthy, rich 2. sealed away, stored 3. imprisoned 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **lamiecag** /,la.mi.'e.tsag/ _verb._ 1. to acquire, to collect 2. to secure 3. to lock away 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **lamiece** /,la.mi.'e.tse/ _noun._ 1. wealth, capital, property 2. bank, vault 3. jail, prison 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **lanokarie** _noun._ 1. hide-and-seek, tag, chase game. 1. a common class of games played bychildren, named for _lanmole_ "the worm under sand" and _kariüse_ 'the revealing flash of lightning'. 1. from [Taerelon](contributors/taerelon.md)'s Classical Hylian _lanokari_, \[_cb._ [Austin](contributors/austin-springer.md)]
++ **lanokarie** _noun._ 1. hide-and-seek, tag, chase game. 1. a common class of games played by children, named for _lanmole_ "the worm under sand" and _kariüse_ 'the revealing flash of lightning'. 1. from [Taerelon](contributors/taerelon.md)'s Classical Hylian _lanokari_, \[_cb._ [Austin](contributors/austin-springer.md)]
 + **laniavare** _noun._ 1. wetland coffee, zora coffee. 1. coffee beans which are grown in the wetlands and highlands of Lanayru province, known for their rich flavor and smooth aroma.
 + **lañva** _adjective_. 1. linguistic, of or related to language 2. flavourful, savory, of or related to taste 3. tasteful, in good taste.
 + **lañvag** _verb_. 1. to know, understand, or speak a language. 2. to study language. 3. to lick, to taste. 4. to express one's preferences.
@@ -852,8 +852,8 @@ This lexicon uses IPA to show the pronunciation of words.
 + **nive** (nee' vay) _noun._ 1. nine
 + **nosu** (noh' soo) _pronoun, personal_ 1. we, us
 + **note** (noh' tay) _noun._ 1. n; the name of the twenty-third letter of the Classical Hylian _aktaite_
-+ **nuce** \[**ˈnu**.t͡se\] _noun_. 1. fruit, nut; especially fruit in a hard but fragile shell
-+ **nückursiyu** / \[**ˌnut͡s**.kuR.ˈsi.ju / _pronoun._ 1. the seat of shelled fruits, _manhandla_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **nüce** / ˈnʌ.t͡se / _noun_. 1. fruit, nut; especially fruit in a hard but fragile shell
++ **nückursiyu** / ˌnʌt͡s.kuɹ.ˈsi.ju / _pronoun._ 1. the seat of shelled fruits, _manhandla_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 
 ## O - Ó
 
@@ -904,9 +904,9 @@ This lexicon uses IPA to show the pronunciation of words.
 + **pantasha** (pahn tah' shah) _adjective_ 1. fifth
 + **pantashe** (pahn tah' shay) _noun._ 1. the fifth
 + **pante** (pahn' tay) _noun._ 1. five
-+ **parapa** (pa.'ra.'pa) _adjective._ 1. dry, arid 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **parapag** (pa.'ra.pag) _verb._ 1. to dry 2. to cure food by removing moisture 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **parape** (pa.'ra.pe) _noun._ 1. desert 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **parapa** (pa.'ɾa.pa) _adjective._ 1. dry, arid 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **parapag** (pa.'ɾa.pag) _verb._ 1. to dry 2. to cure food by removing moisture 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **parape** (pa.'ɾa.pe) _noun._ 1. desert 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **parta** 1. lucky, fortunate
 + **partag** 1. to tempt fate, to gamble
 + **parte** 1. fortune, chance, luck
@@ -1014,7 +1014,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **shai** (sheye) _verbal adjunct._ 1. may, might; subjunctive verbal adjunct, establishes a mood of reliance, uncertainty, or possibility, and only works alongside the present tenses
 + **she** (shay) _verbal adjunct._ 1. should, ought to; imperative verbal adjunct, establishes a milder imperative mood similar to suggestion, advice, or lesser commands, can only be used with the present tense
 + **shekana** (shay kah' nah) _adjective._ 1. Sheikah, Sheikan; describes a person or object belong to or made by the Sheikah
-+ **shekane** (shay kah' nah) _noun._ 1. Sheikah (person) 2. Sheikah (language)
++ **shekane** (shay kah' nay) _noun._ 1. Sheikah (person) 2. Sheikah (language)
 + **shë** \[ʃɛ\] _pronoun._ 1. \[informal] she, her. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
 + **shëmsa** (shehm' sah) _adjective._ 1. solar, of or related to the sun
 + **shëmse** (shehm' say) _noun._ 1. sun; especially of Hyrule's world
@@ -1049,7 +1049,7 @@ This lexicon uses IPA to show the pronunciation of words.
 + **tabele** _noun._ 1. table, desk, mesa, plateau 1. may refer to a raised flat surface of most any size or nature. 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **taktag** (tahk' tahg) _verb._ 1. to describe
 + **takte** (tahk' tay) _noun._ 1. description 1. adjective
-+ **taktwirte** \[tak.twiɾ.te] _noun_. 1. adverb. 1. coined from _takte_ + _wirte_, literally "adjective-verb" (Jerin) 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
++ **taktwirte** \[tak.'twiɹ.te], \[takt.'wiɹ.te] _noun_. 1. adverb. 1. coined from _takte_ + _wirte_, literally "adjective-verb" (Jerin) 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
 + **tälona** (tæ.'lo.na) _adjective._ 1. lazy, slow 1. unlike English, this word is not necessarily negative 1. from _Talon_ of Lon Lon Ranch 1. (cb. [Jerin](contributors/jerin-of-calatia.md))
 + **tälonag** (tæ.'lo.nag) _verb._ 1. to laze about 1. unlike English, this word is not necessarily negative 1. see _tälona_ 1. (cb. [Jerin](contributors/jerin-of-calatia.md))
 + **tälone** (tæ.'lo.ne) _noun._ 1. laziness, malaise, slowness 1. unlike English, this word is not necessarily negative 1. see _tälona_ 1. (cb. [Jerin](contributors/jerin-of-calatia.md))
@@ -1206,14 +1206,15 @@ This lexicon uses IPA to show the pronunciation of words.
 
 ## Z
 
-+ **za** (zah) _pronoun, demonstrative._ 1. this, this one
++ **za** (zah) _adjective; pronoun, demonstrative._ 1. this, this one
++ **zala** _adjective._ 1. salty, saline 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **zalcupe** _noun._ 1. (culinary) stock 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **zale** _noun_. 1. salt. 1. from Latin _salo_ (salt). 1. ([[austin-springer|Austin Springer]])
 + **zaleeshe** _noun_. 1. butter. 1. from _zale_ (salt) and _leeshe_ (milk) 1. ([[austin-springer|Austin Springer]])
-+ **zan** (zahn) _pronoun, demonstrative._ 1. these, these ones
++ **zan** (zahn) _adjective; pronoun, demonstrative._ 1. these, these ones
 + **zante** (zahn' tay) _noun._ 1. z; name of he thirty-eighth letter of the Classical Hylian _aktaite_
-+ **zata** (zah' tah) _pronoun, demonstrative._ 1. that, that one
-+ **zatan** (zah' tahn) _pronoun, demonstrative._ 1. those, those ones
++ **zata** (zah' tah) _adjective; pronoun, demonstrative._ 1. that, that one
++ **zatan** (zah' tahn) _adjective; pronoun, demonstrative._ 1. those, those ones
 + **zatiu** (zah' tyoo) _pronoun, independent._ 1. those
 + **zatu** (zah' too) _pronoun, independent._ 1. that
 + **zavofose** _noun._ 1. fear based on knowledge, fear of the known 2. rational fear 1. \[_cb._ [Austin](contributors/austin-springer.md)]
