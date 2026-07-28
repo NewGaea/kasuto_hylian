@@ -12,121 +12,126 @@ For details about how entries are listed in this new format, please check [[lexi
 
 As of this update (beginning in July 2023), all words from [Kasuto's HLI](http://kasuto.net/language.php?main=language/language.html), our archived Vinculum threads, [[Hylian Community Wordlist]] and [[Ont Hilana (Interlinear of Thread).md|Ont Hilana]], and our own creations are afforded first-class status as documented Hylian words under the Hylian Language Society.
 
-This lexicon uses IPA to show the pronunciation of words.
+This lexicon uses IPA to show the pronunciation of words. Any word with its pronunciation listed in between slashes / like so / should be considered up to date in this regard. Parentheses, square brackets, and any other form of grouping for the phonetics indicates some degree if incomplete processing for the word.
 
 **NOTE:** While \<_jh_\> and \<_zh_\> are both valid romanizations, this lexicon listing prefers \<_zh_\> to parallel the \<_sh_\> structure.
+
+> [!info] Latest Update: 25-Jul-2026
+> 
+> We apologize for the slowness in processing this list. As of right now, the IPA phonetics for all words currently in the list through _bwiba_ should be guaranteed accurate.
 
 ## A - Á
 
 + **[a](lexicon/grammar/-a)** / a / _grammatical suffix._ 1. adjective marker. 1. This suffix indicates an adjective that matches a singular noun. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **[ab](lexicon/grammar/ab)** / ab / _particle._ 1. direct object marker. 1. particle goes directly before the direct object of a sentence. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **[abaz](lexicon/grammar/abaz)** / **'ab**.az / _particle contraction._ 1. direct object marker + definite article 1. used identically to _ab taz_; cf. _ab, az, taz_ 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **ablat** \[**'ab**.lat\] _preposition._ 1. by way of, via. 1. other notes. 1. \[_cb._ [QBri](contributors/qbri.md)\]
-+ **adakae** / _,a_.da.**'ka**.e / _noun._ 1. toe. 1. a contraction of _aikwe daia kame_ "finger of the foot;" cf. _aikwe, kame_. 1. \[_cb._ ([[venus|Venus]]\]
-+ **adenba** / a.**'den**.ba / _adjective._ 1. abandoned. 1. see _adenbag_. 1. \[_cb._ [[tushen|Tushen]]\]
-+ **adenbag** / a.**'den**.bag / _verb._ 1. to abandon, to leave completely. 1. presumed to be derived from English _abandon_. 1. \[_cb._ [[tushen|Tushen]]\]
-+ **adenbe** / a.**'den**.be / _noun._ 1. abandonment. 1. see _adenbag_ 1. \[_cb._ [[tushen|Tushen]]\]
-+ **agithe** / a.**'gi**.θe / _noun_. 1. butterfly, moth. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
++ **[abaz](lexicon/grammar/abaz)** / ˈa.baz / _particle contraction._ 1. direct object marker + definite article 1. used identically to _ab taz_; cf. _ab, az, taz_ 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **ablat** / ˈab.lat / _preposition._ 1. by way of, via. 1. other notes. 1. \[_cb._ [QBri](contributors/qbri.md)\]
++ **[adakae](lexicon/lexemes/a/adakae.md)** / ˌa.da.ˈka.e / _noun._ 1. toe. 1. a contraction of _aikwe daia kame_ "finger of the foot;" cf. _aikwe, kame_. 1. \[_cb._ ([[venus|Venus]]\]
++ **[adenba](lexicon/lexemes/a/adenba.md)** / a.ˈden.ba / _adjective._ 1. abandoned. 1. see _adenbag_. 1. \[_cb._ [[tushen|Tushen]]\]
++ **[adenbag](lexicon/lexemes/a/adenbag.md)** / a.'den.bag / _verb._ 1. to abandon, to leave completely. 1. presumed to be derived from English _abandon_. 1. \[_cb._ [[tushen|Tushen]]\]
++ **[adenbe](lexicon/lexemes/a/adenbe.md)** / a.'den.be / _noun._ 1. abandonment. 1. see _adenbag_ 1. \[_cb._ [[tushen|Tushen]]\]
++ **[agidhënzile](lexicon/lexemes/a/agidhënzile.md)** / a.ˌgi.ðɛn.'zi.le / _noun._ 1. sparkler, firestick 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
++ **agithe** / a.'gi.θe / _noun_. 1. butterfly, moth. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
 + **[a•i](lexicon/lexemes/a/a'i)** / **'a**.i / _expression, interjection._ 1. oh!, ah! 1. an interjection commonly used to indicate recognition or surprise. 1. \[_cb._ [[venus|Venus]]\]
-+ **aja** / **ˈa**.d͜ʒa / _adjective._ 1. cloudy, cloud-like. 2. concealed, hidden 1. see _aje_. 2. from the effects of a cloud on visibility 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
-+ **ajag** / **ˈa**.d͜ʒag / _verb._ 1. to cloud, to condense 2. to conceal, to hide. 1. specifically to form a cloud, condensation of vapor. 2. from _aja (2.)_ 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
-+ **aje** / **ˈa**.d͜ʒe / _noun._ 1. cloud. 2. camouflage, concealment 1. describes distinct clouds above ground level, and not fog. 2. an extension of _cloud_ based on metaphor 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
++ **aja** / ˈa.d͜ʒa / _adjective._ 1. cloudy, cloud-like. 2. concealed, hidden 1. see _aje_. 2. from the effects of a cloud on visibility 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
++ **ajag** / ˈa.d͜ʒag / _verb._ 1. to cloud, to condense 2. to conceal, to hide. 1. specifically to form a cloud, condensation of vapor. 2. from _aja (2.)_ 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
++ **aje** / ˈa.d͜ʒe / _noun._ 1. cloud. 2. camouflage, concealment 1. describes distinct clouds above ground level, and not fog. 2. an extension of _cloud_ based on metaphor 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [[austin-springer|Austin]]]
 + **ak** / ak / _preposition._ 1. to, towards. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **aka** / **ˈa**.ka / _adjective, demonstrative pronoun._ 1. here, this place. 1. from Spanish _aquí_ (here). 1. \[_cb._ [[qbri|QBri]]\]
-+ **[akana](lexicon/lexemes/a/akana)** / a.**ˈka**.na / _adjective._ 1. current, contemporary. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **[akane](lexicon/lexemes/a/akane)** / a.**ˈka**.ne / _noun._ 1. now, present time. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akanto** / a.**ˈkan**.to / _pronoun, adverb_ 1. now, immediate, instant 1. \[_cb_ [QBri](contributors/qbri.md)]
-+ **[akantroshe](lexicon/lexemes/a/akantroshe)** / _ˌa_.kan.**ˈtɹo**.ʃe / _noun, compound word._ 1. present tense. 2. present time, now. 1. from _akana_ "current, now" and _troshe_ "tense, time" 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **aka** / ˈa.ka / _adjective, demonstrative pronoun._ 1. here, this place. 1. from Spanish _aquí_ (here). 1. \[_cb._ [[qbri|QBri]]\]
++ **[akana](lexicon/lexemes/a/akana)** / a.ˈka.na / _adjective._ 1. current, contemporary. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akane](lexicon/lexemes/a/akane)** / a.ˈka.ne / _noun._ 1. now, present time. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **akanto** / a.ˈkan.to / _pronoun, adverb_ 1. now, immediate, instant 1. \[_cb_ [QBri](contributors/qbri.md)]
++ **[akantroshe](lexicon/lexemes/a/akantroshe)** / ˌa.kan.ˈtɹo.ʃe / _noun, compound word._ 1. present tense. 2. present time, now. 1. from _akana_ "current, now" and _troshe_ "tense, time" 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **[aki](lexicon/lexemes/a/aki)** / **ˈa**.ki / _honorific._ 1. love, darling, dear, honey. 1. an honorific applied to a lover's name or other form of address. 1. takes no stress when used as a suffix 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **[akima](lexicon/lexemes/a/akima)** / a.**ˈki**.ma / _adjective._ 1. friendly, amicable. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **[akimag](lexicon/lexemes/a/akimag)** / a.**ˈki**.mag / _verb._ 1. to befriend, to connect with someone. 1. this word is reserved for person-to-person interactions, not impersonal or group-to-group. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **[akime](lexicon/lexemes/a/akime)** / a.**ˈki**.me / _noun._ 1. friend, ally, comrade. 1. this refers to personal relations only, not impersonal or group relations. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **akoia** / a.**ˈkoi**.a / _adjective._ 1. cyan, cerulean 2. sky-colored 1. literally from **akonde** "sky" and **ícia** "colour" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **akok** / **ˈa**.kok / _adverb._ 1. here. 1. see _aka_. 1. \[_cb._ [[austin-springer|Austin]], via [[qbri|QBri]]\]
-+ **akonda** / a.**ˈkon**.da / _adjective._ 1. celestial, heavenly, of the sky. 1. may refer to anything which is of or in the sky or heavens. 1. \[_cb._ [[austin-springer|Austin]], via [[venus|Venus]]\]
-+ **akondag** / a.**ˈkon**.dag / _verb._ 1. to float, to hang unsuspended in air. 1. refers staying in the air without apparent cause. 1. \[_cb._ [[austin-springer|Austin]], via [[venus|Venus]]\]
-+ **akondaja** / _ˌa_.kon.**ˈda**.d͜ʒa / _adjective._ 1. of or pertaining to the skycloud
-+ **akondaje** / _ˌa_.kon.**ˈda**.d͜ʒe / _adjective._ 1. skycloud, a visual impediment which obscures certain heavenly bodies
-+ **akonde** / a.**ˈkon**.de / _noun._ 1. sky, heavens. 1. does not refer to a spiritual heaven, only to the physical areas above the ground. 1. \[_cb._ [[venus|Venus]]\]
-+ **akondoëre** / a._ˌkon_.do.**ˈɛ**.ɾe / _noun._ 1. sky world, heavens, sky lands 1. according to legend, there are hidden lands flying in the sky, protected by an ancient goddess or sages, where dragons and Sky People live -- or once lived. 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **akta** / **ˈak**.ta / _adjective._ 1. in motion towards. 1. see _akte (2)_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktag** / **ˈak**.tag / _verb._ 1. to move towards something. 1. see _akte (2)_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktazha** / ak.**ˈta**.ʒa / _adjective._ 1. cursed, condemned. 2. \[legal] condemned, sentenced. 1, 2. based on the expression _aktazhá_ (damn!) 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktazhá** / _ˌak_.ta.**ˈʒa** / _adjective, interjection, explicit, vulgar._ 1. damn!, damn it! to hell with this!; cursed, damned, damnable. 1. presented in Kasuto's common expressions, equivalent to AmEng "Damn it to hell!" 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **aktazhag** / ak.**ˈta**.ʒag / _verb._ 1. to curse, to condemn. 2. \[legal] to pass judgement, to condemn, to sentence 1, 2. see _aktazha_. 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktazhe** / ak.**ˈta**.ʒe / _noun._ 1. curse, hex, karma, karmic weight, malice. 2. \[legal] judgment, punishment, condemnation 1, 2. see _aktazha_. 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktaita** / ak.**ˈtai**.ta / _adjective._ 1. alphabetic, alphabetical. 1. of or relating to the _aktaite,_ or another writing system. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **[akima](lexicon/lexemes/a/akima)** / a.ˈki.ma / _adjective._ 1. friendly, amicable. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akimag](lexicon/lexemes/a/akimag)** / a.ˈki.mag / _verb._ 1. to befriend, to connect with someone. 1. this word is reserved for person-to-person interactions, not impersonal or group-to-group. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **[akime](lexicon/lexemes/a/akime)** / a.ˈki.me / _noun._ 1. friend, ally, comrade. 1. this refers to personal relations only, not impersonal or group relations. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **akoia** / a.ˈkoi.a / _adjective._ 1. cyan, cerulean 2. sky-colored 1. literally from **akonde** "sky" and **ícia** "colour" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **akok** / ˈa.kok / _adverb._ 1. here. 1. see _aka_. 1. \[_cb._ [[austin-springer|Austin]], via [[qbri|QBri]]\]
++ **akonda** / a.ˈkon.da / _adjective._ 1. celestial, heavenly, of the sky. 1. may refer to anything which is of or in the sky or heavens. 1. \[_cb._ [[austin-springer|Austin]], via [[venus|Venus]]\]
++ **akondag** / a.ˈkon.dag / _verb._ 1. to float, to hang unsuspended in air. 1. refers staying in the air without apparent cause. 1. \[_cb._ [[austin-springer|Austin]], via [[venus|Venus]]\]
++ **akondaja** / ˌa.kon.ˈda.d͜ʒa / _adjective._ 1. of or pertaining to the skycloud
++ **akondaje** / ˌa.kon.ˈda.d͜ʒe / _adjective._ 1. skycloud, a visual impediment which obscures certain heavenly bodies
++ **akonde** / a.ˈkon.de / _noun._ 1. sky, heavens. 1. does not refer to a spiritual heaven, only to the physical areas above the ground. 1. \[_cb._ [[venus|Venus]]\]
++ **akondoëre** / a.ˌkon.do.ˈɛ.ɾe / _noun._ 1. sky world, heavens, sky lands 1. according to legend, there are hidden lands flying in the sky, protected by an ancient goddess or sages, where dragons and Sky People live -- or once lived. 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **akta** / ˈak.ta / _adjective._ 1. in motion towards. 1. see _akte (2)_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **aktag** / ˈak.tag / _verb._ 1. to move towards something. 1. see _akte (2)_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **aktazha** / ak.ˈta.ʒa / _adjective._ 1. cursed, condemned. 2. \[legal] condemned, sentenced. 1, 2. based on the expression _aktazhá_ (damn!) 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **aktazhá** / ˌak.ta.ˈʒa / _adjective, interjection, explicit, vulgar._ 1. damn!, damn it! to hell with this!; cursed, damned, damnable. 1. presented in Kasuto's common expressions, equivalent to AmEng "Damn it to hell!" 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **aktazhag** / ak.ˈta.ʒag / _verb._ 1. to curse, to condemn. 2. \[legal] to pass judgement, to condemn, to sentence 1, 2. see _aktazha_. 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **aktazhe** / ak.ˈta.ʒe / _noun._ 1. curse, hex, karma, karmic weight, malice. 2. \[legal] judgment, punishment, condemnation 1, 2. see _aktazha_. 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **aktaita** / ak.ˈtai.ta / _adjective._ 1. alphabetic, alphabetical. 1. of or relating to the _aktaite,_ or another writing system. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **aktaitag** \[ak.ˈtai.tag\] _verb._ 1. to learn how to write a script. 2. to order a collection alphabetically 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **aktaite** / ak.**ˈtai**.te / _noun._ 1. alphabet, syllabary. 1. the system of writing used in _Neo-Modern Hylian_, originally _aktaie_, spelling was changed to reflect both reference letters, _akte_ and _aite_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **akte** / **ˈak**.te / _noun._ 1. a, ah, akte. 2. movement towards 1. the name of the first letter in the Hylian _aktaite_. 2. from _ak_ "towards" 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[cb. [[austin-springer|Austin]], via [[kasuto|Kasuto]]]
++ **aktaite** / ak.ˈtai.te / _noun._ 1. alphabet, syllabary. 1. the system of writing used in _Neo-Modern Hylian_, originally _aktaie_, spelling was changed to reflect both reference letters, _akte_ and _aite_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **akte** / ˈak.te / _noun._ 1. a, ah, akte. 2. movement towards 1. the name of the first letter in the Hylian _aktaite_. 2. from _ak_ "towards" 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[cb. [[austin-springer|Austin]], via [[kasuto|Kasuto]]]
 + **aku** / **ˈa**.ku / _pronoun._ 1. here. 1. independent pronoun. 1. \[_cb._ [[qbri|QBri]]\]
-+ **ala** / **ˈa**.la / _adjective, demonstrative pronoun._ 1. there. 1. \[_cb._ [[qbri|QBri]]\]
-+ **alala** / a.**ˈla**.la / 1. singsong, childish (of speech) 2. \[social] engaged, attentive
-+ **alalag** / a.**ˈla**.lag / 1. to make nonsensical sounds or words 2. to listen attentively
-+ **alale** / a.**ˈla**.le / 1. soundplay, verbal nonsense, baby talk 2. onomotapoeia, idiophone 3. non-lexical words, minor utterances which do not follow grammatical rules
-+ **alaza** / a.**ˈla**.za / _adjective._ 1. neighborly, friendly, kind. 1. does not imply being friends, but being good especially to those who live near oneself 1. \[_cb._ [[austin-springer|Austin]], via [[k-chan|K-Chan]]\]
-+ **alazag** / a.**ˈla**.zag / _verb._ 1. to behave kindly, to offer friendship. 1. to behave in a good manner to others, especially those who live near oneself. 1. \[_cb._ [[austin-springer|Austin]], via [[k-chan|K-Chan]]\]
-+ **alazae** / _ˌa_.la.**ˈza**.e / _noun._ 1. neighbor. 1. \[_cb._ [[k-chan|K-Chan]]\]
-+ **alba** / **ˈal**.ba / _adjective._ 1. holy, sacred, blessed, hallowed. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **albag** / **ˈal**.bag / _verb._ 1. to bless, to hallow. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **albanaistre** / _ˌal_.ba.**ˈnais**.tɾe / _noun._ 1. holy night, sacred night 1. may refer to any night during a _fëste,_ though it often applies to the most significant night more so than to the others 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **albe** / **ˈal**.be / _noun._ 1. blessing, holiness. 2. purification ritual. 3. Holiness Month, July 3. Seventh month of the Hylian calendar, represents the blessings of the Goddesses 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\] 3. ([[venus|Venus]] and [[contributors/arrow|Arrow]], via [[kasuto|Kasuto]])
-+ **albende** / al.**ˈben**.de / _noun._ 1. home. 1. presumed from _albode_. 1. \[_cb._ [[tushen|Tushen]]\]
-+ **albode** / al.**ˈbo**.de / _noun._ 1. house. 1. a permanent or long-term building made to shelter people 1. presumed from English _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
-+ **alboeka** _adjective._ 1. spiritual, sacred 2. magical, mystical 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alboekag** _verb._ 1. to use spiritual power 2. to wield magic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alboeke** _noun._ 1. spiritual power 2. magic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alboekita** _adjective._ 1. possessing inherent spiritual or magical powers 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alboekitag** _verb._ 1. to develop one's spiritual or magical powers 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alboekite** _noun._ 1. sage, priest, priestess, guru, holy person 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **alu** / **ˈa**.lu / _pronoun._ 1. there. 1. independent pronoun. 1. \[_cb._ [[qbri|QBri]]\]
-+ **alzhag** / **ˈal**.ʒag / _verb._ 1. to tell, to report. 1. curiously sounds a bit like English "I'll say." 1. \[_cb._ [[venus|Venus]]\]
-+ **amite** / a.**ˈmi**.te / _noun._ 1. uncle, aunt. 1. refers to any sibling of one's parents; from Latin _amita_ "aunt" 1. \[_cb._ [[venus|Venus]]\]
-+ **amítile** / a.**ˈmi**.ti.le / _noun._ 1. uncle. 1. refers to any brother of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
-+ **amítine** / a.**ˈmi**.ti.ne / _noun._ 1. aunt. 1. refers to any sister of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
-+ **amkana** / am.**ˈka**.na / _adjective._ 1. loving, affectionate. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **amkanag** / am.**ˈka**.nag / _verb._ 1. to love. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **amkane** / am.**ˈka**.ne / _noun._ 1. love, affection. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **ala** / ˈa.la / _adjective, demonstrative pronoun._ 1. there. 1. \[_cb._ [[qbri|QBri]]\]
++ **alala** / a.ˈla.la / 1. singsong, childish (of speech) 2. \[social] engaged, attentive
++ **alalag** / a.ˈla.lag / 1. to make nonsensical sounds or words 2. to listen attentively
++ **alale** / a.ˈla.le / 1. soundplay, verbal nonsense, baby talk 2. onomotapoeia, idiophone 3. non-lexical words, minor utterances which do not follow grammatical rules
++ **alaza** / a.ˈla.za / _adjective._ 1. neighborly, friendly, kind. 1. does not imply being friends, but being good especially to those who live near oneself 1. \[_cb._ [[austin-springer|Austin]], via [[k-chan|K-Chan]]\]
++ **alazag** / a.ˈla.zag / _verb._ 1. to behave kindly, to offer friendship. 1. to behave in a good manner to others, especially those who live near oneself. 1. \[_cb._ [[austin-springer|Austin]], via [[k-chan|K-Chan]]\]
++ **alazae** / ˌa.la.ˈza.e / _noun._ 1. neighbor. 1. \[_cb._ [[k-chan|K-Chan]]\]
++ **alba** / ˈal.ba / _adjective._ 1. holy, sacred, blessed, hallowed. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **albag** / ˈal.bag / _verb._ 1. to bless, to hallow. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **albanaistre** / ˌal.ba.ˈnais.tɾe / _noun._ 1. holy night, sacred night 1. may refer to any night during a _fëste,_ though it often applies to the most significant night more so than to the others 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **albe** / ˈal.be / _noun._ 1. blessing, holiness. 2. purification ritual. 3. Holiness Month, July 3. Seventh month of the Hylian calendar, represents the blessings of the Goddesses 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\] 3. ([[venus|Venus]] and [[contributors/arrow|Arrow]], via [[kasuto|Kasuto]])
++ **albende** / al.ˈben.de / _noun._ 1. home. 1. presumed from _albode_. 1. \[_cb._ [[tushen|Tushen]]\]
++ **albode** / al.ˈbo.de / _noun._ 1. house. 1. a permanent or long-term building made to shelter people 1. presumed from English _abode_ (house, home, living space). 1. \[_cb._ [[tushen|Tushen]]\]
++ **alboeka** / al.bo.e.ka / _adjective._ 1. spiritual, sacred 2. magical, mystical 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alboekag** / al.bo.e.kag / _verb._ 1. to use spiritual power 2. to wield magic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alboeke** / al.bo.e.ke / _noun._ 1. spiritual power 2. magic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alboekita** / al.bo.e.ki.ta / _adjective._ 1. possessing inherent spiritual or magical powers 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alboekitag** / al.bo.e.ki.tag / _verb._ 1. to develop one's spiritual or magical powers 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alboekite** / al.bo.e.ki.te / _noun._ 1. sage, priest, priestess, guru, holy person 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **alu** / ˈa.lu / _pronoun._ 1. there. 1. independent pronoun. 1. \[_cb._ [[qbri|QBri]]\]
++ **alzhag** / ˈal.ʒag / _verb._ 1. to tell, to report. 1. curiously sounds a bit like English "I'll say." 1. \[_cb._ [[venus|Venus]]\]
++ **amite** / a.ˈmi.te / _noun._ 1. uncle, aunt. 1. refers to any sibling of one's parents; from Latin _amita_ "aunt" 1. \[_cb._ [[venus|Venus]]\]
++ **amítile** / a.ˈmi.ti.le / _noun._ 1. uncle. 1. refers to any brother of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
++ **amítine** / a.ˈmi.ti.ne / _noun._ 1. aunt. 1. refers to any sister of one's parents; see _amite_. 1. \[_cb._ [[venus|Venus]]\]
++ **amkana** / am.ˈka.na / _adjective._ 1. loving, affectionate. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **amkanag** / am.ˈka.nag / _verb._ 1. to love. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **amkane** / am.ˈka.ne / _noun._ 1. love, affection. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **-an** / an / _grammatical suffix._ 1. plural adjective. 1. This suffix indicates an adjective for plural nouns. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **andakvag** / an.**ˈdak**.vag / _verb._ 1. to cry, to weep. 1. see _andakve_ 1. \[_cb._ [[qbri|QBri]]\]
-+ **andakve** / an.**ˈdak**.ve / _part of speech._ 1. tear, teardrop. 1. from _andwe_ "face" and _onkve_ "water." 1. \[_cb._ [[qbri|QBri]]\]
-+ **andre** / **ˈan**.dre / _noun._ 1. Watersday. Third day of the Hylian week, honors the spirits of water; from proposed _ane_ (elemental water) and canonical _tiudre_ (day) 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[kasuto|Kasuto]], [[contributors/arrow]]?\]
-+ **andwe** / **ˈan**.dwe / _noun._ 1. face, countenance. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
-+ **andwoke** / an.**ˈdwo**.ke / _noun._ 1. mask, hood, veil. 1. from proposed _andwe_ "face" and _oke_ "clothing." 1. \[_cb._ [[contributors/auric_trinity|Auric Trinity]], [[venus|Venus]], [[k-chan|K-Chan]]\]
-+ **ane** / **ˈa**.ne / _part of speech._ 1. water (elemental, magical). 2. northeast 1. \[_cb._ [[pata-hikari|Pata Hikari]]\] 2. \[_cb._ [[venus|Venus]]]
-+ **animade** / _ˌa_.ni.**ˈma**.de / _noun._ 1. pain, suffering, angst. 2. oblivion 1. from Latin _anima_ (spirit, soul) via the Aeon _Anima_ in the game _Final Fantasy X_ 2. from one of the moves used by the Aeon _Anima_ 1. \[_cb._ [[auric_trinity|Auric Trinity]]]
-+ **anlika** / an.**ˈli**.ka / _adjective._ 1. alone. 1. \[_cb._ [[k-chan|K-Chan]]\]
++ **andakvag** / an.ˈdak.vag / _verb._ 1. to cry, to weep. 1. see _andakve_ 1. \[_cb._ [[qbri|QBri]]\]
++ **andakve** / an.ˈdak.ve / _part of speech._ 1. tear, teardrop. 1. from _andwe_ "face" and _onkve_ "water." 1. \[_cb._ [[qbri|QBri]]\]
++ **andre** / ˈan.dre / _noun._ 1. Watersday. Third day of the Hylian week, honors the spirits of water; from proposed _ane_ (elemental water) and canonical _tiudre_ (day) 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[kasuto|Kasuto]], [[contributors/arrow]]?\]
++ **andwe** / ˈan.dwe / _noun._ 1. face, countenance. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
++ **andwoke** / an.ˈdwo.ke / _noun._ 1. mask, hood, veil. 1. from proposed _andwe_ "face" and _oke_ "clothing." 1. \[_cb._ [[contributors/auric_trinity|Auric Trinity]], [[venus|Venus]], [[k-chan|K-Chan]]\]
++ **ane** / ˈa.ne / _part of speech._ 1. water (elemental, magical). 2. northeast 1. \[_cb._ [[pata-hikari|Pata Hikari]]\] 2. \[_cb._ [[venus|Venus]]]
++ **animade** / ˌa.ni.ˈma.de / _noun._ 1. pain, suffering, angst. 2. oblivion 1. from Latin _anima_ (spirit, soul) via the Aeon _Anima_ in the game _Final Fantasy X_ 2. from one of the moves used by the Aeon _Anima_ 1. \[_cb._ [[auric_trinity|Auric Trinity]]]
++ **anlika** / an.ˈli.ka / _adjective._ 1. alone. 1. \[_cb._ [[k-chan|K-Chan]]\]
 + **ank** / aŋ̥ / _particle._ 1. indirect object marker. 1. the following phrase is the indirect object of the verb. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **anperine** / _ˌan_.pe.**ˈri**.ne / _noun._ alcohol, liquor, spirits. 1. from _ane_ (elemental water) and _perine_ (spirit) (_cb. [[auric_trinity|Auric Trinity]]_)
-+ **ánpita** / **ˈan**.pi.te / _adjective._ 1. northeast, northeastern. 1. see _ánpite_. 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
-+ **ánpite** / **ˈan**.pi.te / _part of speech._ 1. northeast. 1. from _ane_ (water) and _pite_ (gate). 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
-+ **anraz** / aŋ̥.ɹaz / _particle compound._ 1. indirect object marker + indefinite article. 1. used when the words _ank_ and _raz_ are used in sequence; cf. _antaz, anz_; never takes stress naturally. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **anperine** / ˌan.pe.ˈri.ne / _noun._ alcohol, liquor, spirits. 1. from _ane_ (elemental water) and _perine_ (spirit) (_cb. [[auric_trinity|Auric Trinity]]_)
++ **ánpita** / ˈan.pi.te / _adjective._ 1. northeast, northeastern. 1. see _ánpite_. 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
++ **ánpite** / ˈan.pi.te / _part of speech._ 1. northeast. 1. from _ane_ (water) and _pite_ (gate). 1. \[_cb._ [[venus|Venus]], [[pata-hikari|Pata Hikari]], [[auric_trinity|Auric Trinity]]\]
++ **anraz** / an.ɹaz / _particle compound._ 1. indirect object marker + indefinite article. 1. used when the words _ank_ and _raz_ are used in sequence; cf. _antaz, anz_; never takes stress naturally. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **-ans** / ans / _grammatical suffix._ 1. \[voten\] kempos. 1. This suffix creates the (present) imperative mood of a verb, used to give a direct command. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **-ant** / ant / _grammatical marker._ 1. have done \[verb]. 1. This suffix creates the present perfect tense, for a task which is currently complete. 1. \[_cb._ [[contributors]]\]
-+ **anta** / **ˈan**.ta / _adjective._ 1. ahead of, in front of, before (space). 1. _presumed_ from Latine _ante_ (before, in front of). 1. \[_cb._ [[qbri|QBri]]\]
++ **anta** / ˈan.ta / _adjective._ 1. ahead of, in front of, before (space). 1. _presumed_ from Latine _ante_ (before, in front of). 1. \[_cb._ [[qbri|QBri]]\]
 + **antaz** / an.taz / _particle compound._ 1. indirect object marker + definite article. 1. used when _ank_ and _taz_ are used in sequence; cf. _anraz, anz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **ante** / **ˈan**.te / _adjective._ 1. the front (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
-+ **anto** / **ˈan**.ta / _preposition._ 1. ahead of, in front of, before (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
-+ **anya** / **ˈa**.ɲa / _adjective._ 1. annual, yearly. 2. mature 1. from _anye_. 2. development from _sense 1._ 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **anya'e** / a.**ˈɲa**.e / _noun._ 1. maturity. 2. a distinct stage in or of maturity. 1, 2. from _anya_ 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **anyag** / **ˈa**.ɲag / _verb._ 1. to age, to mature, to grow. 1. from _anye_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **anye** / **ˈa**.ɲe / _noun._ 1. year. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **ante** / ˈan.te / _adjective._ 1. the front (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
++ **anto** / ˈan.ta / _preposition._ 1. ahead of, in front of, before (space). 1. see _anta_. 1. \[_cb._ [[qbri|QBri]]\]
++ **anya** / ˈa.ɲa / _adjective._ 1. annual, yearly. 2. mature 1. from _anye_. 2. development from _sense 1._ 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **anya'e** / a.ˈɲa.e / _noun._ 1. maturity. 2. a distinct stage in or of maturity. 1, 2. from _anya_ 1, 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **anyag** / ˈa.ɲag / _verb._ 1. to age, to mature, to grow. 1. from _anye_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **anye** / ˈa.ɲe / _noun._ 1. year. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **anz** / anz / _particle compound._ 1. the, to the; indirect object marker + definite article. 1. may be used anywhere that _ank taz_ would appear. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **añate** / aŋ.**ˈa**.te / _part of speech._ 1. ñ, ŋ, ng. 1. The name of the Hylian letter _ñ_, /ŋ/ or _ng_. 1. \[_cb._ [[kasuto|Kasuto]], [[austin-springer|Austin Springer]]\]
-+ **añotha** / aŋ.**ˈo**.θa / _adjective._ 1. pregnant 2. responsible, loyal 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **añothag** / aŋ.**ˈo**.θag / _verb._ 1. to bear child, to birth, ==to incubate an egg== 2. ==to bear responsibility== 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **añothe** / aŋ.**ˈo**.θe / _noun._ 1. birth 2. burden 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **apa** / **ˈa**.pa / _adjective._ 1. aloud, audible. 1. \[_cb._ [[venus|Venus]]\]
-+ **arage** / a.**ˈɾa**.ge / _noun._ 1. melody. 1. \[_cb._ [[venus|Venus]]\]
-+ **arákisag** / a.**ˈɾa**.ki.sag / _verb._ 1. to gather, to collect. 1. \[_cb._ [[venus|Venus]]\]
-+ **arákiudre** / a.**ˈɾa**.kʲu.dɹe / _noun._ 1. collection day, gathering day. 1. this refers to the time of year when the royal tax collectors come through; it is also sometimes used to refer to a day set by parents for children to have their belongings in order lest they be thrown out.
-+ **arktha** / **ˈaɹk**.θa / _adjective._ 1. expressive, quoted. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **arkthag** / **ˈaɹk**.θag / _verb._ 1. to say, to express an idea. 2. to quote, to recite 1, 2. from _arkthe_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **arkthe** / **ˈaɹk**.θe / _noun._ 1. saying, expression, phrase. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **arme** / **ˈaɹ**.me / _noun._ 1. statue, sculpture. 1. from _Armose_ 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
-+ **armvose** / aɹm.**ˈvo**.se / _noun._ 1. Armos, walking statue. 1. A statue made of stone or metal, especially in the form of an armored soldier, animated by magic in some manner; may be either _örme_ or _arme_ with the suffix _fose_ to indicate a human-like monster. 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
-+ **arota** / a.**ˈɾo**.ta / _adjective._ 1. appreciative, grateful, thankful. 1. from _aroti_ "thank you". 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
-+ **arotafire** / a._ˌɾo_.ta.**ˈfi**.re / _noun._ 1. Gratitude Crystal, Gratitude Gem 1. the name of a crystallized form of the emotional energy known as _arote_ "gratitude," these gems are seldom seen, but are rumored to grant wishes if one is able to find a sufficient number 1. \[_cb._ [[austin-springer|Austin]], via [[nintendo|Nintendo]], [[kasuto|Kasuto]]]
++ **añate** / aŋ.ˈa.te / _part of speech._ 1. ñ, ŋ, ng. 1. The name of the Hylian letter _ñ_, /ŋ/ or _ng_. 1. \[_cb._ [[kasuto|Kasuto]], [[austin-springer|Austin Springer]]\]
++ **añotha** / aŋ.ˈo.θa / _adjective._ 1. pregnant 2. responsible, loyal 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **añothag** / aŋ.ˈo.θag / _verb._ 1. to bear child, to birth, ==to incubate an egg== 2. ==to bear responsibility== 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **añothe** / aŋ.ˈo.θe / _noun._ 1. birth 2. burden 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **apa** / ˈa.pa / _adjective._ 1. aloud, audible. 1. \[_cb._ [[venus|Venus]]\]
++ **arage** / a.ˈɾa.ge / _noun._ 1. melody. 1. \[_cb._ [[venus|Venus]]\]
++ **arákisag** / a.ˈɾa.ki.sag / _verb._ 1. to gather, to collect. 1. \[_cb._ [[venus|Venus]]\]
++ **arákiudre** / a.ˈɾa.kʲu.dɹe / _noun._ 1. collection day, gathering day. 1. this refers to the time of year when the royal tax collectors come through; it is also sometimes used to refer to a day set by parents for children to have their belongings in order lest they be thrown out.
++ **arktha** / ˈaɹk.θa / _adjective._ 1. expressive, quoted. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **arkthag** / ˈaɹk.θag / _verb._ 1. to say, to express an idea. 2. to quote, to recite 1, 2. from _arkthe_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **arkthe** / ˈaɹk.θe / _noun._ 1. saying, expression, phrase. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **arme** / ˈaɹ.me / _noun._ 1. statue, sculpture. 1. from _Armose_ 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
++ **armvose** / aɹm.ˈvo.se / _noun._ 1. Armos, walking statue. 1. A statue made of stone or metal, especially in the form of an armored soldier, animated by magic in some manner; may be either _örme_ or _arme_ with the suffix _fose_ to indicate a human-like monster. 1. \[_cb._ [[nintendo|Nintendo]], [[austin-springer|Austin]]\]
++ **arota** / a.ˈɾo.ta / _adjective._ 1. appreciative, grateful, thankful. 1. from _aroti_ "thank you". 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
++ **arotafire** / a.ˌɾo.ta.ˈfi.re / _noun._ 1. Gratitude Crystal, Gratitude Gem 1. the name of a crystallized form of the emotional energy known as _arote_ "gratitude," these gems are seldom seen, but are rumored to grant wishes if one is able to find a sufficient number 1. \[_cb._ [[austin-springer|Austin]], via [[nintendo|Nintendo]], [[kasuto|Kasuto]]]
 + **arotag** / a.'**ɾo**.tag / _verb._ 1. to thank, to express gratitude. 1. other notes. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **arote** / a.'**ɾo**.te / _noun._ 1. appreciation, gratitude, thanks. 1. from _aroti_ "thank you." 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **aroti** / a.'**ɾo**.ti / _noun, expression._ 1. thanks, thank you. 1. \[_cb._ [[kasuto|Kasuto]]\]
@@ -141,62 +146,63 @@ This lexicon uses IPA to show the pronunciation of words.
 + **asonag** / a.'so.nag / _noun._ 1. to use a euphemism, to make a reference. 1. from _asone_. 1. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]\]
 + **asone** / a.'so.ne / _noun._ 1. pronoun, reference. 2. euphemism, epithet 1. the label used for words which stand in for _sonan arkthën_ (noun phrases). 2. a word or phrase used to avoid a different word, especially one which might be seen as rude, distasteful, or sacred 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[austin-springer|Austin]], via [[kasuto|Kasuto]]]
 + **asu** / 'a.su / _pronoun._ 1. that distant place. 1. pronoun form of _aso_. 1. \[_cb._ [[venus|Venus]], [[austin-springer|Austin]]\]
-+ **-ash-** \[-a.sh-\] _grammatical marker._ 1. ordinal marker for numerals. 1. precedes adjective or noun marking. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **-ashi** \[a.shi\] _honorific suffix._ 1. dear, love; sib, cuz. 1. Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins). 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **-ashoi** \[-a.sho‿i\] _part of speech._ 1. sir, ma'am, miss; dear, honored, respected. 1. Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **at** \[at\] _conjunction._ 1. if, in the case. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **atemptag** \[a.'temp.tag\] _verb._ 1. to reach out. 2. to stretch, to flex 1. from English _attempt._ 1. \[_cb._ [[qbri|QBri]]\]
-+ **ati** \['a.ti\] _interjection, expression, rude._ 1. darn. 1. a non-vulgar expletive. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **avënbarthe** _noun._ 1. brewed coffee. 1. sometimes shortened to _avëne_ when used in phrases.
-+ **avike** \[a.'vi.ke\] _noun._ 1. ocarina, flute. 1. refers to a wooden or clay wind instrument only. 1. \[_cb._ [[k-chan|K-Chan]]\]
-+ **awirte** \[a.wiɾ.te] _noun._ 1. pro-verb. 1. a verb which stands in for another verb or verbal phrase, based on _asone_ (pronoun), there are only a few pro-verbs. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
-+ **az** \[az\] _particle compound._ 1. direct object plus definite article. 1. may be used anywhere the words _ab az_ would normally be found; cf. _ab, abaz, taz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **-ash-** / -a.sh\* / _grammatical marker._ 1. ordinal marker for numerals. 1. precedes adjective or noun marking. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **-ashi** / a.shi / _honorific suffix._ 1. dear, love; sib, cuz. 1. Attached to a person's name to indicate affection. It is used by parents to children, between siblings, or between family members of the same social level (like cousins). 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **-ashoi** / -a.shoj / _part of speech._ 1. sir, ma'am, miss; dear, honored, respected. 1. Attached to a person's name to indicate affection. It is used to show both love and respect. It is used for social superiors like parents and grandparents. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **at** / at / _conjunction._ 1. if, in the case. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **atemptag** / a.'temp.tag / _verb._ 1. to reach out. 2. to stretch, to flex 1. from English _attempt._ 1. \[_cb._ [[qbri|QBri]]\]
++ **ati** / 'a.ti / _interjection, expression, rude._ 1. darn. 1. a non-vulgar expletive. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **avënbarthe** / ˌa.vɛn.'baɾ.θe / _noun._ 1. brewed coffee. 1. sometimes shortened to _avëne_ when used in phrases.
++ **avike** / a.'vi.ke / _noun._ 1. ocarina, flute. 1. refers to a wooden or clay wind instrument only. 1. \[_cb._ [[k-chan|K-Chan]]\]
++ **awirte** / a.'wiɾ.te / _noun._ 1. pro-verb. 1. a verb which stands in for another verb or verbal phrase, based on _asone_ (pronoun), there are only a few pro-verbs. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
++ **az** / az / _particle compound._ 1. direct object plus definite article. 1. may be used anywhere the words _ab az_ would normally be found; cf. _ab, abaz, taz_. 1. \[_cb._ [[kasuto|Kasuto]]\]
 
 ## Ä - Â
 
-+ **äbiu•e** \[æ.'bʲu.e\] _noun._ 1. flower. 2. pigment, dye 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **äbiu•e** / æ.'bʲu.e / _noun._ 1. flower. 2. pigment, dye 1. \[_cb._ [[venus|Venus]]\] 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **äkte** / 'æk.te / _noun._ 1. ä, æ. 1. the name of the second letter of the Neo-Modern Hylian _aktaite._ 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **äktriu** / æk.'tri.u / _pronoun._ 1. others. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **äktria** / æk.'tɾi.a / _adjective._ 1. other, different 1. \[_cb._ [Austin](contributors/austin-springer.md), via [Kasuto](contributors/kasuto.md)'s _äktriu_]
++ **äktriu** / æk.'tɾi.u / _pronoun._ 1. others. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **äñwa** _adjective._ 1. impassioned, focused, energetic, energized 2. devoted, loyal, in service 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **äñwag** _verb._ 1. to be passionate, to focus 2. to devote, to serve 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **äñwe** _noun._ 1. passion, focus, energy 2. devotion, allegiance, loyalty 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **äñwite** _noun._ 1 impassioned person, fanatic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **äñwag** / 'æŋ.wag / _verb._ 1. to be passionate, to focus 2. to devote, to serve 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **äñwe** / ˈæŋ.we / _noun._ 1. passion, focus, energy 2. devotion, allegiance, loyalty 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **äñwite** / æŋ.ˈwi.te / _noun._ 1 impassioned person, fanatic 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 
 ## AI
 
-+ **aikwe** \['ai.kwe\] _noun._ 1. finger, digit. 1. refers only to those digits which are generally able to perform fine motor manipulations. 1. \[_cb._ [[venus|Venus]]\]
++ **aikwe** / 'aj.kwe / _noun._ 1. finger, digit. 1. refers only to those digits which are generally able to perform fine motor manipulations. 1. \[_cb._ [[venus|Venus]]\]
 + [**aitäxa**](lexicon/lexemes/a/aitäxa.md) / aj.'tæ.xa / _adjective._ 1. plowed, tilled 2. fertile
 + [**aitäxag**](lexicon/lexemes/a/aitäxag.md) / aj.'tæ.xag / _verb._ 1. to plow, to till 2. to farm crops
 + [**aitäxe**](lexicon/lexemes/a/aitäxe.md) / aj.'tæ.xe / _noun._ 1. plow 2. hoe, shovel, spade
-+ **aite** \['ai.te\] _noun._ 1. ai. 1. the name of the third letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **aite** / 'aj.te / _noun._ 1. ai. 1. the name of the third letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\]
 
 ## AU
 
-+ **aute** \['au.te\] _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Neo-Modern Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
++ **aute** / 'au.te / _noun._ 1. au, ow. 2. \[meta, loanword\] automobile, car 1. the name of the fourth letter of the Neo-Modern Hylian _aktaite_. 2. direct loan of English _auto_ 1. \[_cb._ [[kasuto|Kasuto]]\] 2. \[_cb._ [[qbri|QBri]]\]
 
 ## B
 
-+ **baakantroshe** \[ba.,a.kan.'tro.ʃe\] _noun._ 1. future time, future tense. 1. archaic legacy form, preferred form in NMH is **badotroshe**. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **bado** \[ba.do\] _preposition._ 1. after, beyond, yonder. 1. \[_cb._ [[contributors]]\]
-+ **badotroshe** \[,ba.do.'tro.ʃe\] _noun._ 1. future, future time, future tense. 1. preferred Neo-Modern form of Modern Hylian's **baakantroshe**. 1. \[_cb._ [[austin-springer|Austin]], [[jerin-of-calatia|Jerin]]\]
-+ **baftag** \['baf.tag\] _verb._ 1. to weave. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
-+ **bagta** \['bag.ta\] _adjective._ 1. same, identical. 1. \[_cb._ [[venus|Venus]]\]
-+ **bagu** \['ba.gu\] _pronoun._ 1. I, me. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **bágusa** \['ba.gu.sa\] _pronoun._ 1. my, mine. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **bamdag** \['bam.dag\] _verb._ 1. to continue, to resume. 1. \[_cb._ [[venus|Venus]]\]
-+ **baminaze** (,ba.mi.'na.ze) 1. tomorrow morning, the next morning
-+ **bana** \['ba.na\] _adjective, interjection._ 1. great, very much, intense. 1. a general intensifier, especially in expressive situations. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **banaistre** / ba.**'nais**.tɹe / 1. tomorrow evening, tomorrow night
-+ **banshag** / **'ban**.shag / _verb._ 1. to scream, to shriek. 1. from Irish "_bean sí_" via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
-+ **barne** / **'baɹ**.ne / _noun_. 1. stream 1. a moving body of water which may crossed on foot; from Eng. _bourne_ "stream"
-+ **bartha** / **'baɹ**.θa / _adjective._ 1. (flavor) bitter, stinging 2. (scent) pungent 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **barthag** ('baɹ.θag) _verb._ 1. to steep, to brew 2. (culinary) to reduce, to thicken 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **barthe** ('baɹ.θe) _noun._ 1. tea, medicinal brew 2. syrup, concentrate 1. refers to drinks made by boiling water and steeping medicinal herbs, powders, or barks in the boiled water 2. refers to any liquid mixture which has been made stronger by boiling off excess water 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **baakantroshe** / ba.,a.kan.'tro.ʃe / _noun._ 1. future time, future tense. 1. archaic legacy form, preferred form in NMH is **badotroshe**. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **bado** / ˈba.do / _preposition._ 1. after, beyond, yonder. 1. \[_cb._ [[contributors]]\]
++ **badotroshe** / ,ba.do.'tro.ʃe / _noun._ 1. future, future time, future tense. 1. preferred Neo-Modern form of Modern Hylian's **baakantroshe**. 1. \[_cb._ [[austin-springer|Austin]], [[jerin-of-calatia|Jerin]]\]
++ **baftag** / 'baf.tag / _verb._ 1. to weave. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
++ **bagta** / 'bag.ta / _adjective._ 1. same, identical. 1. \[_cb._ [[venus|Venus]]\]
++ **bagu** / 'ba.gu / _pronoun._ 1. I, me. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **bágusa** / 'ba.gu.sa / _pronoun._ 1. my, mine. 1. Hylian pronouns do not inflect for nominative or accusative roles. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **bamdag** / 'bam.dag / _verb._ 1. to continue, to resume. 1. \[_cb._ [[venus|Venus]]\]
++ **baminaze** / ,ba.mi.'na.ze / 1. tomorrow morning, the next morning
++ **bana** / 'ba.na / _adjective, interjection._ 1. great, very much, intense. 1. a general intensifier, especially in expressive situations. 1. \[_cb._ [[kasuto|Kasuto]]\]
++ **banaistre** / ba.'nais.tɹe / 1. tomorrow evening, tomorrow night
++ **banshag** / 'ban.shag / _verb._ 1. to scream, to shriek. 1. from Irish "_bean sí_" via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
++ **barne** / 'baɹ.ne / _noun_. 1. stream 1. a moving body of water which may crossed on foot; from Eng. _bourne_ "stream"
++ **bartha** / 'baɹ.θa / _adjective._ 1. (flavor) bitter, stinging 2. (scent) pungent 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **barthag** / 'baɹ.θag / _verb._ 1. to steep, to brew 2. (culinary) to reduce, to thicken 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **barthe** / 'baɹ.θe / _noun._ 1. tea, medicinal brew 2. syrup, concentrate 1. refers to drinks made by boiling water and steeping medicinal herbs, powders, or barks in the boiled water 2. refers to any liquid mixture which has been made stronger by boiling off excess water 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **batáí** / ba.'tai / _expression._ 1. hello, hi. 1. casual greeting suitable for social peers; originally coined by Kasuto, retired, and later discovered by Venus. 1. \[_cb._ [[kasuto|Kasuto]], [[venus|Venus]]\]
-+ **batiudre** (ba.'tju.dre) 1. tomorrow
-+ **batyahe** \[bat.'ya.he\] _noun._ 1. valley, canyon, gorge, lowlands 1. \[_cb._ [[venus|Venus]]\]
-+ **béone** \['be.o.ne\] _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
-+ **bete** \['be.te\] _part of speech._ 1. b, the name of the Hylian letter \<b> 2. bed, bedding 3. a collection of soft dirt, leaves, and grass prepared for growing flowers 1. the name of the fifth letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **batiudre** / ba.'tʲu.dɹe / 1. tomorrow
++ **batyahe** / bat.'ya.he / _noun._ 1. valley, canyon, gorge, lowlands 1. \[_cb._ [[venus|Venus]]\]
++ **béone** / 'be.o.ne / _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
++ **bete** / 'be.te / _noun._ 1. b, the name of the Hylian letter \<b> 2. bed, bedding 3. a collection of soft dirt, leaves, and grass prepared for growing flowers 1. the name of the fifth letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **betfolke** _noun_ 1. bedroll, futon 2. sleeping bag 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **bëg** / bɛg / _pronoun._ 1. \[informal] I, me. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
 + **bën** / bɛn / _pronoun._ 1. \[informal] we, us. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
@@ -204,38 +210,38 @@ This lexicon uses IPA to show the pronunciation of words.
 + **bënkate** / bɛn.'ka.te / _noun._ 1. welcome, greeting, salutation. 1. other notes. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **bënkati** / bɛn.'ka.ti / _noun, topical, expression._ 1. welcome, greetings. 1. a generic greeting unrelated to time of time of day, used as a salutation, and commonly used when inviting people into a place or event; from **bëna** + **kate**. 1. \[_cb._ [[kasuto|Kasuto]]; _etym._ [Jerin](contributors/jerin-of-calatia.md)]
 + **bërek** / 'bɛr.ek / _conjunction._ 1. however. 1. "from Houd. _bebere_, a conjunction meaning _ever_" 1. \[_cb._ [[qbri|QBri]]\]
-+ **bëu** _pronoun_. 1. no, wrong, not at all. 1. this is a simple and short answer and requires no elaboration, when one's answer is further clarified one should use _bokok_; originally proposed as *bëu *(me) by QBri while trying to develop the accusative case pronouns, adapted by Austin after noting that there was a lack of "yes" and "no" language. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
-+ **bibidoe** _noun_. 1. beetle. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
-+ **bielute** _noun_. 1. beef. 1. from _bieve_ (cattle) and _lute_ (meat). 1. ([[austin-springer|Austin Springer]])
-+ **bieve** _noun._ 1. cattle. 1. from Latin _bovis_ (cattle, cow), 1. ([[austin-springer|Austin Springer]])
-+ **bianka** \[bi.'an.ke\] _adjective._ 1. sought after, looked for, pursued. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
-+ **biankag** \[bi.'an.kag\] _verb._ 1. to seek, to look for. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md)\]
-+ **bianke** \[bi.'an.ke\] _noun._ 1. search, exploration, study, investigation. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
-+ **bíúa** \['bʲu:.a] _adjective_. 1. brown, earth-coloured. 1. from the short -_ia_ pattern of color words and _bíúkoge_ (earth). 1. ([[austin-springer|Austin Springer]], via [[venus|Venus]])
-+ **bíúkoge** _noun._ 1. earth, ground, dirt 1. ([[venus|Venus]])
-+ **bíúkogite** / **'bju**.ko.gi.te / _noun._ 1. human. 1. a generic term referring all of the humans of Hyrule, Hylian, Sheikah, Gerudo, or otherwise _human_. 1. \[_cb._ [Austin](contributors/austin-springer.md) via [Venus](contributors/venus.md), [Kasuto](contributors/kasuto.md)
-+ **blafa** (blafa) _adjective._ 1. probable, likely ([[venus|Venus]])
-+ **blafe** (blafa) _noun._ 1. probability, likelihood ([[venus|Venus]])
-+ **blïne** (blïne) _noun._ 1. goblin 1. the root term used to group all goblins together; _blinën_ are a variety of humanoid monsters who are not settled down in the same social structures as humans in Hyrule (_Nintendo_), (_Austin_)
-+ **boka** _adjective._ 1. none, empty, absent 1. ([[qbri|QBri]])
-+ **bokakrone** _noun._ 1. never 1. from proposed _boka_ (none) and canonical _krone_ (time) 1. ([[kasuto|Kasuto]], [[qbri|QBri]])
-+ **bokatokre** _noun._ 1. nowhere 1. from proposed _boka_ (none) and proposed(?) _tokre_ (place) 1. ([[qbri|QBri]])
-+ **boke** _noun._ 1. nothing, void, emptiness 1. ([[qbri|QBri]])
-+ **bokoblïne** (bokoblïne) _noun._ 1. Bokoblin 1. small and lithe variety of goblins which live in all sorts of environments; they are often pressed into serving bulblins or moblins (_Nintendo_), (_Austin_)
-+ **bokok** \['bok.ok] _adverb_. 1. no, not at all, incorrect. 1. while this response can stand on its own, it is considered more emphatic than _bëu_ and is usually accompanied by further clarification. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
-+ **böne** \[**ˈbɔ**.ne\] _noun_. 1. large leaf 2. [medicinal] herb, tincture
-+ **bote** _noun._ 1. bottle, jug, bowl, cup 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **botite** _noun._ 1. bottler, bottle-keeper 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **botítile** _noun._ 1. butler 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **bra** _adjective, onomatopoeia._ 1. arf, woof, bark 1. the sound commonly made by dogs ([[pata-hikari|Pata Hikari]])
-+ **brinsta** (breen' stah) _adjective._ 1. armed, equipped for fighting or hunting \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
-+ **brinstag** (breen' stahg) _verb._ 1. to arm, to bear arms, to provide arms \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
-+ **brinste** (breen' stay) _noun._ 1. arm, forelimb 2. weapon, shield, tool 1. \[cb. [Kasuto](contributors/kasuto.md)] 2. \[cb. [Austin](contributors/austin-springer.md)]
-+ **brinstoke** _noun._ 1. sleeve, armband, armwear ([[k-chan|K-Chan]], [[venus|Venus]])
-+ **bulblïne** (bulblïne) _noun._ 1. Bulblin 1. a tribe of goblins skilled in taming and riding boars, they primarily live a nomadic life on the open plains of Hyrules (_Nintendo_), (_Austin_)
-+ **bünsha** _adjective._ 1. safe, secure ([[qbri|QBri]])
-+ **bünshag** _verb._ 1. to save from danger, to secure ([[qbri|QBri]])
-+ **bwiba** _adjective._ 1. sweet, affectionate 1. Does not describe the flavor of sugar or fruit ([[venus|Venus]])
++ **bëu** _pronoun_. / ˈbɛ.u / 1. no, wrong, not at all. 1. this is a simple and short answer and requires no elaboration, when one's answer is further clarified one should use _bokok_; originally proposed as \*_bëu_ \*(me) by QBri while trying to develop the accusative case pronouns, adapted by Austin after noting that there was a lack of "yes" and "no" language. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
++ **bibidoe** / bi. / _noun_. 1. beetle. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
++ **bielute** / ˌbi.e.ˈlu.te / _noun_. 1. beef. 1. from _bieve_ (cattle) and _lute_ (meat). 1. ([[austin-springer|Austin Springer]])
++ **bieve** / bi. / _noun._ 1. cattle. 1. from Latin _bovis_ (cattle, cow), 1. ([[austin-springer|Austin Springer]])
++ **bianka** / bi.'an.ke / _adjective._ 1. sought after, looked for, pursued. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
++ **biankag** / bi.'an.kag / _verb._ 1. to seek, to look for. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md)\]
++ **bianke** / bi.'an.ke / _noun._ 1. search, exploration, study, investigation. 1. other notes. 1. \[_cb._ [Kasuto](contributors/kasuto.md), [Austin](contributors/austin-springer.md)\]
++ **bíúa** / 'bʲu:.a / _adjective_. 1. brown, earth-coloured. 1. from the short -_ia_ pattern of color words and _bíúkoge_ (earth). 1. ([[austin-springer|Austin Springer]], via [[venus|Venus]])
++ **bíúkoge** / bʲu.ˈko.ge / _noun._ 1. earth, ground, dirt 1. ([[venus|Venus]])
++ **bíúkogite** / ˌbʲu.ko.ˈgi.te / _noun._ 1. human. 1. a generic term referring all of the humans of Hyrule, Hylian, Sheikah, Gerudo, or otherwise _human_. 1. \[_cb._ [Austin](contributors/austin-springer.md) via [Venus](contributors/venus.md), [Kasuto](contributors/kasuto.md)
++ **blafa** / ˈbla.fa / _adjective._ 1. probable, likely ([[venus|Venus]])
++ **blafe** / ˈbla.fa / _noun._ 1. probability, likelihood ([[venus|Venus]])
++ **blïne** / ˈblï.ne / _noun._ 1. goblin 1. the root term used to group all goblins together; _blinën_ are a variety of humanoid monsters who are not settled down in the same social structures as humans in Hyrule (_Nintendo_), (_Austin_)
++ **boka** / ˈbo.ka / _adjective._ 1. none, empty, absent 1. ([[qbri|QBri]])
++ **bokakrone** / ˌbo.ka.ˈkɹo.ne / _noun._ 1. never 1. from proposed _boka_ (none) and canonical _krone_ (time) 1. ([[kasuto|Kasuto]], [[qbri|QBri]])
++ **bokatokre** / ˌbo.ka.ˈto.kɹe / _noun._ 1. nowhere 1. from proposed _boka_ (none) and proposed(?) _tokre_ (place) 1. ([[qbri|QBri]])
++ **boke** / ˈbo.ke / _noun._ 1. nothing, void, emptiness 1. ([[qbri|QBri]])
++ **bokoblïne** / ˌbo.ko.ˈblɪ.ne / (bokoblïne) _noun._ 1. Bokoblin 1. small and lithe variety of goblins which live in all sorts of environments; they are often pressed into serving bulblins or moblins (_Nintendo_), (_Austin_)
++ **bokok** / 'bok.ok / _adverb_. 1. no, not at all, incorrect. 1. while this response can stand on its own, it is considered more emphatic than _bëu_ and is usually accompanied by further clarification. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
++ **böne** / ˈbɔ.ne / _noun_. 1. large leaf 2. [medicinal] herb, tincture
++ **bote** / ˈbo.te / _noun._ 1. bottle, jug, bowl, cup 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **botite** / bo.ˈti.te / _noun._ 1. bottler, bottle-keeper 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **botítile** / bo.ˈti.ti.le / _noun._ 1. butler 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **bra** / bɹa / _adjective, onomatopoeia._ 1. arf, woof, bark 1. the sound commonly made by dogs ([[pata-hikari|Pata Hikari]])
++ **brinsta** / ˈbɹin.sta / _adjective._ 1. armed, equipped for fighting or hunting \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
++ **brinstag** / ˈbɹin.stag / _verb._ 1. to arm, to bear arms, to provide arms \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
++ **brinste** / ˈbɹin.ste / _noun._ 1. arm, forelimb 2. weapon, shield, tool 1. \[cb. [Kasuto](contributors/kasuto.md)] 2. \[cb. [Austin](contributors/austin-springer.md)]
++ **brinstoke** / bɹin.ˈsto.ke / _noun._ 1. sleeve, armband, armwear ([[k-chan|K-Chan]], [[venus|Venus]])
++ **bulblïne** / bul.ˈblɪ.ne / (bulblïne) _noun._ 1. Bulblin 1. a tribe of goblins skilled in taming and riding boars, they primarily live a nomadic life on the open plains of Hyrule (_Nintendo_), (_Austin_)
++ **bünsha** / ˈbʌn.ʃa / _adjective._ 1. safe, secure ([[qbri|QBri]])
++ **bünshag** / ˈbʌn.ʃag / _verb._ 1. to save from danger, to secure ([[qbri|QBri]])
++ **bwiba** / ˈbwi.ba / _adjective._ 1. sweet, affectionate 1. Does not describe the flavor of sugar or fruit ([[venus|Venus]])
 
 ## C
 
@@ -833,10 +839,10 @@ This lexicon uses IPA to show the pronunciation of words.
 + **niatore** (nee'' ah tohr' ay) _noun._ 1. institute, university, organization; especially used for groups which are focused on the development, recording, preserving, an sharing of knowledge
 + **nidëman** (nee deh' mahn) _adjective._ 1. ninety
 + **nidëme** (nee deh' may) _noun._ 1. ninety
-+ **nikova** /ni.ko.va/
-+ **nikovag** /ni.ko.va/ 1.
++ **nikova** /ni.ko.va/ 1.
++ **nikovag** /ni.ko.va/ 1. to serve,
 + **nikovase** /ni.ko.va.se/ 1. retainer, loyal servant
-+ **nikove** /ni.ko.ve/
++ **nikove** /ni.ko.ve/ 1. service
 + **nïlve** _noun._ 1. knife 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **nïmsha** (nihm' shah) _adjective._ 1. numeric 2. mathematical
 + **nïmshag** (nihm' shahg) _verb._ 1. to calculate, to do mathematics
@@ -918,6 +924,9 @@ This lexicon uses IPA to show the pronunciation of words.
 + **pasevone** _noun._ 1. peace 2. contract, agreement, treaty 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **pate** (pah' tay) _noun._ 1. p; name of the twenty-seventh letter of the Classical Hylian _aktaite_
 + **pazne** _noun._ 1. basin, bowl, sink 2. trough 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **pëthra** _adjective._ 1. finely pointed 2. suitable for sewing, writing, or engraving 1,2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **pëthrag** _verb._ 1. to engrave 2. to sew, to stitch 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **pëthre** _noun._ 1. quill, needle 1. \[_cb._ [Taerelon](contributors/taerelon.md)]
 + **piante** (pee ahn' tay) _noun._ 1. parent, legal guardian
 + **piántile** (pee ahn' tee lay) _noun, masculine._ 1. father
 + **piántine** (pee ahn' tee nay) _noun, feminine._ 1. mother
