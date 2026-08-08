@@ -267,10 +267,10 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 + **chate** / ˈt͜ʃa.te / _noun_ 1. ch 1. The name of the letter "ch" in Hylian (number will be part of final sort) (_Austin_)
 + **chebode** / t͜ʃe.ˈbo.de / _noun._ 1. stable 2. roadside inn 1, 2. stables often have bedding for horses and travelers, as well as keeping a well tended fire and cook pot in which travelers may prepare their own food; from _chepoe_ "horse" and _albode_ "house"
 + **chepaye** / t͜ʃe.ˈpa.je / (chepaye) _noun_ 1. heart 1. refers to the physical organ, not the seat of emotions ([[venus|Venus]])
-+ **chepoa** / tʃe.'po.a / _adjective._ 1. equine, equestrian 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepoag** / tʃe.'po.ag / _verb._ 1. to pull, to haul 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepoe** / tʃe.'po.e / _noun._ 1. horse, pony 1. from French _cheval_ "horse" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepohite** / tʃe.po.'hi.te / _noun._ 1. stablehand, horse keeper 1. from _chepoe_ "horse" and _hite_ "person" 1. \[_cb._ [Austin Springer](contributors/austin-springer.md), with an element by [Kasuto](contributors/kasuto.md)]
++ **chepoa** / t͜ʃe.'po.a / _adjective._ 1. equine, equestrian 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepoag** / t͜ʃe.'po.ag / _verb._ 1. to pull, to haul 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepoe** / t͜ʃe.'po.e / _noun._ 1. horse, pony 1. from French _cheval_ "horse" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepohite** / ˌt͜ʃe.po.'hi.te / _noun._ 1. stablehand, horse keeper 1. from _chepoe_ "horse" and _hite_ "person" 1. \[_cb._ [Austin Springer](contributors/austin-springer.md), with an element by [Kasuto](contributors/kasuto.md)]
 + **chirka** / ˈt͜ʃiɹ.ka / (chirka) _adjective_ 1. next, following 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
 + **chirka•u** / t͜ʃiɹ.ˈka.u / (chirkau) _preposition_ 1. next to, nearby 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
 + **chirkdre** / t͜ʃiɹk.dɹe / (chirkdre) _noun_ 1. tomorrow 1. from _chirka_ "next" and _tiudre_ "day" ([[venus|Venus]])
@@ -279,7 +279,7 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 + **chújëla** / ˈt͜ʃu.d͜ʒɛ.la / _adjective._ 1. wriggly, squirmy 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **chújëlag** / ˈt͜ʃu.d͜ʒɛ.lag / _verb._ 1. to slide, to roll, to skate 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **chújële** / ˈt͜ʃu.ˈd͜ʒɛ.le / _noun._ 1. gel, slime (monster) 2. jelly, jam 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chuke** / ˈt͜ʃu. / (chuke) _noun_ 1. chuka 1. a unit of length equal to 4 _dënletën_, or 9 U.S. customary feet ([[pata-hikari|Pata Hikari]])
++ **chuke** / ˈt͜ʃu.ke / (chuke) _noun_ 1. chuka 1. a unit of length equal to 4 _dënletën_, or 9 U.S. customary feet ([[pata-hikari|Pata Hikari]])
 + **chule** / ˈt͜ʃu.le / _noun_. 1. spider. 1. from <ruby>スタルチュラ<rt>staltula</rt></ruby> _skulltula_, based on _tarantula_ 1. \[_cb._ [Austin Springer](contributors/austin-springer.md) from [Nintendo](contributors/nintendo.md)]
 + **chucu** / 't͜ʃu.t͜su / _pronoun._ 1. squeaker, squeaky thing 1. a common euphemism to refer to slime monsters, mice, and rats; may become **chuciu** or **chuchu** as a plural 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **chúzola** / ˈt͜ʃu.zo.la / _adjective._ 1. undulating, jiggly 1. \[_cb._ [Austin](contributors/austin-springer.md)]
