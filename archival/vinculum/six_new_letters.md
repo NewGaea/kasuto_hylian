@@ -1,5 +1,7 @@
 ---
-tags: vinculum kasuto
+tags:
+  - vinculum
+  - kasuto
 ---
 # Six New Letters
 ---

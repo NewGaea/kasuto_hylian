@@ -17,7 +17,7 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 **NOTE:** While \<_jh_\> and \<_zh_\> are both valid romanizations, this lexicon listing prefers \<_zh_\> to parallel the \<_sh_\> structure.
 
 > [!info] Latest Update: 25-Jul-2026
-> 
+>
 > We apologize for the slowness in processing this list. As of right now, the IPA phonetics for all words currently in the list through _bwiba_ should be guaranteed accurate.
 
 ## A - Á
@@ -183,7 +183,7 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 ## B
 
 + **baakantroshe** / ba.,a.kan.'tro.ʃe / _noun._ 1. future time, future tense. 1. archaic legacy form, preferred form in NMH is **badotroshe**. 1. \[_cb._ [[kasuto|Kasuto]]\]
-+ **bado** / ˈba.do / _preposition._ 1. after, beyond, yonder. 1. \[_cb._ [[contributors]]\]
++ **bado** / ˈba.do / _preposition._ 1. after, beyond, yonder. 1. \[_cb._ [Kasuto](contributors/kasuto.md)\]
 + **badotroshe** / ,ba.do.'tro.ʃe / _noun._ 1. future, future time, future tense. 1. preferred Neo-Modern form of Modern Hylian's **baakantroshe**. 1. \[_cb._ [[austin-springer|Austin]], [[jerin-of-calatia|Jerin]]\]
 + **baftag** / 'baf.tag / _verb._ 1. to weave. 1. other notes. 1. \[_cb._ [[venus|Venus]]\]
 + **bagta** / 'bag.ta / _adjective._ 1. same, identical. 1. \[_cb._ [[venus|Venus]]\]
@@ -193,14 +193,14 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 + **baminaze** / ,ba.mi.'na.ze / 1. tomorrow morning, the next morning
 + **bana** / 'ba.na / _adjective, interjection._ 1. great, very much, intense. 1. a general intensifier, especially in expressive situations. 1. \[_cb._ [[kasuto|Kasuto]]\]
 + **banaistre** / ba.'nais.tɹe / 1. tomorrow evening, tomorrow night
-+ **banshag** / 'ban.shag / _verb._ 1. to scream, to shriek. 1. from Irish "_bean sí_" via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
++ **banshag** / 'ban.shag / _verb._ 1. to scream, to shriek. 1. from Irish _bean sí_ via English _banshee_. 1. \[_cb._ [[auric_trinity|Auric]]\]
 + **barne** / 'baɹ.ne / _noun_. 1. stream 1. a moving body of water which may crossed on foot; from Eng. _bourne_ "stream"
 + **bartha** / 'baɹ.θa / _adjective._ 1. (flavor) bitter, stinging 2. (scent) pungent 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **barthag** / 'baɹ.θag / _verb._ 1. to steep, to brew 2. (culinary) to reduce, to thicken 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **barthe** / 'baɹ.θe / _noun._ 1. tea, medicinal brew 2. syrup, concentrate 1. refers to drinks made by boiling water and steeping medicinal herbs, powders, or barks in the boiled water 2. refers to any liquid mixture which has been made stronger by boiling off excess water 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **batáí** / ba.'tai / _expression._ 1. hello, hi. 1. casual greeting suitable for social peers; originally coined by Kasuto, retired, and later discovered by Venus. 1. \[_cb._ [[kasuto|Kasuto]], [[venus|Venus]]\]
-+ **batiudre** / ba.'tʲu.dɹe / 1. tomorrow
-+ **batyahe** / bat.'ya.he / _noun._ 1. valley, canyon, gorge, lowlands 1. \[_cb._ [[venus|Venus]]\]
++ **batiudre** / ba.'tʲu.dɹe / _noun._ 1. tomorrow
++ **batyahe** / ba.'tʲa.he / _noun._ 1. valley, canyon, gorge, lowlands 1. \[_cb._ [[venus|Venus]]\]
 + **béone** / 'be.o.ne / _noun._ 1. analysis, report, information. 1. \[_cb._ [[venus|Venus]]\]
 + **bete** / 'be.te / _noun._ 1. b, the name of the Hylian letter \<b> 2. bed, bedding 3. a collection of soft dirt, leaves, and grass prepared for growing flowers 1. the name of the fifth letter of the Neo-Modern Hylian _aktaite_. 1. \[_cb._ [[kasuto|Kasuto]]\] 2, 3. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **betfolke** _noun_ 1. bedroll, futon 2. sleeping bag 1, 2. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -222,14 +222,14 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 + **bíúkogite** / ˌbʲu.ko.ˈgi.te / _noun._ 1. human. 1. a generic term referring all of the humans of Hyrule, Hylian, Sheikah, Gerudo, or otherwise _human_. 1. \[_cb._ [Austin](contributors/austin-springer.md) via [Venus](contributors/venus.md), [Kasuto](contributors/kasuto.md)
 + **blafa** / ˈbla.fa / _adjective._ 1. probable, likely ([[venus|Venus]])
 + **blafe** / ˈbla.fa / _noun._ 1. probability, likelihood ([[venus|Venus]])
-+ **blïne** / ˈblï.ne / _noun._ 1. goblin 1. the root term used to group all goblins together; _blinën_ are a variety of humanoid monsters who are not settled down in the same social structures as humans in Hyrule (_Nintendo_), (_Austin_)
++ **blïne** / ˈblɪ.ne / _noun._ 1. goblin 1. the root term used to group all goblins together; _blinën_ are a variety of humanoid monsters who are not settled down in the same social structures as humans in Hyrule (_Nintendo_), (_Austin_)
 + **boka** / ˈbo.ka / _adjective._ 1. none, empty, absent 1. ([[qbri|QBri]])
 + **bokakrone** / ˌbo.ka.ˈkɹo.ne / _noun._ 1. never 1. from proposed _boka_ (none) and canonical _krone_ (time) 1. ([[kasuto|Kasuto]], [[qbri|QBri]])
 + **bokatokre** / ˌbo.ka.ˈto.kɹe / _noun._ 1. nowhere 1. from proposed _boka_ (none) and proposed(?) _tokre_ (place) 1. ([[qbri|QBri]])
 + **boke** / ˈbo.ke / _noun._ 1. nothing, void, emptiness 1. ([[qbri|QBri]])
 + **bokoblïne** / ˌbo.ko.ˈblɪ.ne / (bokoblïne) _noun._ 1. Bokoblin 1. small and lithe variety of goblins which live in all sorts of environments; they are often pressed into serving bulblins or moblins (_Nintendo_), (_Austin_)
 + **bokok** / 'bok.ok / _adverb_. 1. no, not at all, incorrect. 1. while this response can stand on its own, it is considered more emphatic than _bëu_ and is usually accompanied by further clarification. 1. ([[qbri|QBri]], [[austin-springer|Austin Springer]])
-+ **böne** / ˈbɔ.ne / _noun_. 1. large leaf 2. [medicinal] herb, tincture
++ **böne** / ˈbɔ.ne / _noun_. 1. large leaf 2. \[medicinal] herb, tincture
 + **bote** / ˈbo.te / _noun._ 1. bottle, jug, bowl, cup 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **botite** / bo.ˈti.te / _noun._ 1. bottler, bottle-keeper 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 + **botítile** / bo.ˈti.ti.le / _noun._ 1. butler 1. \[_cb._ [Austin](contributors/austin-springer.md)]
@@ -237,54 +237,54 @@ This lexicon uses IPA to show the pronunciation of words. Any word with its pron
 + **brinsta** / ˈbɹin.sta / _adjective._ 1. armed, equipped for fighting or hunting \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
 + **brinstag** / ˈbɹin.stag / _verb._ 1. to arm, to bear arms, to provide arms \[cb. [Austin](contributors/austin-springer.md), via [[Kasuto]]]
 + **brinste** / ˈbɹin.ste / _noun._ 1. arm, forelimb 2. weapon, shield, tool 1. \[cb. [Kasuto](contributors/kasuto.md)] 2. \[cb. [Austin](contributors/austin-springer.md)]
-+ **brinstoke** / bɹin.ˈsto.ke / _noun._ 1. sleeve, armband, armwear ([[k-chan|K-Chan]], [[venus|Venus]])
-+ **bulblïne** / bul.ˈblɪ.ne / (bulblïne) _noun._ 1. Bulblin 1. a tribe of goblins skilled in taming and riding boars, they primarily live a nomadic life on the open plains of Hyrule (_Nintendo_), (_Austin_)
-+ **bünsha** / ˈbʌn.ʃa / _adjective._ 1. safe, secure ([[qbri|QBri]])
-+ **bünshag** / ˈbʌn.ʃag / _verb._ 1. to save from danger, to secure ([[qbri|QBri]])
-+ **bwiba** / ˈbwi.ba / _adjective._ 1. sweet, affectionate 1. Does not describe the flavor of sugar or fruit ([[venus|Venus]])
++ **brinstoke** / bɹin.ˈsto.ke / _noun._ 1. sleeve, armband, armwear 1. \[_cb._ [[k-chan|K-Chan]] and [[venus|Venus]]]
++ **bulblïne** / bul.ˈblɪ.ne / (bulblïne) _noun._ 1. Bulblin 1. a tribe of goblins skilled in taming and riding boars, they primarily live a nomadic life on the open plains of Hyrule 1. \[_cb._ [Austin](contributors/austin-springer.md) via [Nintendo](contributors/nintendo.md)
++ **bünsha** / ˈbʌn.ʃa / _adjective._ 1. safe, secure 1. \[_cb._ [QBri](contributors/qbri.md)]
++ **bünshag** / ˈbʌn.ʃag / _verb._ 1. to save from danger, to secure 1. \[_cb._ [[qbri|QBri]]]
++ **bwiba** / ˈbwi.ba / _adjective._ 1. sweet, affectionate 1. Does not describe the flavor of sugar or fruit 1. \[_cb._ [[venus|Venus]]]
 
 ## C
 
-+ **caläste** _noun._ 1. kingdom, nation, state 2. city-state 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **calästa** _adjective._ 1. political, national 2. urban 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **calästag** _verb._ 1. to settle, to colonize 2. to govern (specifically by council) 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **cate** (tsah' tay) _noun._ c, ts; the name of the sixth letter of the Classical Hylian _aktaite_
-+ **cë** \[tsɛ\] _pronoun._ 1. \[informal] one, someone. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
-+ **cën** \[tsɛn\] _pronoun._ 1. \[informal] ones, all, everyone. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
-+ **coltag** \[ˈt͜sol.tag] _verb_. 1. to dance, to leap with joy. 2. to move with abandon, to flail about. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
-+ **cucua** \[t͜su.ˈt͜su.a] _adjective_. 1. hot, warm; especially environmental or weather-related. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
-+ **cucuag** \[t͜su.ˈt͜su.ag] _verb_. 1. (temperature) to warm up, to heat up, to burn. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
-+ **cucue** \[t͜su.ˈt͜su.e] _noun_. 1. heat, warmth; especially climate, weather, or environmental. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
-+ **cukae** _noun_ 1. user, operator, wielder 1. from Japanese <ruby>使<rt>つか</rt>え</ruby> (to use, user), originally proposed as _tsukae,_ spelling changed when **Venus** pointed out the existence of _acete_ ([[contributors/auric_trinity|Auric Trinity]])
-+ **cupe** _noun._ 1. soup, broth 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **calästa** / t͜sa.læs.ta / _adjective._ 1. political, national 2. urban 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **calästag** / t͜sa.læs.tag / _verb._ 1. to settle, to colonize 2. to govern (specifically by council) 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **caläste** / t͜sa.læs.te / _noun._ 1. kingdom, nation, state 2. city-state 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **cate** / ˈt͜sa.te / _noun._ c, ts; the name of the sixth letter of the Classical Hylian _aktaite_
++ **cë** / t͜sɛ / _pronoun._ 1. \[informal] one, someone. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
++ **cën** / tsɛn / _pronoun._ 1. \[informal] ones, all, everyone. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md), [Austin](contributors/austin-springer.md)\]
++ **coltag** / ˈt͜sol.tag / _verb_. 1. to dance, to leap with joy. 2. to move with abandon, to flail about. 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
++ **cucua** / t͜su.ˈt͜su.a / _adjective_. 1. hot, warm; especially environmental or weather-related. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
++ **cucuag** / t͜su.ˈt͜su.ag / _verb_. 1. (temperature) to warm up, to heat up, to burn. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
++ **cucue** / t͜su.ˈt͜su.e / _noun_. 1. heat, warmth; especially climate, weather, or environmental. 1. \[_cb._ [Jerin](contributors/jerin-of-calatia.md)]
++ **cukae** / t͜su.ˈka.e / _noun._ 1. user, operator, wielder 1. from Japanese <ruby>使<rt>つか</rt>え</ruby> (to use, user), originally proposed as _tsukae,_ spelling changed when **Venus** pointed out the existence of _acete_ 1. \[_cb._ [[contributors/auric_trinity|Auric Trinity]]]
++ **cupe** / ˈt͜su.pe / _noun._ 1. soup, broth 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 
 ## CH
 
-+ **chabarthe** _noun._ 1. tea, beverage. 1. refers to a tea made by brewing or steeping leaves for non-medicinal purposes.
-+ **chabete** _noun_ 1. pillow 1. from _chape_ "head" and _bete_ "bed"
-+ **chape** (chape) _noun_ 1. head 1. back-formation from proposed _chapoke_ (hat) ([[k-chan|K-Chan]], [[venus|Venus]])
-+ **chapoke** (chapoke) _noun_ 1. hat ([[venus|Venus]])
-+ **chate** (chate) _noun_ 1. ch 1. The name of the letter "ch" in Hylian (number will be part of final sort) (_Austin_)
-+ **chebode** _noun._ 1. stable 2. roadside inn 1, 2. stables often have bedding for horses and travelers, as well as keeping a well tended fire and cook pot in which travelers may prepare their own food; from _chepoe_ "horse" and _albode_ "house"
-+ **chepaye** (chepaye) _noun_ 1. heart 1. refers to the physical organ, not the seat of emotions ([[venus|Venus]])
-+ **chepoa** / tʃe.**'po**.a / _adjective._ 1. equine, equestrian 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepoag** / tʃe.**'po**.ag / _verb._ 1. to pull, to haul 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepoe** / tʃe.**'po**.e / _noun._ 1. horse, pony 1. from French _cheval_ "horse" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
-+ **chepohite** / tʃe.po.**'hi**.te / _noun._ 1. stablehand, horse keeper 1. from _chepoe_ "horse" and _hite_ "person" 1. \[_cb._ [Austin Springer](contributors/austin-springer.md), with an element by [Kasuto](contributors/kasuto.md)]
-+ **chirka** (chirka) _adjective_ 1. next, following 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
-+ **chirka•u** (chirkau) _preposition_ 1. next to, nearby 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
-+ **chirkdre** (chirkdre) _noun_ 1. tomorrow 1. from _Cirka_ "next" and _tiudre_ "day" ([[venus|Venus]])
-+ **chome** (chome) _noun_ 1. thing 1. native form of _obJekte_ 1. from French _chose_ and Japanese <ruby>もの<rt></rt></ruby>, both meaning “thing” ([[qbri|QBri]])
-+ **chote** (choh' tay) _noun._ ch; the name of the seventh letter of the Classical Hylian _aktaite_
-+ **chújëla** 1. wriggly, squirmy
-+ **chújëlag** 1. to slide, to roll, to skate
-+ **chújële** 1. gel, slime (monster) 2. jelly, jam
-+ **chuke** (chuke) _noun_ 1. chuka 1. a unit of length equal to 4 _dënletën_, or 9 U.S. customary feet ([[pata-hikari|Pata Hikari]])
-+ **chule** _noun_. 1. spider. 1. from <ruby>スタルチュラ<rt>staltula</rt></ruby> _skulltula_, based on _tarantula_ 1. \[_cb._ [Austin Springer](contributors/austin-springer.md)]
-+ **chutsu** ('t͜ʃu.t͜su) _pronoun._ 1. squeaker, squeaky thing 1. a common euphemism to refer to slime monsters, mice, and rats; may become **chutsiu** or **chuchu** as a plural
-+ **chúzola** 1. undulating, jiggly
-+ **chúzolag** 1. to undulate, to tremble, to shake
-+ **chúzole** 1. zol, big chuchu 2. blob, mess
++ **chabarthe** / t͜ʃa.ˈbaɹ.θe / _noun._ 1. tea, beverage. 1. refers to a tea made by brewing or steeping leaves for non-medicinal purposes.
++ **chabete** / t͜ʃa.ˈbe.te / _noun_ 1. pillow 1. from _chape_ "head" and _bete_ "bed"
++ **chape** / ˈt͜ʃa.pe / _noun_ 1. head 1. back-formation from proposed _chapoke_ (hat) ([[k-chan|K-Chan]], [[venus|Venus]])
++ **chapoke** / t͜ʃa.ˈpo.ke / _noun_ 1. hat ([[venus|Venus]])
++ **chate** / ˈt͜ʃa.te / _noun_ 1. ch 1. The name of the letter "ch" in Hylian (number will be part of final sort) (_Austin_)
++ **chebode** / t͜ʃe.ˈbo.de / _noun._ 1. stable 2. roadside inn 1, 2. stables often have bedding for horses and travelers, as well as keeping a well tended fire and cook pot in which travelers may prepare their own food; from _chepoe_ "horse" and _albode_ "house"
++ **chepaye** / t͜ʃe.ˈpa.je / (chepaye) _noun_ 1. heart 1. refers to the physical organ, not the seat of emotions ([[venus|Venus]])
++ **chepoa** / tʃe.'po.a / _adjective._ 1. equine, equestrian 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepoag** / tʃe.'po.ag / _verb._ 1. to pull, to haul 1. see _chepoe_ 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepoe** / tʃe.'po.e / _noun._ 1. horse, pony 1. from French _cheval_ "horse" 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chepohite** / tʃe.po.'hi.te / _noun._ 1. stablehand, horse keeper 1. from _chepoe_ "horse" and _hite_ "person" 1. \[_cb._ [Austin Springer](contributors/austin-springer.md), with an element by [Kasuto](contributors/kasuto.md)]
++ **chirka** / ˈt͜ʃiɹ.ka / (chirka) _adjective_ 1. next, following 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
++ **chirka•u** / t͜ʃiɹ.ˈka.u / (chirkau) _preposition_ 1. next to, nearby 1. ([[venus|Venus]]?, [[qbri|QBri]]?)
++ **chirkdre** / t͜ʃiɹk.dɹe / (chirkdre) _noun_ 1. tomorrow 1. from _chirka_ "next" and _tiudre_ "day" ([[venus|Venus]])
++ **chome** / ˈt͜ʃo.me / (chome) _noun_ 1. thing 1. native form of _obzhekte_ 1. from French _chose_ and Japanese <ruby>もの<rt></rt></ruby>, both meaning “thing” ([[qbri|QBri]])
++ **chote** / ˈt͜ʃo.te / (choh' tay) _noun._ ch; the name of the seventh letter of the Classical Hylian _aktaite_
++ **chújëla** / ˈt͜ʃu.d͜ʒɛ.la / _adjective._ 1. wriggly, squirmy 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chújëlag** / ˈt͜ʃu.d͜ʒɛ.lag / _verb._ 1. to slide, to roll, to skate 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chújële** / ˈt͜ʃu.ˈd͜ʒɛ.le / _noun._ 1. gel, slime (monster) 2. jelly, jam 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chuke** / ˈt͜ʃu. / (chuke) _noun_ 1. chuka 1. a unit of length equal to 4 _dënletën_, or 9 U.S. customary feet ([[pata-hikari|Pata Hikari]])
++ **chule** / ˈt͜ʃu.le / _noun_. 1. spider. 1. from <ruby>スタルチュラ<rt>staltula</rt></ruby> _skulltula_, based on _tarantula_ 1. \[_cb._ [Austin Springer](contributors/austin-springer.md) from [Nintendo](contributors/nintendo.md)]
++ **chucu** / 't͜ʃu.t͜su / _pronoun._ 1. squeaker, squeaky thing 1. a common euphemism to refer to slime monsters, mice, and rats; may become **chuciu** or **chuchu** as a plural 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chúzola** / ˈt͜ʃu.zo.la / _adjective._ 1. undulating, jiggly 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chúzolag** / ˈt͜ʃu.zo.lag / _verb._ 1. to undulate, to tremble, to shake 1. \[_cb._ [Austin](contributors/austin-springer.md)]
++ **chúzole** / ˈt͜ʃu.zo.le / _noun._ 1. zol, big chuchu 2. blob, mess 1. \[_cb._ [Austin](contributors/austin-springer.md)]
 
 ## D
 

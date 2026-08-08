@@ -3,7 +3,7 @@ As changes from the original documentation by Kasuto:
 1. The HLS uses a new romanization, and an updated version of Kasuto's original fonts. It is our objective to, as near as possible, allow text to be fully legible in plain Latin script as well as Hylian font faces, though certain digraphs will exist purely for this purpose. In general, we advise using case-sensitive spellings to avoid this.
 2. The romanized diphthong marker \<•\> is being removed. Instead of this marker, an apostrophe \<'\> may be inserted after a diphthong if needed for clarity.
 3. The diphthong \<oa\> is being phased out in favor of \<ö\>, with the stress-marked version \<óá\> becoming \<ô\> instead.
-4. The circumflex \<^\> is relacing the grave \<\`\> as the preferred marker for modified vowels' _asënta_ forms.
+4. The circumflex \<^\> is replacing the grave \<\`\> as the preferred marker for modified vowels' _asënta_ forms.
 5. We are incorporating the following phonemes and letters which were not originally present:
 	1. /ts/ as \<c\>
 	2. /tʃ/ as \<ch\> or \<C\>

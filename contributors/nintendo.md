@@ -1,10 +1,11 @@
 ---
-tag: company
-alias: Nintendo
+tags: company
+aliases: Nintendo
 ---
+
 # Nintendo
 
-**Nintendo** is the company responsible for developing, licensing, and publishing _The Legend of Zelda_ games. While they are not active contributors to the Hylian Language, the HLS considers them to be the source of any word which can be traced back to the games themselves, such as names of individuals, tribes, species, races, and enemies, the [[lore/rúpie|rupee]] currency, and to have a role in the  terms such as _Heart Container, Stamina Vessel,_ or _Death Mountain,_ among others.
+**Nintendo** is the company responsible for developing, licensing, and publishing _The Legend of Zelda_ games. While they are not active contributors to the Hylian Language, the HLS considers them to be the source of any word which can be traced back to the games themselves, such as names of individuals, tribes, species, races, and enemies, the [[lore/rúpie|rupee]] currency, and to have a role in the terms such as _Heart Container, Stamina Vessel,_ or _Death Mountain,_ among others.
 
 ## "Contributions" from Nintendo
 

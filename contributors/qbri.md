@@ -1,6 +1,8 @@
 ---
-tag: contributor conlanger
-alias: QBri
+tags:
+  - contributor
+  - conlanger
+aliases: QBri
 ---
 # QBri
 
